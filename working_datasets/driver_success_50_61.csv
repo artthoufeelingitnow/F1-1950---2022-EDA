@@ -1,979 +1,979 @@
-year,name,driver_name,points
-1950,Monaco Grand Prix,fangio,9.0
-1950,Monaco Grand Prix,ascari,6.0
-1950,Monaco Grand Prix,chiron,4.0
-1950,Monaco Grand Prix,sommer,3.0
-1950,Monaco Grand Prix,bira,2.0
-1950,Monaco Grand Prix,claes,0.0
-1950,Monaco Grand Prix,etancelin,0.0
-1950,Monaco Grand Prix,fagioli,0.0
-1950,Monaco Grand Prix,farina,0.0
-1950,Monaco Grand Prix,gerard,0.0
-1950,Monaco Grand Prix,gonzalez,0.0
-1950,Monaco Grand Prix,graffenried,0.0
-1950,Monaco Grand Prix,harrison,0.0
-1950,Monaco Grand Prix,manzon,0.0
-1950,Monaco Grand Prix,pian,0.0
-1950,Monaco Grand Prix,rol,0.0
-1950,Monaco Grand Prix,rosier,0.0
-1950,Monaco Grand Prix,schell,0.0
-1950,Monaco Grand Prix,trintignant,0.0
-1950,Monaco Grand Prix,villoresi,0.0
-1950,Monaco Grand Prix,whitehead,0.0
-1950,Italian Grand Prix,farina,8.0
-1950,Italian Grand Prix,fagioli,4.0
-1950,Italian Grand Prix,ascari,3.0
-1950,Italian Grand Prix,rosier,3.0
-1950,Italian Grand Prix,serafini,3.0
-1950,Italian Grand Prix,etancelin,2.0
-1950,Italian Grand Prix,fangio,1.0
-1950,Italian Grand Prix,biondetti,0.0
-1950,Italian Grand Prix,bira,0.0
-1950,Italian Grand Prix,bonetto,0.0
-1950,Italian Grand Prix,chiron,0.0
-1950,Italian Grand Prix,claes,0.0
-1950,Italian Grand Prix,comotti,0.0
-1950,Italian Grand Prix,graffenried,0.0
-1950,Italian Grand Prix,guy_mairesse,0.0
-1950,Italian Grand Prix,harrison,0.0
-1950,Italian Grand Prix,levegh,0.0
-1950,Italian Grand Prix,louveau,0.0
-1950,Italian Grand Prix,manzon,0.0
-1950,Italian Grand Prix,murray,0.0
-1950,Italian Grand Prix,pietsch,0.0
-1950,Italian Grand Prix,rol,0.0
-1950,Italian Grand Prix,sanesi,0.0
-1950,Italian Grand Prix,sommer,0.0
-1950,Italian Grand Prix,taruffi,0.0
-1950,Italian Grand Prix,trintignant,0.0
-1950,Italian Grand Prix,whitehead,0.0
-1950,British Grand Prix,farina,9.0
-1950,British Grand Prix,fagioli,6.0
-1950,British Grand Prix,reg_parnell,4.0
-1950,British Grand Prix,cabantous,3.0
-1950,British Grand Prix,rosier,2.0
-1950,British Grand Prix,bira,0.0
-1950,British Grand Prix,chiron,0.0
-1950,British Grand Prix,claes,0.0
-1950,British Grand Prix,crossley,0.0
-1950,British Grand Prix,etancelin,0.0
-1950,British Grand Prix,fangio,0.0
-1950,British Grand Prix,fry,0.0
-1950,British Grand Prix,gerard,0.0
-1950,British Grand Prix,graffenried,0.0
-1950,British Grand Prix,hampshire,0.0
-1950,British Grand Prix,harrison,0.0
-1950,British Grand Prix,kelly,0.0
-1950,British Grand Prix,leslie_johnson,0.0
-1950,British Grand Prix,martin,0.0
-1950,British Grand Prix,murray,0.0
-1950,British Grand Prix,peter_walker,0.0
-1950,British Grand Prix,rolt,0.0
-1950,British Grand Prix,shawe_taylor,0.0
-1950,Belgian Grand Prix,fangio,8.0
-1950,Belgian Grand Prix,fagioli,6.0
-1950,Belgian Grand Prix,farina,4.0
-1950,Belgian Grand Prix,rosier,4.0
-1950,Belgian Grand Prix,ascari,2.0
-1950,Belgian Grand Prix,branca,0.0
-1950,Belgian Grand Prix,cabantous,0.0
-1950,Belgian Grand Prix,chaboud,0.0
-1950,Belgian Grand Prix,claes,0.0
-1950,Belgian Grand Prix,crossley,0.0
-1950,Belgian Grand Prix,etancelin,0.0
-1950,Belgian Grand Prix,levegh,0.0
-1950,Belgian Grand Prix,sommer,0.0
-1950,Belgian Grand Prix,villoresi,0.0
-1951,Italian Grand Prix,ascari,8.0
-1951,Italian Grand Prix,gonzalez,6.0
-1951,Italian Grand Prix,farina,3.0
-1951,Italian Grand Prix,villoresi,3.0
-1951,Italian Grand Prix,bonetto,2.0
-1951,Italian Grand Prix,taruffi,2.0
-1951,Italian Grand Prix,cabantous,0.0
-1951,Italian Grand Prix,chiron,0.0
-1951,Italian Grand Prix,claes,0.0
-1951,Italian Grand Prix,fangio,0.0
-1951,Italian Grand Prix,graffenried,0.0
-1951,Italian Grand Prix,landi,0.0
-1951,Italian Grand Prix,levegh,0.0
-1951,Italian Grand Prix,manzon,0.0
-1951,Italian Grand Prix,reg_parnell,0.0
-1951,Italian Grand Prix,richardson,0.0
-1951,Italian Grand Prix,rol,0.0
-1951,Italian Grand Prix,rosier,0.0
-1951,Italian Grand Prix,simon,0.0
-1951,Italian Grand Prix,swaters,0.0
-1951,Italian Grand Prix,trintignant,0.0
-1951,Italian Grand Prix,whitehead,0.0
-1951,British Grand Prix,gonzalez,8.0
-1951,British Grand Prix,fangio,6.0
-1951,British Grand Prix,villoresi,4.0
-1951,British Grand Prix,bonetto,3.0
-1951,British Grand Prix,reg_parnell,2.0
-1951,British Grand Prix,farina,1.0
-1951,British Grand Prix,ascari,0.0
-1951,British Grand Prix,chiron,0.0
-1951,British Grand Prix,claes,0.0
-1951,British Grand Prix,duncan_hamilton,0.0
-1951,British Grand Prix,gerard,0.0
-1951,British Grand Prix,john_james,0.0
-1951,British Grand Prix,kelly,0.0
-1951,British Grand Prix,murray,0.0
-1951,British Grand Prix,parker,0.0
-1951,British Grand Prix,peter_walker,0.0
-1951,British Grand Prix,rosier,0.0
-1951,British Grand Prix,sanesi,0.0
-1951,British Grand Prix,shawe_taylor,0.0
-1951,British Grand Prix,whitehead,0.0
-1951,Belgian Grand Prix,farina,8.0
-1951,Belgian Grand Prix,ascari,6.0
-1951,Belgian Grand Prix,villoresi,4.0
-1951,Belgian Grand Prix,rosier,3.0
-1951,Belgian Grand Prix,cabantous,2.0
-1951,Belgian Grand Prix,fangio,1.0
-1951,Belgian Grand Prix,andre_pilette,0.0
-1951,Belgian Grand Prix,chiron,0.0
-1951,Belgian Grand Prix,claes,0.0
-1951,Belgian Grand Prix,etancelin,0.0
-1951,Belgian Grand Prix,levegh,0.0
-1951,Belgian Grand Prix,sanesi,0.0
-1951,Belgian Grand Prix,taruffi,0.0
-1952,Italian Grand Prix,ascari,8.5
-1952,Italian Grand Prix,gonzalez,6.5
-1952,Italian Grand Prix,villoresi,4.0
-1952,Italian Grand Prix,farina,3.0
-1952,Italian Grand Prix,bonetto,2.0
-1952,Italian Grand Prix,alan_brown,0.0
-1952,Italian Grand Prix,aston,0.0
-1952,Italian Grand Prix,bayol,0.0
-1952,Italian Grand Prix,behra,0.0
-1952,Italian Grand Prix,bianco,0.0
-1952,Italian Grand Prix,brandon,0.0
-1952,Italian Grand Prix,cantoni,0.0
-1952,Italian Grand Prix,claes,0.0
-1952,Italian Grand Prix,collins,0.0
-1952,Italian Grand Prix,crespo,0.0
-1952,Italian Grand Prix,dusio,0.0
-1952,Italian Grand Prix,fischer,0.0
-1952,Italian Grand Prix,gaze,0.0
-1952,Italian Grand Prix,graffenried,0.0
-1952,Italian Grand Prix,hans_stuck,0.0
-1952,Italian Grand Prix,hawthorn,0.0
-1952,Italian Grand Prix,landi,0.0
-1952,Italian Grand Prix,macklin,0.0
-1952,Italian Grand Prix,manzon,0.0
-1952,Italian Grand Prix,mcalpine,0.0
-1952,Italian Grand Prix,moss,0.0
-1952,Italian Grand Prix,poore,0.0
-1952,Italian Grand Prix,rol,0.0
-1952,Italian Grand Prix,rosier,0.0
-1952,Italian Grand Prix,simon,0.0
-1952,Italian Grand Prix,taruffi,0.0
-1952,Italian Grand Prix,tornaco,0.0
-1952,Italian Grand Prix,trintignant,0.0
-1952,Italian Grand Prix,wharton,0.0
-1952,Italian Grand Prix,whitehead,0.0
-1952,British Grand Prix,ascari,9.0
-1952,British Grand Prix,taruffi,6.0
-1952,British Grand Prix,hawthorn,4.0
-1952,British Grand Prix,poore,3.0
-1952,British Grand Prix,thompson,2.0
-1952,British Grand Prix,alan_brown,0.0
-1952,British Grand Prix,aston,0.0
-1952,British Grand Prix,bianco,0.0
-1952,British Grand Prix,bira,0.0
-1952,British Grand Prix,brandon,0.0
-1952,British Grand Prix,cantoni,0.0
-1952,British Grand Prix,claes,0.0
-1952,British Grand Prix,collins,0.0
-1952,British Grand Prix,crook,0.0
-1952,British Grand Prix,downing,0.0
-1952,British Grand Prix,duncan_hamilton,0.0
-1952,British Grand Prix,farina,0.0
-1952,British Grand Prix,fischer,0.0
-1952,British Grand Prix,gaze,0.0
-1952,British Grand Prix,graffenried,0.0
-1952,British Grand Prix,graham_whitehead,0.0
-1952,British Grand Prix,hirt,0.0
-1952,British Grand Prix,macklin,0.0
-1952,British Grand Prix,manzon,0.0
-1952,British Grand Prix,mcalpine,0.0
-1952,British Grand Prix,moss,0.0
-1952,British Grand Prix,murray,0.0
-1952,British Grand Prix,reg_parnell,0.0
-1952,British Grand Prix,salvadori,0.0
-1952,British Grand Prix,schell,0.0
-1952,British Grand Prix,trintignant,0.0
-1952,British Grand Prix,whitehead,0.0
-1952,Belgian Grand Prix,ascari,9.0
-1952,Belgian Grand Prix,farina,6.0
-1952,Belgian Grand Prix,manzon,4.0
-1952,Belgian Grand Prix,hawthorn,3.0
-1952,Belgian Grand Prix,frere,2.0
-1952,Belgian Grand Prix,alan_brown,0.0
-1952,Belgian Grand Prix,behra,0.0
-1952,Belgian Grand Prix,bira,0.0
-1952,Belgian Grand Prix,brandon,0.0
-1952,Belgian Grand Prix,charrington,0.0
-1952,Belgian Grand Prix,claes,0.0
-1952,Belgian Grand Prix,collins,0.0
-1952,Belgian Grand Prix,gaze,0.0
-1952,Belgian Grand Prix,laurent,0.0
-1952,Belgian Grand Prix,legat,0.0
-1952,Belgian Grand Prix,macklin,0.0
-1952,Belgian Grand Prix,moss,0.0
-1952,Belgian Grand Prix,obrien,0.0
-1952,Belgian Grand Prix,rosier,0.0
-1952,Belgian Grand Prix,taruffi,0.0
-1952,Belgian Grand Prix,tornaco,0.0
-1952,Belgian Grand Prix,wharton,0.0
-1953,Italian Grand Prix,fangio,9.0
-1953,Italian Grand Prix,farina,6.0
-1953,Italian Grand Prix,villoresi,4.0
-1953,Italian Grand Prix,hawthorn,3.0
-1953,Italian Grand Prix,trintignant,2.0
-1953,Italian Grand Prix,alan_brown,0.0
-1953,Italian Grand Prix,ascari,0.0
-1953,Italian Grand Prix,bayol,0.0
-1953,Italian Grand Prix,bira,0.0
-1953,Italian Grand Prix,bonetto,0.0
-1953,Italian Grand Prix,cabantous,0.0
-1953,Italian Grand Prix,carini,0.0
-1953,Italian Grand Prix,chiron,0.0
-1953,Italian Grand Prix,claes,0.0
-1953,Italian Grand Prix,fairman,0.0
-1953,Italian Grand Prix,fitch,0.0
-1953,Italian Grand Prix,graffenried,0.0
-1953,Italian Grand Prix,hans_stuck,0.0
-1953,Italian Grand Prix,landi,0.0
-1953,Italian Grand Prix,macklin,0.0
-1953,Italian Grand Prix,maglioli,0.0
-1953,Italian Grand Prix,mantovani,0.0
-1953,Italian Grand Prix,marimon,0.0
-1953,Italian Grand Prix,mcalpine,0.0
-1953,Italian Grand Prix,mieres,0.0
-1953,Italian Grand Prix,moss,0.0
-1953,Italian Grand Prix,musso,0.0
-1953,Italian Grand Prix,rosier,0.0
-1953,Italian Grand Prix,salvadori,0.0
-1953,Italian Grand Prix,schell,0.0
-1953,Italian Grand Prix,wharton,0.0
-1953,British Grand Prix,ascari,8.5
-1953,British Grand Prix,fangio,6.0
-1953,British Grand Prix,farina,4.0
-1953,British Grand Prix,gonzalez,3.5
-1953,British Grand Prix,hawthorn,2.0
-1953,British Grand Prix,alan_brown,0.0
-1953,British Grand Prix,behra,0.0
-1953,British Grand Prix,bira,0.0
-1953,British Grand Prix,bonetto,0.0
-1953,British Grand Prix,collins,0.0
-1953,British Grand Prix,crook,0.0
-1953,British Grand Prix,duncan_hamilton,0.0
-1953,British Grand Prix,fairman,0.0
-1953,British Grand Prix,graffenried,0.0
-1953,British Grand Prix,ian_stewart,0.0
-1953,British Grand Prix,jimmy_stewart,0.0
-1953,British Grand Prix,macklin,0.0
-1953,British Grand Prix,marimon,0.0
-1953,British Grand Prix,mcalpine,0.0
-1953,British Grand Prix,rolt,0.0
-1953,British Grand Prix,rosier,0.0
-1953,British Grand Prix,salvadori,0.0
-1953,British Grand Prix,schell,0.0
-1953,British Grand Prix,trintignant,0.0
-1953,British Grand Prix,villoresi,0.0
-1953,British Grand Prix,wharton,0.0
-1953,British Grand Prix,whitehead,0.0
-1953,Belgian Grand Prix,ascari,8.0
-1953,Belgian Grand Prix,villoresi,6.0
-1953,Belgian Grand Prix,marimon,4.0
-1953,Belgian Grand Prix,graffenried,3.0
-1953,Belgian Grand Prix,trintignant,2.0
-1953,Belgian Grand Prix,gonzalez,1.0
-1953,Belgian Grand Prix,andre_pilette,0.0
-1953,Belgian Grand Prix,behra,0.0
-1953,Belgian Grand Prix,claes,0.0
-1953,Belgian Grand Prix,collins,0.0
-1953,Belgian Grand Prix,fangio,0.0
-1953,Belgian Grand Prix,farina,0.0
-1953,Belgian Grand Prix,frere,0.0
-1953,Belgian Grand Prix,georges_berger,0.0
-1953,Belgian Grand Prix,hawthorn,0.0
-1953,Belgian Grand Prix,legat,0.0
-1953,Belgian Grand Prix,macklin,0.0
-1953,Belgian Grand Prix,rosier,0.0
-1953,Belgian Grand Prix,schell,0.0
-1953,Belgian Grand Prix,wacker,0.0
-1954,Italian Grand Prix,fangio,8.0
-1954,Italian Grand Prix,hawthorn,6.0
-1954,Italian Grand Prix,gonzalez,3.0
-1954,Italian Grand Prix,herrmann,3.0
-1954,Italian Grand Prix,maglioli,2.0
-1954,Italian Grand Prix,trintignant,2.0
-1954,Italian Grand Prix,ascari,0.0
-1954,Italian Grand Prix,behra,0.0
-1954,Italian Grand Prix,bucci,0.0
-1954,Italian Grand Prix,collins,0.0
-1954,Italian Grand Prix,daponte,0.0
-1954,Italian Grand Prix,kling,0.0
-1954,Italian Grand Prix,mantovani,0.0
-1954,Italian Grand Prix,manzon,0.0
-1954,Italian Grand Prix,mieres,0.0
-1954,Italian Grand Prix,moss,0.0
-1954,Italian Grand Prix,musso,0.0
-1954,Italian Grand Prix,riu,0.0
-1954,Italian Grand Prix,rosier,0.0
-1954,Italian Grand Prix,villoresi,0.0
-1954,Italian Grand Prix,wacker,0.0
-1954,British Grand Prix,gonzalez,8.14
-1954,British Grand Prix,hawthorn,6.14
-1954,British Grand Prix,marimon,4.14
-1954,British Grand Prix,fangio,3.14
-1954,British Grand Prix,trintignant,2.0
-1954,British Grand Prix,alan_brown,0.0
-1954,British Grand Prix,andre_pilette,0.0
-1954,British Grand Prix,ascari,0.0
-1954,British Grand Prix,beauman,0.0
-1954,British Grand Prix,behra,0.0
-1954,British Grand Prix,bira,0.0
-1954,British Grand Prix,brandon,0.0
-1954,British Grand Prix,bucci,0.0
-1954,British Grand Prix,collins,0.0
-1954,British Grand Prix,flockhart,0.0
-1954,British Grand Prix,gerard,0.0
-1954,British Grand Prix,gould,0.0
-1954,British Grand Prix,kling,0.0
-1954,British Grand Prix,manzon,0.0
-1954,British Grand Prix,marr,0.0
-1954,British Grand Prix,mieres,0.0
-1954,British Grand Prix,moss,0.0
-1954,British Grand Prix,nuckey,0.0
-1954,British Grand Prix,reg_parnell,0.0
-1954,British Grand Prix,riseley_prichard,0.0
-1954,British Grand Prix,rosier,0.0
-1954,British Grand Prix,salvadori,0.0
-1954,British Grand Prix,schell,0.0
-1954,British Grand Prix,thorne,0.0
-1954,British Grand Prix,villoresi,0.0
-1954,British Grand Prix,wharton,0.0
-1954,British Grand Prix,whitehead,0.0
-1954,British Grand Prix,whitehouse,0.0
-1954,Belgian Grand Prix,fangio,9.0
-1954,Belgian Grand Prix,trintignant,6.0
-1954,Belgian Grand Prix,moss,4.0
-1954,Belgian Grand Prix,andre_pilette,2.0
-1954,Belgian Grand Prix,gonzalez,1.5
-1954,Belgian Grand Prix,hawthorn,1.5
-1954,Belgian Grand Prix,behra,0.0
-1954,Belgian Grand Prix,bira,0.0
-1954,Belgian Grand Prix,farina,0.0
-1954,Belgian Grand Prix,frere,0.0
-1954,Belgian Grand Prix,mantovani,0.0
-1954,Belgian Grand Prix,marimon,0.0
-1954,Belgian Grand Prix,mieres,0.0
-1954,Belgian Grand Prix,swaters,0.0
-1955,Monaco Grand Prix,trintignant,8.0
-1955,Monaco Grand Prix,castellotti,6.0
-1955,Monaco Grand Prix,farina,3.0
-1955,Monaco Grand Prix,behra,2.0
-1955,Monaco Grand Prix,perdisa,2.0
-1955,Monaco Grand Prix,villoresi,2.0
-1955,Monaco Grand Prix,fangio,1.0
-1955,Monaco Grand Prix,ascari,0.0
-1955,Monaco Grand Prix,bayol,0.0
-1955,Monaco Grand Prix,chiron,0.0
-1955,Monaco Grand Prix,frere,0.0
-1955,Monaco Grand Prix,hawthorn,0.0
-1955,Monaco Grand Prix,herrmann,0.0
-1955,Monaco Grand Prix,macklin,0.0
-1955,Monaco Grand Prix,manzon,0.0
-1955,Monaco Grand Prix,mieres,0.0
-1955,Monaco Grand Prix,moss,0.0
-1955,Monaco Grand Prix,musso,0.0
-1955,Monaco Grand Prix,pollet,0.0
-1955,Monaco Grand Prix,rosier,0.0
-1955,Monaco Grand Prix,schell,0.0
-1955,Monaco Grand Prix,simon,0.0
-1955,Monaco Grand Prix,taruffi,0.0
-1955,Monaco Grand Prix,whiteaway,0.0
-1955,Italian Grand Prix,fangio,8.0
-1955,Italian Grand Prix,taruffi,6.0
-1955,Italian Grand Prix,castellotti,4.0
-1955,Italian Grand Prix,behra,3.0
-1955,Italian Grand Prix,menditeguy,2.0
-1955,Italian Grand Prix,moss,1.0
-1955,Italian Grand Prix,collins,0.0
-1955,Italian Grand Prix,farina,0.0
-1955,Italian Grand Prix,fitch,0.0
-1955,Italian Grand Prix,gould,0.0
-1955,Italian Grand Prix,hawthorn,0.0
-1955,Italian Grand Prix,kling,0.0
-1955,Italian Grand Prix,lucas,0.0
-1955,Italian Grand Prix,maglioli,0.0
-1955,Italian Grand Prix,mieres,0.0
-1955,Italian Grand Prix,musso,0.0
-1955,Italian Grand Prix,piotti,0.0
-1955,Italian Grand Prix,pollet,0.0
-1955,Italian Grand Prix,ramos,0.0
-1955,Italian Grand Prix,schell,0.0
-1955,Italian Grand Prix,trintignant,0.0
-1955,Italian Grand Prix,villoresi,0.0
-1955,Italian Grand Prix,wharton,0.0
-1955,British Grand Prix,moss,9.0
-1955,British Grand Prix,fangio,6.0
-1955,British Grand Prix,kling,4.0
-1955,British Grand Prix,taruffi,3.0
-1955,British Grand Prix,musso,2.0
-1955,British Grand Prix,behra,0.0
-1955,British Grand Prix,castellotti,0.0
-1955,British Grand Prix,collins,0.0
-1955,British Grand Prix,fairman,0.0
-1955,British Grand Prix,gould,0.0
-1955,British Grand Prix,hawthorn,0.0
-1955,British Grand Prix,jack_brabham,0.0
-1955,British Grand Prix,macklin,0.0
-1955,British Grand Prix,manzon,0.0
-1955,British Grand Prix,marr,0.0
-1955,British Grand Prix,mcalpine,0.0
-1955,British Grand Prix,mieres,0.0
-1955,British Grand Prix,peter_walker,0.0
-1955,British Grand Prix,ramos,0.0
-1955,British Grand Prix,rolt,0.0
-1955,British Grand Prix,salvadori,0.0
-1955,British Grand Prix,schell,0.0
-1955,British Grand Prix,simon,0.0
-1955,British Grand Prix,sparken,0.0
-1955,British Grand Prix,trintignant,0.0
-1955,British Grand Prix,wharton,0.0
-1955,Belgian Grand Prix,fangio,9.0
-1955,Belgian Grand Prix,moss,6.0
-1955,Belgian Grand Prix,farina,4.0
-1955,Belgian Grand Prix,frere,3.0
-1955,Belgian Grand Prix,behra,1.0
-1955,Belgian Grand Prix,mieres,1.0
-1955,Belgian Grand Prix,castellotti,0.0
-1955,Belgian Grand Prix,claes,0.0
-1955,Belgian Grand Prix,hawthorn,0.0
-1955,Belgian Grand Prix,kling,0.0
-1955,Belgian Grand Prix,musso,0.0
-1955,Belgian Grand Prix,perdisa,0.0
-1955,Belgian Grand Prix,rosier,0.0
-1955,Belgian Grand Prix,schell,0.0
-1955,Belgian Grand Prix,taruffi,0.0
-1955,Belgian Grand Prix,trintignant,0.0
-1956,Monaco Grand Prix,moss,8.0
-1956,Monaco Grand Prix,fangio,5.5
-1956,Monaco Grand Prix,behra,4.0
-1956,Monaco Grand Prix,collins,3.0
-1956,Monaco Grand Prix,ramos,2.0
-1956,Monaco Grand Prix,castellotti,1.5
-1956,Monaco Grand Prix,andre_pilette,0.0
-1956,Monaco Grand Prix,bayol,0.0
-1956,Monaco Grand Prix,brooks,0.0
-1956,Monaco Grand Prix,chiron,0.0
-1956,Monaco Grand Prix,gould,0.0
-1956,Monaco Grand Prix,hawthorn,0.0
-1956,Monaco Grand Prix,manzon,0.0
-1956,Monaco Grand Prix,musso,0.0
-1956,Monaco Grand Prix,perdisa,0.0
-1956,Monaco Grand Prix,rosier,0.0
-1956,Monaco Grand Prix,scarlatti,0.0
-1956,Monaco Grand Prix,schell,0.0
-1956,Monaco Grand Prix,trintignant,0.0
-1956,Italian Grand Prix,moss,9.0
-1956,Italian Grand Prix,flockhart,4.0
-1956,Italian Grand Prix,collins,3.0
-1956,Italian Grand Prix,fangio,3.0
-1956,Italian Grand Prix,godia,3.0
-1956,Italian Grand Prix,fairman,2.0
-1956,Italian Grand Prix,behra,0.0
-1956,Italian Grand Prix,bonnier,0.0
-1956,Italian Grand Prix,castellotti,0.0
-1956,Italian Grand Prix,gerini,0.0
-1956,Italian Grand Prix,graffenried,0.0
-1956,Italian Grand Prix,halford,0.0
-1956,Italian Grand Prix,leston,0.0
-1956,Italian Grand Prix,maglioli,0.0
-1956,Italian Grand Prix,manzon,0.0
-1956,Italian Grand Prix,musso,0.0
-1956,Italian Grand Prix,piotti,0.0
-1956,Italian Grand Prix,portago,0.0
-1956,Italian Grand Prix,ramos,0.0
-1956,Italian Grand Prix,salvadori,0.0
-1956,Italian Grand Prix,schell,0.0
-1956,Italian Grand Prix,simon,0.0
-1956,Italian Grand Prix,taruffi,0.0
-1956,Italian Grand Prix,trintignant,0.0
-1956,Italian Grand Prix,trips,0.0
-1956,Italian Grand Prix,villoresi,0.0
-1956,British Grand Prix,fangio,8.0
-1956,British Grand Prix,behra,4.0
-1956,British Grand Prix,collins,3.0
-1956,British Grand Prix,fairman,3.0
-1956,British Grand Prix,portago,3.0
-1956,British Grand Prix,gould,2.0
-1956,British Grand Prix,moss,1.0
-1956,British Grand Prix,brooks,0.0
-1956,British Grand Prix,castellotti,0.0
-1956,British Grand Prix,emery,0.0
-1956,British Grand Prix,flockhart,0.0
-1956,British Grand Prix,gerard,0.0
-1956,British Grand Prix,godia,0.0
-1956,British Grand Prix,gonzalez,0.0
-1956,British Grand Prix,halford,0.0
-1956,British Grand Prix,hawthorn,0.0
-1956,British Grand Prix,jack_brabham,0.0
-1956,British Grand Prix,maglioli,0.0
-1956,British Grand Prix,manzon,0.0
-1956,British Grand Prix,perdisa,0.0
-1956,British Grand Prix,ramos,0.0
-1956,British Grand Prix,rosier,0.0
-1956,British Grand Prix,salvadori,0.0
-1956,British Grand Prix,schell,0.0
-1956,British Grand Prix,scott_Brown,0.0
-1956,British Grand Prix,titterington,0.0
-1956,British Grand Prix,trintignant,0.0
-1956,British Grand Prix,villoresi,0.0
-1956,Belgian Grand Prix,collins,8.0
-1956,Belgian Grand Prix,frere,6.0
-1956,Belgian Grand Prix,moss,3.0
-1956,Belgian Grand Prix,schell,3.0
-1956,Belgian Grand Prix,perdisa,2.0
-1956,Belgian Grand Prix,villoresi,2.0
-1956,Belgian Grand Prix,andre_pilette,0.0
-1956,Belgian Grand Prix,behra,0.0
-1956,Belgian Grand Prix,castellotti,0.0
-1956,Belgian Grand Prix,fangio,0.0
-1956,Belgian Grand Prix,godia,0.0
-1956,Belgian Grand Prix,gould,0.0
-1956,Belgian Grand Prix,rosier,0.0
-1956,Belgian Grand Prix,scotti,0.0
-1956,Belgian Grand Prix,trintignant,0.0
-1957,Monaco Grand Prix,fangio,9.0
-1957,Monaco Grand Prix,brooks,6.0
-1957,Monaco Grand Prix,gregory,4.0
-1957,Monaco Grand Prix,lewis-evans,3.0
-1957,Monaco Grand Prix,trintignant,2.0
-1957,Monaco Grand Prix,bueb,0.0
-1957,Monaco Grand Prix,collins,0.0
-1957,Monaco Grand Prix,flockhart,0.0
-1957,Monaco Grand Prix,gould,0.0
-1957,Monaco Grand Prix,hawthorn,0.0
-1957,Monaco Grand Prix,herrmann,0.0
-1957,Monaco Grand Prix,jack_brabham,0.0
-1957,Monaco Grand Prix,leston,0.0
-1957,Monaco Grand Prix,menditeguy,0.0
-1957,Monaco Grand Prix,moss,0.0
-1957,Monaco Grand Prix,piotti,0.0
-1957,Monaco Grand Prix,salvadori,0.0
-1957,Monaco Grand Prix,scarlatti,0.0
-1957,Monaco Grand Prix,schell,0.0
-1957,Monaco Grand Prix,simon,0.0
-1957,Monaco Grand Prix,trips,0.0
-1957,Italian Grand Prix,moss,8.0
-1957,Italian Grand Prix,fangio,6.0
-1957,Italian Grand Prix,trips,4.0
-1957,Italian Grand Prix,gregory,3.0
-1957,Italian Grand Prix,brooks,1.0
-1957,Italian Grand Prix,scarlatti,1.0
-1957,Italian Grand Prix,schell,1.0
-1957,Italian Grand Prix,behra,0.0
-1957,Italian Grand Prix,bonnier,0.0
-1957,Italian Grand Prix,collins,0.0
-1957,Italian Grand Prix,godia,0.0
-1957,Italian Grand Prix,gould,0.0
-1957,Italian Grand Prix,halford,0.0
-1957,Italian Grand Prix,hawthorn,0.0
-1957,Italian Grand Prix,lewis-evans,0.0
-1957,Italian Grand Prix,musso,0.0
-1957,Italian Grand Prix,piotti,0.0
-1957,Italian Grand Prix,simon,0.0
-1957,Italian Grand Prix,volonterio,0.0
-1957,British Grand Prix,musso,6.0
-1957,British Grand Prix,moss,5.0
-1957,British Grand Prix,brooks,4.0
-1957,British Grand Prix,hawthorn,4.0
-1957,British Grand Prix,trintignant,3.0
-1957,British Grand Prix,salvadori,2.0
-1957,British Grand Prix,behra,0.0
-1957,British Grand Prix,bonnier,0.0
-1957,British Grand Prix,bueb,0.0
-1957,British Grand Prix,collins,0.0
-1957,British Grand Prix,fairman,0.0
-1957,British Grand Prix,fangio,0.0
-1957,British Grand Prix,gerard,0.0
-1957,British Grand Prix,gould,0.0
-1957,British Grand Prix,jack_brabham,0.0
-1957,British Grand Prix,leston,0.0
-1957,British Grand Prix,lewis-evans,0.0
-1957,British Grand Prix,menditeguy,0.0
-1957,British Grand Prix,schell,0.0
-1958,Monaco Grand Prix,trintignant,8.0
-1958,Monaco Grand Prix,musso,6.0
-1958,Monaco Grand Prix,collins,4.0
-1958,Monaco Grand Prix,jack_brabham,3.0
-1958,Monaco Grand Prix,schell,2.0
-1958,Monaco Grand Prix,hawthorn,1.0
-1958,Monaco Grand Prix,allison,0.0
-1958,Monaco Grand Prix,behra,0.0
-1958,Monaco Grand Prix,bonnier,0.0
-1958,Monaco Grand Prix,brooks,0.0
-1958,Monaco Grand Prix,cabianca,0.0
-1958,Monaco Grand Prix,chiron,0.0
-1958,Monaco Grand Prix,ecclestone,0.0
-1958,Monaco Grand Prix,emery,0.0
-1958,Monaco Grand Prix,filippis,0.0
-1958,Monaco Grand Prix,flockhart,0.0
-1958,Monaco Grand Prix,gerini,0.0
-1958,Monaco Grand Prix,godia,0.0
-1958,Monaco Grand Prix,gould,0.0
-1958,Monaco Grand Prix,hill,0.0
-1958,Monaco Grand Prix,kavanagh,0.0
-1958,Monaco Grand Prix,kessler,0.0
-1958,Monaco Grand Prix,lewis-evans,0.0
-1958,Monaco Grand Prix,moss,0.0
-1958,Monaco Grand Prix,piotti,0.0
-1958,Monaco Grand Prix,salvadori,0.0
-1958,Monaco Grand Prix,scarlatti,0.0
-1958,Monaco Grand Prix,taramazzo,0.0
-1958,Monaco Grand Prix,testut,0.0
-1958,Monaco Grand Prix,trips,0.0
-1958,Italian Grand Prix,brooks,8.0
-1958,Italian Grand Prix,hawthorn,6.0
-1958,Italian Grand Prix,phil_hill,5.0
-1958,Italian Grand Prix,salvadori,2.0
-1958,Italian Grand Prix,allison,0.0
-1958,Italian Grand Prix,behra,0.0
-1958,Italian Grand Prix,bonnier,0.0
-1958,Italian Grand Prix,cabianca,0.0
-1958,Italian Grand Prix,filippis,0.0
-1958,Italian Grand Prix,gendebien,0.0
-1958,Italian Grand Prix,gerini,0.0
-1958,Italian Grand Prix,gregory,0.0
-1958,Italian Grand Prix,herrmann,0.0
-1958,Italian Grand Prix,hill,0.0
-1958,Italian Grand Prix,jack_brabham,0.0
-1958,Italian Grand Prix,lewis-evans,0.0
-1958,Italian Grand Prix,moss,0.0
-1958,Italian Grand Prix,schell,0.0
-1958,Italian Grand Prix,shelby,0.0
-1958,Italian Grand Prix,trintignant,0.0
-1958,Italian Grand Prix,trips,0.0
-1958,British Grand Prix,collins,8.0
-1958,British Grand Prix,hawthorn,7.0
-1958,British Grand Prix,salvadori,4.0
-1958,British Grand Prix,lewis-evans,3.0
-1958,British Grand Prix,schell,2.0
-1958,British Grand Prix,allison,0.0
-1958,British Grand Prix,behra,0.0
-1958,British Grand Prix,bonnier,0.0
-1958,British Grand Prix,brooks,0.0
-1958,British Grand Prix,bueb,0.0
-1958,British Grand Prix,burgess,0.0
-1958,British Grand Prix,fairman,0.0
-1958,British Grand Prix,gerini,0.0
-1958,British Grand Prix,hill,0.0
-1958,British Grand Prix,jack_brabham,0.0
-1958,British Grand Prix,moss,0.0
-1958,British Grand Prix,shelby,0.0
-1958,British Grand Prix,stacey,0.0
-1958,British Grand Prix,trintignant,0.0
-1958,British Grand Prix,trips,0.0
-1958,Belgian Grand Prix,brooks,8.0
-1958,Belgian Grand Prix,hawthorn,7.0
-1958,Belgian Grand Prix,lewis-evans,4.0
-1958,Belgian Grand Prix,allison,3.0
-1958,Belgian Grand Prix,schell,2.0
-1958,Belgian Grand Prix,behra,0.0
-1958,Belgian Grand Prix,bonnier,0.0
-1958,Belgian Grand Prix,collins,0.0
-1958,Belgian Grand Prix,filippis,0.0
-1958,Belgian Grand Prix,gendebien,0.0
-1958,Belgian Grand Prix,godia,0.0
-1958,Belgian Grand Prix,gregory,0.0
-1958,Belgian Grand Prix,hill,0.0
-1958,Belgian Grand Prix,jack_brabham,0.0
-1958,Belgian Grand Prix,moss,0.0
-1958,Belgian Grand Prix,musso,0.0
-1958,Belgian Grand Prix,salvadori,0.0
-1958,Belgian Grand Prix,seidel,0.0
-1958,Belgian Grand Prix,trintignant,0.0
-1959,Monaco Grand Prix,jack_brabham,9.0
-1959,Monaco Grand Prix,brooks,6.0
-1959,Monaco Grand Prix,trintignant,4.0
-1959,Monaco Grand Prix,phil_hill,3.0
-1959,Monaco Grand Prix,mclaren,2.0
-1959,Monaco Grand Prix,Changy,0.0
-1959,Monaco Grand Prix,allison,0.0
-1959,Monaco Grand Prix,behra,0.0
-1959,Monaco Grand Prix,bianchi,0.0
-1959,Monaco Grand Prix,bonnier,0.0
-1959,Monaco Grand Prix,bueb,0.0
-1959,Monaco Grand Prix,filippis,0.0
-1959,Monaco Grand Prix,flockhart,0.0
-1959,Monaco Grand Prix,gregory,0.0
-1959,Monaco Grand Prix,halford,0.0
-1959,Monaco Grand Prix,hill,0.0
-1959,Monaco Grand Prix,lovely,0.0
-1959,Monaco Grand Prix,lucienbonnet,0.0
-1959,Monaco Grand Prix,moss,0.0
-1959,Monaco Grand Prix,salvadori,0.0
-1959,Monaco Grand Prix,scarlatti,0.0
-1959,Monaco Grand Prix,schell,0.0
-1959,Monaco Grand Prix,testut,0.0
-1959,Monaco Grand Prix,trips,0.0
-1959,Italian Grand Prix,moss,8.0
-1959,Italian Grand Prix,phil_hill,7.0
-1959,Italian Grand Prix,jack_brabham,4.0
-1959,Italian Grand Prix,gurney,3.0
-1959,Italian Grand Prix,allison,2.0
-1959,Italian Grand Prix,bonnier,0.0
-1959,Italian Grand Prix,brooks,0.0
-1959,Italian Grand Prix,burgess,0.0
-1959,Italian Grand Prix,cabianca,0.0
-1959,Italian Grand Prix,davis,0.0
-1959,Italian Grand Prix,fairman,0.0
-1959,Italian Grand Prix,flockhart,0.0
-1959,Italian Grand Prix,gendebien,0.0
-1959,Italian Grand Prix,hill,0.0
-1959,Italian Grand Prix,ireland,0.0
-1959,Italian Grand Prix,mclaren,0.0
-1959,Italian Grand Prix,salvadori,0.0
-1959,Italian Grand Prix,scarlatti,0.0
-1959,Italian Grand Prix,schell,0.0
-1959,Italian Grand Prix,shelby,0.0
-1959,Italian Grand Prix,trintignant,0.0
-1959,British Grand Prix,jack_brabham,8.0
-1959,British Grand Prix,moss,6.5
-1959,British Grand Prix,mclaren,4.5
-1959,British Grand Prix,schell,3.0
-1959,British Grand Prix,trintignant,2.0
-1959,British Grand Prix,ashdown,0.0
-1959,British Grand Prix,bill_moss,0.0
-1959,British Grand Prix,bonnier,0.0
-1959,British Grand Prix,bristow,0.0
-1959,British Grand Prix,brooks,0.0
-1959,British Grand Prix,bueb,0.0
-1959,British Grand Prix,burgess,0.0
-1959,British Grand Prix,dennis_taylor,0.0
-1959,British Grand Prix,fairman,0.0
-1959,British Grand Prix,flockhart,0.0
-1959,British Grand Prix,greene,0.0
-1959,British Grand Prix,gregory,0.0
-1959,British Grand Prix,henry_taylor,0.0
-1959,British Grand Prix,herrmann,0.0
-1959,British Grand Prix,hill,0.0
-1959,British Grand Prix,mike_taylor,0.0
-1959,British Grand Prix,naylor,0.0
-1959,British Grand Prix,orey,0.0
-1959,British Grand Prix,parkes,0.0
-1959,British Grand Prix,parnell,0.0
-1959,British Grand Prix,piper,0.0
-1959,British Grand Prix,salvadori,0.0
-1959,British Grand Prix,shelby,0.0
-1959,British Grand Prix,stacey,0.0
-1959,British Grand Prix,trevor_taylor,0.0
-1960,Monaco Grand Prix,moss,8.0
-1960,Monaco Grand Prix,mclaren,6.0
-1960,Monaco Grand Prix,phil_hill,4.0
-1960,Monaco Grand Prix,brooks,3.0
-1960,Monaco Grand Prix,bonnier,2.0
-1960,Monaco Grand Prix,ginther,1.0
-1960,Monaco Grand Prix,allison,0.0
-1960,Monaco Grand Prix,bristow,0.0
-1960,Monaco Grand Prix,burgess,0.0
-1960,Monaco Grand Prix,daigh,0.0
-1960,Monaco Grand Prix,gregory,0.0
-1960,Monaco Grand Prix,gurney,0.0
-1960,Monaco Grand Prix,halford,0.0
-1960,Monaco Grand Prix,hill,0.0
-1960,Monaco Grand Prix,ireland,0.0
-1960,Monaco Grand Prix,jack_brabham,0.0
-1960,Monaco Grand Prix,naylor,0.0
-1960,Monaco Grand Prix,reventlow,0.0
-1960,Monaco Grand Prix,salvadori,0.0
-1960,Monaco Grand Prix,scarlatti,0.0
-1960,Monaco Grand Prix,stacey,0.0
-1960,Monaco Grand Prix,surtees,0.0
-1960,Monaco Grand Prix,trintignant,0.0
-1960,Monaco Grand Prix,trips,0.0
-1960,Italian Grand Prix,phil_hill,8.0
-1960,Italian Grand Prix,ginther,6.0
-1960,Italian Grand Prix,mairesse,4.0
-1960,Italian Grand Prix,cabianca,3.0
-1960,Italian Grand Prix,trips,2.0
-1960,Italian Grand Prix,herrmann,1.0
-1960,Italian Grand Prix,barth,0.0
-1960,Italian Grand Prix,drogo,0.0
-1960,Italian Grand Prix,gamble,0.0
-1960,Italian Grand Prix,gould,0.0
-1960,Italian Grand Prix,munaron,0.0
-1960,Italian Grand Prix,naylor,0.0
-1960,Italian Grand Prix,owen,0.0
-1960,Italian Grand Prix,scarlatti,0.0
-1960,Italian Grand Prix,seidel,0.0
-1960,Italian Grand Prix,thiele,0.0
-1960,Italian Grand Prix,vic_wilson,0.0
-1960,British Grand Prix,jack_brabham,8.0
-1960,British Grand Prix,surtees,6.0
-1960,British Grand Prix,ireland,4.0
-1960,British Grand Prix,mclaren,3.0
-1960,British Grand Prix,brooks,2.0
-1960,British Grand Prix,trips,1.0
-1960,British Grand Prix,bianchi,0.0
-1960,British Grand Prix,bonnier,0.0
-1960,British Grand Prix,burgess,0.0
-1960,British Grand Prix,clark,0.0
-1960,British Grand Prix,daigh,0.0
-1960,British Grand Prix,fairman,0.0
-1960,British Grand Prix,gendebien,0.0
-1960,British Grand Prix,greene,0.0
-1960,British Grand Prix,gregory,0.0
-1960,British Grand Prix,gurney,0.0
-1960,British Grand Prix,henry_taylor,0.0
-1960,British Grand Prix,hill,0.0
-1960,British Grand Prix,munaron,0.0
-1960,British Grand Prix,naylor,0.0
-1960,British Grand Prix,phil_hill,0.0
-1960,British Grand Prix,piper,0.0
-1960,British Grand Prix,reventlow,0.0
-1960,British Grand Prix,salvadori,0.0
-1960,British Grand Prix,trintignant,0.0
-1960,Belgian Grand Prix,jack_brabham,8.0
-1960,Belgian Grand Prix,mclaren,6.0
-1960,Belgian Grand Prix,gendebien,4.0
-1960,Belgian Grand Prix,phil_hill,3.0
-1960,Belgian Grand Prix,clark,2.0
-1960,Belgian Grand Prix,bianchi,1.0
-1960,Belgian Grand Prix,bonnier,0.0
-1960,Belgian Grand Prix,bristow,0.0
-1960,Belgian Grand Prix,brooks,0.0
-1960,Belgian Grand Prix,daigh,0.0
-1960,Belgian Grand Prix,gurney,0.0
-1960,Belgian Grand Prix,hill,0.0
-1960,Belgian Grand Prix,ireland,0.0
-1960,Belgian Grand Prix,mairesse,0.0
-1960,Belgian Grand Prix,mike_taylor,0.0
-1960,Belgian Grand Prix,moss,0.0
-1960,Belgian Grand Prix,reventlow,0.0
-1960,Belgian Grand Prix,stacey,0.0
-1960,Belgian Grand Prix,trips,0.0
-1961,Monaco Grand Prix,moss,9.0
-1961,Monaco Grand Prix,ginther,6.0
-1961,Monaco Grand Prix,phil_hill,4.0
-1961,Monaco Grand Prix,trips,3.0
-1961,Monaco Grand Prix,gurney,2.0
-1961,Monaco Grand Prix,mclaren,1.0
-1961,Monaco Grand Prix,allison,0.0
-1961,Monaco Grand Prix,bianchi,0.0
-1961,Monaco Grand Prix,bonnier,0.0
-1961,Monaco Grand Prix,brooks,0.0
-1961,Monaco Grand Prix,clark,0.0
-1961,Monaco Grand Prix,gendebien,0.0
-1961,Monaco Grand Prix,gregory,0.0
-1961,Monaco Grand Prix,henry_taylor,0.0
-1961,Monaco Grand Prix,herrmann,0.0
-1961,Monaco Grand Prix,hill,0.0
-1961,Monaco Grand Prix,ireland,0.0
-1961,Monaco Grand Prix,jack_brabham,0.0
-1961,Monaco Grand Prix,may,0.0
-1961,Monaco Grand Prix,surtees,0.0
-1961,Monaco Grand Prix,trintignant,0.0
-1961,Italian Grand Prix,phil_hill,9.0
-1961,Italian Grand Prix,gurney,6.0
-1961,Italian Grand Prix,mclaren,4.0
-1961,Italian Grand Prix,lewis,3.0
-1961,Italian Grand Prix,brooks,2.0
-1961,Italian Grand Prix,salvadori,1.0
-1961,Italian Grand Prix,andre_pilette,0.0
-1961,Italian Grand Prix,ashmore,0.0
-1961,Italian Grand Prix,baghetti,0.0
-1961,Italian Grand Prix,bandini,0.0
-1961,Italian Grand Prix,barth,0.0
-1961,Italian Grand Prix,beaufort,0.0
-1961,Italian Grand Prix,boffa,0.0
-1961,Italian Grand Prix,bonnier,0.0
-1961,Italian Grand Prix,bussinello,0.0
-1961,Italian Grand Prix,clark,0.0
-1961,Italian Grand Prix,fairman,0.0
-1961,Italian Grand Prix,ginther,0.0
-1961,Italian Grand Prix,gregory,0.0
-1961,Italian Grand Prix,henry_taylor,0.0
-1961,Italian Grand Prix,hill,0.0
-1961,Italian Grand Prix,ireland,0.0
-1961,Italian Grand Prix,jack_brabham,0.0
-1961,Italian Grand Prix,lippi,0.0
-1961,Italian Grand Prix,may,0.0
-1961,Italian Grand Prix,moss,0.0
-1961,Italian Grand Prix,natili,0.0
-1961,Italian Grand Prix,naylor,0.0
-1961,Italian Grand Prix,parnell,0.0
-1961,Italian Grand Prix,pirocchi,0.0
-1961,Italian Grand Prix,prinoth,0.0
-1961,Italian Grand Prix,ricardo_rodriguez,0.0
-1961,Italian Grand Prix,seidel,0.0
-1961,Italian Grand Prix,starrabba,0.0
-1961,Italian Grand Prix,surtees,0.0
-1961,Italian Grand Prix,thiele,0.0
-1961,Italian Grand Prix,trintignant,0.0
-1961,Italian Grand Prix,trips,0.0
-1961,Italian Grand Prix,vaccarella,0.0
-1961,British Grand Prix,trips,9.0
-1961,British Grand Prix,phil_hill,6.0
-1961,British Grand Prix,ginther,4.0
-1961,British Grand Prix,jack_brabham,3.0
-1961,British Grand Prix,bonnier,2.0
-1961,British Grand Prix,salvadori,1.0
-1961,British Grand Prix,ashmore,0.0
-1961,British Grand Prix,baghetti,0.0
-1961,British Grand Prix,bandini,0.0
-1961,British Grand Prix,beaufort,0.0
-1961,British Grand Prix,bianchi,0.0
-1961,British Grand Prix,brooks,0.0
-1961,British Grand Prix,burgess,0.0
-1961,British Grand Prix,clark,0.0
-1961,British Grand Prix,fairman,0.0
-1961,British Grand Prix,gendebien,0.0
-1961,British Grand Prix,greene,0.0
-1961,British Grand Prix,gregory,0.0
-1961,British Grand Prix,gurney,0.0
-1961,British Grand Prix,henry_taylor,0.0
-1961,British Grand Prix,hill,0.0
-1961,British Grand Prix,ireland,0.0
-1961,British Grand Prix,lewis,0.0
-1961,British Grand Prix,maggs,0.0
-1961,British Grand Prix,marsh,0.0
-1961,British Grand Prix,mclaren,0.0
-1961,British Grand Prix,moss,0.0
-1961,British Grand Prix,natili,0.0
-1961,British Grand Prix,parnell,0.0
-1961,British Grand Prix,seidel,0.0
-1961,British Grand Prix,surtees,0.0
-1961,Belgian Grand Prix,phil_hill,9.0
-1961,Belgian Grand Prix,trips,6.0
-1961,Belgian Grand Prix,ginther,4.0
-1961,Belgian Grand Prix,gendebien,3.0
-1961,Belgian Grand Prix,surtees,2.0
-1961,Belgian Grand Prix,gurney,1.0
-1961,Belgian Grand Prix,allison,0.0
-1961,Belgian Grand Prix,bandini,0.0
-1961,Belgian Grand Prix,beaufort,0.0
-1961,Belgian Grand Prix,bianchi,0.0
-1961,Belgian Grand Prix,bonnier,0.0
-1961,Belgian Grand Prix,brooks,0.0
-1961,Belgian Grand Prix,burgess,0.0
-1961,Belgian Grand Prix,clark,0.0
-1961,Belgian Grand Prix,gregory,0.0
-1961,Belgian Grand Prix,henry_taylor,0.0
-1961,Belgian Grand Prix,hill,0.0
-1961,Belgian Grand Prix,ireland,0.0
-1961,Belgian Grand Prix,jack_brabham,0.0
-1961,Belgian Grand Prix,lewis,0.0
-1961,Belgian Grand Prix,mairesse,0.0
-1961,Belgian Grand Prix,marsh,0.0
-1961,Belgian Grand Prix,mclaren,0.0
-1961,Belgian Grand Prix,moss,0.0
-1961,Belgian Grand Prix,seidel,0.0
-1961,Belgian Grand Prix,trintignant,0.0
+year,name,driver_name,points,era
+1950,Monaco Grand Prix,fangio,9.0,1950 - 1961
+1950,Monaco Grand Prix,ascari,6.0,1950 - 1961
+1950,Monaco Grand Prix,chiron,4.0,1950 - 1961
+1950,Monaco Grand Prix,sommer,3.0,1950 - 1961
+1950,Monaco Grand Prix,bira,2.0,1950 - 1961
+1950,Monaco Grand Prix,claes,0.0,1950 - 1961
+1950,Monaco Grand Prix,etancelin,0.0,1950 - 1961
+1950,Monaco Grand Prix,fagioli,0.0,1950 - 1961
+1950,Monaco Grand Prix,farina,0.0,1950 - 1961
+1950,Monaco Grand Prix,gerard,0.0,1950 - 1961
+1950,Monaco Grand Prix,gonzalez,0.0,1950 - 1961
+1950,Monaco Grand Prix,graffenried,0.0,1950 - 1961
+1950,Monaco Grand Prix,harrison,0.0,1950 - 1961
+1950,Monaco Grand Prix,manzon,0.0,1950 - 1961
+1950,Monaco Grand Prix,pian,0.0,1950 - 1961
+1950,Monaco Grand Prix,rol,0.0,1950 - 1961
+1950,Monaco Grand Prix,rosier,0.0,1950 - 1961
+1950,Monaco Grand Prix,schell,0.0,1950 - 1961
+1950,Monaco Grand Prix,trintignant,0.0,1950 - 1961
+1950,Monaco Grand Prix,villoresi,0.0,1950 - 1961
+1950,Monaco Grand Prix,whitehead,0.0,1950 - 1961
+1950,Italian Grand Prix,farina,8.0,1950 - 1961
+1950,Italian Grand Prix,fagioli,4.0,1950 - 1961
+1950,Italian Grand Prix,ascari,3.0,1950 - 1961
+1950,Italian Grand Prix,rosier,3.0,1950 - 1961
+1950,Italian Grand Prix,serafini,3.0,1950 - 1961
+1950,Italian Grand Prix,etancelin,2.0,1950 - 1961
+1950,Italian Grand Prix,fangio,1.0,1950 - 1961
+1950,Italian Grand Prix,biondetti,0.0,1950 - 1961
+1950,Italian Grand Prix,bira,0.0,1950 - 1961
+1950,Italian Grand Prix,bonetto,0.0,1950 - 1961
+1950,Italian Grand Prix,chiron,0.0,1950 - 1961
+1950,Italian Grand Prix,claes,0.0,1950 - 1961
+1950,Italian Grand Prix,comotti,0.0,1950 - 1961
+1950,Italian Grand Prix,graffenried,0.0,1950 - 1961
+1950,Italian Grand Prix,guy_mairesse,0.0,1950 - 1961
+1950,Italian Grand Prix,harrison,0.0,1950 - 1961
+1950,Italian Grand Prix,levegh,0.0,1950 - 1961
+1950,Italian Grand Prix,louveau,0.0,1950 - 1961
+1950,Italian Grand Prix,manzon,0.0,1950 - 1961
+1950,Italian Grand Prix,murray,0.0,1950 - 1961
+1950,Italian Grand Prix,pietsch,0.0,1950 - 1961
+1950,Italian Grand Prix,rol,0.0,1950 - 1961
+1950,Italian Grand Prix,sanesi,0.0,1950 - 1961
+1950,Italian Grand Prix,sommer,0.0,1950 - 1961
+1950,Italian Grand Prix,taruffi,0.0,1950 - 1961
+1950,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1950,Italian Grand Prix,whitehead,0.0,1950 - 1961
+1950,British Grand Prix,farina,9.0,1950 - 1961
+1950,British Grand Prix,fagioli,6.0,1950 - 1961
+1950,British Grand Prix,reg_parnell,4.0,1950 - 1961
+1950,British Grand Prix,cabantous,3.0,1950 - 1961
+1950,British Grand Prix,rosier,2.0,1950 - 1961
+1950,British Grand Prix,bira,0.0,1950 - 1961
+1950,British Grand Prix,chiron,0.0,1950 - 1961
+1950,British Grand Prix,claes,0.0,1950 - 1961
+1950,British Grand Prix,crossley,0.0,1950 - 1961
+1950,British Grand Prix,etancelin,0.0,1950 - 1961
+1950,British Grand Prix,fangio,0.0,1950 - 1961
+1950,British Grand Prix,fry,0.0,1950 - 1961
+1950,British Grand Prix,gerard,0.0,1950 - 1961
+1950,British Grand Prix,graffenried,0.0,1950 - 1961
+1950,British Grand Prix,hampshire,0.0,1950 - 1961
+1950,British Grand Prix,harrison,0.0,1950 - 1961
+1950,British Grand Prix,kelly,0.0,1950 - 1961
+1950,British Grand Prix,leslie_johnson,0.0,1950 - 1961
+1950,British Grand Prix,martin,0.0,1950 - 1961
+1950,British Grand Prix,murray,0.0,1950 - 1961
+1950,British Grand Prix,peter_walker,0.0,1950 - 1961
+1950,British Grand Prix,rolt,0.0,1950 - 1961
+1950,British Grand Prix,shawe_taylor,0.0,1950 - 1961
+1950,Belgian Grand Prix,fangio,8.0,1950 - 1961
+1950,Belgian Grand Prix,fagioli,6.0,1950 - 1961
+1950,Belgian Grand Prix,farina,4.0,1950 - 1961
+1950,Belgian Grand Prix,rosier,4.0,1950 - 1961
+1950,Belgian Grand Prix,ascari,2.0,1950 - 1961
+1950,Belgian Grand Prix,branca,0.0,1950 - 1961
+1950,Belgian Grand Prix,cabantous,0.0,1950 - 1961
+1950,Belgian Grand Prix,chaboud,0.0,1950 - 1961
+1950,Belgian Grand Prix,claes,0.0,1950 - 1961
+1950,Belgian Grand Prix,crossley,0.0,1950 - 1961
+1950,Belgian Grand Prix,etancelin,0.0,1950 - 1961
+1950,Belgian Grand Prix,levegh,0.0,1950 - 1961
+1950,Belgian Grand Prix,sommer,0.0,1950 - 1961
+1950,Belgian Grand Prix,villoresi,0.0,1950 - 1961
+1951,Italian Grand Prix,ascari,8.0,1950 - 1961
+1951,Italian Grand Prix,gonzalez,6.0,1950 - 1961
+1951,Italian Grand Prix,farina,3.0,1950 - 1961
+1951,Italian Grand Prix,villoresi,3.0,1950 - 1961
+1951,Italian Grand Prix,bonetto,2.0,1950 - 1961
+1951,Italian Grand Prix,taruffi,2.0,1950 - 1961
+1951,Italian Grand Prix,cabantous,0.0,1950 - 1961
+1951,Italian Grand Prix,chiron,0.0,1950 - 1961
+1951,Italian Grand Prix,claes,0.0,1950 - 1961
+1951,Italian Grand Prix,fangio,0.0,1950 - 1961
+1951,Italian Grand Prix,graffenried,0.0,1950 - 1961
+1951,Italian Grand Prix,landi,0.0,1950 - 1961
+1951,Italian Grand Prix,levegh,0.0,1950 - 1961
+1951,Italian Grand Prix,manzon,0.0,1950 - 1961
+1951,Italian Grand Prix,reg_parnell,0.0,1950 - 1961
+1951,Italian Grand Prix,richardson,0.0,1950 - 1961
+1951,Italian Grand Prix,rol,0.0,1950 - 1961
+1951,Italian Grand Prix,rosier,0.0,1950 - 1961
+1951,Italian Grand Prix,simon,0.0,1950 - 1961
+1951,Italian Grand Prix,swaters,0.0,1950 - 1961
+1951,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1951,Italian Grand Prix,whitehead,0.0,1950 - 1961
+1951,British Grand Prix,gonzalez,8.0,1950 - 1961
+1951,British Grand Prix,fangio,6.0,1950 - 1961
+1951,British Grand Prix,villoresi,4.0,1950 - 1961
+1951,British Grand Prix,bonetto,3.0,1950 - 1961
+1951,British Grand Prix,reg_parnell,2.0,1950 - 1961
+1951,British Grand Prix,farina,1.0,1950 - 1961
+1951,British Grand Prix,ascari,0.0,1950 - 1961
+1951,British Grand Prix,chiron,0.0,1950 - 1961
+1951,British Grand Prix,claes,0.0,1950 - 1961
+1951,British Grand Prix,duncan_hamilton,0.0,1950 - 1961
+1951,British Grand Prix,gerard,0.0,1950 - 1961
+1951,British Grand Prix,john_james,0.0,1950 - 1961
+1951,British Grand Prix,kelly,0.0,1950 - 1961
+1951,British Grand Prix,murray,0.0,1950 - 1961
+1951,British Grand Prix,parker,0.0,1950 - 1961
+1951,British Grand Prix,peter_walker,0.0,1950 - 1961
+1951,British Grand Prix,rosier,0.0,1950 - 1961
+1951,British Grand Prix,sanesi,0.0,1950 - 1961
+1951,British Grand Prix,shawe_taylor,0.0,1950 - 1961
+1951,British Grand Prix,whitehead,0.0,1950 - 1961
+1951,Belgian Grand Prix,farina,8.0,1950 - 1961
+1951,Belgian Grand Prix,ascari,6.0,1950 - 1961
+1951,Belgian Grand Prix,villoresi,4.0,1950 - 1961
+1951,Belgian Grand Prix,rosier,3.0,1950 - 1961
+1951,Belgian Grand Prix,cabantous,2.0,1950 - 1961
+1951,Belgian Grand Prix,fangio,1.0,1950 - 1961
+1951,Belgian Grand Prix,andre_pilette,0.0,1950 - 1961
+1951,Belgian Grand Prix,chiron,0.0,1950 - 1961
+1951,Belgian Grand Prix,claes,0.0,1950 - 1961
+1951,Belgian Grand Prix,etancelin,0.0,1950 - 1961
+1951,Belgian Grand Prix,levegh,0.0,1950 - 1961
+1951,Belgian Grand Prix,sanesi,0.0,1950 - 1961
+1951,Belgian Grand Prix,taruffi,0.0,1950 - 1961
+1952,Italian Grand Prix,ascari,8.5,1950 - 1961
+1952,Italian Grand Prix,gonzalez,6.5,1950 - 1961
+1952,Italian Grand Prix,villoresi,4.0,1950 - 1961
+1952,Italian Grand Prix,farina,3.0,1950 - 1961
+1952,Italian Grand Prix,bonetto,2.0,1950 - 1961
+1952,Italian Grand Prix,alan_brown,0.0,1950 - 1961
+1952,Italian Grand Prix,aston,0.0,1950 - 1961
+1952,Italian Grand Prix,bayol,0.0,1950 - 1961
+1952,Italian Grand Prix,behra,0.0,1950 - 1961
+1952,Italian Grand Prix,bianco,0.0,1950 - 1961
+1952,Italian Grand Prix,brandon,0.0,1950 - 1961
+1952,Italian Grand Prix,cantoni,0.0,1950 - 1961
+1952,Italian Grand Prix,claes,0.0,1950 - 1961
+1952,Italian Grand Prix,collins,0.0,1950 - 1961
+1952,Italian Grand Prix,crespo,0.0,1950 - 1961
+1952,Italian Grand Prix,dusio,0.0,1950 - 1961
+1952,Italian Grand Prix,fischer,0.0,1950 - 1961
+1952,Italian Grand Prix,gaze,0.0,1950 - 1961
+1952,Italian Grand Prix,graffenried,0.0,1950 - 1961
+1952,Italian Grand Prix,hans_stuck,0.0,1950 - 1961
+1952,Italian Grand Prix,hawthorn,0.0,1950 - 1961
+1952,Italian Grand Prix,landi,0.0,1950 - 1961
+1952,Italian Grand Prix,macklin,0.0,1950 - 1961
+1952,Italian Grand Prix,manzon,0.0,1950 - 1961
+1952,Italian Grand Prix,mcalpine,0.0,1950 - 1961
+1952,Italian Grand Prix,moss,0.0,1950 - 1961
+1952,Italian Grand Prix,poore,0.0,1950 - 1961
+1952,Italian Grand Prix,rol,0.0,1950 - 1961
+1952,Italian Grand Prix,rosier,0.0,1950 - 1961
+1952,Italian Grand Prix,simon,0.0,1950 - 1961
+1952,Italian Grand Prix,taruffi,0.0,1950 - 1961
+1952,Italian Grand Prix,tornaco,0.0,1950 - 1961
+1952,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1952,Italian Grand Prix,wharton,0.0,1950 - 1961
+1952,Italian Grand Prix,whitehead,0.0,1950 - 1961
+1952,British Grand Prix,ascari,9.0,1950 - 1961
+1952,British Grand Prix,taruffi,6.0,1950 - 1961
+1952,British Grand Prix,hawthorn,4.0,1950 - 1961
+1952,British Grand Prix,poore,3.0,1950 - 1961
+1952,British Grand Prix,thompson,2.0,1950 - 1961
+1952,British Grand Prix,alan_brown,0.0,1950 - 1961
+1952,British Grand Prix,aston,0.0,1950 - 1961
+1952,British Grand Prix,bianco,0.0,1950 - 1961
+1952,British Grand Prix,bira,0.0,1950 - 1961
+1952,British Grand Prix,brandon,0.0,1950 - 1961
+1952,British Grand Prix,cantoni,0.0,1950 - 1961
+1952,British Grand Prix,claes,0.0,1950 - 1961
+1952,British Grand Prix,collins,0.0,1950 - 1961
+1952,British Grand Prix,crook,0.0,1950 - 1961
+1952,British Grand Prix,downing,0.0,1950 - 1961
+1952,British Grand Prix,duncan_hamilton,0.0,1950 - 1961
+1952,British Grand Prix,farina,0.0,1950 - 1961
+1952,British Grand Prix,fischer,0.0,1950 - 1961
+1952,British Grand Prix,gaze,0.0,1950 - 1961
+1952,British Grand Prix,graffenried,0.0,1950 - 1961
+1952,British Grand Prix,graham_whitehead,0.0,1950 - 1961
+1952,British Grand Prix,hirt,0.0,1950 - 1961
+1952,British Grand Prix,macklin,0.0,1950 - 1961
+1952,British Grand Prix,manzon,0.0,1950 - 1961
+1952,British Grand Prix,mcalpine,0.0,1950 - 1961
+1952,British Grand Prix,moss,0.0,1950 - 1961
+1952,British Grand Prix,murray,0.0,1950 - 1961
+1952,British Grand Prix,reg_parnell,0.0,1950 - 1961
+1952,British Grand Prix,salvadori,0.0,1950 - 1961
+1952,British Grand Prix,schell,0.0,1950 - 1961
+1952,British Grand Prix,trintignant,0.0,1950 - 1961
+1952,British Grand Prix,whitehead,0.0,1950 - 1961
+1952,Belgian Grand Prix,ascari,9.0,1950 - 1961
+1952,Belgian Grand Prix,farina,6.0,1950 - 1961
+1952,Belgian Grand Prix,manzon,4.0,1950 - 1961
+1952,Belgian Grand Prix,hawthorn,3.0,1950 - 1961
+1952,Belgian Grand Prix,frere,2.0,1950 - 1961
+1952,Belgian Grand Prix,alan_brown,0.0,1950 - 1961
+1952,Belgian Grand Prix,behra,0.0,1950 - 1961
+1952,Belgian Grand Prix,bira,0.0,1950 - 1961
+1952,Belgian Grand Prix,brandon,0.0,1950 - 1961
+1952,Belgian Grand Prix,charrington,0.0,1950 - 1961
+1952,Belgian Grand Prix,claes,0.0,1950 - 1961
+1952,Belgian Grand Prix,collins,0.0,1950 - 1961
+1952,Belgian Grand Prix,gaze,0.0,1950 - 1961
+1952,Belgian Grand Prix,laurent,0.0,1950 - 1961
+1952,Belgian Grand Prix,legat,0.0,1950 - 1961
+1952,Belgian Grand Prix,macklin,0.0,1950 - 1961
+1952,Belgian Grand Prix,moss,0.0,1950 - 1961
+1952,Belgian Grand Prix,obrien,0.0,1950 - 1961
+1952,Belgian Grand Prix,rosier,0.0,1950 - 1961
+1952,Belgian Grand Prix,taruffi,0.0,1950 - 1961
+1952,Belgian Grand Prix,tornaco,0.0,1950 - 1961
+1952,Belgian Grand Prix,wharton,0.0,1950 - 1961
+1953,Italian Grand Prix,fangio,9.0,1950 - 1961
+1953,Italian Grand Prix,farina,6.0,1950 - 1961
+1953,Italian Grand Prix,villoresi,4.0,1950 - 1961
+1953,Italian Grand Prix,hawthorn,3.0,1950 - 1961
+1953,Italian Grand Prix,trintignant,2.0,1950 - 1961
+1953,Italian Grand Prix,alan_brown,0.0,1950 - 1961
+1953,Italian Grand Prix,ascari,0.0,1950 - 1961
+1953,Italian Grand Prix,bayol,0.0,1950 - 1961
+1953,Italian Grand Prix,bira,0.0,1950 - 1961
+1953,Italian Grand Prix,bonetto,0.0,1950 - 1961
+1953,Italian Grand Prix,cabantous,0.0,1950 - 1961
+1953,Italian Grand Prix,carini,0.0,1950 - 1961
+1953,Italian Grand Prix,chiron,0.0,1950 - 1961
+1953,Italian Grand Prix,claes,0.0,1950 - 1961
+1953,Italian Grand Prix,fairman,0.0,1950 - 1961
+1953,Italian Grand Prix,fitch,0.0,1950 - 1961
+1953,Italian Grand Prix,graffenried,0.0,1950 - 1961
+1953,Italian Grand Prix,hans_stuck,0.0,1950 - 1961
+1953,Italian Grand Prix,landi,0.0,1950 - 1961
+1953,Italian Grand Prix,macklin,0.0,1950 - 1961
+1953,Italian Grand Prix,maglioli,0.0,1950 - 1961
+1953,Italian Grand Prix,mantovani,0.0,1950 - 1961
+1953,Italian Grand Prix,marimon,0.0,1950 - 1961
+1953,Italian Grand Prix,mcalpine,0.0,1950 - 1961
+1953,Italian Grand Prix,mieres,0.0,1950 - 1961
+1953,Italian Grand Prix,moss,0.0,1950 - 1961
+1953,Italian Grand Prix,musso,0.0,1950 - 1961
+1953,Italian Grand Prix,rosier,0.0,1950 - 1961
+1953,Italian Grand Prix,salvadori,0.0,1950 - 1961
+1953,Italian Grand Prix,schell,0.0,1950 - 1961
+1953,Italian Grand Prix,wharton,0.0,1950 - 1961
+1953,British Grand Prix,ascari,8.5,1950 - 1961
+1953,British Grand Prix,fangio,6.0,1950 - 1961
+1953,British Grand Prix,farina,4.0,1950 - 1961
+1953,British Grand Prix,gonzalez,3.5,1950 - 1961
+1953,British Grand Prix,hawthorn,2.0,1950 - 1961
+1953,British Grand Prix,alan_brown,0.0,1950 - 1961
+1953,British Grand Prix,behra,0.0,1950 - 1961
+1953,British Grand Prix,bira,0.0,1950 - 1961
+1953,British Grand Prix,bonetto,0.0,1950 - 1961
+1953,British Grand Prix,collins,0.0,1950 - 1961
+1953,British Grand Prix,crook,0.0,1950 - 1961
+1953,British Grand Prix,duncan_hamilton,0.0,1950 - 1961
+1953,British Grand Prix,fairman,0.0,1950 - 1961
+1953,British Grand Prix,graffenried,0.0,1950 - 1961
+1953,British Grand Prix,ian_stewart,0.0,1950 - 1961
+1953,British Grand Prix,jimmy_stewart,0.0,1950 - 1961
+1953,British Grand Prix,macklin,0.0,1950 - 1961
+1953,British Grand Prix,marimon,0.0,1950 - 1961
+1953,British Grand Prix,mcalpine,0.0,1950 - 1961
+1953,British Grand Prix,rolt,0.0,1950 - 1961
+1953,British Grand Prix,rosier,0.0,1950 - 1961
+1953,British Grand Prix,salvadori,0.0,1950 - 1961
+1953,British Grand Prix,schell,0.0,1950 - 1961
+1953,British Grand Prix,trintignant,0.0,1950 - 1961
+1953,British Grand Prix,villoresi,0.0,1950 - 1961
+1953,British Grand Prix,wharton,0.0,1950 - 1961
+1953,British Grand Prix,whitehead,0.0,1950 - 1961
+1953,Belgian Grand Prix,ascari,8.0,1950 - 1961
+1953,Belgian Grand Prix,villoresi,6.0,1950 - 1961
+1953,Belgian Grand Prix,marimon,4.0,1950 - 1961
+1953,Belgian Grand Prix,graffenried,3.0,1950 - 1961
+1953,Belgian Grand Prix,trintignant,2.0,1950 - 1961
+1953,Belgian Grand Prix,gonzalez,1.0,1950 - 1961
+1953,Belgian Grand Prix,andre_pilette,0.0,1950 - 1961
+1953,Belgian Grand Prix,behra,0.0,1950 - 1961
+1953,Belgian Grand Prix,claes,0.0,1950 - 1961
+1953,Belgian Grand Prix,collins,0.0,1950 - 1961
+1953,Belgian Grand Prix,fangio,0.0,1950 - 1961
+1953,Belgian Grand Prix,farina,0.0,1950 - 1961
+1953,Belgian Grand Prix,frere,0.0,1950 - 1961
+1953,Belgian Grand Prix,georges_berger,0.0,1950 - 1961
+1953,Belgian Grand Prix,hawthorn,0.0,1950 - 1961
+1953,Belgian Grand Prix,legat,0.0,1950 - 1961
+1953,Belgian Grand Prix,macklin,0.0,1950 - 1961
+1953,Belgian Grand Prix,rosier,0.0,1950 - 1961
+1953,Belgian Grand Prix,schell,0.0,1950 - 1961
+1953,Belgian Grand Prix,wacker,0.0,1950 - 1961
+1954,Italian Grand Prix,fangio,8.0,1950 - 1961
+1954,Italian Grand Prix,hawthorn,6.0,1950 - 1961
+1954,Italian Grand Prix,gonzalez,3.0,1950 - 1961
+1954,Italian Grand Prix,herrmann,3.0,1950 - 1961
+1954,Italian Grand Prix,maglioli,2.0,1950 - 1961
+1954,Italian Grand Prix,trintignant,2.0,1950 - 1961
+1954,Italian Grand Prix,ascari,0.0,1950 - 1961
+1954,Italian Grand Prix,behra,0.0,1950 - 1961
+1954,Italian Grand Prix,bucci,0.0,1950 - 1961
+1954,Italian Grand Prix,collins,0.0,1950 - 1961
+1954,Italian Grand Prix,daponte,0.0,1950 - 1961
+1954,Italian Grand Prix,kling,0.0,1950 - 1961
+1954,Italian Grand Prix,mantovani,0.0,1950 - 1961
+1954,Italian Grand Prix,manzon,0.0,1950 - 1961
+1954,Italian Grand Prix,mieres,0.0,1950 - 1961
+1954,Italian Grand Prix,moss,0.0,1950 - 1961
+1954,Italian Grand Prix,musso,0.0,1950 - 1961
+1954,Italian Grand Prix,riu,0.0,1950 - 1961
+1954,Italian Grand Prix,rosier,0.0,1950 - 1961
+1954,Italian Grand Prix,villoresi,0.0,1950 - 1961
+1954,Italian Grand Prix,wacker,0.0,1950 - 1961
+1954,British Grand Prix,gonzalez,8.14,1950 - 1961
+1954,British Grand Prix,hawthorn,6.14,1950 - 1961
+1954,British Grand Prix,marimon,4.14,1950 - 1961
+1954,British Grand Prix,fangio,3.14,1950 - 1961
+1954,British Grand Prix,trintignant,2.0,1950 - 1961
+1954,British Grand Prix,alan_brown,0.0,1950 - 1961
+1954,British Grand Prix,andre_pilette,0.0,1950 - 1961
+1954,British Grand Prix,ascari,0.0,1950 - 1961
+1954,British Grand Prix,beauman,0.0,1950 - 1961
+1954,British Grand Prix,behra,0.0,1950 - 1961
+1954,British Grand Prix,bira,0.0,1950 - 1961
+1954,British Grand Prix,brandon,0.0,1950 - 1961
+1954,British Grand Prix,bucci,0.0,1950 - 1961
+1954,British Grand Prix,collins,0.0,1950 - 1961
+1954,British Grand Prix,flockhart,0.0,1950 - 1961
+1954,British Grand Prix,gerard,0.0,1950 - 1961
+1954,British Grand Prix,gould,0.0,1950 - 1961
+1954,British Grand Prix,kling,0.0,1950 - 1961
+1954,British Grand Prix,manzon,0.0,1950 - 1961
+1954,British Grand Prix,marr,0.0,1950 - 1961
+1954,British Grand Prix,mieres,0.0,1950 - 1961
+1954,British Grand Prix,moss,0.0,1950 - 1961
+1954,British Grand Prix,nuckey,0.0,1950 - 1961
+1954,British Grand Prix,reg_parnell,0.0,1950 - 1961
+1954,British Grand Prix,riseley_prichard,0.0,1950 - 1961
+1954,British Grand Prix,rosier,0.0,1950 - 1961
+1954,British Grand Prix,salvadori,0.0,1950 - 1961
+1954,British Grand Prix,schell,0.0,1950 - 1961
+1954,British Grand Prix,thorne,0.0,1950 - 1961
+1954,British Grand Prix,villoresi,0.0,1950 - 1961
+1954,British Grand Prix,wharton,0.0,1950 - 1961
+1954,British Grand Prix,whitehead,0.0,1950 - 1961
+1954,British Grand Prix,whitehouse,0.0,1950 - 1961
+1954,Belgian Grand Prix,fangio,9.0,1950 - 1961
+1954,Belgian Grand Prix,trintignant,6.0,1950 - 1961
+1954,Belgian Grand Prix,moss,4.0,1950 - 1961
+1954,Belgian Grand Prix,andre_pilette,2.0,1950 - 1961
+1954,Belgian Grand Prix,gonzalez,1.5,1950 - 1961
+1954,Belgian Grand Prix,hawthorn,1.5,1950 - 1961
+1954,Belgian Grand Prix,behra,0.0,1950 - 1961
+1954,Belgian Grand Prix,bira,0.0,1950 - 1961
+1954,Belgian Grand Prix,farina,0.0,1950 - 1961
+1954,Belgian Grand Prix,frere,0.0,1950 - 1961
+1954,Belgian Grand Prix,mantovani,0.0,1950 - 1961
+1954,Belgian Grand Prix,marimon,0.0,1950 - 1961
+1954,Belgian Grand Prix,mieres,0.0,1950 - 1961
+1954,Belgian Grand Prix,swaters,0.0,1950 - 1961
+1955,Monaco Grand Prix,trintignant,8.0,1950 - 1961
+1955,Monaco Grand Prix,castellotti,6.0,1950 - 1961
+1955,Monaco Grand Prix,farina,3.0,1950 - 1961
+1955,Monaco Grand Prix,behra,2.0,1950 - 1961
+1955,Monaco Grand Prix,perdisa,2.0,1950 - 1961
+1955,Monaco Grand Prix,villoresi,2.0,1950 - 1961
+1955,Monaco Grand Prix,fangio,1.0,1950 - 1961
+1955,Monaco Grand Prix,ascari,0.0,1950 - 1961
+1955,Monaco Grand Prix,bayol,0.0,1950 - 1961
+1955,Monaco Grand Prix,chiron,0.0,1950 - 1961
+1955,Monaco Grand Prix,frere,0.0,1950 - 1961
+1955,Monaco Grand Prix,hawthorn,0.0,1950 - 1961
+1955,Monaco Grand Prix,herrmann,0.0,1950 - 1961
+1955,Monaco Grand Prix,macklin,0.0,1950 - 1961
+1955,Monaco Grand Prix,manzon,0.0,1950 - 1961
+1955,Monaco Grand Prix,mieres,0.0,1950 - 1961
+1955,Monaco Grand Prix,moss,0.0,1950 - 1961
+1955,Monaco Grand Prix,musso,0.0,1950 - 1961
+1955,Monaco Grand Prix,pollet,0.0,1950 - 1961
+1955,Monaco Grand Prix,rosier,0.0,1950 - 1961
+1955,Monaco Grand Prix,schell,0.0,1950 - 1961
+1955,Monaco Grand Prix,simon,0.0,1950 - 1961
+1955,Monaco Grand Prix,taruffi,0.0,1950 - 1961
+1955,Monaco Grand Prix,whiteaway,0.0,1950 - 1961
+1955,Italian Grand Prix,fangio,8.0,1950 - 1961
+1955,Italian Grand Prix,taruffi,6.0,1950 - 1961
+1955,Italian Grand Prix,castellotti,4.0,1950 - 1961
+1955,Italian Grand Prix,behra,3.0,1950 - 1961
+1955,Italian Grand Prix,menditeguy,2.0,1950 - 1961
+1955,Italian Grand Prix,moss,1.0,1950 - 1961
+1955,Italian Grand Prix,collins,0.0,1950 - 1961
+1955,Italian Grand Prix,farina,0.0,1950 - 1961
+1955,Italian Grand Prix,fitch,0.0,1950 - 1961
+1955,Italian Grand Prix,gould,0.0,1950 - 1961
+1955,Italian Grand Prix,hawthorn,0.0,1950 - 1961
+1955,Italian Grand Prix,kling,0.0,1950 - 1961
+1955,Italian Grand Prix,lucas,0.0,1950 - 1961
+1955,Italian Grand Prix,maglioli,0.0,1950 - 1961
+1955,Italian Grand Prix,mieres,0.0,1950 - 1961
+1955,Italian Grand Prix,musso,0.0,1950 - 1961
+1955,Italian Grand Prix,piotti,0.0,1950 - 1961
+1955,Italian Grand Prix,pollet,0.0,1950 - 1961
+1955,Italian Grand Prix,ramos,0.0,1950 - 1961
+1955,Italian Grand Prix,schell,0.0,1950 - 1961
+1955,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1955,Italian Grand Prix,villoresi,0.0,1950 - 1961
+1955,Italian Grand Prix,wharton,0.0,1950 - 1961
+1955,British Grand Prix,moss,9.0,1950 - 1961
+1955,British Grand Prix,fangio,6.0,1950 - 1961
+1955,British Grand Prix,kling,4.0,1950 - 1961
+1955,British Grand Prix,taruffi,3.0,1950 - 1961
+1955,British Grand Prix,musso,2.0,1950 - 1961
+1955,British Grand Prix,behra,0.0,1950 - 1961
+1955,British Grand Prix,castellotti,0.0,1950 - 1961
+1955,British Grand Prix,collins,0.0,1950 - 1961
+1955,British Grand Prix,fairman,0.0,1950 - 1961
+1955,British Grand Prix,gould,0.0,1950 - 1961
+1955,British Grand Prix,hawthorn,0.0,1950 - 1961
+1955,British Grand Prix,jack_brabham,0.0,1950 - 1961
+1955,British Grand Prix,macklin,0.0,1950 - 1961
+1955,British Grand Prix,manzon,0.0,1950 - 1961
+1955,British Grand Prix,marr,0.0,1950 - 1961
+1955,British Grand Prix,mcalpine,0.0,1950 - 1961
+1955,British Grand Prix,mieres,0.0,1950 - 1961
+1955,British Grand Prix,peter_walker,0.0,1950 - 1961
+1955,British Grand Prix,ramos,0.0,1950 - 1961
+1955,British Grand Prix,rolt,0.0,1950 - 1961
+1955,British Grand Prix,salvadori,0.0,1950 - 1961
+1955,British Grand Prix,schell,0.0,1950 - 1961
+1955,British Grand Prix,simon,0.0,1950 - 1961
+1955,British Grand Prix,sparken,0.0,1950 - 1961
+1955,British Grand Prix,trintignant,0.0,1950 - 1961
+1955,British Grand Prix,wharton,0.0,1950 - 1961
+1955,Belgian Grand Prix,fangio,9.0,1950 - 1961
+1955,Belgian Grand Prix,moss,6.0,1950 - 1961
+1955,Belgian Grand Prix,farina,4.0,1950 - 1961
+1955,Belgian Grand Prix,frere,3.0,1950 - 1961
+1955,Belgian Grand Prix,behra,1.0,1950 - 1961
+1955,Belgian Grand Prix,mieres,1.0,1950 - 1961
+1955,Belgian Grand Prix,castellotti,0.0,1950 - 1961
+1955,Belgian Grand Prix,claes,0.0,1950 - 1961
+1955,Belgian Grand Prix,hawthorn,0.0,1950 - 1961
+1955,Belgian Grand Prix,kling,0.0,1950 - 1961
+1955,Belgian Grand Prix,musso,0.0,1950 - 1961
+1955,Belgian Grand Prix,perdisa,0.0,1950 - 1961
+1955,Belgian Grand Prix,rosier,0.0,1950 - 1961
+1955,Belgian Grand Prix,schell,0.0,1950 - 1961
+1955,Belgian Grand Prix,taruffi,0.0,1950 - 1961
+1955,Belgian Grand Prix,trintignant,0.0,1950 - 1961
+1956,Monaco Grand Prix,moss,8.0,1950 - 1961
+1956,Monaco Grand Prix,fangio,5.5,1950 - 1961
+1956,Monaco Grand Prix,behra,4.0,1950 - 1961
+1956,Monaco Grand Prix,collins,3.0,1950 - 1961
+1956,Monaco Grand Prix,ramos,2.0,1950 - 1961
+1956,Monaco Grand Prix,castellotti,1.5,1950 - 1961
+1956,Monaco Grand Prix,andre_pilette,0.0,1950 - 1961
+1956,Monaco Grand Prix,bayol,0.0,1950 - 1961
+1956,Monaco Grand Prix,brooks,0.0,1950 - 1961
+1956,Monaco Grand Prix,chiron,0.0,1950 - 1961
+1956,Monaco Grand Prix,gould,0.0,1950 - 1961
+1956,Monaco Grand Prix,hawthorn,0.0,1950 - 1961
+1956,Monaco Grand Prix,manzon,0.0,1950 - 1961
+1956,Monaco Grand Prix,musso,0.0,1950 - 1961
+1956,Monaco Grand Prix,perdisa,0.0,1950 - 1961
+1956,Monaco Grand Prix,rosier,0.0,1950 - 1961
+1956,Monaco Grand Prix,scarlatti,0.0,1950 - 1961
+1956,Monaco Grand Prix,schell,0.0,1950 - 1961
+1956,Monaco Grand Prix,trintignant,0.0,1950 - 1961
+1956,Italian Grand Prix,moss,9.0,1950 - 1961
+1956,Italian Grand Prix,flockhart,4.0,1950 - 1961
+1956,Italian Grand Prix,collins,3.0,1950 - 1961
+1956,Italian Grand Prix,fangio,3.0,1950 - 1961
+1956,Italian Grand Prix,godia,3.0,1950 - 1961
+1956,Italian Grand Prix,fairman,2.0,1950 - 1961
+1956,Italian Grand Prix,behra,0.0,1950 - 1961
+1956,Italian Grand Prix,bonnier,0.0,1950 - 1961
+1956,Italian Grand Prix,castellotti,0.0,1950 - 1961
+1956,Italian Grand Prix,gerini,0.0,1950 - 1961
+1956,Italian Grand Prix,graffenried,0.0,1950 - 1961
+1956,Italian Grand Prix,halford,0.0,1950 - 1961
+1956,Italian Grand Prix,leston,0.0,1950 - 1961
+1956,Italian Grand Prix,maglioli,0.0,1950 - 1961
+1956,Italian Grand Prix,manzon,0.0,1950 - 1961
+1956,Italian Grand Prix,musso,0.0,1950 - 1961
+1956,Italian Grand Prix,piotti,0.0,1950 - 1961
+1956,Italian Grand Prix,portago,0.0,1950 - 1961
+1956,Italian Grand Prix,ramos,0.0,1950 - 1961
+1956,Italian Grand Prix,salvadori,0.0,1950 - 1961
+1956,Italian Grand Prix,schell,0.0,1950 - 1961
+1956,Italian Grand Prix,simon,0.0,1950 - 1961
+1956,Italian Grand Prix,taruffi,0.0,1950 - 1961
+1956,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1956,Italian Grand Prix,trips,0.0,1950 - 1961
+1956,Italian Grand Prix,villoresi,0.0,1950 - 1961
+1956,British Grand Prix,fangio,8.0,1950 - 1961
+1956,British Grand Prix,behra,4.0,1950 - 1961
+1956,British Grand Prix,collins,3.0,1950 - 1961
+1956,British Grand Prix,fairman,3.0,1950 - 1961
+1956,British Grand Prix,portago,3.0,1950 - 1961
+1956,British Grand Prix,gould,2.0,1950 - 1961
+1956,British Grand Prix,moss,1.0,1950 - 1961
+1956,British Grand Prix,brooks,0.0,1950 - 1961
+1956,British Grand Prix,castellotti,0.0,1950 - 1961
+1956,British Grand Prix,emery,0.0,1950 - 1961
+1956,British Grand Prix,flockhart,0.0,1950 - 1961
+1956,British Grand Prix,gerard,0.0,1950 - 1961
+1956,British Grand Prix,godia,0.0,1950 - 1961
+1956,British Grand Prix,gonzalez,0.0,1950 - 1961
+1956,British Grand Prix,halford,0.0,1950 - 1961
+1956,British Grand Prix,hawthorn,0.0,1950 - 1961
+1956,British Grand Prix,jack_brabham,0.0,1950 - 1961
+1956,British Grand Prix,maglioli,0.0,1950 - 1961
+1956,British Grand Prix,manzon,0.0,1950 - 1961
+1956,British Grand Prix,perdisa,0.0,1950 - 1961
+1956,British Grand Prix,ramos,0.0,1950 - 1961
+1956,British Grand Prix,rosier,0.0,1950 - 1961
+1956,British Grand Prix,salvadori,0.0,1950 - 1961
+1956,British Grand Prix,schell,0.0,1950 - 1961
+1956,British Grand Prix,scott_Brown,0.0,1950 - 1961
+1956,British Grand Prix,titterington,0.0,1950 - 1961
+1956,British Grand Prix,trintignant,0.0,1950 - 1961
+1956,British Grand Prix,villoresi,0.0,1950 - 1961
+1956,Belgian Grand Prix,collins,8.0,1950 - 1961
+1956,Belgian Grand Prix,frere,6.0,1950 - 1961
+1956,Belgian Grand Prix,moss,3.0,1950 - 1961
+1956,Belgian Grand Prix,schell,3.0,1950 - 1961
+1956,Belgian Grand Prix,perdisa,2.0,1950 - 1961
+1956,Belgian Grand Prix,villoresi,2.0,1950 - 1961
+1956,Belgian Grand Prix,andre_pilette,0.0,1950 - 1961
+1956,Belgian Grand Prix,behra,0.0,1950 - 1961
+1956,Belgian Grand Prix,castellotti,0.0,1950 - 1961
+1956,Belgian Grand Prix,fangio,0.0,1950 - 1961
+1956,Belgian Grand Prix,godia,0.0,1950 - 1961
+1956,Belgian Grand Prix,gould,0.0,1950 - 1961
+1956,Belgian Grand Prix,rosier,0.0,1950 - 1961
+1956,Belgian Grand Prix,scotti,0.0,1950 - 1961
+1956,Belgian Grand Prix,trintignant,0.0,1950 - 1961
+1957,Monaco Grand Prix,fangio,9.0,1950 - 1961
+1957,Monaco Grand Prix,brooks,6.0,1950 - 1961
+1957,Monaco Grand Prix,gregory,4.0,1950 - 1961
+1957,Monaco Grand Prix,lewis-evans,3.0,1950 - 1961
+1957,Monaco Grand Prix,trintignant,2.0,1950 - 1961
+1957,Monaco Grand Prix,bueb,0.0,1950 - 1961
+1957,Monaco Grand Prix,collins,0.0,1950 - 1961
+1957,Monaco Grand Prix,flockhart,0.0,1950 - 1961
+1957,Monaco Grand Prix,gould,0.0,1950 - 1961
+1957,Monaco Grand Prix,hawthorn,0.0,1950 - 1961
+1957,Monaco Grand Prix,herrmann,0.0,1950 - 1961
+1957,Monaco Grand Prix,jack_brabham,0.0,1950 - 1961
+1957,Monaco Grand Prix,leston,0.0,1950 - 1961
+1957,Monaco Grand Prix,menditeguy,0.0,1950 - 1961
+1957,Monaco Grand Prix,moss,0.0,1950 - 1961
+1957,Monaco Grand Prix,piotti,0.0,1950 - 1961
+1957,Monaco Grand Prix,salvadori,0.0,1950 - 1961
+1957,Monaco Grand Prix,scarlatti,0.0,1950 - 1961
+1957,Monaco Grand Prix,schell,0.0,1950 - 1961
+1957,Monaco Grand Prix,simon,0.0,1950 - 1961
+1957,Monaco Grand Prix,trips,0.0,1950 - 1961
+1957,Italian Grand Prix,moss,8.0,1950 - 1961
+1957,Italian Grand Prix,fangio,6.0,1950 - 1961
+1957,Italian Grand Prix,trips,4.0,1950 - 1961
+1957,Italian Grand Prix,gregory,3.0,1950 - 1961
+1957,Italian Grand Prix,brooks,1.0,1950 - 1961
+1957,Italian Grand Prix,scarlatti,1.0,1950 - 1961
+1957,Italian Grand Prix,schell,1.0,1950 - 1961
+1957,Italian Grand Prix,behra,0.0,1950 - 1961
+1957,Italian Grand Prix,bonnier,0.0,1950 - 1961
+1957,Italian Grand Prix,collins,0.0,1950 - 1961
+1957,Italian Grand Prix,godia,0.0,1950 - 1961
+1957,Italian Grand Prix,gould,0.0,1950 - 1961
+1957,Italian Grand Prix,halford,0.0,1950 - 1961
+1957,Italian Grand Prix,hawthorn,0.0,1950 - 1961
+1957,Italian Grand Prix,lewis-evans,0.0,1950 - 1961
+1957,Italian Grand Prix,musso,0.0,1950 - 1961
+1957,Italian Grand Prix,piotti,0.0,1950 - 1961
+1957,Italian Grand Prix,simon,0.0,1950 - 1961
+1957,Italian Grand Prix,volonterio,0.0,1950 - 1961
+1957,British Grand Prix,musso,6.0,1950 - 1961
+1957,British Grand Prix,moss,5.0,1950 - 1961
+1957,British Grand Prix,brooks,4.0,1950 - 1961
+1957,British Grand Prix,hawthorn,4.0,1950 - 1961
+1957,British Grand Prix,trintignant,3.0,1950 - 1961
+1957,British Grand Prix,salvadori,2.0,1950 - 1961
+1957,British Grand Prix,behra,0.0,1950 - 1961
+1957,British Grand Prix,bonnier,0.0,1950 - 1961
+1957,British Grand Prix,bueb,0.0,1950 - 1961
+1957,British Grand Prix,collins,0.0,1950 - 1961
+1957,British Grand Prix,fairman,0.0,1950 - 1961
+1957,British Grand Prix,fangio,0.0,1950 - 1961
+1957,British Grand Prix,gerard,0.0,1950 - 1961
+1957,British Grand Prix,gould,0.0,1950 - 1961
+1957,British Grand Prix,jack_brabham,0.0,1950 - 1961
+1957,British Grand Prix,leston,0.0,1950 - 1961
+1957,British Grand Prix,lewis-evans,0.0,1950 - 1961
+1957,British Grand Prix,menditeguy,0.0,1950 - 1961
+1957,British Grand Prix,schell,0.0,1950 - 1961
+1958,Monaco Grand Prix,trintignant,8.0,1950 - 1961
+1958,Monaco Grand Prix,musso,6.0,1950 - 1961
+1958,Monaco Grand Prix,collins,4.0,1950 - 1961
+1958,Monaco Grand Prix,jack_brabham,3.0,1950 - 1961
+1958,Monaco Grand Prix,schell,2.0,1950 - 1961
+1958,Monaco Grand Prix,hawthorn,1.0,1950 - 1961
+1958,Monaco Grand Prix,allison,0.0,1950 - 1961
+1958,Monaco Grand Prix,behra,0.0,1950 - 1961
+1958,Monaco Grand Prix,bonnier,0.0,1950 - 1961
+1958,Monaco Grand Prix,brooks,0.0,1950 - 1961
+1958,Monaco Grand Prix,cabianca,0.0,1950 - 1961
+1958,Monaco Grand Prix,chiron,0.0,1950 - 1961
+1958,Monaco Grand Prix,ecclestone,0.0,1950 - 1961
+1958,Monaco Grand Prix,emery,0.0,1950 - 1961
+1958,Monaco Grand Prix,filippis,0.0,1950 - 1961
+1958,Monaco Grand Prix,flockhart,0.0,1950 - 1961
+1958,Monaco Grand Prix,gerini,0.0,1950 - 1961
+1958,Monaco Grand Prix,godia,0.0,1950 - 1961
+1958,Monaco Grand Prix,gould,0.0,1950 - 1961
+1958,Monaco Grand Prix,hill,0.0,1950 - 1961
+1958,Monaco Grand Prix,kavanagh,0.0,1950 - 1961
+1958,Monaco Grand Prix,kessler,0.0,1950 - 1961
+1958,Monaco Grand Prix,lewis-evans,0.0,1950 - 1961
+1958,Monaco Grand Prix,moss,0.0,1950 - 1961
+1958,Monaco Grand Prix,piotti,0.0,1950 - 1961
+1958,Monaco Grand Prix,salvadori,0.0,1950 - 1961
+1958,Monaco Grand Prix,scarlatti,0.0,1950 - 1961
+1958,Monaco Grand Prix,taramazzo,0.0,1950 - 1961
+1958,Monaco Grand Prix,testut,0.0,1950 - 1961
+1958,Monaco Grand Prix,trips,0.0,1950 - 1961
+1958,Italian Grand Prix,brooks,8.0,1950 - 1961
+1958,Italian Grand Prix,hawthorn,6.0,1950 - 1961
+1958,Italian Grand Prix,phil_hill,5.0,1950 - 1961
+1958,Italian Grand Prix,salvadori,2.0,1950 - 1961
+1958,Italian Grand Prix,allison,0.0,1950 - 1961
+1958,Italian Grand Prix,behra,0.0,1950 - 1961
+1958,Italian Grand Prix,bonnier,0.0,1950 - 1961
+1958,Italian Grand Prix,cabianca,0.0,1950 - 1961
+1958,Italian Grand Prix,filippis,0.0,1950 - 1961
+1958,Italian Grand Prix,gendebien,0.0,1950 - 1961
+1958,Italian Grand Prix,gerini,0.0,1950 - 1961
+1958,Italian Grand Prix,gregory,0.0,1950 - 1961
+1958,Italian Grand Prix,herrmann,0.0,1950 - 1961
+1958,Italian Grand Prix,hill,0.0,1950 - 1961
+1958,Italian Grand Prix,jack_brabham,0.0,1950 - 1961
+1958,Italian Grand Prix,lewis-evans,0.0,1950 - 1961
+1958,Italian Grand Prix,moss,0.0,1950 - 1961
+1958,Italian Grand Prix,schell,0.0,1950 - 1961
+1958,Italian Grand Prix,shelby,0.0,1950 - 1961
+1958,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1958,Italian Grand Prix,trips,0.0,1950 - 1961
+1958,British Grand Prix,collins,8.0,1950 - 1961
+1958,British Grand Prix,hawthorn,7.0,1950 - 1961
+1958,British Grand Prix,salvadori,4.0,1950 - 1961
+1958,British Grand Prix,lewis-evans,3.0,1950 - 1961
+1958,British Grand Prix,schell,2.0,1950 - 1961
+1958,British Grand Prix,allison,0.0,1950 - 1961
+1958,British Grand Prix,behra,0.0,1950 - 1961
+1958,British Grand Prix,bonnier,0.0,1950 - 1961
+1958,British Grand Prix,brooks,0.0,1950 - 1961
+1958,British Grand Prix,bueb,0.0,1950 - 1961
+1958,British Grand Prix,burgess,0.0,1950 - 1961
+1958,British Grand Prix,fairman,0.0,1950 - 1961
+1958,British Grand Prix,gerini,0.0,1950 - 1961
+1958,British Grand Prix,hill,0.0,1950 - 1961
+1958,British Grand Prix,jack_brabham,0.0,1950 - 1961
+1958,British Grand Prix,moss,0.0,1950 - 1961
+1958,British Grand Prix,shelby,0.0,1950 - 1961
+1958,British Grand Prix,stacey,0.0,1950 - 1961
+1958,British Grand Prix,trintignant,0.0,1950 - 1961
+1958,British Grand Prix,trips,0.0,1950 - 1961
+1958,Belgian Grand Prix,brooks,8.0,1950 - 1961
+1958,Belgian Grand Prix,hawthorn,7.0,1950 - 1961
+1958,Belgian Grand Prix,lewis-evans,4.0,1950 - 1961
+1958,Belgian Grand Prix,allison,3.0,1950 - 1961
+1958,Belgian Grand Prix,schell,2.0,1950 - 1961
+1958,Belgian Grand Prix,behra,0.0,1950 - 1961
+1958,Belgian Grand Prix,bonnier,0.0,1950 - 1961
+1958,Belgian Grand Prix,collins,0.0,1950 - 1961
+1958,Belgian Grand Prix,filippis,0.0,1950 - 1961
+1958,Belgian Grand Prix,gendebien,0.0,1950 - 1961
+1958,Belgian Grand Prix,godia,0.0,1950 - 1961
+1958,Belgian Grand Prix,gregory,0.0,1950 - 1961
+1958,Belgian Grand Prix,hill,0.0,1950 - 1961
+1958,Belgian Grand Prix,jack_brabham,0.0,1950 - 1961
+1958,Belgian Grand Prix,moss,0.0,1950 - 1961
+1958,Belgian Grand Prix,musso,0.0,1950 - 1961
+1958,Belgian Grand Prix,salvadori,0.0,1950 - 1961
+1958,Belgian Grand Prix,seidel,0.0,1950 - 1961
+1958,Belgian Grand Prix,trintignant,0.0,1950 - 1961
+1959,Monaco Grand Prix,jack_brabham,9.0,1950 - 1961
+1959,Monaco Grand Prix,brooks,6.0,1950 - 1961
+1959,Monaco Grand Prix,trintignant,4.0,1950 - 1961
+1959,Monaco Grand Prix,phil_hill,3.0,1950 - 1961
+1959,Monaco Grand Prix,mclaren,2.0,1950 - 1961
+1959,Monaco Grand Prix,Changy,0.0,1950 - 1961
+1959,Monaco Grand Prix,allison,0.0,1950 - 1961
+1959,Monaco Grand Prix,behra,0.0,1950 - 1961
+1959,Monaco Grand Prix,bianchi,0.0,1950 - 1961
+1959,Monaco Grand Prix,bonnier,0.0,1950 - 1961
+1959,Monaco Grand Prix,bueb,0.0,1950 - 1961
+1959,Monaco Grand Prix,filippis,0.0,1950 - 1961
+1959,Monaco Grand Prix,flockhart,0.0,1950 - 1961
+1959,Monaco Grand Prix,gregory,0.0,1950 - 1961
+1959,Monaco Grand Prix,halford,0.0,1950 - 1961
+1959,Monaco Grand Prix,hill,0.0,1950 - 1961
+1959,Monaco Grand Prix,lovely,0.0,1950 - 1961
+1959,Monaco Grand Prix,lucienbonnet,0.0,1950 - 1961
+1959,Monaco Grand Prix,moss,0.0,1950 - 1961
+1959,Monaco Grand Prix,salvadori,0.0,1950 - 1961
+1959,Monaco Grand Prix,scarlatti,0.0,1950 - 1961
+1959,Monaco Grand Prix,schell,0.0,1950 - 1961
+1959,Monaco Grand Prix,testut,0.0,1950 - 1961
+1959,Monaco Grand Prix,trips,0.0,1950 - 1961
+1959,Italian Grand Prix,moss,8.0,1950 - 1961
+1959,Italian Grand Prix,phil_hill,7.0,1950 - 1961
+1959,Italian Grand Prix,jack_brabham,4.0,1950 - 1961
+1959,Italian Grand Prix,gurney,3.0,1950 - 1961
+1959,Italian Grand Prix,allison,2.0,1950 - 1961
+1959,Italian Grand Prix,bonnier,0.0,1950 - 1961
+1959,Italian Grand Prix,brooks,0.0,1950 - 1961
+1959,Italian Grand Prix,burgess,0.0,1950 - 1961
+1959,Italian Grand Prix,cabianca,0.0,1950 - 1961
+1959,Italian Grand Prix,davis,0.0,1950 - 1961
+1959,Italian Grand Prix,fairman,0.0,1950 - 1961
+1959,Italian Grand Prix,flockhart,0.0,1950 - 1961
+1959,Italian Grand Prix,gendebien,0.0,1950 - 1961
+1959,Italian Grand Prix,hill,0.0,1950 - 1961
+1959,Italian Grand Prix,ireland,0.0,1950 - 1961
+1959,Italian Grand Prix,mclaren,0.0,1950 - 1961
+1959,Italian Grand Prix,salvadori,0.0,1950 - 1961
+1959,Italian Grand Prix,scarlatti,0.0,1950 - 1961
+1959,Italian Grand Prix,schell,0.0,1950 - 1961
+1959,Italian Grand Prix,shelby,0.0,1950 - 1961
+1959,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1959,British Grand Prix,jack_brabham,8.0,1950 - 1961
+1959,British Grand Prix,moss,6.5,1950 - 1961
+1959,British Grand Prix,mclaren,4.5,1950 - 1961
+1959,British Grand Prix,schell,3.0,1950 - 1961
+1959,British Grand Prix,trintignant,2.0,1950 - 1961
+1959,British Grand Prix,ashdown,0.0,1950 - 1961
+1959,British Grand Prix,bill_moss,0.0,1950 - 1961
+1959,British Grand Prix,bonnier,0.0,1950 - 1961
+1959,British Grand Prix,bristow,0.0,1950 - 1961
+1959,British Grand Prix,brooks,0.0,1950 - 1961
+1959,British Grand Prix,bueb,0.0,1950 - 1961
+1959,British Grand Prix,burgess,0.0,1950 - 1961
+1959,British Grand Prix,dennis_taylor,0.0,1950 - 1961
+1959,British Grand Prix,fairman,0.0,1950 - 1961
+1959,British Grand Prix,flockhart,0.0,1950 - 1961
+1959,British Grand Prix,greene,0.0,1950 - 1961
+1959,British Grand Prix,gregory,0.0,1950 - 1961
+1959,British Grand Prix,henry_taylor,0.0,1950 - 1961
+1959,British Grand Prix,herrmann,0.0,1950 - 1961
+1959,British Grand Prix,hill,0.0,1950 - 1961
+1959,British Grand Prix,mike_taylor,0.0,1950 - 1961
+1959,British Grand Prix,naylor,0.0,1950 - 1961
+1959,British Grand Prix,orey,0.0,1950 - 1961
+1959,British Grand Prix,parkes,0.0,1950 - 1961
+1959,British Grand Prix,parnell,0.0,1950 - 1961
+1959,British Grand Prix,piper,0.0,1950 - 1961
+1959,British Grand Prix,salvadori,0.0,1950 - 1961
+1959,British Grand Prix,shelby,0.0,1950 - 1961
+1959,British Grand Prix,stacey,0.0,1950 - 1961
+1959,British Grand Prix,trevor_taylor,0.0,1950 - 1961
+1960,Monaco Grand Prix,moss,8.0,1950 - 1961
+1960,Monaco Grand Prix,mclaren,6.0,1950 - 1961
+1960,Monaco Grand Prix,phil_hill,4.0,1950 - 1961
+1960,Monaco Grand Prix,brooks,3.0,1950 - 1961
+1960,Monaco Grand Prix,bonnier,2.0,1950 - 1961
+1960,Monaco Grand Prix,ginther,1.0,1950 - 1961
+1960,Monaco Grand Prix,allison,0.0,1950 - 1961
+1960,Monaco Grand Prix,bristow,0.0,1950 - 1961
+1960,Monaco Grand Prix,burgess,0.0,1950 - 1961
+1960,Monaco Grand Prix,daigh,0.0,1950 - 1961
+1960,Monaco Grand Prix,gregory,0.0,1950 - 1961
+1960,Monaco Grand Prix,gurney,0.0,1950 - 1961
+1960,Monaco Grand Prix,halford,0.0,1950 - 1961
+1960,Monaco Grand Prix,hill,0.0,1950 - 1961
+1960,Monaco Grand Prix,ireland,0.0,1950 - 1961
+1960,Monaco Grand Prix,jack_brabham,0.0,1950 - 1961
+1960,Monaco Grand Prix,naylor,0.0,1950 - 1961
+1960,Monaco Grand Prix,reventlow,0.0,1950 - 1961
+1960,Monaco Grand Prix,salvadori,0.0,1950 - 1961
+1960,Monaco Grand Prix,scarlatti,0.0,1950 - 1961
+1960,Monaco Grand Prix,stacey,0.0,1950 - 1961
+1960,Monaco Grand Prix,surtees,0.0,1950 - 1961
+1960,Monaco Grand Prix,trintignant,0.0,1950 - 1961
+1960,Monaco Grand Prix,trips,0.0,1950 - 1961
+1960,Italian Grand Prix,phil_hill,8.0,1950 - 1961
+1960,Italian Grand Prix,ginther,6.0,1950 - 1961
+1960,Italian Grand Prix,mairesse,4.0,1950 - 1961
+1960,Italian Grand Prix,cabianca,3.0,1950 - 1961
+1960,Italian Grand Prix,trips,2.0,1950 - 1961
+1960,Italian Grand Prix,herrmann,1.0,1950 - 1961
+1960,Italian Grand Prix,barth,0.0,1950 - 1961
+1960,Italian Grand Prix,drogo,0.0,1950 - 1961
+1960,Italian Grand Prix,gamble,0.0,1950 - 1961
+1960,Italian Grand Prix,gould,0.0,1950 - 1961
+1960,Italian Grand Prix,munaron,0.0,1950 - 1961
+1960,Italian Grand Prix,naylor,0.0,1950 - 1961
+1960,Italian Grand Prix,owen,0.0,1950 - 1961
+1960,Italian Grand Prix,scarlatti,0.0,1950 - 1961
+1960,Italian Grand Prix,seidel,0.0,1950 - 1961
+1960,Italian Grand Prix,thiele,0.0,1950 - 1961
+1960,Italian Grand Prix,vic_wilson,0.0,1950 - 1961
+1960,British Grand Prix,jack_brabham,8.0,1950 - 1961
+1960,British Grand Prix,surtees,6.0,1950 - 1961
+1960,British Grand Prix,ireland,4.0,1950 - 1961
+1960,British Grand Prix,mclaren,3.0,1950 - 1961
+1960,British Grand Prix,brooks,2.0,1950 - 1961
+1960,British Grand Prix,trips,1.0,1950 - 1961
+1960,British Grand Prix,bianchi,0.0,1950 - 1961
+1960,British Grand Prix,bonnier,0.0,1950 - 1961
+1960,British Grand Prix,burgess,0.0,1950 - 1961
+1960,British Grand Prix,clark,0.0,1950 - 1961
+1960,British Grand Prix,daigh,0.0,1950 - 1961
+1960,British Grand Prix,fairman,0.0,1950 - 1961
+1960,British Grand Prix,gendebien,0.0,1950 - 1961
+1960,British Grand Prix,greene,0.0,1950 - 1961
+1960,British Grand Prix,gregory,0.0,1950 - 1961
+1960,British Grand Prix,gurney,0.0,1950 - 1961
+1960,British Grand Prix,henry_taylor,0.0,1950 - 1961
+1960,British Grand Prix,hill,0.0,1950 - 1961
+1960,British Grand Prix,munaron,0.0,1950 - 1961
+1960,British Grand Prix,naylor,0.0,1950 - 1961
+1960,British Grand Prix,phil_hill,0.0,1950 - 1961
+1960,British Grand Prix,piper,0.0,1950 - 1961
+1960,British Grand Prix,reventlow,0.0,1950 - 1961
+1960,British Grand Prix,salvadori,0.0,1950 - 1961
+1960,British Grand Prix,trintignant,0.0,1950 - 1961
+1960,Belgian Grand Prix,jack_brabham,8.0,1950 - 1961
+1960,Belgian Grand Prix,mclaren,6.0,1950 - 1961
+1960,Belgian Grand Prix,gendebien,4.0,1950 - 1961
+1960,Belgian Grand Prix,phil_hill,3.0,1950 - 1961
+1960,Belgian Grand Prix,clark,2.0,1950 - 1961
+1960,Belgian Grand Prix,bianchi,1.0,1950 - 1961
+1960,Belgian Grand Prix,bonnier,0.0,1950 - 1961
+1960,Belgian Grand Prix,bristow,0.0,1950 - 1961
+1960,Belgian Grand Prix,brooks,0.0,1950 - 1961
+1960,Belgian Grand Prix,daigh,0.0,1950 - 1961
+1960,Belgian Grand Prix,gurney,0.0,1950 - 1961
+1960,Belgian Grand Prix,hill,0.0,1950 - 1961
+1960,Belgian Grand Prix,ireland,0.0,1950 - 1961
+1960,Belgian Grand Prix,mairesse,0.0,1950 - 1961
+1960,Belgian Grand Prix,mike_taylor,0.0,1950 - 1961
+1960,Belgian Grand Prix,moss,0.0,1950 - 1961
+1960,Belgian Grand Prix,reventlow,0.0,1950 - 1961
+1960,Belgian Grand Prix,stacey,0.0,1950 - 1961
+1960,Belgian Grand Prix,trips,0.0,1950 - 1961
+1961,Monaco Grand Prix,moss,9.0,1950 - 1961
+1961,Monaco Grand Prix,ginther,6.0,1950 - 1961
+1961,Monaco Grand Prix,phil_hill,4.0,1950 - 1961
+1961,Monaco Grand Prix,trips,3.0,1950 - 1961
+1961,Monaco Grand Prix,gurney,2.0,1950 - 1961
+1961,Monaco Grand Prix,mclaren,1.0,1950 - 1961
+1961,Monaco Grand Prix,allison,0.0,1950 - 1961
+1961,Monaco Grand Prix,bianchi,0.0,1950 - 1961
+1961,Monaco Grand Prix,bonnier,0.0,1950 - 1961
+1961,Monaco Grand Prix,brooks,0.0,1950 - 1961
+1961,Monaco Grand Prix,clark,0.0,1950 - 1961
+1961,Monaco Grand Prix,gendebien,0.0,1950 - 1961
+1961,Monaco Grand Prix,gregory,0.0,1950 - 1961
+1961,Monaco Grand Prix,henry_taylor,0.0,1950 - 1961
+1961,Monaco Grand Prix,herrmann,0.0,1950 - 1961
+1961,Monaco Grand Prix,hill,0.0,1950 - 1961
+1961,Monaco Grand Prix,ireland,0.0,1950 - 1961
+1961,Monaco Grand Prix,jack_brabham,0.0,1950 - 1961
+1961,Monaco Grand Prix,may,0.0,1950 - 1961
+1961,Monaco Grand Prix,surtees,0.0,1950 - 1961
+1961,Monaco Grand Prix,trintignant,0.0,1950 - 1961
+1961,Italian Grand Prix,phil_hill,9.0,1950 - 1961
+1961,Italian Grand Prix,gurney,6.0,1950 - 1961
+1961,Italian Grand Prix,mclaren,4.0,1950 - 1961
+1961,Italian Grand Prix,lewis,3.0,1950 - 1961
+1961,Italian Grand Prix,brooks,2.0,1950 - 1961
+1961,Italian Grand Prix,salvadori,1.0,1950 - 1961
+1961,Italian Grand Prix,andre_pilette,0.0,1950 - 1961
+1961,Italian Grand Prix,ashmore,0.0,1950 - 1961
+1961,Italian Grand Prix,baghetti,0.0,1950 - 1961
+1961,Italian Grand Prix,bandini,0.0,1950 - 1961
+1961,Italian Grand Prix,barth,0.0,1950 - 1961
+1961,Italian Grand Prix,beaufort,0.0,1950 - 1961
+1961,Italian Grand Prix,boffa,0.0,1950 - 1961
+1961,Italian Grand Prix,bonnier,0.0,1950 - 1961
+1961,Italian Grand Prix,bussinello,0.0,1950 - 1961
+1961,Italian Grand Prix,clark,0.0,1950 - 1961
+1961,Italian Grand Prix,fairman,0.0,1950 - 1961
+1961,Italian Grand Prix,ginther,0.0,1950 - 1961
+1961,Italian Grand Prix,gregory,0.0,1950 - 1961
+1961,Italian Grand Prix,henry_taylor,0.0,1950 - 1961
+1961,Italian Grand Prix,hill,0.0,1950 - 1961
+1961,Italian Grand Prix,ireland,0.0,1950 - 1961
+1961,Italian Grand Prix,jack_brabham,0.0,1950 - 1961
+1961,Italian Grand Prix,lippi,0.0,1950 - 1961
+1961,Italian Grand Prix,may,0.0,1950 - 1961
+1961,Italian Grand Prix,moss,0.0,1950 - 1961
+1961,Italian Grand Prix,natili,0.0,1950 - 1961
+1961,Italian Grand Prix,naylor,0.0,1950 - 1961
+1961,Italian Grand Prix,parnell,0.0,1950 - 1961
+1961,Italian Grand Prix,pirocchi,0.0,1950 - 1961
+1961,Italian Grand Prix,prinoth,0.0,1950 - 1961
+1961,Italian Grand Prix,ricardo_rodriguez,0.0,1950 - 1961
+1961,Italian Grand Prix,seidel,0.0,1950 - 1961
+1961,Italian Grand Prix,starrabba,0.0,1950 - 1961
+1961,Italian Grand Prix,surtees,0.0,1950 - 1961
+1961,Italian Grand Prix,thiele,0.0,1950 - 1961
+1961,Italian Grand Prix,trintignant,0.0,1950 - 1961
+1961,Italian Grand Prix,trips,0.0,1950 - 1961
+1961,Italian Grand Prix,vaccarella,0.0,1950 - 1961
+1961,British Grand Prix,trips,9.0,1950 - 1961
+1961,British Grand Prix,phil_hill,6.0,1950 - 1961
+1961,British Grand Prix,ginther,4.0,1950 - 1961
+1961,British Grand Prix,jack_brabham,3.0,1950 - 1961
+1961,British Grand Prix,bonnier,2.0,1950 - 1961
+1961,British Grand Prix,salvadori,1.0,1950 - 1961
+1961,British Grand Prix,ashmore,0.0,1950 - 1961
+1961,British Grand Prix,baghetti,0.0,1950 - 1961
+1961,British Grand Prix,bandini,0.0,1950 - 1961
+1961,British Grand Prix,beaufort,0.0,1950 - 1961
+1961,British Grand Prix,bianchi,0.0,1950 - 1961
+1961,British Grand Prix,brooks,0.0,1950 - 1961
+1961,British Grand Prix,burgess,0.0,1950 - 1961
+1961,British Grand Prix,clark,0.0,1950 - 1961
+1961,British Grand Prix,fairman,0.0,1950 - 1961
+1961,British Grand Prix,gendebien,0.0,1950 - 1961
+1961,British Grand Prix,greene,0.0,1950 - 1961
+1961,British Grand Prix,gregory,0.0,1950 - 1961
+1961,British Grand Prix,gurney,0.0,1950 - 1961
+1961,British Grand Prix,henry_taylor,0.0,1950 - 1961
+1961,British Grand Prix,hill,0.0,1950 - 1961
+1961,British Grand Prix,ireland,0.0,1950 - 1961
+1961,British Grand Prix,lewis,0.0,1950 - 1961
+1961,British Grand Prix,maggs,0.0,1950 - 1961
+1961,British Grand Prix,marsh,0.0,1950 - 1961
+1961,British Grand Prix,mclaren,0.0,1950 - 1961
+1961,British Grand Prix,moss,0.0,1950 - 1961
+1961,British Grand Prix,natili,0.0,1950 - 1961
+1961,British Grand Prix,parnell,0.0,1950 - 1961
+1961,British Grand Prix,seidel,0.0,1950 - 1961
+1961,British Grand Prix,surtees,0.0,1950 - 1961
+1961,Belgian Grand Prix,phil_hill,9.0,1950 - 1961
+1961,Belgian Grand Prix,trips,6.0,1950 - 1961
+1961,Belgian Grand Prix,ginther,4.0,1950 - 1961
+1961,Belgian Grand Prix,gendebien,3.0,1950 - 1961
+1961,Belgian Grand Prix,surtees,2.0,1950 - 1961
+1961,Belgian Grand Prix,gurney,1.0,1950 - 1961
+1961,Belgian Grand Prix,allison,0.0,1950 - 1961
+1961,Belgian Grand Prix,bandini,0.0,1950 - 1961
+1961,Belgian Grand Prix,beaufort,0.0,1950 - 1961
+1961,Belgian Grand Prix,bianchi,0.0,1950 - 1961
+1961,Belgian Grand Prix,bonnier,0.0,1950 - 1961
+1961,Belgian Grand Prix,brooks,0.0,1950 - 1961
+1961,Belgian Grand Prix,burgess,0.0,1950 - 1961
+1961,Belgian Grand Prix,clark,0.0,1950 - 1961
+1961,Belgian Grand Prix,gregory,0.0,1950 - 1961
+1961,Belgian Grand Prix,henry_taylor,0.0,1950 - 1961
+1961,Belgian Grand Prix,hill,0.0,1950 - 1961
+1961,Belgian Grand Prix,ireland,0.0,1950 - 1961
+1961,Belgian Grand Prix,jack_brabham,0.0,1950 - 1961
+1961,Belgian Grand Prix,lewis,0.0,1950 - 1961
+1961,Belgian Grand Prix,mairesse,0.0,1950 - 1961
+1961,Belgian Grand Prix,marsh,0.0,1950 - 1961
+1961,Belgian Grand Prix,mclaren,0.0,1950 - 1961
+1961,Belgian Grand Prix,moss,0.0,1950 - 1961
+1961,Belgian Grand Prix,seidel,0.0,1950 - 1961
+1961,Belgian Grand Prix,trintignant,0.0,1950 - 1961

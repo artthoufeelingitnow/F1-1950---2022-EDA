@@ -1,166 +1,166 @@
-,year,name,driver_name,grid,race_finish_position,positions_gained_lost
-6140,2014,Belgian Grand Prix,hulkenberg,18,10,8
-6135,2014,Belgian Grand Prix,perez,13,8,5
-6142,2014,Belgian Grand Prix,gutierrez,20,15,5
-6144,2014,Belgian Grand Prix,ericsson,22,17,5
-6127,2014,Belgian Grand Prix,ricciardo,5,1,4
-6073,2014,British Grand Prix,bottas,14,2,12
-6075,2014,British Grand Prix,alonso,16,6,10
-6078,2014,British Grand Prix,kobayashi,22,15,7
-6062,2014,British Grand Prix,hamilton,6,1,5
-6064,2014,British Grand Prix,ricciardo,8,3,5
-6155,2014,Italian Grand Prix,kvyat,21,11,10
-6153,2014,Italian Grand Prix,ricciardo,9,5,4
-6154,2014,Italian Grand Prix,perez,10,7,3
-6152,2014,Italian Grand Prix,vettel,8,6,2
-6156,2014,Italian Grand Prix,raikkonen,11,9,2
-6009,2014,Monaco Grand Prix,jules_bianchi,21,9,12
-6012,2014,Monaco Grand Prix,ericsson,22,11,11
-6006,2014,Monaco Grand Prix,massa,16,7,9
-6011,2014,Monaco Grand Prix,kobayashi,20,13,7
-6001,2014,Monaco Grand Prix,hulkenberg,11,5,6
-6495,2015,Belgian Grand Prix,max_verstappen,18,8,10
-6494,2015,Belgian Grand Prix,raikkonen,16,7,9
-6492,2015,Belgian Grand Prix,kvyat,12,4,8
-6498,2015,Belgian Grand Prix,alonso,20,13,7
-6484,2015,Belgian Grand Prix,grosjean,9,3,6
-6460,2015,British Grand Prix,merhi,20,12,8
-6457,2015,British Grand Prix,alonso,17,10,7
-6459,2015,British Grand Prix,stevens,19,13,6
-6455,2015,British Grand Prix,ericsson,15,11,4
-6446,2015,British Grand Prix,vettel,6,3,3
-6515,2015,Italian Grand Prix,ricciardo,19,8,11
-6514,2015,Italian Grand Prix,kvyat,18,10,8
-6520,2015,Italian Grand Prix,max_verstappen,20,12,8
-6513,2015,Italian Grand Prix,sainz,17,11,6
-6512,2015,Italian Grand Prix,nasr,17,13,4
-6397,2015,Monaco Grand Prix,nasr,14,9,5
-6399,2015,Monaco Grand Prix,ericsson,17,13,4
-6392,2015,Monaco Grand Prix,grosjean,15,12,3
-6401,2015,Monaco Grand Prix,merhi,19,16,3
-6393,2015,Monaco Grand Prix,button,10,8,2
-6942,2016,Belgian Grand Prix,hamilton,21,3,18
-6934,2016,Belgian Grand Prix,gutierrez,18,12,6
-6940,2016,Belgian Grand Prix,kvyat,19,14,5
-6926,2016,Belgian Grand Prix,ricciardo,5,2,3
-6928,2016,Belgian Grand Prix,hulkenberg,7,4,3
-6877,2016,British Grand Prix,nasr,21,15,6
-6871,2016,British Grand Prix,kvyat,15,10,5
-6873,2016,British Grand Prix,button,17,12,5
-6867,2016,British Grand Prix,perez,10,6,4
-6862,2016,British Grand Prix,vettel,11,9,2
-6954,2016,Italian Grand Prix,grosjean,17,11,6
-6963,2016,Italian Grand Prix,kevin_magnussen,21,17,4
-6961,2016,Italian Grand Prix,ericsson,19,16,3
-6953,2016,Italian Grand Prix,massa,11,9,2
-6957,2016,Italian Grand Prix,button,14,12,2
-6789,2016,Monaco Grand Prix,wehrlein,20,14,6
-6777,2016,Monaco Grand Prix,perez,7,3,4
-6779,2016,Monaco Grand Prix,alonso,9,5,4
-6782,2016,Monaco Grand Prix,button,13,9,4
-6783,2016,Monaco Grand Prix,massa,14,10,4
-7352,2017,Belgian Grand Prix,massa,16,8,8
-7353,2017,Belgian Grand Prix,kvyat,19,12,7
-7351,2017,Belgian Grand Prix,vandoorne,20,14,6
-7348,2017,Belgian Grand Prix,grosjean,11,7,4
-7354,2017,Belgian Grand Prix,stroll,15,11,4
-7316,2017,British Grand Prix,ricciardo,19,5,14
-7300,2017,British Grand Prix,bottas,9,2,7
-7311,2017,British Grand Prix,massa,14,10,4
-7313,2017,British Grand Prix,kevin_magnussen,16,12,4
-7315,2017,British Grand Prix,ericsson,18,14,4
-7359,2017,Italian Grand Prix,ricciardo,16,4,12
-7376,2017,Italian Grand Prix,grosjean,20,15,5
-7358,2017,Italian Grand Prix,max_verstappen,13,10,3
-7364,2017,Italian Grand Prix,vettel,6,3,3
-7362,2017,Italian Grand Prix,bottas,4,2,2
-7230,2017,Monaco Grand Prix,hamilton,13,7,6
-7231,2017,Monaco Grand Prix,massa,14,9,5
-7233,2017,Monaco Grand Prix,jolyon_palmer,16,11,5
-7232,2017,Monaco Grand Prix,ocon,15,12,3
-7221,2017,Monaco Grand Prix,ricciardo,5,3,2
-7765,2018,Belgian Grand Prix,bottas,19,4,15
-7762,2018,Belgian Grand Prix,max_verstappen,7,3,4
-7773,2018,Belgian Grand Prix,sirotkin,16,12,4
-7774,2018,Belgian Grand Prix,stroll,17,13,4
-7769,2018,Belgian Grand Prix,ericsson,13,10,3
-7714,2018,British Grand Prix,stroll,19,12,7
-7712,2018,British Grand Prix,vandoorne,17,11,6
-7706,2018,British Grand Prix,hulkenberg,11,6,5
-7708,2018,British Grand Prix,alonso,13,8,5
-7713,2018,British Grand Prix,sirotkin,18,14,4
-7789,2018,Italian Grand Prix,hulkenberg,20,14,6
-7791,2018,Italian Grand Prix,perez,14,8,6
-7795,2018,Italian Grand Prix,vandoorne,17,13,4
-7792,2018,Italian Grand Prix,leclerc,15,12,3
-7778,2018,Italian Grand Prix,hamilton,3,1,2
-7632,2018,Monaco Grand Prix,max_verstappen,20,9,11
-7631,2018,Monaco Grand Prix,kevin_magnussen,19,13,6
-7629,2018,Monaco Grand Prix,ericsson,16,11,5
-7623,2018,Monaco Grand Prix,gasly,10,7,3
-7627,2018,Monaco Grand Prix,grosjean,18,15,3
-8187,2019,Belgian Grand Prix,albon,17,5,12
-8191,2019,Belgian Grand Prix,kvyat,19,7,12
-8186,2019,Belgian Grand Prix,stroll,16,10,6
-8180,2019,Belgian Grand Prix,hulkenberg,12,8,4
-8189,2019,Belgian Grand Prix,gasly,13,9,4
-8130,2019,British Grand Prix,kvyat,17,9,8
-8126,2019,British Grand Prix,sainz,13,6,7
-8131,2019,British Grand Prix,stroll,18,13,5
-8132,2019,British Grand Prix,russell,19,14,5
-8133,2019,British Grand Prix,kubica,20,15,5
-8210,2019,Italian Grand Prix,perez,18,7,11
-8213,2019,Italian Grand Prix,max_verstappen,19,8,11
-8207,2019,Italian Grand Prix,norris,16,10,6
-8208,2019,Italian Grand Prix,gasly,17,11,6
-8201,2019,Italian Grand Prix,albon,8,6,2
-8050,2019,Monaco Grand Prix,perez,16,12,4
-8052,2019,Monaco Grand Prix,russell,19,15,4
-8038,2019,Monaco Grand Prix,gasly,8,5,3
-8042,2019,Monaco Grand Prix,sainz,9,6,3
-8046,2019,Monaco Grand Prix,grosjean,13,10,3
-8485,2020,Belgian Grand Prix,gasly,12,8,4
-8489,2020,Belgian Grand Prix,raikkonen,16,12,4
-8483,2020,Belgian Grand Prix,norris,10,7,3
-8492,2020,Belgian Grand Prix,latifi,19,16,3
-8493,2020,Belgian Grand Prix,kevin_magnussen,20,17,3
-8428,2020,British Grand Prix,russell,20,12,8
-8421,2020,British Grand Prix,ricciardo,8,4,4
-8424,2020,British Grand Prix,gasly,11,7,4
-8425,2020,British Grand Prix,albon,12,8,4
-8422,2020,British Grand Prix,ocon,9,6,3
-8503,2020,Italian Grand Prix,gasly,10,1,9
-8513,2020,Italian Grand Prix,latifi,20,11,9
-8501,2020,Italian Grand Prix,stroll,8,3,5
-8512,2020,Italian Grand Prix,russell,19,14,5
-8505,2020,Italian Grand Prix,ocon,12,8,4
-8920,2021,Belgian Grand Prix,bottas,13,12,1
-8921,2021,Belgian Grand Prix,ocon,8,7,1
-8922,2021,Belgian Grand Prix,norris,15,14,1
-8923,2021,Belgian Grand Prix,leclerc,9,8,1
-8924,2021,Belgian Grand Prix,latifi,10,9,1
-8887,2021,British Grand Prix,stroll,14,8,6
-8888,2021,British Grand Prix,tsunoda,16,10,6
-8881,2021,British Grand Prix,sainz,10,6,4
-8890,2021,British Grand Prix,latifi,17,14,3
-8876,2021,British Grand Prix,leclerc,4,2,2
-8953,2021,Italian Grand Prix,bottas,19,3,16
-8967,2021,Italian Grand Prix,russell,14,9,5
-8961,2021,Italian Grand Prix,perez,8,5,3
-8970,2021,Italian Grand Prix,mick_schumacher,18,15,3
-8971,2021,Italian Grand Prix,kubica,17,14,3
-8782,2021,Monaco Grand Prix,perez,9,4,5
-8786,2021,Monaco Grand Prix,stroll,13,8,5
-8790,2021,Monaco Grand Prix,alonso,17,13,4
-8781,2021,Monaco Grand Prix,vettel,8,5,3
-8787,2021,Monaco Grand Prix,raikkonen,14,11,3
-9333,2022,British Grand Prix,mick_schumacher,19,8,11
-9332,2022,British Grand Prix,vettel,18,9,9
-9334,2022,British Grand Prix,stroll,20,11,9
-9331,2022,British Grand Prix,kevin_magnussen,17,10,7
-9318,2022,British Grand Prix,perez,4,2,2
-9271,2022,Monaco Grand Prix,gasly,17,11,6
-9272,2022,Monaco Grand Prix,stroll,18,14,4
-9273,2022,Monaco Grand Prix,latifi,19,15,4
-9274,2022,Monaco Grand Prix,zhou,20,16,4
-9266,2022,Monaco Grand Prix,bottas,12,9,3
+,year,name,driver_name,grid,race_finish_position,positions_gained_lost,era
+6140,2014,Belgian Grand Prix,hulkenberg,18,10,8,V6 Hybrid
+6135,2014,Belgian Grand Prix,perez,13,8,5,V6 Hybrid
+6142,2014,Belgian Grand Prix,gutierrez,20,15,5,V6 Hybrid
+6144,2014,Belgian Grand Prix,ericsson,22,17,5,V6 Hybrid
+6127,2014,Belgian Grand Prix,ricciardo,5,1,4,V6 Hybrid
+6073,2014,British Grand Prix,bottas,14,2,12,V6 Hybrid
+6075,2014,British Grand Prix,alonso,16,6,10,V6 Hybrid
+6078,2014,British Grand Prix,kobayashi,22,15,7,V6 Hybrid
+6062,2014,British Grand Prix,hamilton,6,1,5,V6 Hybrid
+6064,2014,British Grand Prix,ricciardo,8,3,5,V6 Hybrid
+6155,2014,Italian Grand Prix,kvyat,21,11,10,V6 Hybrid
+6153,2014,Italian Grand Prix,ricciardo,9,5,4,V6 Hybrid
+6154,2014,Italian Grand Prix,perez,10,7,3,V6 Hybrid
+6152,2014,Italian Grand Prix,vettel,8,6,2,V6 Hybrid
+6156,2014,Italian Grand Prix,raikkonen,11,9,2,V6 Hybrid
+6009,2014,Monaco Grand Prix,jules_bianchi,21,9,12,V6 Hybrid
+6012,2014,Monaco Grand Prix,ericsson,22,11,11,V6 Hybrid
+6006,2014,Monaco Grand Prix,massa,16,7,9,V6 Hybrid
+6011,2014,Monaco Grand Prix,kobayashi,20,13,7,V6 Hybrid
+6001,2014,Monaco Grand Prix,hulkenberg,11,5,6,V6 Hybrid
+6495,2015,Belgian Grand Prix,max_verstappen,18,8,10,V6 Hybrid
+6494,2015,Belgian Grand Prix,raikkonen,16,7,9,V6 Hybrid
+6492,2015,Belgian Grand Prix,kvyat,12,4,8,V6 Hybrid
+6498,2015,Belgian Grand Prix,alonso,20,13,7,V6 Hybrid
+6484,2015,Belgian Grand Prix,grosjean,9,3,6,V6 Hybrid
+6460,2015,British Grand Prix,merhi,20,12,8,V6 Hybrid
+6457,2015,British Grand Prix,alonso,17,10,7,V6 Hybrid
+6459,2015,British Grand Prix,stevens,19,13,6,V6 Hybrid
+6455,2015,British Grand Prix,ericsson,15,11,4,V6 Hybrid
+6446,2015,British Grand Prix,vettel,6,3,3,V6 Hybrid
+6515,2015,Italian Grand Prix,ricciardo,19,8,11,V6 Hybrid
+6514,2015,Italian Grand Prix,kvyat,18,10,8,V6 Hybrid
+6520,2015,Italian Grand Prix,max_verstappen,20,12,8,V6 Hybrid
+6513,2015,Italian Grand Prix,sainz,17,11,6,V6 Hybrid
+6512,2015,Italian Grand Prix,nasr,17,13,4,V6 Hybrid
+6397,2015,Monaco Grand Prix,nasr,14,9,5,V6 Hybrid
+6399,2015,Monaco Grand Prix,ericsson,17,13,4,V6 Hybrid
+6392,2015,Monaco Grand Prix,grosjean,15,12,3,V6 Hybrid
+6401,2015,Monaco Grand Prix,merhi,19,16,3,V6 Hybrid
+6393,2015,Monaco Grand Prix,button,10,8,2,V6 Hybrid
+6942,2016,Belgian Grand Prix,hamilton,21,3,18,V6 Hybrid
+6934,2016,Belgian Grand Prix,gutierrez,18,12,6,V6 Hybrid
+6940,2016,Belgian Grand Prix,kvyat,19,14,5,V6 Hybrid
+6926,2016,Belgian Grand Prix,ricciardo,5,2,3,V6 Hybrid
+6928,2016,Belgian Grand Prix,hulkenberg,7,4,3,V6 Hybrid
+6877,2016,British Grand Prix,nasr,21,15,6,V6 Hybrid
+6871,2016,British Grand Prix,kvyat,15,10,5,V6 Hybrid
+6873,2016,British Grand Prix,button,17,12,5,V6 Hybrid
+6867,2016,British Grand Prix,perez,10,6,4,V6 Hybrid
+6862,2016,British Grand Prix,vettel,11,9,2,V6 Hybrid
+6954,2016,Italian Grand Prix,grosjean,17,11,6,V6 Hybrid
+6963,2016,Italian Grand Prix,kevin_magnussen,21,17,4,V6 Hybrid
+6961,2016,Italian Grand Prix,ericsson,19,16,3,V6 Hybrid
+6953,2016,Italian Grand Prix,massa,11,9,2,V6 Hybrid
+6957,2016,Italian Grand Prix,button,14,12,2,V6 Hybrid
+6789,2016,Monaco Grand Prix,wehrlein,20,14,6,V6 Hybrid
+6777,2016,Monaco Grand Prix,perez,7,3,4,V6 Hybrid
+6779,2016,Monaco Grand Prix,alonso,9,5,4,V6 Hybrid
+6782,2016,Monaco Grand Prix,button,13,9,4,V6 Hybrid
+6783,2016,Monaco Grand Prix,massa,14,10,4,V6 Hybrid
+7352,2017,Belgian Grand Prix,massa,16,8,8,V6 Hybrid
+7353,2017,Belgian Grand Prix,kvyat,19,12,7,V6 Hybrid
+7351,2017,Belgian Grand Prix,vandoorne,20,14,6,V6 Hybrid
+7348,2017,Belgian Grand Prix,grosjean,11,7,4,V6 Hybrid
+7354,2017,Belgian Grand Prix,stroll,15,11,4,V6 Hybrid
+7316,2017,British Grand Prix,ricciardo,19,5,14,V6 Hybrid
+7300,2017,British Grand Prix,bottas,9,2,7,V6 Hybrid
+7311,2017,British Grand Prix,massa,14,10,4,V6 Hybrid
+7313,2017,British Grand Prix,kevin_magnussen,16,12,4,V6 Hybrid
+7315,2017,British Grand Prix,ericsson,18,14,4,V6 Hybrid
+7359,2017,Italian Grand Prix,ricciardo,16,4,12,V6 Hybrid
+7376,2017,Italian Grand Prix,grosjean,20,15,5,V6 Hybrid
+7358,2017,Italian Grand Prix,max_verstappen,13,10,3,V6 Hybrid
+7364,2017,Italian Grand Prix,vettel,6,3,3,V6 Hybrid
+7362,2017,Italian Grand Prix,bottas,4,2,2,V6 Hybrid
+7230,2017,Monaco Grand Prix,hamilton,13,7,6,V6 Hybrid
+7231,2017,Monaco Grand Prix,massa,14,9,5,V6 Hybrid
+7233,2017,Monaco Grand Prix,jolyon_palmer,16,11,5,V6 Hybrid
+7232,2017,Monaco Grand Prix,ocon,15,12,3,V6 Hybrid
+7221,2017,Monaco Grand Prix,ricciardo,5,3,2,V6 Hybrid
+7765,2018,Belgian Grand Prix,bottas,19,4,15,V6 Hybrid
+7762,2018,Belgian Grand Prix,max_verstappen,7,3,4,V6 Hybrid
+7773,2018,Belgian Grand Prix,sirotkin,16,12,4,V6 Hybrid
+7774,2018,Belgian Grand Prix,stroll,17,13,4,V6 Hybrid
+7769,2018,Belgian Grand Prix,ericsson,13,10,3,V6 Hybrid
+7714,2018,British Grand Prix,stroll,19,12,7,V6 Hybrid
+7712,2018,British Grand Prix,vandoorne,17,11,6,V6 Hybrid
+7706,2018,British Grand Prix,hulkenberg,11,6,5,V6 Hybrid
+7708,2018,British Grand Prix,alonso,13,8,5,V6 Hybrid
+7713,2018,British Grand Prix,sirotkin,18,14,4,V6 Hybrid
+7789,2018,Italian Grand Prix,hulkenberg,20,14,6,V6 Hybrid
+7791,2018,Italian Grand Prix,perez,14,8,6,V6 Hybrid
+7795,2018,Italian Grand Prix,vandoorne,17,13,4,V6 Hybrid
+7792,2018,Italian Grand Prix,leclerc,15,12,3,V6 Hybrid
+7778,2018,Italian Grand Prix,hamilton,3,1,2,V6 Hybrid
+7632,2018,Monaco Grand Prix,max_verstappen,20,9,11,V6 Hybrid
+7631,2018,Monaco Grand Prix,kevin_magnussen,19,13,6,V6 Hybrid
+7629,2018,Monaco Grand Prix,ericsson,16,11,5,V6 Hybrid
+7623,2018,Monaco Grand Prix,gasly,10,7,3,V6 Hybrid
+7627,2018,Monaco Grand Prix,grosjean,18,15,3,V6 Hybrid
+8187,2019,Belgian Grand Prix,albon,17,5,12,V6 Hybrid
+8191,2019,Belgian Grand Prix,kvyat,19,7,12,V6 Hybrid
+8186,2019,Belgian Grand Prix,stroll,16,10,6,V6 Hybrid
+8180,2019,Belgian Grand Prix,hulkenberg,12,8,4,V6 Hybrid
+8189,2019,Belgian Grand Prix,gasly,13,9,4,V6 Hybrid
+8130,2019,British Grand Prix,kvyat,17,9,8,V6 Hybrid
+8126,2019,British Grand Prix,sainz,13,6,7,V6 Hybrid
+8131,2019,British Grand Prix,stroll,18,13,5,V6 Hybrid
+8132,2019,British Grand Prix,russell,19,14,5,V6 Hybrid
+8133,2019,British Grand Prix,kubica,20,15,5,V6 Hybrid
+8210,2019,Italian Grand Prix,perez,18,7,11,V6 Hybrid
+8213,2019,Italian Grand Prix,max_verstappen,19,8,11,V6 Hybrid
+8207,2019,Italian Grand Prix,norris,16,10,6,V6 Hybrid
+8208,2019,Italian Grand Prix,gasly,17,11,6,V6 Hybrid
+8201,2019,Italian Grand Prix,albon,8,6,2,V6 Hybrid
+8050,2019,Monaco Grand Prix,perez,16,12,4,V6 Hybrid
+8052,2019,Monaco Grand Prix,russell,19,15,4,V6 Hybrid
+8038,2019,Monaco Grand Prix,gasly,8,5,3,V6 Hybrid
+8042,2019,Monaco Grand Prix,sainz,9,6,3,V6 Hybrid
+8046,2019,Monaco Grand Prix,grosjean,13,10,3,V6 Hybrid
+8485,2020,Belgian Grand Prix,gasly,12,8,4,V6 Hybrid
+8489,2020,Belgian Grand Prix,raikkonen,16,12,4,V6 Hybrid
+8483,2020,Belgian Grand Prix,norris,10,7,3,V6 Hybrid
+8492,2020,Belgian Grand Prix,latifi,19,16,3,V6 Hybrid
+8493,2020,Belgian Grand Prix,kevin_magnussen,20,17,3,V6 Hybrid
+8428,2020,British Grand Prix,russell,20,12,8,V6 Hybrid
+8421,2020,British Grand Prix,ricciardo,8,4,4,V6 Hybrid
+8424,2020,British Grand Prix,gasly,11,7,4,V6 Hybrid
+8425,2020,British Grand Prix,albon,12,8,4,V6 Hybrid
+8422,2020,British Grand Prix,ocon,9,6,3,V6 Hybrid
+8503,2020,Italian Grand Prix,gasly,10,1,9,V6 Hybrid
+8513,2020,Italian Grand Prix,latifi,20,11,9,V6 Hybrid
+8501,2020,Italian Grand Prix,stroll,8,3,5,V6 Hybrid
+8512,2020,Italian Grand Prix,russell,19,14,5,V6 Hybrid
+8505,2020,Italian Grand Prix,ocon,12,8,4,V6 Hybrid
+8920,2021,Belgian Grand Prix,bottas,13,12,1,V6 Hybrid
+8921,2021,Belgian Grand Prix,ocon,8,7,1,V6 Hybrid
+8922,2021,Belgian Grand Prix,norris,15,14,1,V6 Hybrid
+8923,2021,Belgian Grand Prix,leclerc,9,8,1,V6 Hybrid
+8924,2021,Belgian Grand Prix,latifi,10,9,1,V6 Hybrid
+8887,2021,British Grand Prix,stroll,14,8,6,V6 Hybrid
+8888,2021,British Grand Prix,tsunoda,16,10,6,V6 Hybrid
+8881,2021,British Grand Prix,sainz,10,6,4,V6 Hybrid
+8890,2021,British Grand Prix,latifi,17,14,3,V6 Hybrid
+8876,2021,British Grand Prix,leclerc,4,2,2,V6 Hybrid
+8953,2021,Italian Grand Prix,bottas,19,3,16,V6 Hybrid
+8967,2021,Italian Grand Prix,russell,14,9,5,V6 Hybrid
+8961,2021,Italian Grand Prix,perez,8,5,3,V6 Hybrid
+8970,2021,Italian Grand Prix,mick_schumacher,18,15,3,V6 Hybrid
+8971,2021,Italian Grand Prix,kubica,17,14,3,V6 Hybrid
+8782,2021,Monaco Grand Prix,perez,9,4,5,V6 Hybrid
+8786,2021,Monaco Grand Prix,stroll,13,8,5,V6 Hybrid
+8790,2021,Monaco Grand Prix,alonso,17,13,4,V6 Hybrid
+8781,2021,Monaco Grand Prix,vettel,8,5,3,V6 Hybrid
+8787,2021,Monaco Grand Prix,raikkonen,14,11,3,V6 Hybrid
+9333,2022,British Grand Prix,mick_schumacher,19,8,11,V6 Hybrid
+9332,2022,British Grand Prix,vettel,18,9,9,V6 Hybrid
+9334,2022,British Grand Prix,stroll,20,11,9,V6 Hybrid
+9331,2022,British Grand Prix,kevin_magnussen,17,10,7,V6 Hybrid
+9318,2022,British Grand Prix,perez,4,2,2,V6 Hybrid
+9271,2022,Monaco Grand Prix,gasly,17,11,6,V6 Hybrid
+9272,2022,Monaco Grand Prix,stroll,18,14,4,V6 Hybrid
+9273,2022,Monaco Grand Prix,latifi,19,15,4,V6 Hybrid
+9274,2022,Monaco Grand Prix,zhou,20,16,4,V6 Hybrid
+9266,2022,Monaco Grand Prix,bottas,12,9,3,V6 Hybrid

@@ -1,1178 +1,1178 @@
-year,name,driver_name,points
-1991,Monaco Grand Prix,senna,10.0
-1991,Monaco Grand Prix,mansell,6.0
-1991,Monaco Grand Prix,alesi,4.0
-1991,Monaco Grand Prix,moreno,3.0
-1991,Monaco Grand Prix,prost,2.0
-1991,Monaco Grand Prix,pirro,1.0
-1991,Monaco Grand Prix,alboreto,0.0
-1991,Monaco Grand Prix,bailey,0.0
-1991,Monaco Grand Prix,barbazza,0.0
-1991,Monaco Grand Prix,berger,0.0
-1991,Monaco Grand Prix,bernard,0.0
-1991,Monaco Grand Prix,blundell,0.0
-1991,Monaco Grand Prix,boutsen,0.0
-1991,Monaco Grand Prix,brundle,0.0
-1991,Monaco Grand Prix,caffi,0.0
-1991,Monaco Grand Prix,capelli,0.0
-1991,Monaco Grand Prix,cesaris,0.0
-1991,Monaco Grand Prix,chaves,0.0
-1991,Monaco Grand Prix,comas,0.0
-1991,Monaco Grand Prix,gachot,0.0
-1991,Monaco Grand Prix,grouillard,0.0
-1991,Monaco Grand Prix,gugelmin,0.0
-1991,Monaco Grand Prix,hakkinen,0.0
-1991,Monaco Grand Prix,larini,0.0
-1991,Monaco Grand Prix,lehto,0.0
-1991,Monaco Grand Prix,martini,0.0
-1991,Monaco Grand Prix,modena,0.0
-1991,Monaco Grand Prix,morbidelli,0.0
-1991,Monaco Grand Prix,patrese,0.0
-1991,Monaco Grand Prix,piquet,0.0
-1991,Monaco Grand Prix,poele,0.0
-1991,Monaco Grand Prix,satoru_nakajima,0.0
-1991,Monaco Grand Prix,suzuki,0.0
-1991,Monaco Grand Prix,tarquini,0.0
-1991,Italian Grand Prix,mansell,10.0
-1991,Italian Grand Prix,senna,6.0
-1991,Italian Grand Prix,prost,4.0
-1991,Italian Grand Prix,berger,3.0
-1991,Italian Grand Prix,michael_schumacher,2.0
-1991,Italian Grand Prix,piquet,1.0
-1991,Italian Grand Prix,alboreto,0.0
-1991,Italian Grand Prix,alesi,0.0
-1991,Italian Grand Prix,barbazza,0.0
-1991,Italian Grand Prix,bartels,0.0
-1991,Italian Grand Prix,bernard,0.0
-1991,Italian Grand Prix,blundell,0.0
-1991,Italian Grand Prix,boutsen,0.0
-1991,Italian Grand Prix,brundle,0.0
-1991,Italian Grand Prix,caffi,0.0
-1991,Italian Grand Prix,capelli,0.0
-1991,Italian Grand Prix,cesaris,0.0
-1991,Italian Grand Prix,chaves,0.0
-1991,Italian Grand Prix,comas,0.0
-1991,Italian Grand Prix,grouillard,0.0
-1991,Italian Grand Prix,gugelmin,0.0
-1991,Italian Grand Prix,hakkinen,0.0
-1991,Italian Grand Prix,larini,0.0
-1991,Italian Grand Prix,lehto,0.0
-1991,Italian Grand Prix,martini,0.0
-1991,Italian Grand Prix,modena,0.0
-1991,Italian Grand Prix,morbidelli,0.0
-1991,Italian Grand Prix,moreno,0.0
-1991,Italian Grand Prix,patrese,0.0
-1991,Italian Grand Prix,pirro,0.0
-1991,Italian Grand Prix,poele,0.0
-1991,Italian Grand Prix,satoru_nakajima,0.0
-1991,Italian Grand Prix,suzuki,0.0
-1991,Italian Grand Prix,tarquini,0.0
-1991,British Grand Prix,mansell,10.0
-1991,British Grand Prix,berger,6.0
-1991,British Grand Prix,prost,4.0
-1991,British Grand Prix,senna,3.0
-1991,British Grand Prix,piquet,2.0
-1991,British Grand Prix,gachot,1.0
-1991,British Grand Prix,alboreto,0.0
-1991,British Grand Prix,alesi,0.0
-1991,British Grand Prix,barbazza,0.0
-1991,British Grand Prix,bernard,0.0
-1991,British Grand Prix,blundell,0.0
-1991,British Grand Prix,boutsen,0.0
-1991,British Grand Prix,brundle,0.0
-1991,British Grand Prix,capelli,0.0
-1991,British Grand Prix,cesaris,0.0
-1991,British Grand Prix,chaves,0.0
-1991,British Grand Prix,comas,0.0
-1991,British Grand Prix,grouillard,0.0
-1991,British Grand Prix,gugelmin,0.0
-1991,British Grand Prix,hakkinen,0.0
-1991,British Grand Prix,herbert,0.0
-1991,British Grand Prix,johansson,0.0
-1991,British Grand Prix,larini,0.0
-1991,British Grand Prix,lehto,0.0
-1991,British Grand Prix,martini,0.0
-1991,British Grand Prix,modena,0.0
-1991,British Grand Prix,morbidelli,0.0
-1991,British Grand Prix,moreno,0.0
-1991,British Grand Prix,patrese,0.0
-1991,British Grand Prix,pirro,0.0
-1991,British Grand Prix,poele,0.0
-1991,British Grand Prix,satoru_nakajima,0.0
-1991,British Grand Prix,suzuki,0.0
-1991,British Grand Prix,tarquini,0.0
-1991,Belgian Grand Prix,senna,10.0
-1991,Belgian Grand Prix,berger,6.0
-1991,Belgian Grand Prix,piquet,4.0
-1991,Belgian Grand Prix,moreno,3.0
-1991,Belgian Grand Prix,patrese,2.0
-1991,Belgian Grand Prix,blundell,1.0
-1991,Belgian Grand Prix,alboreto,0.0
-1991,Belgian Grand Prix,alesi,0.0
-1991,Belgian Grand Prix,barbazza,0.0
-1991,Belgian Grand Prix,bernard,0.0
-1991,Belgian Grand Prix,boutsen,0.0
-1991,Belgian Grand Prix,brundle,0.0
-1991,Belgian Grand Prix,caffi,0.0
-1991,Belgian Grand Prix,capelli,0.0
-1991,Belgian Grand Prix,cesaris,0.0
-1991,Belgian Grand Prix,chaves,0.0
-1991,Belgian Grand Prix,comas,0.0
-1991,Belgian Grand Prix,grouillard,0.0
-1991,Belgian Grand Prix,gugelmin,0.0
-1991,Belgian Grand Prix,hakkinen,0.0
-1991,Belgian Grand Prix,herbert,0.0
-1991,Belgian Grand Prix,larini,0.0
-1991,Belgian Grand Prix,lehto,0.0
-1991,Belgian Grand Prix,mansell,0.0
-1991,Belgian Grand Prix,martini,0.0
-1991,Belgian Grand Prix,michael_schumacher,0.0
-1991,Belgian Grand Prix,modena,0.0
-1991,Belgian Grand Prix,morbidelli,0.0
-1991,Belgian Grand Prix,pirro,0.0
-1991,Belgian Grand Prix,poele,0.0
-1991,Belgian Grand Prix,prost,0.0
-1991,Belgian Grand Prix,satoru_nakajima,0.0
-1991,Belgian Grand Prix,suzuki,0.0
-1991,Belgian Grand Prix,tarquini,0.0
-1992,Monaco Grand Prix,senna,10.0
-1992,Monaco Grand Prix,mansell,6.0
-1992,Monaco Grand Prix,patrese,4.0
-1992,Monaco Grand Prix,michael_schumacher,3.0
-1992,Monaco Grand Prix,brundle,2.0
-1992,Monaco Grand Prix,gachot,1.0
-1992,Monaco Grand Prix,alboreto,0.0
-1992,Monaco Grand Prix,alesi,0.0
-1992,Monaco Grand Prix,belmondo,0.0
-1992,Monaco Grand Prix,berger,0.0
-1992,Monaco Grand Prix,boutsen,0.0
-1992,Monaco Grand Prix,capelli,0.0
-1992,Monaco Grand Prix,cesaris,0.0
-1992,Monaco Grand Prix,chiesa,0.0
-1992,Monaco Grand Prix,comas,0.0
-1992,Monaco Grand Prix,damon_hill,0.0
-1992,Monaco Grand Prix,fittipaldi,0.0
-1992,Monaco Grand Prix,grouillard,0.0
-1992,Monaco Grand Prix,gugelmin,0.0
-1992,Monaco Grand Prix,hakkinen,0.0
-1992,Monaco Grand Prix,herbert,0.0
-1992,Monaco Grand Prix,katayama,0.0
-1992,Monaco Grand Prix,lehto,0.0
-1992,Monaco Grand Prix,martini,0.0
-1992,Monaco Grand Prix,mccarthy,0.0
-1992,Monaco Grand Prix,modena,0.0
-1992,Monaco Grand Prix,morbidelli,0.0
-1992,Monaco Grand Prix,moreno,0.0
-1992,Monaco Grand Prix,poele,0.0
-1992,Monaco Grand Prix,suzuki,0.0
-1992,Monaco Grand Prix,tarquini,0.0
-1992,Monaco Grand Prix,wendlinger,0.0
-1992,Italian Grand Prix,senna,10.0
-1992,Italian Grand Prix,brundle,6.0
-1992,Italian Grand Prix,michael_schumacher,4.0
-1992,Italian Grand Prix,berger,3.0
-1992,Italian Grand Prix,patrese,2.0
-1992,Italian Grand Prix,cesaris,1.0
-1992,Italian Grand Prix,alboreto,0.0
-1992,Italian Grand Prix,alesi,0.0
-1992,Italian Grand Prix,boutsen,0.0
-1992,Italian Grand Prix,capelli,0.0
-1992,Italian Grand Prix,comas,0.0
-1992,Italian Grand Prix,fittipaldi,0.0
-1992,Italian Grand Prix,gachot,0.0
-1992,Italian Grand Prix,grouillard,0.0
-1992,Italian Grand Prix,gugelmin,0.0
-1992,Italian Grand Prix,hakkinen,0.0
-1992,Italian Grand Prix,herbert,0.0
-1992,Italian Grand Prix,katayama,0.0
-1992,Italian Grand Prix,lehto,0.0
-1992,Italian Grand Prix,mansell,0.0
-1992,Italian Grand Prix,martini,0.0
-1992,Italian Grand Prix,modena,0.0
-1992,Italian Grand Prix,morbidelli,0.0
-1992,Italian Grand Prix,naspetti,0.0
-1992,Italian Grand Prix,poele,0.0
-1992,Italian Grand Prix,suzuki,0.0
-1992,Italian Grand Prix,tarquini,0.0
-1992,Italian Grand Prix,wendlinger,0.0
-1992,British Grand Prix,mansell,10.0
-1992,British Grand Prix,patrese,6.0
-1992,British Grand Prix,brundle,4.0
-1992,British Grand Prix,michael_schumacher,3.0
-1992,British Grand Prix,berger,2.0
-1992,British Grand Prix,hakkinen,1.0
-1992,British Grand Prix,alboreto,0.0
-1992,British Grand Prix,alesi,0.0
-1992,British Grand Prix,belmondo,0.0
-1992,British Grand Prix,boutsen,0.0
-1992,British Grand Prix,capelli,0.0
-1992,British Grand Prix,cesaris,0.0
-1992,British Grand Prix,chiesa,0.0
-1992,British Grand Prix,comas,0.0
-1992,British Grand Prix,damon_hill,0.0
-1992,British Grand Prix,gachot,0.0
-1992,British Grand Prix,grouillard,0.0
-1992,British Grand Prix,gugelmin,0.0
-1992,British Grand Prix,herbert,0.0
-1992,British Grand Prix,katayama,0.0
-1992,British Grand Prix,lehto,0.0
-1992,British Grand Prix,martini,0.0
-1992,British Grand Prix,mccarthy,0.0
-1992,British Grand Prix,modena,0.0
-1992,British Grand Prix,morbidelli,0.0
-1992,British Grand Prix,moreno,0.0
-1992,British Grand Prix,poele,0.0
-1992,British Grand Prix,senna,0.0
-1992,British Grand Prix,suzuki,0.0
-1992,British Grand Prix,tarquini,0.0
-1992,British Grand Prix,wendlinger,0.0
-1992,British Grand Prix,zanardi,0.0
-1992,Belgian Grand Prix,michael_schumacher,10.0
-1992,Belgian Grand Prix,mansell,6.0
-1992,Belgian Grand Prix,patrese,4.0
-1992,Belgian Grand Prix,brundle,3.0
-1992,Belgian Grand Prix,senna,2.0
-1992,Belgian Grand Prix,hakkinen,1.0
-1992,Belgian Grand Prix,alboreto,0.0
-1992,Belgian Grand Prix,alesi,0.0
-1992,Belgian Grand Prix,berger,0.0
-1992,Belgian Grand Prix,boutsen,0.0
-1992,Belgian Grand Prix,capelli,0.0
-1992,Belgian Grand Prix,cesaris,0.0
-1992,Belgian Grand Prix,comas,0.0
-1992,Belgian Grand Prix,fittipaldi,0.0
-1992,Belgian Grand Prix,gachot,0.0
-1992,Belgian Grand Prix,grouillard,0.0
-1992,Belgian Grand Prix,gugelmin,0.0
-1992,Belgian Grand Prix,herbert,0.0
-1992,Belgian Grand Prix,katayama,0.0
-1992,Belgian Grand Prix,lehto,0.0
-1992,Belgian Grand Prix,martini,0.0
-1992,Belgian Grand Prix,mccarthy,0.0
-1992,Belgian Grand Prix,modena,0.0
-1992,Belgian Grand Prix,morbidelli,0.0
-1992,Belgian Grand Prix,moreno,0.0
-1992,Belgian Grand Prix,naspetti,0.0
-1992,Belgian Grand Prix,poele,0.0
-1992,Belgian Grand Prix,suzuki,0.0
-1992,Belgian Grand Prix,tarquini,0.0
-1992,Belgian Grand Prix,wendlinger,0.0
-1993,Monaco Grand Prix,senna,10.0
-1993,Monaco Grand Prix,damon_hill,6.0
-1993,Monaco Grand Prix,alesi,4.0
-1993,Monaco Grand Prix,prost,3.0
-1993,Monaco Grand Prix,fittipaldi,2.0
-1993,Monaco Grand Prix,brundle,1.0
-1993,Monaco Grand Prix,alboreto,0.0
-1993,Monaco Grand Prix,alliot,0.0
-1993,Monaco Grand Prix,andretti,0.0
-1993,Monaco Grand Prix,badoer,0.0
-1993,Monaco Grand Prix,barbazza,0.0
-1993,Monaco Grand Prix,barrichello,0.0
-1993,Monaco Grand Prix,berger,0.0
-1993,Monaco Grand Prix,blundell,0.0
-1993,Monaco Grand Prix,boutsen,0.0
-1993,Monaco Grand Prix,cesaris,0.0
-1993,Monaco Grand Prix,comas,0.0
-1993,Monaco Grand Prix,herbert,0.0
-1993,Monaco Grand Prix,katayama,0.0
-1993,Monaco Grand Prix,lehto,0.0
-1993,Monaco Grand Prix,michael_schumacher,0.0
-1993,Monaco Grand Prix,patrese,0.0
-1993,Monaco Grand Prix,suzuki,0.0
-1993,Monaco Grand Prix,warwick,0.0
-1993,Monaco Grand Prix,wendlinger,0.0
-1993,Monaco Grand Prix,zanardi,0.0
-1993,Italian Grand Prix,damon_hill,10.0
-1993,Italian Grand Prix,alesi,6.0
-1993,Italian Grand Prix,andretti,4.0
-1993,Italian Grand Prix,wendlinger,3.0
-1993,Italian Grand Prix,patrese,2.0
-1993,Italian Grand Prix,comas,1.0
-1993,Italian Grand Prix,alboreto,0.0
-1993,Italian Grand Prix,alliot,0.0
-1993,Italian Grand Prix,apicella,0.0
-1993,Italian Grand Prix,badoer,0.0
-1993,Italian Grand Prix,barrichello,0.0
-1993,Italian Grand Prix,berger,0.0
-1993,Italian Grand Prix,blundell,0.0
-1993,Italian Grand Prix,brundle,0.0
-1993,Italian Grand Prix,cesaris,0.0
-1993,Italian Grand Prix,fittipaldi,0.0
-1993,Italian Grand Prix,herbert,0.0
-1993,Italian Grand Prix,katayama,0.0
-1993,Italian Grand Prix,lamy,0.0
-1993,Italian Grand Prix,lehto,0.0
-1993,Italian Grand Prix,martini,0.0
-1993,Italian Grand Prix,michael_schumacher,0.0
-1993,Italian Grand Prix,prost,0.0
-1993,Italian Grand Prix,senna,0.0
-1993,Italian Grand Prix,suzuki,0.0
-1993,Italian Grand Prix,warwick,0.0
-1993,British Grand Prix,prost,10.0
-1993,British Grand Prix,michael_schumacher,6.0
-1993,British Grand Prix,patrese,4.0
-1993,British Grand Prix,herbert,3.0
-1993,British Grand Prix,senna,2.0
-1993,British Grand Prix,warwick,1.0
-1993,British Grand Prix,alboreto,0.0
-1993,British Grand Prix,alesi,0.0
-1993,British Grand Prix,alliot,0.0
-1993,British Grand Prix,andretti,0.0
-1993,British Grand Prix,badoer,0.0
-1993,British Grand Prix,barrichello,0.0
-1993,British Grand Prix,berger,0.0
-1993,British Grand Prix,blundell,0.0
-1993,British Grand Prix,boutsen,0.0
-1993,British Grand Prix,brundle,0.0
-1993,British Grand Prix,cesaris,0.0
-1993,British Grand Prix,comas,0.0
-1993,British Grand Prix,damon_hill,0.0
-1993,British Grand Prix,fittipaldi,0.0
-1993,British Grand Prix,katayama,0.0
-1993,British Grand Prix,lehto,0.0
-1993,British Grand Prix,martini,0.0
-1993,British Grand Prix,suzuki,0.0
-1993,British Grand Prix,wendlinger,0.0
-1993,British Grand Prix,zanardi,0.0
-1993,Belgian Grand Prix,damon_hill,10.0
-1993,Belgian Grand Prix,michael_schumacher,6.0
-1993,Belgian Grand Prix,prost,4.0
-1993,Belgian Grand Prix,senna,3.0
-1993,Belgian Grand Prix,herbert,2.0
-1993,Belgian Grand Prix,patrese,1.0
-1993,Belgian Grand Prix,alboreto,0.0
-1993,Belgian Grand Prix,alesi,0.0
-1993,Belgian Grand Prix,alliot,0.0
-1993,Belgian Grand Prix,andretti,0.0
-1993,Belgian Grand Prix,badoer,0.0
-1993,Belgian Grand Prix,barrichello,0.0
-1993,Belgian Grand Prix,berger,0.0
-1993,Belgian Grand Prix,blundell,0.0
-1993,Belgian Grand Prix,boutsen,0.0
-1993,Belgian Grand Prix,brundle,0.0
-1993,Belgian Grand Prix,cesaris,0.0
-1993,Belgian Grand Prix,comas,0.0
-1993,Belgian Grand Prix,fittipaldi,0.0
-1993,Belgian Grand Prix,katayama,0.0
-1993,Belgian Grand Prix,lehto,0.0
-1993,Belgian Grand Prix,martini,0.0
-1993,Belgian Grand Prix,suzuki,0.0
-1993,Belgian Grand Prix,warwick,0.0
-1993,Belgian Grand Prix,wendlinger,0.0
-1993,Belgian Grand Prix,zanardi,0.0
-1994,Monaco Grand Prix,michael_schumacher,10.0
-1994,Monaco Grand Prix,brundle,6.0
-1994,Monaco Grand Prix,berger,4.0
-1994,Monaco Grand Prix,cesaris,3.0
-1994,Monaco Grand Prix,alesi,2.0
-1994,Monaco Grand Prix,alboreto,1.0
-1994,Monaco Grand Prix,barrichello,0.0
-1994,Monaco Grand Prix,belmondo,0.0
-1994,Monaco Grand Prix,beretta,0.0
-1994,Monaco Grand Prix,bernard,0.0
-1994,Monaco Grand Prix,blundell,0.0
-1994,Monaco Grand Prix,brabham,0.0
-1994,Monaco Grand Prix,comas,0.0
-1994,Monaco Grand Prix,damon_hill,0.0
-1994,Monaco Grand Prix,fittipaldi,0.0
-1994,Monaco Grand Prix,frentzen,0.0
-1994,Monaco Grand Prix,gachot,0.0
-1994,Monaco Grand Prix,hakkinen,0.0
-1994,Monaco Grand Prix,herbert,0.0
-1994,Monaco Grand Prix,katayama,0.0
-1994,Monaco Grand Prix,lamy,0.0
-1994,Monaco Grand Prix,lehto,0.0
-1994,Monaco Grand Prix,martini,0.0
-1994,Monaco Grand Prix,morbidelli,0.0
-1994,Monaco Grand Prix,panis,0.0
-1994,Monaco Grand Prix,wendlinger,0.0
-1994,Italian Grand Prix,damon_hill,10.0
-1994,Italian Grand Prix,berger,6.0
-1994,Italian Grand Prix,hakkinen,4.0
-1994,Italian Grand Prix,barrichello,3.0
-1994,Italian Grand Prix,brundle,2.0
-1994,Italian Grand Prix,coulthard,1.0
-1994,Italian Grand Prix,alboreto,0.0
-1994,Italian Grand Prix,alesi,0.0
-1994,Italian Grand Prix,belmondo,0.0
-1994,Italian Grand Prix,bernard,0.0
-1994,Italian Grand Prix,blundell,0.0
-1994,Italian Grand Prix,brabham,0.0
-1994,Italian Grand Prix,cesaris,0.0
-1994,Italian Grand Prix,comas,0.0
-1994,Italian Grand Prix,dalmas,0.0
-1994,Italian Grand Prix,fittipaldi,0.0
-1994,Italian Grand Prix,frentzen,0.0
-1994,Italian Grand Prix,gachot,0.0
-1994,Italian Grand Prix,gounon,0.0
-1994,Italian Grand Prix,herbert,0.0
-1994,Italian Grand Prix,irvine,0.0
-1994,Italian Grand Prix,katayama,0.0
-1994,Italian Grand Prix,lehto,0.0
-1994,Italian Grand Prix,martini,0.0
-1994,Italian Grand Prix,morbidelli,0.0
-1994,Italian Grand Prix,panis,0.0
-1994,Italian Grand Prix,verstappen,0.0
-1994,Italian Grand Prix,zanardi,0.0
-1994,British Grand Prix,damon_hill,10.0
-1994,British Grand Prix,alesi,6.0
-1994,British Grand Prix,hakkinen,4.0
-1994,British Grand Prix,barrichello,3.0
-1994,British Grand Prix,coulthard,2.0
-1994,British Grand Prix,katayama,1.0
-1994,British Grand Prix,alboreto,0.0
-1994,British Grand Prix,belmondo,0.0
-1994,British Grand Prix,beretta,0.0
-1994,British Grand Prix,berger,0.0
-1994,British Grand Prix,bernard,0.0
-1994,British Grand Prix,blundell,0.0
-1994,British Grand Prix,brabham,0.0
-1994,British Grand Prix,brundle,0.0
-1994,British Grand Prix,cesaris,0.0
-1994,British Grand Prix,comas,0.0
-1994,British Grand Prix,fittipaldi,0.0
-1994,British Grand Prix,frentzen,0.0
-1994,British Grand Prix,gachot,0.0
-1994,British Grand Prix,gounon,0.0
-1994,British Grand Prix,herbert,0.0
-1994,British Grand Prix,irvine,0.0
-1994,British Grand Prix,martini,0.0
-1994,British Grand Prix,michael_schumacher,0.0
-1994,British Grand Prix,morbidelli,0.0
-1994,British Grand Prix,panis,0.0
-1994,British Grand Prix,verstappen,0.0
-1994,British Grand Prix,zanardi,0.0
-1994,Belgian Grand Prix,damon_hill,10.0
-1994,Belgian Grand Prix,hakkinen,6.0
-1994,Belgian Grand Prix,verstappen,4.0
-1994,Belgian Grand Prix,coulthard,3.0
-1994,Belgian Grand Prix,blundell,2.0
-1994,Belgian Grand Prix,morbidelli,1.0
-1994,Belgian Grand Prix,adams,0.0
-1994,Belgian Grand Prix,alboreto,0.0
-1994,Belgian Grand Prix,alesi,0.0
-1994,Belgian Grand Prix,alliot,0.0
-1994,Belgian Grand Prix,barrichello,0.0
-1994,Belgian Grand Prix,belmondo,0.0
-1994,Belgian Grand Prix,berger,0.0
-1994,Belgian Grand Prix,bernard,0.0
-1994,Belgian Grand Prix,brabham,0.0
-1994,Belgian Grand Prix,brundle,0.0
-1994,Belgian Grand Prix,cesaris,0.0
-1994,Belgian Grand Prix,comas,0.0
-1994,Belgian Grand Prix,fittipaldi,0.0
-1994,Belgian Grand Prix,frentzen,0.0
-1994,Belgian Grand Prix,gachot,0.0
-1994,Belgian Grand Prix,gounon,0.0
-1994,Belgian Grand Prix,herbert,0.0
-1994,Belgian Grand Prix,irvine,0.0
-1994,Belgian Grand Prix,katayama,0.0
-1994,Belgian Grand Prix,martini,0.0
-1994,Belgian Grand Prix,michael_schumacher,0.0
-1994,Belgian Grand Prix,panis,0.0
-1995,Monaco Grand Prix,michael_schumacher,10.0
-1995,Monaco Grand Prix,damon_hill,6.0
-1995,Monaco Grand Prix,berger,4.0
-1995,Monaco Grand Prix,herbert,3.0
-1995,Monaco Grand Prix,blundell,2.0
-1995,Monaco Grand Prix,frentzen,1.0
-1995,Monaco Grand Prix,alesi,0.0
-1995,Monaco Grand Prix,badoer,0.0
-1995,Monaco Grand Prix,barrichello,0.0
-1995,Monaco Grand Prix,boullion,0.0
-1995,Monaco Grand Prix,brundle,0.0
-1995,Monaco Grand Prix,coulthard,0.0
-1995,Monaco Grand Prix,diniz,0.0
-1995,Monaco Grand Prix,gachot,0.0
-1995,Monaco Grand Prix,hakkinen,0.0
-1995,Monaco Grand Prix,inoue,0.0
-1995,Monaco Grand Prix,irvine,0.0
-1995,Monaco Grand Prix,katayama,0.0
-1995,Monaco Grand Prix,martini,0.0
-1995,Monaco Grand Prix,montermini,0.0
-1995,Monaco Grand Prix,morbidelli,0.0
-1995,Monaco Grand Prix,moreno,0.0
-1995,Monaco Grand Prix,panis,0.0
-1995,Monaco Grand Prix,salo,0.0
-1995,Monaco Grand Prix,schiattarella,0.0
-1995,Monaco Grand Prix,verstappen,0.0
-1995,Italian Grand Prix,herbert,10.0
-1995,Italian Grand Prix,hakkinen,6.0
-1995,Italian Grand Prix,frentzen,4.0
-1995,Italian Grand Prix,blundell,3.0
-1995,Italian Grand Prix,salo,2.0
-1995,Italian Grand Prix,boullion,1.0
-1995,Italian Grand Prix,alesi,0.0
-1995,Italian Grand Prix,badoer,0.0
-1995,Italian Grand Prix,barrichello,0.0
-1995,Italian Grand Prix,berger,0.0
-1995,Italian Grand Prix,brundle,0.0
-1995,Italian Grand Prix,coulthard,0.0
-1995,Italian Grand Prix,damon_hill,0.0
-1995,Italian Grand Prix,diniz,0.0
-1995,Italian Grand Prix,inoue,0.0
-1995,Italian Grand Prix,irvine,0.0
-1995,Italian Grand Prix,katayama,0.0
-1995,Italian Grand Prix,lamy,0.0
-1995,Italian Grand Prix,lavaggi,0.0
-1995,Italian Grand Prix,michael_schumacher,0.0
-1995,Italian Grand Prix,montermini,0.0
-1995,Italian Grand Prix,moreno,0.0
-1995,Italian Grand Prix,panis,0.0
-1995,Italian Grand Prix,papis,0.0
-1995,British Grand Prix,herbert,10.0
-1995,British Grand Prix,alesi,6.0
-1995,British Grand Prix,coulthard,4.0
-1995,British Grand Prix,panis,3.0
-1995,British Grand Prix,blundell,2.0
-1995,British Grand Prix,frentzen,1.0
-1995,British Grand Prix,badoer,0.0
-1995,British Grand Prix,barrichello,0.0
-1995,British Grand Prix,berger,0.0
-1995,British Grand Prix,boullion,0.0
-1995,British Grand Prix,brundle,0.0
-1995,British Grand Prix,damon_hill,0.0
-1995,British Grand Prix,diniz,0.0
-1995,British Grand Prix,gachot,0.0
-1995,British Grand Prix,hakkinen,0.0
-1995,British Grand Prix,inoue,0.0
-1995,British Grand Prix,irvine,0.0
-1995,British Grand Prix,katayama,0.0
-1995,British Grand Prix,martini,0.0
-1995,British Grand Prix,michael_schumacher,0.0
-1995,British Grand Prix,montermini,0.0
-1995,British Grand Prix,moreno,0.0
-1995,British Grand Prix,papis,0.0
-1995,British Grand Prix,salo,0.0
-1995,Belgian Grand Prix,michael_schumacher,10.0
-1995,Belgian Grand Prix,damon_hill,6.0
-1995,Belgian Grand Prix,brundle,4.0
-1995,Belgian Grand Prix,frentzen,3.0
-1995,Belgian Grand Prix,blundell,2.0
-1995,Belgian Grand Prix,barrichello,1.0
-1995,Belgian Grand Prix,alesi,0.0
-1995,Belgian Grand Prix,badoer,0.0
-1995,Belgian Grand Prix,berger,0.0
-1995,Belgian Grand Prix,boullion,0.0
-1995,Belgian Grand Prix,coulthard,0.0
-1995,Belgian Grand Prix,diniz,0.0
-1995,Belgian Grand Prix,hakkinen,0.0
-1995,Belgian Grand Prix,herbert,0.0
-1995,Belgian Grand Prix,inoue,0.0
-1995,Belgian Grand Prix,irvine,0.0
-1995,Belgian Grand Prix,katayama,0.0
-1995,Belgian Grand Prix,lamy,0.0
-1995,Belgian Grand Prix,lavaggi,0.0
-1995,Belgian Grand Prix,montermini,0.0
-1995,Belgian Grand Prix,moreno,0.0
-1995,Belgian Grand Prix,panis,0.0
-1995,Belgian Grand Prix,papis,0.0
-1995,Belgian Grand Prix,salo,0.0
-1996,Monaco Grand Prix,panis,10.0
-1996,Monaco Grand Prix,coulthard,6.0
-1996,Monaco Grand Prix,herbert,4.0
-1996,Monaco Grand Prix,frentzen,3.0
-1996,Monaco Grand Prix,salo,2.0
-1996,Monaco Grand Prix,hakkinen,1.0
-1996,Monaco Grand Prix,alesi,0.0
-1996,Monaco Grand Prix,badoer,0.0
-1996,Monaco Grand Prix,barrichello,0.0
-1996,Monaco Grand Prix,berger,0.0
-1996,Monaco Grand Prix,brundle,0.0
-1996,Monaco Grand Prix,damon_hill,0.0
-1996,Monaco Grand Prix,diniz,0.0
-1996,Monaco Grand Prix,fisichella,0.0
-1996,Monaco Grand Prix,irvine,0.0
-1996,Monaco Grand Prix,katayama,0.0
-1996,Monaco Grand Prix,lamy,0.0
-1996,Monaco Grand Prix,michael_schumacher,0.0
-1996,Monaco Grand Prix,montermini,0.0
-1996,Monaco Grand Prix,rosset,0.0
-1996,Monaco Grand Prix,verstappen,0.0
-1996,Monaco Grand Prix,villeneuve,0.0
-1996,Italian Grand Prix,michael_schumacher,10.0
-1996,Italian Grand Prix,alesi,6.0
-1996,Italian Grand Prix,hakkinen,4.0
-1996,Italian Grand Prix,brundle,3.0
-1996,Italian Grand Prix,barrichello,2.0
-1996,Italian Grand Prix,diniz,1.0
-1996,Italian Grand Prix,berger,0.0
-1996,Italian Grand Prix,coulthard,0.0
-1996,Italian Grand Prix,damon_hill,0.0
-1996,Italian Grand Prix,frentzen,0.0
-1996,Italian Grand Prix,herbert,0.0
-1996,Italian Grand Prix,irvine,0.0
-1996,Italian Grand Prix,katayama,0.0
-1996,Italian Grand Prix,lamy,0.0
-1996,Italian Grand Prix,lavaggi,0.0
-1996,Italian Grand Prix,panis,0.0
-1996,Italian Grand Prix,rosset,0.0
-1996,Italian Grand Prix,salo,0.0
-1996,Italian Grand Prix,verstappen,0.0
-1996,Italian Grand Prix,villeneuve,0.0
-1996,British Grand Prix,villeneuve,10.0
-1996,British Grand Prix,berger,6.0
-1996,British Grand Prix,hakkinen,4.0
-1996,British Grand Prix,barrichello,3.0
-1996,British Grand Prix,coulthard,2.0
-1996,British Grand Prix,brundle,1.0
-1996,British Grand Prix,alesi,0.0
-1996,British Grand Prix,badoer,0.0
-1996,British Grand Prix,damon_hill,0.0
-1996,British Grand Prix,diniz,0.0
-1996,British Grand Prix,fisichella,0.0
-1996,British Grand Prix,frentzen,0.0
-1996,British Grand Prix,herbert,0.0
-1996,British Grand Prix,irvine,0.0
-1996,British Grand Prix,katayama,0.0
-1996,British Grand Prix,lamy,0.0
-1996,British Grand Prix,michael_schumacher,0.0
-1996,British Grand Prix,montermini,0.0
-1996,British Grand Prix,panis,0.0
-1996,British Grand Prix,rosset,0.0
-1996,British Grand Prix,salo,0.0
-1996,British Grand Prix,verstappen,0.0
-1996,Belgian Grand Prix,michael_schumacher,10.0
-1996,Belgian Grand Prix,villeneuve,6.0
-1996,Belgian Grand Prix,hakkinen,4.0
-1996,Belgian Grand Prix,alesi,3.0
-1996,Belgian Grand Prix,damon_hill,2.0
-1996,Belgian Grand Prix,berger,1.0
-1996,Belgian Grand Prix,barrichello,0.0
-1996,Belgian Grand Prix,brundle,0.0
-1996,Belgian Grand Prix,coulthard,0.0
-1996,Belgian Grand Prix,diniz,0.0
-1996,Belgian Grand Prix,frentzen,0.0
-1996,Belgian Grand Prix,herbert,0.0
-1996,Belgian Grand Prix,irvine,0.0
-1996,Belgian Grand Prix,katayama,0.0
-1996,Belgian Grand Prix,lamy,0.0
-1996,Belgian Grand Prix,lavaggi,0.0
-1996,Belgian Grand Prix,panis,0.0
-1996,Belgian Grand Prix,rosset,0.0
-1996,Belgian Grand Prix,salo,0.0
-1996,Belgian Grand Prix,verstappen,0.0
-1997,Monaco Grand Prix,michael_schumacher,10.0
-1997,Monaco Grand Prix,barrichello,6.0
-1997,Monaco Grand Prix,irvine,4.0
-1997,Monaco Grand Prix,panis,3.0
-1997,Monaco Grand Prix,salo,2.0
-1997,Monaco Grand Prix,fisichella,1.0
-1997,Monaco Grand Prix,alesi,0.0
-1997,Monaco Grand Prix,berger,0.0
-1997,Monaco Grand Prix,coulthard,0.0
-1997,Monaco Grand Prix,damon_hill,0.0
-1997,Monaco Grand Prix,diniz,0.0
-1997,Monaco Grand Prix,frentzen,0.0
-1997,Monaco Grand Prix,hakkinen,0.0
-1997,Monaco Grand Prix,herbert,0.0
-1997,Monaco Grand Prix,katayama,0.0
-1997,Monaco Grand Prix,larini,0.0
-1997,Monaco Grand Prix,magnussen,0.0
-1997,Monaco Grand Prix,nakano,0.0
-1997,Monaco Grand Prix,ralf_schumacher,0.0
-1997,Monaco Grand Prix,trulli,0.0
-1997,Monaco Grand Prix,verstappen,0.0
-1997,Monaco Grand Prix,villeneuve,0.0
-1997,Italian Grand Prix,coulthard,10.0
-1997,Italian Grand Prix,alesi,6.0
-1997,Italian Grand Prix,frentzen,4.0
-1997,Italian Grand Prix,fisichella,3.0
-1997,Italian Grand Prix,villeneuve,2.0
-1997,Italian Grand Prix,michael_schumacher,1.0
-1997,Italian Grand Prix,barrichello,0.0
-1997,Italian Grand Prix,berger,0.0
-1997,Italian Grand Prix,damon_hill,0.0
-1997,Italian Grand Prix,diniz,0.0
-1997,Italian Grand Prix,hakkinen,0.0
-1997,Italian Grand Prix,herbert,0.0
-1997,Italian Grand Prix,irvine,0.0
-1997,Italian Grand Prix,katayama,0.0
-1997,Italian Grand Prix,magnussen,0.0
-1997,Italian Grand Prix,marques,0.0
-1997,Italian Grand Prix,morbidelli,0.0
-1997,Italian Grand Prix,nakano,0.0
-1997,Italian Grand Prix,ralf_schumacher,0.0
-1997,Italian Grand Prix,salo,0.0
-1997,Italian Grand Prix,trulli,0.0
-1997,Italian Grand Prix,verstappen,0.0
-1997,British Grand Prix,villeneuve,10.0
-1997,British Grand Prix,alesi,6.0
-1997,British Grand Prix,wurz,4.0
-1997,British Grand Prix,coulthard,3.0
-1997,British Grand Prix,ralf_schumacher,2.0
-1997,British Grand Prix,damon_hill,1.0
-1997,British Grand Prix,barrichello,0.0
-1997,British Grand Prix,diniz,0.0
-1997,British Grand Prix,fisichella,0.0
-1997,British Grand Prix,fontana,0.0
-1997,British Grand Prix,frentzen,0.0
-1997,British Grand Prix,hakkinen,0.0
-1997,British Grand Prix,herbert,0.0
-1997,British Grand Prix,irvine,0.0
-1997,British Grand Prix,katayama,0.0
-1997,British Grand Prix,magnussen,0.0
-1997,British Grand Prix,marques,0.0
-1997,British Grand Prix,michael_schumacher,0.0
-1997,British Grand Prix,nakano,0.0
-1997,British Grand Prix,salo,0.0
-1997,British Grand Prix,trulli,0.0
-1997,British Grand Prix,verstappen,0.0
-1997,Belgian Grand Prix,michael_schumacher,10.0
-1997,Belgian Grand Prix,fisichella,6.0
-1997,Belgian Grand Prix,frentzen,4.0
-1997,Belgian Grand Prix,herbert,3.0
-1997,Belgian Grand Prix,villeneuve,2.0
-1997,Belgian Grand Prix,berger,1.0
-1997,Belgian Grand Prix,alesi,0.0
-1997,Belgian Grand Prix,barrichello,0.0
-1997,Belgian Grand Prix,coulthard,0.0
-1997,Belgian Grand Prix,damon_hill,0.0
-1997,Belgian Grand Prix,diniz,0.0
-1997,Belgian Grand Prix,hakkinen,0.0
-1997,Belgian Grand Prix,irvine,0.0
-1997,Belgian Grand Prix,katayama,0.0
-1997,Belgian Grand Prix,magnussen,0.0
-1997,Belgian Grand Prix,marques,0.0
-1997,Belgian Grand Prix,morbidelli,0.0
-1997,Belgian Grand Prix,nakano,0.0
-1997,Belgian Grand Prix,ralf_schumacher,0.0
-1997,Belgian Grand Prix,salo,0.0
-1997,Belgian Grand Prix,trulli,0.0
-1997,Belgian Grand Prix,verstappen,0.0
-1998,Monaco Grand Prix,hakkinen,10.0
-1998,Monaco Grand Prix,fisichella,6.0
-1998,Monaco Grand Prix,irvine,4.0
-1998,Monaco Grand Prix,salo,3.0
-1998,Monaco Grand Prix,villeneuve,2.0
-1998,Monaco Grand Prix,diniz,1.0
-1998,Monaco Grand Prix,alesi,0.0
-1998,Monaco Grand Prix,barrichello,0.0
-1998,Monaco Grand Prix,coulthard,0.0
-1998,Monaco Grand Prix,damon_hill,0.0
-1998,Monaco Grand Prix,frentzen,0.0
-1998,Monaco Grand Prix,herbert,0.0
-1998,Monaco Grand Prix,magnussen,0.0
-1998,Monaco Grand Prix,michael_schumacher,0.0
-1998,Monaco Grand Prix,nakano,0.0
-1998,Monaco Grand Prix,panis,0.0
-1998,Monaco Grand Prix,ralf_schumacher,0.0
-1998,Monaco Grand Prix,rosset,0.0
-1998,Monaco Grand Prix,takagi,0.0
-1998,Monaco Grand Prix,trulli,0.0
-1998,Monaco Grand Prix,tuero,0.0
-1998,Monaco Grand Prix,wurz,0.0
-1998,Italian Grand Prix,michael_schumacher,10.0
-1998,Italian Grand Prix,irvine,6.0
-1998,Italian Grand Prix,ralf_schumacher,4.0
-1998,Italian Grand Prix,hakkinen,3.0
-1998,Italian Grand Prix,alesi,2.0
-1998,Italian Grand Prix,damon_hill,1.0
-1998,Italian Grand Prix,barrichello,0.0
-1998,Italian Grand Prix,coulthard,0.0
-1998,Italian Grand Prix,diniz,0.0
-1998,Italian Grand Prix,fisichella,0.0
-1998,Italian Grand Prix,frentzen,0.0
-1998,Italian Grand Prix,herbert,0.0
-1998,Italian Grand Prix,nakano,0.0
-1998,Italian Grand Prix,panis,0.0
-1998,Italian Grand Prix,rosset,0.0
-1998,Italian Grand Prix,salo,0.0
-1998,Italian Grand Prix,takagi,0.0
-1998,Italian Grand Prix,trulli,0.0
-1998,Italian Grand Prix,tuero,0.0
-1998,Italian Grand Prix,verstappen,0.0
-1998,Italian Grand Prix,villeneuve,0.0
-1998,Italian Grand Prix,wurz,0.0
-1998,British Grand Prix,michael_schumacher,10.0
-1998,British Grand Prix,hakkinen,6.0
-1998,British Grand Prix,irvine,4.0
-1998,British Grand Prix,wurz,3.0
-1998,British Grand Prix,fisichella,2.0
-1998,British Grand Prix,ralf_schumacher,1.0
-1998,British Grand Prix,alesi,0.0
-1998,British Grand Prix,barrichello,0.0
-1998,British Grand Prix,coulthard,0.0
-1998,British Grand Prix,damon_hill,0.0
-1998,British Grand Prix,diniz,0.0
-1998,British Grand Prix,frentzen,0.0
-1998,British Grand Prix,herbert,0.0
-1998,British Grand Prix,nakano,0.0
-1998,British Grand Prix,panis,0.0
-1998,British Grand Prix,rosset,0.0
-1998,British Grand Prix,salo,0.0
-1998,British Grand Prix,takagi,0.0
-1998,British Grand Prix,trulli,0.0
-1998,British Grand Prix,tuero,0.0
-1998,British Grand Prix,verstappen,0.0
-1998,British Grand Prix,villeneuve,0.0
-1998,Belgian Grand Prix,damon_hill,10.0
-1998,Belgian Grand Prix,ralf_schumacher,6.0
-1998,Belgian Grand Prix,alesi,4.0
-1998,Belgian Grand Prix,frentzen,3.0
-1998,Belgian Grand Prix,diniz,2.0
-1998,Belgian Grand Prix,trulli,1.0
-1998,Belgian Grand Prix,barrichello,0.0
-1998,Belgian Grand Prix,coulthard,0.0
-1998,Belgian Grand Prix,fisichella,0.0
-1998,Belgian Grand Prix,hakkinen,0.0
-1998,Belgian Grand Prix,herbert,0.0
-1998,Belgian Grand Prix,irvine,0.0
-1998,Belgian Grand Prix,michael_schumacher,0.0
-1998,Belgian Grand Prix,nakano,0.0
-1998,Belgian Grand Prix,panis,0.0
-1998,Belgian Grand Prix,rosset,0.0
-1998,Belgian Grand Prix,salo,0.0
-1998,Belgian Grand Prix,takagi,0.0
-1998,Belgian Grand Prix,tuero,0.0
-1998,Belgian Grand Prix,verstappen,0.0
-1998,Belgian Grand Prix,villeneuve,0.0
-1998,Belgian Grand Prix,wurz,0.0
-1999,Monaco Grand Prix,michael_schumacher,10.0
-1999,Monaco Grand Prix,irvine,6.0
-1999,Monaco Grand Prix,hakkinen,4.0
-1999,Monaco Grand Prix,frentzen,3.0
-1999,Monaco Grand Prix,fisichella,2.0
-1999,Monaco Grand Prix,wurz,1.0
-1999,Monaco Grand Prix,alesi,0.0
-1999,Monaco Grand Prix,badoer,0.0
-1999,Monaco Grand Prix,barrichello,0.0
-1999,Monaco Grand Prix,coulthard,0.0
-1999,Monaco Grand Prix,damon_hill,0.0
-1999,Monaco Grand Prix,diniz,0.0
-1999,Monaco Grand Prix,gene,0.0
-1999,Monaco Grand Prix,herbert,0.0
-1999,Monaco Grand Prix,panis,0.0
-1999,Monaco Grand Prix,ralf_schumacher,0.0
-1999,Monaco Grand Prix,rosa,0.0
-1999,Monaco Grand Prix,salo,0.0
-1999,Monaco Grand Prix,takagi,0.0
-1999,Monaco Grand Prix,trulli,0.0
-1999,Monaco Grand Prix,villeneuve,0.0
-1999,Monaco Grand Prix,zanardi,0.0
-1999,Italian Grand Prix,frentzen,10.0
-1999,Italian Grand Prix,ralf_schumacher,6.0
-1999,Italian Grand Prix,salo,4.0
-1999,Italian Grand Prix,barrichello,3.0
-1999,Italian Grand Prix,coulthard,2.0
-1999,Italian Grand Prix,irvine,1.0
-1999,Italian Grand Prix,alesi,0.0
-1999,Italian Grand Prix,badoer,0.0
-1999,Italian Grand Prix,damon_hill,0.0
-1999,Italian Grand Prix,diniz,0.0
-1999,Italian Grand Prix,fisichella,0.0
-1999,Italian Grand Prix,gene,0.0
-1999,Italian Grand Prix,hakkinen,0.0
-1999,Italian Grand Prix,herbert,0.0
-1999,Italian Grand Prix,panis,0.0
-1999,Italian Grand Prix,rosa,0.0
-1999,Italian Grand Prix,takagi,0.0
-1999,Italian Grand Prix,trulli,0.0
-1999,Italian Grand Prix,villeneuve,0.0
-1999,Italian Grand Prix,wurz,0.0
-1999,Italian Grand Prix,zanardi,0.0
-1999,Italian Grand Prix,zonta,0.0
-1999,British Grand Prix,coulthard,10.0
-1999,British Grand Prix,irvine,6.0
-1999,British Grand Prix,ralf_schumacher,4.0
-1999,British Grand Prix,frentzen,3.0
-1999,British Grand Prix,damon_hill,2.0
-1999,British Grand Prix,diniz,1.0
-1999,British Grand Prix,alesi,0.0
-1999,British Grand Prix,badoer,0.0
-1999,British Grand Prix,barrichello,0.0
-1999,British Grand Prix,fisichella,0.0
-1999,British Grand Prix,gene,0.0
-1999,British Grand Prix,hakkinen,0.0
-1999,British Grand Prix,herbert,0.0
-1999,British Grand Prix,michael_schumacher,0.0
-1999,British Grand Prix,panis,0.0
-1999,British Grand Prix,rosa,0.0
-1999,British Grand Prix,takagi,0.0
-1999,British Grand Prix,trulli,0.0
-1999,British Grand Prix,villeneuve,0.0
-1999,British Grand Prix,wurz,0.0
-1999,British Grand Prix,zanardi,0.0
-1999,British Grand Prix,zonta,0.0
-1999,Belgian Grand Prix,coulthard,10.0
-1999,Belgian Grand Prix,hakkinen,6.0
-1999,Belgian Grand Prix,frentzen,4.0
-1999,Belgian Grand Prix,irvine,3.0
-1999,Belgian Grand Prix,ralf_schumacher,2.0
-1999,Belgian Grand Prix,damon_hill,1.0
-1999,Belgian Grand Prix,alesi,0.0
-1999,Belgian Grand Prix,badoer,0.0
-1999,Belgian Grand Prix,barrichello,0.0
-1999,Belgian Grand Prix,diniz,0.0
-1999,Belgian Grand Prix,fisichella,0.0
-1999,Belgian Grand Prix,gene,0.0
-1999,Belgian Grand Prix,herbert,0.0
-1999,Belgian Grand Prix,panis,0.0
-1999,Belgian Grand Prix,rosa,0.0
-1999,Belgian Grand Prix,salo,0.0
-1999,Belgian Grand Prix,takagi,0.0
-1999,Belgian Grand Prix,trulli,0.0
-1999,Belgian Grand Prix,villeneuve,0.0
-1999,Belgian Grand Prix,wurz,0.0
-1999,Belgian Grand Prix,zanardi,0.0
-1999,Belgian Grand Prix,zonta,0.0
-2000,Monaco Grand Prix,coulthard,10.0
-2000,Monaco Grand Prix,barrichello,6.0
-2000,Monaco Grand Prix,fisichella,4.0
-2000,Monaco Grand Prix,irvine,3.0
-2000,Monaco Grand Prix,salo,2.0
-2000,Monaco Grand Prix,hakkinen,1.0
-2000,Monaco Grand Prix,alesi,0.0
-2000,Monaco Grand Prix,button,0.0
-2000,Monaco Grand Prix,diniz,0.0
-2000,Monaco Grand Prix,frentzen,0.0
-2000,Monaco Grand Prix,gene,0.0
-2000,Monaco Grand Prix,heidfeld,0.0
-2000,Monaco Grand Prix,herbert,0.0
-2000,Monaco Grand Prix,mazzacane,0.0
-2000,Monaco Grand Prix,michael_schumacher,0.0
-2000,Monaco Grand Prix,ralf_schumacher,0.0
-2000,Monaco Grand Prix,rosa,0.0
-2000,Monaco Grand Prix,trulli,0.0
-2000,Monaco Grand Prix,verstappen,0.0
-2000,Monaco Grand Prix,villeneuve,0.0
-2000,Monaco Grand Prix,wurz,0.0
-2000,Monaco Grand Prix,zonta,0.0
-2000,Italian Grand Prix,michael_schumacher,10.0
-2000,Italian Grand Prix,hakkinen,6.0
-2000,Italian Grand Prix,ralf_schumacher,4.0
-2000,Italian Grand Prix,verstappen,3.0
-2000,Italian Grand Prix,wurz,2.0
-2000,Italian Grand Prix,zonta,1.0
-2000,Italian Grand Prix,alesi,0.0
-2000,Italian Grand Prix,barrichello,0.0
-2000,Italian Grand Prix,button,0.0
-2000,Italian Grand Prix,coulthard,0.0
-2000,Italian Grand Prix,diniz,0.0
-2000,Italian Grand Prix,fisichella,0.0
-2000,Italian Grand Prix,frentzen,0.0
-2000,Italian Grand Prix,gene,0.0
-2000,Italian Grand Prix,heidfeld,0.0
-2000,Italian Grand Prix,herbert,0.0
-2000,Italian Grand Prix,irvine,0.0
-2000,Italian Grand Prix,mazzacane,0.0
-2000,Italian Grand Prix,rosa,0.0
-2000,Italian Grand Prix,salo,0.0
-2000,Italian Grand Prix,trulli,0.0
-2000,Italian Grand Prix,villeneuve,0.0
-2000,British Grand Prix,coulthard,10.0
-2000,British Grand Prix,hakkinen,6.0
-2000,British Grand Prix,michael_schumacher,4.0
-2000,British Grand Prix,ralf_schumacher,3.0
-2000,British Grand Prix,button,2.0
-2000,British Grand Prix,trulli,1.0
-2000,British Grand Prix,alesi,0.0
-2000,British Grand Prix,barrichello,0.0
-2000,British Grand Prix,diniz,0.0
-2000,British Grand Prix,fisichella,0.0
-2000,British Grand Prix,frentzen,0.0
-2000,British Grand Prix,gene,0.0
-2000,British Grand Prix,heidfeld,0.0
-2000,British Grand Prix,herbert,0.0
-2000,British Grand Prix,irvine,0.0
-2000,British Grand Prix,mazzacane,0.0
-2000,British Grand Prix,rosa,0.0
-2000,British Grand Prix,salo,0.0
-2000,British Grand Prix,verstappen,0.0
-2000,British Grand Prix,villeneuve,0.0
-2000,British Grand Prix,wurz,0.0
-2000,British Grand Prix,zonta,0.0
-2000,Belgian Grand Prix,hakkinen,10.0
-2000,Belgian Grand Prix,michael_schumacher,6.0
-2000,Belgian Grand Prix,ralf_schumacher,4.0
-2000,Belgian Grand Prix,coulthard,3.0
-2000,Belgian Grand Prix,button,2.0
-2000,Belgian Grand Prix,frentzen,1.0
-2000,Belgian Grand Prix,alesi,0.0
-2000,Belgian Grand Prix,barrichello,0.0
-2000,Belgian Grand Prix,diniz,0.0
-2000,Belgian Grand Prix,fisichella,0.0
-2000,Belgian Grand Prix,gene,0.0
-2000,Belgian Grand Prix,heidfeld,0.0
-2000,Belgian Grand Prix,herbert,0.0
-2000,Belgian Grand Prix,irvine,0.0
-2000,Belgian Grand Prix,mazzacane,0.0
-2000,Belgian Grand Prix,rosa,0.0
-2000,Belgian Grand Prix,salo,0.0
-2000,Belgian Grand Prix,trulli,0.0
-2000,Belgian Grand Prix,verstappen,0.0
-2000,Belgian Grand Prix,villeneuve,0.0
-2000,Belgian Grand Prix,wurz,0.0
-2000,Belgian Grand Prix,zonta,0.0
-2001,Monaco Grand Prix,michael_schumacher,10.0
-2001,Monaco Grand Prix,barrichello,6.0
-2001,Monaco Grand Prix,irvine,4.0
-2001,Monaco Grand Prix,villeneuve,3.0
-2001,Monaco Grand Prix,coulthard,2.0
-2001,Monaco Grand Prix,alesi,1.0
-2001,Monaco Grand Prix,alonso,0.0
-2001,Monaco Grand Prix,bernoldi,0.0
-2001,Monaco Grand Prix,burti,0.0
-2001,Monaco Grand Prix,button,0.0
-2001,Monaco Grand Prix,fisichella,0.0
-2001,Monaco Grand Prix,frentzen,0.0
-2001,Monaco Grand Prix,hakkinen,0.0
-2001,Monaco Grand Prix,heidfeld,0.0
-2001,Monaco Grand Prix,marques,0.0
-2001,Monaco Grand Prix,montoya,0.0
-2001,Monaco Grand Prix,panis,0.0
-2001,Monaco Grand Prix,raikkonen,0.0
-2001,Monaco Grand Prix,ralf_schumacher,0.0
-2001,Monaco Grand Prix,rosa,0.0
-2001,Monaco Grand Prix,trulli,0.0
-2001,Monaco Grand Prix,verstappen,0.0
-2001,Italian Grand Prix,montoya,10.0
-2001,Italian Grand Prix,barrichello,6.0
-2001,Italian Grand Prix,ralf_schumacher,4.0
-2001,Italian Grand Prix,michael_schumacher,3.0
-2001,Italian Grand Prix,rosa,2.0
-2001,Italian Grand Prix,villeneuve,1.0
-2001,Italian Grand Prix,alesi,0.0
-2001,Italian Grand Prix,alonso,0.0
-2001,Italian Grand Prix,bernoldi,0.0
-2001,Italian Grand Prix,button,0.0
-2001,Italian Grand Prix,coulthard,0.0
-2001,Italian Grand Prix,enge,0.0
-2001,Italian Grand Prix,fisichella,0.0
-2001,Italian Grand Prix,frentzen,0.0
-2001,Italian Grand Prix,hakkinen,0.0
-2001,Italian Grand Prix,heidfeld,0.0
-2001,Italian Grand Prix,irvine,0.0
-2001,Italian Grand Prix,panis,0.0
-2001,Italian Grand Prix,raikkonen,0.0
-2001,Italian Grand Prix,trulli,0.0
-2001,Italian Grand Prix,verstappen,0.0
-2001,Italian Grand Prix,yoong,0.0
-2001,British Grand Prix,hakkinen,10.0
-2001,British Grand Prix,michael_schumacher,6.0
-2001,British Grand Prix,barrichello,4.0
-2001,British Grand Prix,montoya,3.0
-2001,British Grand Prix,raikkonen,2.0
-2001,British Grand Prix,heidfeld,1.0
-2001,British Grand Prix,alesi,0.0
-2001,British Grand Prix,alonso,0.0
-2001,British Grand Prix,bernoldi,0.0
-2001,British Grand Prix,burti,0.0
-2001,British Grand Prix,button,0.0
-2001,British Grand Prix,coulthard,0.0
-2001,British Grand Prix,fisichella,0.0
-2001,British Grand Prix,frentzen,0.0
-2001,British Grand Prix,irvine,0.0
-2001,British Grand Prix,marques,0.0
-2001,British Grand Prix,panis,0.0
-2001,British Grand Prix,ralf_schumacher,0.0
-2001,British Grand Prix,rosa,0.0
-2001,British Grand Prix,trulli,0.0
-2001,British Grand Prix,verstappen,0.0
-2001,British Grand Prix,villeneuve,0.0
-2001,Belgian Grand Prix,michael_schumacher,10.0
-2001,Belgian Grand Prix,coulthard,6.0
-2001,Belgian Grand Prix,fisichella,4.0
-2001,Belgian Grand Prix,hakkinen,3.0
-2001,Belgian Grand Prix,barrichello,2.0
-2001,Belgian Grand Prix,alesi,1.0
-2001,Belgian Grand Prix,alonso,0.0
-2001,Belgian Grand Prix,bernoldi,0.0
-2001,Belgian Grand Prix,burti,0.0
-2001,Belgian Grand Prix,button,0.0
-2001,Belgian Grand Prix,frentzen,0.0
-2001,Belgian Grand Prix,heidfeld,0.0
-2001,Belgian Grand Prix,irvine,0.0
-2001,Belgian Grand Prix,marques,0.0
-2001,Belgian Grand Prix,montoya,0.0
-2001,Belgian Grand Prix,panis,0.0
-2001,Belgian Grand Prix,raikkonen,0.0
-2001,Belgian Grand Prix,ralf_schumacher,0.0
-2001,Belgian Grand Prix,rosa,0.0
-2001,Belgian Grand Prix,trulli,0.0
-2001,Belgian Grand Prix,verstappen,0.0
-2001,Belgian Grand Prix,villeneuve,0.0
-2002,Monaco Grand Prix,coulthard,10.0
-2002,Monaco Grand Prix,michael_schumacher,6.0
-2002,Monaco Grand Prix,ralf_schumacher,4.0
-2002,Monaco Grand Prix,trulli,3.0
-2002,Monaco Grand Prix,fisichella,2.0
-2002,Monaco Grand Prix,frentzen,1.0
-2002,Monaco Grand Prix,barrichello,0.0
-2002,Monaco Grand Prix,bernoldi,0.0
-2002,Monaco Grand Prix,button,0.0
-2002,Monaco Grand Prix,heidfeld,0.0
-2002,Monaco Grand Prix,irvine,0.0
-2002,Monaco Grand Prix,massa,0.0
-2002,Monaco Grand Prix,mcnish,0.0
-2002,Monaco Grand Prix,montoya,0.0
-2002,Monaco Grand Prix,panis,0.0
-2002,Monaco Grand Prix,raikkonen,0.0
-2002,Monaco Grand Prix,rosa,0.0
-2002,Monaco Grand Prix,salo,0.0
-2002,Monaco Grand Prix,sato,0.0
-2002,Monaco Grand Prix,villeneuve,0.0
-2002,Monaco Grand Prix,webber,0.0
-2002,Monaco Grand Prix,yoong,0.0
-2002,Italian Grand Prix,barrichello,10.0
-2002,Italian Grand Prix,michael_schumacher,6.0
-2002,Italian Grand Prix,irvine,4.0
-2002,Italian Grand Prix,trulli,3.0
-2002,Italian Grand Prix,button,2.0
-2002,Italian Grand Prix,panis,1.0
-2002,Italian Grand Prix,coulthard,0.0
-2002,Italian Grand Prix,fisichella,0.0
-2002,Italian Grand Prix,heidfeld,0.0
-2002,Italian Grand Prix,massa,0.0
-2002,Italian Grand Prix,mcnish,0.0
-2002,Italian Grand Prix,montoya,0.0
-2002,Italian Grand Prix,raikkonen,0.0
-2002,Italian Grand Prix,ralf_schumacher,0.0
-2002,Italian Grand Prix,rosa,0.0
-2002,Italian Grand Prix,salo,0.0
-2002,Italian Grand Prix,sato,0.0
-2002,Italian Grand Prix,villeneuve,0.0
-2002,Italian Grand Prix,webber,0.0
-2002,Italian Grand Prix,yoong,0.0
-2002,British Grand Prix,michael_schumacher,10.0
-2002,British Grand Prix,barrichello,6.0
-2002,British Grand Prix,montoya,4.0
-2002,British Grand Prix,villeneuve,3.0
-2002,British Grand Prix,panis,2.0
-2002,British Grand Prix,heidfeld,1.0
-2002,British Grand Prix,bernoldi,0.0
-2002,British Grand Prix,button,0.0
-2002,British Grand Prix,coulthard,0.0
-2002,British Grand Prix,fisichella,0.0
-2002,British Grand Prix,frentzen,0.0
-2002,British Grand Prix,irvine,0.0
-2002,British Grand Prix,massa,0.0
-2002,British Grand Prix,mcnish,0.0
-2002,British Grand Prix,raikkonen,0.0
-2002,British Grand Prix,ralf_schumacher,0.0
-2002,British Grand Prix,rosa,0.0
-2002,British Grand Prix,salo,0.0
-2002,British Grand Prix,sato,0.0
-2002,British Grand Prix,trulli,0.0
-2002,British Grand Prix,webber,0.0
-2002,Belgian Grand Prix,michael_schumacher,10.0
-2002,Belgian Grand Prix,barrichello,6.0
-2002,Belgian Grand Prix,montoya,4.0
-2002,Belgian Grand Prix,coulthard,3.0
-2002,Belgian Grand Prix,ralf_schumacher,2.0
-2002,Belgian Grand Prix,irvine,1.0
-2002,Belgian Grand Prix,button,0.0
-2002,Belgian Grand Prix,davidson,0.0
-2002,Belgian Grand Prix,fisichella,0.0
-2002,Belgian Grand Prix,heidfeld,0.0
-2002,Belgian Grand Prix,massa,0.0
-2002,Belgian Grand Prix,mcnish,0.0
-2002,Belgian Grand Prix,panis,0.0
-2002,Belgian Grand Prix,raikkonen,0.0
-2002,Belgian Grand Prix,rosa,0.0
-2002,Belgian Grand Prix,salo,0.0
-2002,Belgian Grand Prix,sato,0.0
-2002,Belgian Grand Prix,trulli,0.0
-2002,Belgian Grand Prix,villeneuve,0.0
-2002,Belgian Grand Prix,webber,0.0
+year,name,driver_name,points,era
+1991,Monaco Grand Prix,senna,10.0,1991 - 2002
+1991,Monaco Grand Prix,mansell,6.0,1991 - 2002
+1991,Monaco Grand Prix,alesi,4.0,1991 - 2002
+1991,Monaco Grand Prix,moreno,3.0,1991 - 2002
+1991,Monaco Grand Prix,prost,2.0,1991 - 2002
+1991,Monaco Grand Prix,pirro,1.0,1991 - 2002
+1991,Monaco Grand Prix,alboreto,0.0,1991 - 2002
+1991,Monaco Grand Prix,bailey,0.0,1991 - 2002
+1991,Monaco Grand Prix,barbazza,0.0,1991 - 2002
+1991,Monaco Grand Prix,berger,0.0,1991 - 2002
+1991,Monaco Grand Prix,bernard,0.0,1991 - 2002
+1991,Monaco Grand Prix,blundell,0.0,1991 - 2002
+1991,Monaco Grand Prix,boutsen,0.0,1991 - 2002
+1991,Monaco Grand Prix,brundle,0.0,1991 - 2002
+1991,Monaco Grand Prix,caffi,0.0,1991 - 2002
+1991,Monaco Grand Prix,capelli,0.0,1991 - 2002
+1991,Monaco Grand Prix,cesaris,0.0,1991 - 2002
+1991,Monaco Grand Prix,chaves,0.0,1991 - 2002
+1991,Monaco Grand Prix,comas,0.0,1991 - 2002
+1991,Monaco Grand Prix,gachot,0.0,1991 - 2002
+1991,Monaco Grand Prix,grouillard,0.0,1991 - 2002
+1991,Monaco Grand Prix,gugelmin,0.0,1991 - 2002
+1991,Monaco Grand Prix,hakkinen,0.0,1991 - 2002
+1991,Monaco Grand Prix,larini,0.0,1991 - 2002
+1991,Monaco Grand Prix,lehto,0.0,1991 - 2002
+1991,Monaco Grand Prix,martini,0.0,1991 - 2002
+1991,Monaco Grand Prix,modena,0.0,1991 - 2002
+1991,Monaco Grand Prix,morbidelli,0.0,1991 - 2002
+1991,Monaco Grand Prix,patrese,0.0,1991 - 2002
+1991,Monaco Grand Prix,piquet,0.0,1991 - 2002
+1991,Monaco Grand Prix,poele,0.0,1991 - 2002
+1991,Monaco Grand Prix,satoru_nakajima,0.0,1991 - 2002
+1991,Monaco Grand Prix,suzuki,0.0,1991 - 2002
+1991,Monaco Grand Prix,tarquini,0.0,1991 - 2002
+1991,Italian Grand Prix,mansell,10.0,1991 - 2002
+1991,Italian Grand Prix,senna,6.0,1991 - 2002
+1991,Italian Grand Prix,prost,4.0,1991 - 2002
+1991,Italian Grand Prix,berger,3.0,1991 - 2002
+1991,Italian Grand Prix,michael_schumacher,2.0,1991 - 2002
+1991,Italian Grand Prix,piquet,1.0,1991 - 2002
+1991,Italian Grand Prix,alboreto,0.0,1991 - 2002
+1991,Italian Grand Prix,alesi,0.0,1991 - 2002
+1991,Italian Grand Prix,barbazza,0.0,1991 - 2002
+1991,Italian Grand Prix,bartels,0.0,1991 - 2002
+1991,Italian Grand Prix,bernard,0.0,1991 - 2002
+1991,Italian Grand Prix,blundell,0.0,1991 - 2002
+1991,Italian Grand Prix,boutsen,0.0,1991 - 2002
+1991,Italian Grand Prix,brundle,0.0,1991 - 2002
+1991,Italian Grand Prix,caffi,0.0,1991 - 2002
+1991,Italian Grand Prix,capelli,0.0,1991 - 2002
+1991,Italian Grand Prix,cesaris,0.0,1991 - 2002
+1991,Italian Grand Prix,chaves,0.0,1991 - 2002
+1991,Italian Grand Prix,comas,0.0,1991 - 2002
+1991,Italian Grand Prix,grouillard,0.0,1991 - 2002
+1991,Italian Grand Prix,gugelmin,0.0,1991 - 2002
+1991,Italian Grand Prix,hakkinen,0.0,1991 - 2002
+1991,Italian Grand Prix,larini,0.0,1991 - 2002
+1991,Italian Grand Prix,lehto,0.0,1991 - 2002
+1991,Italian Grand Prix,martini,0.0,1991 - 2002
+1991,Italian Grand Prix,modena,0.0,1991 - 2002
+1991,Italian Grand Prix,morbidelli,0.0,1991 - 2002
+1991,Italian Grand Prix,moreno,0.0,1991 - 2002
+1991,Italian Grand Prix,patrese,0.0,1991 - 2002
+1991,Italian Grand Prix,pirro,0.0,1991 - 2002
+1991,Italian Grand Prix,poele,0.0,1991 - 2002
+1991,Italian Grand Prix,satoru_nakajima,0.0,1991 - 2002
+1991,Italian Grand Prix,suzuki,0.0,1991 - 2002
+1991,Italian Grand Prix,tarquini,0.0,1991 - 2002
+1991,British Grand Prix,mansell,10.0,1991 - 2002
+1991,British Grand Prix,berger,6.0,1991 - 2002
+1991,British Grand Prix,prost,4.0,1991 - 2002
+1991,British Grand Prix,senna,3.0,1991 - 2002
+1991,British Grand Prix,piquet,2.0,1991 - 2002
+1991,British Grand Prix,gachot,1.0,1991 - 2002
+1991,British Grand Prix,alboreto,0.0,1991 - 2002
+1991,British Grand Prix,alesi,0.0,1991 - 2002
+1991,British Grand Prix,barbazza,0.0,1991 - 2002
+1991,British Grand Prix,bernard,0.0,1991 - 2002
+1991,British Grand Prix,blundell,0.0,1991 - 2002
+1991,British Grand Prix,boutsen,0.0,1991 - 2002
+1991,British Grand Prix,brundle,0.0,1991 - 2002
+1991,British Grand Prix,capelli,0.0,1991 - 2002
+1991,British Grand Prix,cesaris,0.0,1991 - 2002
+1991,British Grand Prix,chaves,0.0,1991 - 2002
+1991,British Grand Prix,comas,0.0,1991 - 2002
+1991,British Grand Prix,grouillard,0.0,1991 - 2002
+1991,British Grand Prix,gugelmin,0.0,1991 - 2002
+1991,British Grand Prix,hakkinen,0.0,1991 - 2002
+1991,British Grand Prix,herbert,0.0,1991 - 2002
+1991,British Grand Prix,johansson,0.0,1991 - 2002
+1991,British Grand Prix,larini,0.0,1991 - 2002
+1991,British Grand Prix,lehto,0.0,1991 - 2002
+1991,British Grand Prix,martini,0.0,1991 - 2002
+1991,British Grand Prix,modena,0.0,1991 - 2002
+1991,British Grand Prix,morbidelli,0.0,1991 - 2002
+1991,British Grand Prix,moreno,0.0,1991 - 2002
+1991,British Grand Prix,patrese,0.0,1991 - 2002
+1991,British Grand Prix,pirro,0.0,1991 - 2002
+1991,British Grand Prix,poele,0.0,1991 - 2002
+1991,British Grand Prix,satoru_nakajima,0.0,1991 - 2002
+1991,British Grand Prix,suzuki,0.0,1991 - 2002
+1991,British Grand Prix,tarquini,0.0,1991 - 2002
+1991,Belgian Grand Prix,senna,10.0,1991 - 2002
+1991,Belgian Grand Prix,berger,6.0,1991 - 2002
+1991,Belgian Grand Prix,piquet,4.0,1991 - 2002
+1991,Belgian Grand Prix,moreno,3.0,1991 - 2002
+1991,Belgian Grand Prix,patrese,2.0,1991 - 2002
+1991,Belgian Grand Prix,blundell,1.0,1991 - 2002
+1991,Belgian Grand Prix,alboreto,0.0,1991 - 2002
+1991,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1991,Belgian Grand Prix,barbazza,0.0,1991 - 2002
+1991,Belgian Grand Prix,bernard,0.0,1991 - 2002
+1991,Belgian Grand Prix,boutsen,0.0,1991 - 2002
+1991,Belgian Grand Prix,brundle,0.0,1991 - 2002
+1991,Belgian Grand Prix,caffi,0.0,1991 - 2002
+1991,Belgian Grand Prix,capelli,0.0,1991 - 2002
+1991,Belgian Grand Prix,cesaris,0.0,1991 - 2002
+1991,Belgian Grand Prix,chaves,0.0,1991 - 2002
+1991,Belgian Grand Prix,comas,0.0,1991 - 2002
+1991,Belgian Grand Prix,grouillard,0.0,1991 - 2002
+1991,Belgian Grand Prix,gugelmin,0.0,1991 - 2002
+1991,Belgian Grand Prix,hakkinen,0.0,1991 - 2002
+1991,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1991,Belgian Grand Prix,larini,0.0,1991 - 2002
+1991,Belgian Grand Prix,lehto,0.0,1991 - 2002
+1991,Belgian Grand Prix,mansell,0.0,1991 - 2002
+1991,Belgian Grand Prix,martini,0.0,1991 - 2002
+1991,Belgian Grand Prix,michael_schumacher,0.0,1991 - 2002
+1991,Belgian Grand Prix,modena,0.0,1991 - 2002
+1991,Belgian Grand Prix,morbidelli,0.0,1991 - 2002
+1991,Belgian Grand Prix,pirro,0.0,1991 - 2002
+1991,Belgian Grand Prix,poele,0.0,1991 - 2002
+1991,Belgian Grand Prix,prost,0.0,1991 - 2002
+1991,Belgian Grand Prix,satoru_nakajima,0.0,1991 - 2002
+1991,Belgian Grand Prix,suzuki,0.0,1991 - 2002
+1991,Belgian Grand Prix,tarquini,0.0,1991 - 2002
+1992,Monaco Grand Prix,senna,10.0,1991 - 2002
+1992,Monaco Grand Prix,mansell,6.0,1991 - 2002
+1992,Monaco Grand Prix,patrese,4.0,1991 - 2002
+1992,Monaco Grand Prix,michael_schumacher,3.0,1991 - 2002
+1992,Monaco Grand Prix,brundle,2.0,1991 - 2002
+1992,Monaco Grand Prix,gachot,1.0,1991 - 2002
+1992,Monaco Grand Prix,alboreto,0.0,1991 - 2002
+1992,Monaco Grand Prix,alesi,0.0,1991 - 2002
+1992,Monaco Grand Prix,belmondo,0.0,1991 - 2002
+1992,Monaco Grand Prix,berger,0.0,1991 - 2002
+1992,Monaco Grand Prix,boutsen,0.0,1991 - 2002
+1992,Monaco Grand Prix,capelli,0.0,1991 - 2002
+1992,Monaco Grand Prix,cesaris,0.0,1991 - 2002
+1992,Monaco Grand Prix,chiesa,0.0,1991 - 2002
+1992,Monaco Grand Prix,comas,0.0,1991 - 2002
+1992,Monaco Grand Prix,damon_hill,0.0,1991 - 2002
+1992,Monaco Grand Prix,fittipaldi,0.0,1991 - 2002
+1992,Monaco Grand Prix,grouillard,0.0,1991 - 2002
+1992,Monaco Grand Prix,gugelmin,0.0,1991 - 2002
+1992,Monaco Grand Prix,hakkinen,0.0,1991 - 2002
+1992,Monaco Grand Prix,herbert,0.0,1991 - 2002
+1992,Monaco Grand Prix,katayama,0.0,1991 - 2002
+1992,Monaco Grand Prix,lehto,0.0,1991 - 2002
+1992,Monaco Grand Prix,martini,0.0,1991 - 2002
+1992,Monaco Grand Prix,mccarthy,0.0,1991 - 2002
+1992,Monaco Grand Prix,modena,0.0,1991 - 2002
+1992,Monaco Grand Prix,morbidelli,0.0,1991 - 2002
+1992,Monaco Grand Prix,moreno,0.0,1991 - 2002
+1992,Monaco Grand Prix,poele,0.0,1991 - 2002
+1992,Monaco Grand Prix,suzuki,0.0,1991 - 2002
+1992,Monaco Grand Prix,tarquini,0.0,1991 - 2002
+1992,Monaco Grand Prix,wendlinger,0.0,1991 - 2002
+1992,Italian Grand Prix,senna,10.0,1991 - 2002
+1992,Italian Grand Prix,brundle,6.0,1991 - 2002
+1992,Italian Grand Prix,michael_schumacher,4.0,1991 - 2002
+1992,Italian Grand Prix,berger,3.0,1991 - 2002
+1992,Italian Grand Prix,patrese,2.0,1991 - 2002
+1992,Italian Grand Prix,cesaris,1.0,1991 - 2002
+1992,Italian Grand Prix,alboreto,0.0,1991 - 2002
+1992,Italian Grand Prix,alesi,0.0,1991 - 2002
+1992,Italian Grand Prix,boutsen,0.0,1991 - 2002
+1992,Italian Grand Prix,capelli,0.0,1991 - 2002
+1992,Italian Grand Prix,comas,0.0,1991 - 2002
+1992,Italian Grand Prix,fittipaldi,0.0,1991 - 2002
+1992,Italian Grand Prix,gachot,0.0,1991 - 2002
+1992,Italian Grand Prix,grouillard,0.0,1991 - 2002
+1992,Italian Grand Prix,gugelmin,0.0,1991 - 2002
+1992,Italian Grand Prix,hakkinen,0.0,1991 - 2002
+1992,Italian Grand Prix,herbert,0.0,1991 - 2002
+1992,Italian Grand Prix,katayama,0.0,1991 - 2002
+1992,Italian Grand Prix,lehto,0.0,1991 - 2002
+1992,Italian Grand Prix,mansell,0.0,1991 - 2002
+1992,Italian Grand Prix,martini,0.0,1991 - 2002
+1992,Italian Grand Prix,modena,0.0,1991 - 2002
+1992,Italian Grand Prix,morbidelli,0.0,1991 - 2002
+1992,Italian Grand Prix,naspetti,0.0,1991 - 2002
+1992,Italian Grand Prix,poele,0.0,1991 - 2002
+1992,Italian Grand Prix,suzuki,0.0,1991 - 2002
+1992,Italian Grand Prix,tarquini,0.0,1991 - 2002
+1992,Italian Grand Prix,wendlinger,0.0,1991 - 2002
+1992,British Grand Prix,mansell,10.0,1991 - 2002
+1992,British Grand Prix,patrese,6.0,1991 - 2002
+1992,British Grand Prix,brundle,4.0,1991 - 2002
+1992,British Grand Prix,michael_schumacher,3.0,1991 - 2002
+1992,British Grand Prix,berger,2.0,1991 - 2002
+1992,British Grand Prix,hakkinen,1.0,1991 - 2002
+1992,British Grand Prix,alboreto,0.0,1991 - 2002
+1992,British Grand Prix,alesi,0.0,1991 - 2002
+1992,British Grand Prix,belmondo,0.0,1991 - 2002
+1992,British Grand Prix,boutsen,0.0,1991 - 2002
+1992,British Grand Prix,capelli,0.0,1991 - 2002
+1992,British Grand Prix,cesaris,0.0,1991 - 2002
+1992,British Grand Prix,chiesa,0.0,1991 - 2002
+1992,British Grand Prix,comas,0.0,1991 - 2002
+1992,British Grand Prix,damon_hill,0.0,1991 - 2002
+1992,British Grand Prix,gachot,0.0,1991 - 2002
+1992,British Grand Prix,grouillard,0.0,1991 - 2002
+1992,British Grand Prix,gugelmin,0.0,1991 - 2002
+1992,British Grand Prix,herbert,0.0,1991 - 2002
+1992,British Grand Prix,katayama,0.0,1991 - 2002
+1992,British Grand Prix,lehto,0.0,1991 - 2002
+1992,British Grand Prix,martini,0.0,1991 - 2002
+1992,British Grand Prix,mccarthy,0.0,1991 - 2002
+1992,British Grand Prix,modena,0.0,1991 - 2002
+1992,British Grand Prix,morbidelli,0.0,1991 - 2002
+1992,British Grand Prix,moreno,0.0,1991 - 2002
+1992,British Grand Prix,poele,0.0,1991 - 2002
+1992,British Grand Prix,senna,0.0,1991 - 2002
+1992,British Grand Prix,suzuki,0.0,1991 - 2002
+1992,British Grand Prix,tarquini,0.0,1991 - 2002
+1992,British Grand Prix,wendlinger,0.0,1991 - 2002
+1992,British Grand Prix,zanardi,0.0,1991 - 2002
+1992,Belgian Grand Prix,michael_schumacher,10.0,1991 - 2002
+1992,Belgian Grand Prix,mansell,6.0,1991 - 2002
+1992,Belgian Grand Prix,patrese,4.0,1991 - 2002
+1992,Belgian Grand Prix,brundle,3.0,1991 - 2002
+1992,Belgian Grand Prix,senna,2.0,1991 - 2002
+1992,Belgian Grand Prix,hakkinen,1.0,1991 - 2002
+1992,Belgian Grand Prix,alboreto,0.0,1991 - 2002
+1992,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1992,Belgian Grand Prix,berger,0.0,1991 - 2002
+1992,Belgian Grand Prix,boutsen,0.0,1991 - 2002
+1992,Belgian Grand Prix,capelli,0.0,1991 - 2002
+1992,Belgian Grand Prix,cesaris,0.0,1991 - 2002
+1992,Belgian Grand Prix,comas,0.0,1991 - 2002
+1992,Belgian Grand Prix,fittipaldi,0.0,1991 - 2002
+1992,Belgian Grand Prix,gachot,0.0,1991 - 2002
+1992,Belgian Grand Prix,grouillard,0.0,1991 - 2002
+1992,Belgian Grand Prix,gugelmin,0.0,1991 - 2002
+1992,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1992,Belgian Grand Prix,katayama,0.0,1991 - 2002
+1992,Belgian Grand Prix,lehto,0.0,1991 - 2002
+1992,Belgian Grand Prix,martini,0.0,1991 - 2002
+1992,Belgian Grand Prix,mccarthy,0.0,1991 - 2002
+1992,Belgian Grand Prix,modena,0.0,1991 - 2002
+1992,Belgian Grand Prix,morbidelli,0.0,1991 - 2002
+1992,Belgian Grand Prix,moreno,0.0,1991 - 2002
+1992,Belgian Grand Prix,naspetti,0.0,1991 - 2002
+1992,Belgian Grand Prix,poele,0.0,1991 - 2002
+1992,Belgian Grand Prix,suzuki,0.0,1991 - 2002
+1992,Belgian Grand Prix,tarquini,0.0,1991 - 2002
+1992,Belgian Grand Prix,wendlinger,0.0,1991 - 2002
+1993,Monaco Grand Prix,senna,10.0,1991 - 2002
+1993,Monaco Grand Prix,damon_hill,6.0,1991 - 2002
+1993,Monaco Grand Prix,alesi,4.0,1991 - 2002
+1993,Monaco Grand Prix,prost,3.0,1991 - 2002
+1993,Monaco Grand Prix,fittipaldi,2.0,1991 - 2002
+1993,Monaco Grand Prix,brundle,1.0,1991 - 2002
+1993,Monaco Grand Prix,alboreto,0.0,1991 - 2002
+1993,Monaco Grand Prix,alliot,0.0,1991 - 2002
+1993,Monaco Grand Prix,andretti,0.0,1991 - 2002
+1993,Monaco Grand Prix,badoer,0.0,1991 - 2002
+1993,Monaco Grand Prix,barbazza,0.0,1991 - 2002
+1993,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+1993,Monaco Grand Prix,berger,0.0,1991 - 2002
+1993,Monaco Grand Prix,blundell,0.0,1991 - 2002
+1993,Monaco Grand Prix,boutsen,0.0,1991 - 2002
+1993,Monaco Grand Prix,cesaris,0.0,1991 - 2002
+1993,Monaco Grand Prix,comas,0.0,1991 - 2002
+1993,Monaco Grand Prix,herbert,0.0,1991 - 2002
+1993,Monaco Grand Prix,katayama,0.0,1991 - 2002
+1993,Monaco Grand Prix,lehto,0.0,1991 - 2002
+1993,Monaco Grand Prix,michael_schumacher,0.0,1991 - 2002
+1993,Monaco Grand Prix,patrese,0.0,1991 - 2002
+1993,Monaco Grand Prix,suzuki,0.0,1991 - 2002
+1993,Monaco Grand Prix,warwick,0.0,1991 - 2002
+1993,Monaco Grand Prix,wendlinger,0.0,1991 - 2002
+1993,Monaco Grand Prix,zanardi,0.0,1991 - 2002
+1993,Italian Grand Prix,damon_hill,10.0,1991 - 2002
+1993,Italian Grand Prix,alesi,6.0,1991 - 2002
+1993,Italian Grand Prix,andretti,4.0,1991 - 2002
+1993,Italian Grand Prix,wendlinger,3.0,1991 - 2002
+1993,Italian Grand Prix,patrese,2.0,1991 - 2002
+1993,Italian Grand Prix,comas,1.0,1991 - 2002
+1993,Italian Grand Prix,alboreto,0.0,1991 - 2002
+1993,Italian Grand Prix,alliot,0.0,1991 - 2002
+1993,Italian Grand Prix,apicella,0.0,1991 - 2002
+1993,Italian Grand Prix,badoer,0.0,1991 - 2002
+1993,Italian Grand Prix,barrichello,0.0,1991 - 2002
+1993,Italian Grand Prix,berger,0.0,1991 - 2002
+1993,Italian Grand Prix,blundell,0.0,1991 - 2002
+1993,Italian Grand Prix,brundle,0.0,1991 - 2002
+1993,Italian Grand Prix,cesaris,0.0,1991 - 2002
+1993,Italian Grand Prix,fittipaldi,0.0,1991 - 2002
+1993,Italian Grand Prix,herbert,0.0,1991 - 2002
+1993,Italian Grand Prix,katayama,0.0,1991 - 2002
+1993,Italian Grand Prix,lamy,0.0,1991 - 2002
+1993,Italian Grand Prix,lehto,0.0,1991 - 2002
+1993,Italian Grand Prix,martini,0.0,1991 - 2002
+1993,Italian Grand Prix,michael_schumacher,0.0,1991 - 2002
+1993,Italian Grand Prix,prost,0.0,1991 - 2002
+1993,Italian Grand Prix,senna,0.0,1991 - 2002
+1993,Italian Grand Prix,suzuki,0.0,1991 - 2002
+1993,Italian Grand Prix,warwick,0.0,1991 - 2002
+1993,British Grand Prix,prost,10.0,1991 - 2002
+1993,British Grand Prix,michael_schumacher,6.0,1991 - 2002
+1993,British Grand Prix,patrese,4.0,1991 - 2002
+1993,British Grand Prix,herbert,3.0,1991 - 2002
+1993,British Grand Prix,senna,2.0,1991 - 2002
+1993,British Grand Prix,warwick,1.0,1991 - 2002
+1993,British Grand Prix,alboreto,0.0,1991 - 2002
+1993,British Grand Prix,alesi,0.0,1991 - 2002
+1993,British Grand Prix,alliot,0.0,1991 - 2002
+1993,British Grand Prix,andretti,0.0,1991 - 2002
+1993,British Grand Prix,badoer,0.0,1991 - 2002
+1993,British Grand Prix,barrichello,0.0,1991 - 2002
+1993,British Grand Prix,berger,0.0,1991 - 2002
+1993,British Grand Prix,blundell,0.0,1991 - 2002
+1993,British Grand Prix,boutsen,0.0,1991 - 2002
+1993,British Grand Prix,brundle,0.0,1991 - 2002
+1993,British Grand Prix,cesaris,0.0,1991 - 2002
+1993,British Grand Prix,comas,0.0,1991 - 2002
+1993,British Grand Prix,damon_hill,0.0,1991 - 2002
+1993,British Grand Prix,fittipaldi,0.0,1991 - 2002
+1993,British Grand Prix,katayama,0.0,1991 - 2002
+1993,British Grand Prix,lehto,0.0,1991 - 2002
+1993,British Grand Prix,martini,0.0,1991 - 2002
+1993,British Grand Prix,suzuki,0.0,1991 - 2002
+1993,British Grand Prix,wendlinger,0.0,1991 - 2002
+1993,British Grand Prix,zanardi,0.0,1991 - 2002
+1993,Belgian Grand Prix,damon_hill,10.0,1991 - 2002
+1993,Belgian Grand Prix,michael_schumacher,6.0,1991 - 2002
+1993,Belgian Grand Prix,prost,4.0,1991 - 2002
+1993,Belgian Grand Prix,senna,3.0,1991 - 2002
+1993,Belgian Grand Prix,herbert,2.0,1991 - 2002
+1993,Belgian Grand Prix,patrese,1.0,1991 - 2002
+1993,Belgian Grand Prix,alboreto,0.0,1991 - 2002
+1993,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1993,Belgian Grand Prix,alliot,0.0,1991 - 2002
+1993,Belgian Grand Prix,andretti,0.0,1991 - 2002
+1993,Belgian Grand Prix,badoer,0.0,1991 - 2002
+1993,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+1993,Belgian Grand Prix,berger,0.0,1991 - 2002
+1993,Belgian Grand Prix,blundell,0.0,1991 - 2002
+1993,Belgian Grand Prix,boutsen,0.0,1991 - 2002
+1993,Belgian Grand Prix,brundle,0.0,1991 - 2002
+1993,Belgian Grand Prix,cesaris,0.0,1991 - 2002
+1993,Belgian Grand Prix,comas,0.0,1991 - 2002
+1993,Belgian Grand Prix,fittipaldi,0.0,1991 - 2002
+1993,Belgian Grand Prix,katayama,0.0,1991 - 2002
+1993,Belgian Grand Prix,lehto,0.0,1991 - 2002
+1993,Belgian Grand Prix,martini,0.0,1991 - 2002
+1993,Belgian Grand Prix,suzuki,0.0,1991 - 2002
+1993,Belgian Grand Prix,warwick,0.0,1991 - 2002
+1993,Belgian Grand Prix,wendlinger,0.0,1991 - 2002
+1993,Belgian Grand Prix,zanardi,0.0,1991 - 2002
+1994,Monaco Grand Prix,michael_schumacher,10.0,1991 - 2002
+1994,Monaco Grand Prix,brundle,6.0,1991 - 2002
+1994,Monaco Grand Prix,berger,4.0,1991 - 2002
+1994,Monaco Grand Prix,cesaris,3.0,1991 - 2002
+1994,Monaco Grand Prix,alesi,2.0,1991 - 2002
+1994,Monaco Grand Prix,alboreto,1.0,1991 - 2002
+1994,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+1994,Monaco Grand Prix,belmondo,0.0,1991 - 2002
+1994,Monaco Grand Prix,beretta,0.0,1991 - 2002
+1994,Monaco Grand Prix,bernard,0.0,1991 - 2002
+1994,Monaco Grand Prix,blundell,0.0,1991 - 2002
+1994,Monaco Grand Prix,brabham,0.0,1991 - 2002
+1994,Monaco Grand Prix,comas,0.0,1991 - 2002
+1994,Monaco Grand Prix,damon_hill,0.0,1991 - 2002
+1994,Monaco Grand Prix,fittipaldi,0.0,1991 - 2002
+1994,Monaco Grand Prix,frentzen,0.0,1991 - 2002
+1994,Monaco Grand Prix,gachot,0.0,1991 - 2002
+1994,Monaco Grand Prix,hakkinen,0.0,1991 - 2002
+1994,Monaco Grand Prix,herbert,0.0,1991 - 2002
+1994,Monaco Grand Prix,katayama,0.0,1991 - 2002
+1994,Monaco Grand Prix,lamy,0.0,1991 - 2002
+1994,Monaco Grand Prix,lehto,0.0,1991 - 2002
+1994,Monaco Grand Prix,martini,0.0,1991 - 2002
+1994,Monaco Grand Prix,morbidelli,0.0,1991 - 2002
+1994,Monaco Grand Prix,panis,0.0,1991 - 2002
+1994,Monaco Grand Prix,wendlinger,0.0,1991 - 2002
+1994,Italian Grand Prix,damon_hill,10.0,1991 - 2002
+1994,Italian Grand Prix,berger,6.0,1991 - 2002
+1994,Italian Grand Prix,hakkinen,4.0,1991 - 2002
+1994,Italian Grand Prix,barrichello,3.0,1991 - 2002
+1994,Italian Grand Prix,brundle,2.0,1991 - 2002
+1994,Italian Grand Prix,coulthard,1.0,1991 - 2002
+1994,Italian Grand Prix,alboreto,0.0,1991 - 2002
+1994,Italian Grand Prix,alesi,0.0,1991 - 2002
+1994,Italian Grand Prix,belmondo,0.0,1991 - 2002
+1994,Italian Grand Prix,bernard,0.0,1991 - 2002
+1994,Italian Grand Prix,blundell,0.0,1991 - 2002
+1994,Italian Grand Prix,brabham,0.0,1991 - 2002
+1994,Italian Grand Prix,cesaris,0.0,1991 - 2002
+1994,Italian Grand Prix,comas,0.0,1991 - 2002
+1994,Italian Grand Prix,dalmas,0.0,1991 - 2002
+1994,Italian Grand Prix,fittipaldi,0.0,1991 - 2002
+1994,Italian Grand Prix,frentzen,0.0,1991 - 2002
+1994,Italian Grand Prix,gachot,0.0,1991 - 2002
+1994,Italian Grand Prix,gounon,0.0,1991 - 2002
+1994,Italian Grand Prix,herbert,0.0,1991 - 2002
+1994,Italian Grand Prix,irvine,0.0,1991 - 2002
+1994,Italian Grand Prix,katayama,0.0,1991 - 2002
+1994,Italian Grand Prix,lehto,0.0,1991 - 2002
+1994,Italian Grand Prix,martini,0.0,1991 - 2002
+1994,Italian Grand Prix,morbidelli,0.0,1991 - 2002
+1994,Italian Grand Prix,panis,0.0,1991 - 2002
+1994,Italian Grand Prix,verstappen,0.0,1991 - 2002
+1994,Italian Grand Prix,zanardi,0.0,1991 - 2002
+1994,British Grand Prix,damon_hill,10.0,1991 - 2002
+1994,British Grand Prix,alesi,6.0,1991 - 2002
+1994,British Grand Prix,hakkinen,4.0,1991 - 2002
+1994,British Grand Prix,barrichello,3.0,1991 - 2002
+1994,British Grand Prix,coulthard,2.0,1991 - 2002
+1994,British Grand Prix,katayama,1.0,1991 - 2002
+1994,British Grand Prix,alboreto,0.0,1991 - 2002
+1994,British Grand Prix,belmondo,0.0,1991 - 2002
+1994,British Grand Prix,beretta,0.0,1991 - 2002
+1994,British Grand Prix,berger,0.0,1991 - 2002
+1994,British Grand Prix,bernard,0.0,1991 - 2002
+1994,British Grand Prix,blundell,0.0,1991 - 2002
+1994,British Grand Prix,brabham,0.0,1991 - 2002
+1994,British Grand Prix,brundle,0.0,1991 - 2002
+1994,British Grand Prix,cesaris,0.0,1991 - 2002
+1994,British Grand Prix,comas,0.0,1991 - 2002
+1994,British Grand Prix,fittipaldi,0.0,1991 - 2002
+1994,British Grand Prix,frentzen,0.0,1991 - 2002
+1994,British Grand Prix,gachot,0.0,1991 - 2002
+1994,British Grand Prix,gounon,0.0,1991 - 2002
+1994,British Grand Prix,herbert,0.0,1991 - 2002
+1994,British Grand Prix,irvine,0.0,1991 - 2002
+1994,British Grand Prix,martini,0.0,1991 - 2002
+1994,British Grand Prix,michael_schumacher,0.0,1991 - 2002
+1994,British Grand Prix,morbidelli,0.0,1991 - 2002
+1994,British Grand Prix,panis,0.0,1991 - 2002
+1994,British Grand Prix,verstappen,0.0,1991 - 2002
+1994,British Grand Prix,zanardi,0.0,1991 - 2002
+1994,Belgian Grand Prix,damon_hill,10.0,1991 - 2002
+1994,Belgian Grand Prix,hakkinen,6.0,1991 - 2002
+1994,Belgian Grand Prix,verstappen,4.0,1991 - 2002
+1994,Belgian Grand Prix,coulthard,3.0,1991 - 2002
+1994,Belgian Grand Prix,blundell,2.0,1991 - 2002
+1994,Belgian Grand Prix,morbidelli,1.0,1991 - 2002
+1994,Belgian Grand Prix,adams,0.0,1991 - 2002
+1994,Belgian Grand Prix,alboreto,0.0,1991 - 2002
+1994,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1994,Belgian Grand Prix,alliot,0.0,1991 - 2002
+1994,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+1994,Belgian Grand Prix,belmondo,0.0,1991 - 2002
+1994,Belgian Grand Prix,berger,0.0,1991 - 2002
+1994,Belgian Grand Prix,bernard,0.0,1991 - 2002
+1994,Belgian Grand Prix,brabham,0.0,1991 - 2002
+1994,Belgian Grand Prix,brundle,0.0,1991 - 2002
+1994,Belgian Grand Prix,cesaris,0.0,1991 - 2002
+1994,Belgian Grand Prix,comas,0.0,1991 - 2002
+1994,Belgian Grand Prix,fittipaldi,0.0,1991 - 2002
+1994,Belgian Grand Prix,frentzen,0.0,1991 - 2002
+1994,Belgian Grand Prix,gachot,0.0,1991 - 2002
+1994,Belgian Grand Prix,gounon,0.0,1991 - 2002
+1994,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1994,Belgian Grand Prix,irvine,0.0,1991 - 2002
+1994,Belgian Grand Prix,katayama,0.0,1991 - 2002
+1994,Belgian Grand Prix,martini,0.0,1991 - 2002
+1994,Belgian Grand Prix,michael_schumacher,0.0,1991 - 2002
+1994,Belgian Grand Prix,panis,0.0,1991 - 2002
+1995,Monaco Grand Prix,michael_schumacher,10.0,1991 - 2002
+1995,Monaco Grand Prix,damon_hill,6.0,1991 - 2002
+1995,Monaco Grand Prix,berger,4.0,1991 - 2002
+1995,Monaco Grand Prix,herbert,3.0,1991 - 2002
+1995,Monaco Grand Prix,blundell,2.0,1991 - 2002
+1995,Monaco Grand Prix,frentzen,1.0,1991 - 2002
+1995,Monaco Grand Prix,alesi,0.0,1991 - 2002
+1995,Monaco Grand Prix,badoer,0.0,1991 - 2002
+1995,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+1995,Monaco Grand Prix,boullion,0.0,1991 - 2002
+1995,Monaco Grand Prix,brundle,0.0,1991 - 2002
+1995,Monaco Grand Prix,coulthard,0.0,1991 - 2002
+1995,Monaco Grand Prix,diniz,0.0,1991 - 2002
+1995,Monaco Grand Prix,gachot,0.0,1991 - 2002
+1995,Monaco Grand Prix,hakkinen,0.0,1991 - 2002
+1995,Monaco Grand Prix,inoue,0.0,1991 - 2002
+1995,Monaco Grand Prix,irvine,0.0,1991 - 2002
+1995,Monaco Grand Prix,katayama,0.0,1991 - 2002
+1995,Monaco Grand Prix,martini,0.0,1991 - 2002
+1995,Monaco Grand Prix,montermini,0.0,1991 - 2002
+1995,Monaco Grand Prix,morbidelli,0.0,1991 - 2002
+1995,Monaco Grand Prix,moreno,0.0,1991 - 2002
+1995,Monaco Grand Prix,panis,0.0,1991 - 2002
+1995,Monaco Grand Prix,salo,0.0,1991 - 2002
+1995,Monaco Grand Prix,schiattarella,0.0,1991 - 2002
+1995,Monaco Grand Prix,verstappen,0.0,1991 - 2002
+1995,Italian Grand Prix,herbert,10.0,1991 - 2002
+1995,Italian Grand Prix,hakkinen,6.0,1991 - 2002
+1995,Italian Grand Prix,frentzen,4.0,1991 - 2002
+1995,Italian Grand Prix,blundell,3.0,1991 - 2002
+1995,Italian Grand Prix,salo,2.0,1991 - 2002
+1995,Italian Grand Prix,boullion,1.0,1991 - 2002
+1995,Italian Grand Prix,alesi,0.0,1991 - 2002
+1995,Italian Grand Prix,badoer,0.0,1991 - 2002
+1995,Italian Grand Prix,barrichello,0.0,1991 - 2002
+1995,Italian Grand Prix,berger,0.0,1991 - 2002
+1995,Italian Grand Prix,brundle,0.0,1991 - 2002
+1995,Italian Grand Prix,coulthard,0.0,1991 - 2002
+1995,Italian Grand Prix,damon_hill,0.0,1991 - 2002
+1995,Italian Grand Prix,diniz,0.0,1991 - 2002
+1995,Italian Grand Prix,inoue,0.0,1991 - 2002
+1995,Italian Grand Prix,irvine,0.0,1991 - 2002
+1995,Italian Grand Prix,katayama,0.0,1991 - 2002
+1995,Italian Grand Prix,lamy,0.0,1991 - 2002
+1995,Italian Grand Prix,lavaggi,0.0,1991 - 2002
+1995,Italian Grand Prix,michael_schumacher,0.0,1991 - 2002
+1995,Italian Grand Prix,montermini,0.0,1991 - 2002
+1995,Italian Grand Prix,moreno,0.0,1991 - 2002
+1995,Italian Grand Prix,panis,0.0,1991 - 2002
+1995,Italian Grand Prix,papis,0.0,1991 - 2002
+1995,British Grand Prix,herbert,10.0,1991 - 2002
+1995,British Grand Prix,alesi,6.0,1991 - 2002
+1995,British Grand Prix,coulthard,4.0,1991 - 2002
+1995,British Grand Prix,panis,3.0,1991 - 2002
+1995,British Grand Prix,blundell,2.0,1991 - 2002
+1995,British Grand Prix,frentzen,1.0,1991 - 2002
+1995,British Grand Prix,badoer,0.0,1991 - 2002
+1995,British Grand Prix,barrichello,0.0,1991 - 2002
+1995,British Grand Prix,berger,0.0,1991 - 2002
+1995,British Grand Prix,boullion,0.0,1991 - 2002
+1995,British Grand Prix,brundle,0.0,1991 - 2002
+1995,British Grand Prix,damon_hill,0.0,1991 - 2002
+1995,British Grand Prix,diniz,0.0,1991 - 2002
+1995,British Grand Prix,gachot,0.0,1991 - 2002
+1995,British Grand Prix,hakkinen,0.0,1991 - 2002
+1995,British Grand Prix,inoue,0.0,1991 - 2002
+1995,British Grand Prix,irvine,0.0,1991 - 2002
+1995,British Grand Prix,katayama,0.0,1991 - 2002
+1995,British Grand Prix,martini,0.0,1991 - 2002
+1995,British Grand Prix,michael_schumacher,0.0,1991 - 2002
+1995,British Grand Prix,montermini,0.0,1991 - 2002
+1995,British Grand Prix,moreno,0.0,1991 - 2002
+1995,British Grand Prix,papis,0.0,1991 - 2002
+1995,British Grand Prix,salo,0.0,1991 - 2002
+1995,Belgian Grand Prix,michael_schumacher,10.0,1991 - 2002
+1995,Belgian Grand Prix,damon_hill,6.0,1991 - 2002
+1995,Belgian Grand Prix,brundle,4.0,1991 - 2002
+1995,Belgian Grand Prix,frentzen,3.0,1991 - 2002
+1995,Belgian Grand Prix,blundell,2.0,1991 - 2002
+1995,Belgian Grand Prix,barrichello,1.0,1991 - 2002
+1995,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1995,Belgian Grand Prix,badoer,0.0,1991 - 2002
+1995,Belgian Grand Prix,berger,0.0,1991 - 2002
+1995,Belgian Grand Prix,boullion,0.0,1991 - 2002
+1995,Belgian Grand Prix,coulthard,0.0,1991 - 2002
+1995,Belgian Grand Prix,diniz,0.0,1991 - 2002
+1995,Belgian Grand Prix,hakkinen,0.0,1991 - 2002
+1995,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1995,Belgian Grand Prix,inoue,0.0,1991 - 2002
+1995,Belgian Grand Prix,irvine,0.0,1991 - 2002
+1995,Belgian Grand Prix,katayama,0.0,1991 - 2002
+1995,Belgian Grand Prix,lamy,0.0,1991 - 2002
+1995,Belgian Grand Prix,lavaggi,0.0,1991 - 2002
+1995,Belgian Grand Prix,montermini,0.0,1991 - 2002
+1995,Belgian Grand Prix,moreno,0.0,1991 - 2002
+1995,Belgian Grand Prix,panis,0.0,1991 - 2002
+1995,Belgian Grand Prix,papis,0.0,1991 - 2002
+1995,Belgian Grand Prix,salo,0.0,1991 - 2002
+1996,Monaco Grand Prix,panis,10.0,1991 - 2002
+1996,Monaco Grand Prix,coulthard,6.0,1991 - 2002
+1996,Monaco Grand Prix,herbert,4.0,1991 - 2002
+1996,Monaco Grand Prix,frentzen,3.0,1991 - 2002
+1996,Monaco Grand Prix,salo,2.0,1991 - 2002
+1996,Monaco Grand Prix,hakkinen,1.0,1991 - 2002
+1996,Monaco Grand Prix,alesi,0.0,1991 - 2002
+1996,Monaco Grand Prix,badoer,0.0,1991 - 2002
+1996,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+1996,Monaco Grand Prix,berger,0.0,1991 - 2002
+1996,Monaco Grand Prix,brundle,0.0,1991 - 2002
+1996,Monaco Grand Prix,damon_hill,0.0,1991 - 2002
+1996,Monaco Grand Prix,diniz,0.0,1991 - 2002
+1996,Monaco Grand Prix,fisichella,0.0,1991 - 2002
+1996,Monaco Grand Prix,irvine,0.0,1991 - 2002
+1996,Monaco Grand Prix,katayama,0.0,1991 - 2002
+1996,Monaco Grand Prix,lamy,0.0,1991 - 2002
+1996,Monaco Grand Prix,michael_schumacher,0.0,1991 - 2002
+1996,Monaco Grand Prix,montermini,0.0,1991 - 2002
+1996,Monaco Grand Prix,rosset,0.0,1991 - 2002
+1996,Monaco Grand Prix,verstappen,0.0,1991 - 2002
+1996,Monaco Grand Prix,villeneuve,0.0,1991 - 2002
+1996,Italian Grand Prix,michael_schumacher,10.0,1991 - 2002
+1996,Italian Grand Prix,alesi,6.0,1991 - 2002
+1996,Italian Grand Prix,hakkinen,4.0,1991 - 2002
+1996,Italian Grand Prix,brundle,3.0,1991 - 2002
+1996,Italian Grand Prix,barrichello,2.0,1991 - 2002
+1996,Italian Grand Prix,diniz,1.0,1991 - 2002
+1996,Italian Grand Prix,berger,0.0,1991 - 2002
+1996,Italian Grand Prix,coulthard,0.0,1991 - 2002
+1996,Italian Grand Prix,damon_hill,0.0,1991 - 2002
+1996,Italian Grand Prix,frentzen,0.0,1991 - 2002
+1996,Italian Grand Prix,herbert,0.0,1991 - 2002
+1996,Italian Grand Prix,irvine,0.0,1991 - 2002
+1996,Italian Grand Prix,katayama,0.0,1991 - 2002
+1996,Italian Grand Prix,lamy,0.0,1991 - 2002
+1996,Italian Grand Prix,lavaggi,0.0,1991 - 2002
+1996,Italian Grand Prix,panis,0.0,1991 - 2002
+1996,Italian Grand Prix,rosset,0.0,1991 - 2002
+1996,Italian Grand Prix,salo,0.0,1991 - 2002
+1996,Italian Grand Prix,verstappen,0.0,1991 - 2002
+1996,Italian Grand Prix,villeneuve,0.0,1991 - 2002
+1996,British Grand Prix,villeneuve,10.0,1991 - 2002
+1996,British Grand Prix,berger,6.0,1991 - 2002
+1996,British Grand Prix,hakkinen,4.0,1991 - 2002
+1996,British Grand Prix,barrichello,3.0,1991 - 2002
+1996,British Grand Prix,coulthard,2.0,1991 - 2002
+1996,British Grand Prix,brundle,1.0,1991 - 2002
+1996,British Grand Prix,alesi,0.0,1991 - 2002
+1996,British Grand Prix,badoer,0.0,1991 - 2002
+1996,British Grand Prix,damon_hill,0.0,1991 - 2002
+1996,British Grand Prix,diniz,0.0,1991 - 2002
+1996,British Grand Prix,fisichella,0.0,1991 - 2002
+1996,British Grand Prix,frentzen,0.0,1991 - 2002
+1996,British Grand Prix,herbert,0.0,1991 - 2002
+1996,British Grand Prix,irvine,0.0,1991 - 2002
+1996,British Grand Prix,katayama,0.0,1991 - 2002
+1996,British Grand Prix,lamy,0.0,1991 - 2002
+1996,British Grand Prix,michael_schumacher,0.0,1991 - 2002
+1996,British Grand Prix,montermini,0.0,1991 - 2002
+1996,British Grand Prix,panis,0.0,1991 - 2002
+1996,British Grand Prix,rosset,0.0,1991 - 2002
+1996,British Grand Prix,salo,0.0,1991 - 2002
+1996,British Grand Prix,verstappen,0.0,1991 - 2002
+1996,Belgian Grand Prix,michael_schumacher,10.0,1991 - 2002
+1996,Belgian Grand Prix,villeneuve,6.0,1991 - 2002
+1996,Belgian Grand Prix,hakkinen,4.0,1991 - 2002
+1996,Belgian Grand Prix,alesi,3.0,1991 - 2002
+1996,Belgian Grand Prix,damon_hill,2.0,1991 - 2002
+1996,Belgian Grand Prix,berger,1.0,1991 - 2002
+1996,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+1996,Belgian Grand Prix,brundle,0.0,1991 - 2002
+1996,Belgian Grand Prix,coulthard,0.0,1991 - 2002
+1996,Belgian Grand Prix,diniz,0.0,1991 - 2002
+1996,Belgian Grand Prix,frentzen,0.0,1991 - 2002
+1996,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1996,Belgian Grand Prix,irvine,0.0,1991 - 2002
+1996,Belgian Grand Prix,katayama,0.0,1991 - 2002
+1996,Belgian Grand Prix,lamy,0.0,1991 - 2002
+1996,Belgian Grand Prix,lavaggi,0.0,1991 - 2002
+1996,Belgian Grand Prix,panis,0.0,1991 - 2002
+1996,Belgian Grand Prix,rosset,0.0,1991 - 2002
+1996,Belgian Grand Prix,salo,0.0,1991 - 2002
+1996,Belgian Grand Prix,verstappen,0.0,1991 - 2002
+1997,Monaco Grand Prix,michael_schumacher,10.0,1991 - 2002
+1997,Monaco Grand Prix,barrichello,6.0,1991 - 2002
+1997,Monaco Grand Prix,irvine,4.0,1991 - 2002
+1997,Monaco Grand Prix,panis,3.0,1991 - 2002
+1997,Monaco Grand Prix,salo,2.0,1991 - 2002
+1997,Monaco Grand Prix,fisichella,1.0,1991 - 2002
+1997,Monaco Grand Prix,alesi,0.0,1991 - 2002
+1997,Monaco Grand Prix,berger,0.0,1991 - 2002
+1997,Monaco Grand Prix,coulthard,0.0,1991 - 2002
+1997,Monaco Grand Prix,damon_hill,0.0,1991 - 2002
+1997,Monaco Grand Prix,diniz,0.0,1991 - 2002
+1997,Monaco Grand Prix,frentzen,0.0,1991 - 2002
+1997,Monaco Grand Prix,hakkinen,0.0,1991 - 2002
+1997,Monaco Grand Prix,herbert,0.0,1991 - 2002
+1997,Monaco Grand Prix,katayama,0.0,1991 - 2002
+1997,Monaco Grand Prix,larini,0.0,1991 - 2002
+1997,Monaco Grand Prix,magnussen,0.0,1991 - 2002
+1997,Monaco Grand Prix,nakano,0.0,1991 - 2002
+1997,Monaco Grand Prix,ralf_schumacher,0.0,1991 - 2002
+1997,Monaco Grand Prix,trulli,0.0,1991 - 2002
+1997,Monaco Grand Prix,verstappen,0.0,1991 - 2002
+1997,Monaco Grand Prix,villeneuve,0.0,1991 - 2002
+1997,Italian Grand Prix,coulthard,10.0,1991 - 2002
+1997,Italian Grand Prix,alesi,6.0,1991 - 2002
+1997,Italian Grand Prix,frentzen,4.0,1991 - 2002
+1997,Italian Grand Prix,fisichella,3.0,1991 - 2002
+1997,Italian Grand Prix,villeneuve,2.0,1991 - 2002
+1997,Italian Grand Prix,michael_schumacher,1.0,1991 - 2002
+1997,Italian Grand Prix,barrichello,0.0,1991 - 2002
+1997,Italian Grand Prix,berger,0.0,1991 - 2002
+1997,Italian Grand Prix,damon_hill,0.0,1991 - 2002
+1997,Italian Grand Prix,diniz,0.0,1991 - 2002
+1997,Italian Grand Prix,hakkinen,0.0,1991 - 2002
+1997,Italian Grand Prix,herbert,0.0,1991 - 2002
+1997,Italian Grand Prix,irvine,0.0,1991 - 2002
+1997,Italian Grand Prix,katayama,0.0,1991 - 2002
+1997,Italian Grand Prix,magnussen,0.0,1991 - 2002
+1997,Italian Grand Prix,marques,0.0,1991 - 2002
+1997,Italian Grand Prix,morbidelli,0.0,1991 - 2002
+1997,Italian Grand Prix,nakano,0.0,1991 - 2002
+1997,Italian Grand Prix,ralf_schumacher,0.0,1991 - 2002
+1997,Italian Grand Prix,salo,0.0,1991 - 2002
+1997,Italian Grand Prix,trulli,0.0,1991 - 2002
+1997,Italian Grand Prix,verstappen,0.0,1991 - 2002
+1997,British Grand Prix,villeneuve,10.0,1991 - 2002
+1997,British Grand Prix,alesi,6.0,1991 - 2002
+1997,British Grand Prix,wurz,4.0,1991 - 2002
+1997,British Grand Prix,coulthard,3.0,1991 - 2002
+1997,British Grand Prix,ralf_schumacher,2.0,1991 - 2002
+1997,British Grand Prix,damon_hill,1.0,1991 - 2002
+1997,British Grand Prix,barrichello,0.0,1991 - 2002
+1997,British Grand Prix,diniz,0.0,1991 - 2002
+1997,British Grand Prix,fisichella,0.0,1991 - 2002
+1997,British Grand Prix,fontana,0.0,1991 - 2002
+1997,British Grand Prix,frentzen,0.0,1991 - 2002
+1997,British Grand Prix,hakkinen,0.0,1991 - 2002
+1997,British Grand Prix,herbert,0.0,1991 - 2002
+1997,British Grand Prix,irvine,0.0,1991 - 2002
+1997,British Grand Prix,katayama,0.0,1991 - 2002
+1997,British Grand Prix,magnussen,0.0,1991 - 2002
+1997,British Grand Prix,marques,0.0,1991 - 2002
+1997,British Grand Prix,michael_schumacher,0.0,1991 - 2002
+1997,British Grand Prix,nakano,0.0,1991 - 2002
+1997,British Grand Prix,salo,0.0,1991 - 2002
+1997,British Grand Prix,trulli,0.0,1991 - 2002
+1997,British Grand Prix,verstappen,0.0,1991 - 2002
+1997,Belgian Grand Prix,michael_schumacher,10.0,1991 - 2002
+1997,Belgian Grand Prix,fisichella,6.0,1991 - 2002
+1997,Belgian Grand Prix,frentzen,4.0,1991 - 2002
+1997,Belgian Grand Prix,herbert,3.0,1991 - 2002
+1997,Belgian Grand Prix,villeneuve,2.0,1991 - 2002
+1997,Belgian Grand Prix,berger,1.0,1991 - 2002
+1997,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1997,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+1997,Belgian Grand Prix,coulthard,0.0,1991 - 2002
+1997,Belgian Grand Prix,damon_hill,0.0,1991 - 2002
+1997,Belgian Grand Prix,diniz,0.0,1991 - 2002
+1997,Belgian Grand Prix,hakkinen,0.0,1991 - 2002
+1997,Belgian Grand Prix,irvine,0.0,1991 - 2002
+1997,Belgian Grand Prix,katayama,0.0,1991 - 2002
+1997,Belgian Grand Prix,magnussen,0.0,1991 - 2002
+1997,Belgian Grand Prix,marques,0.0,1991 - 2002
+1997,Belgian Grand Prix,morbidelli,0.0,1991 - 2002
+1997,Belgian Grand Prix,nakano,0.0,1991 - 2002
+1997,Belgian Grand Prix,ralf_schumacher,0.0,1991 - 2002
+1997,Belgian Grand Prix,salo,0.0,1991 - 2002
+1997,Belgian Grand Prix,trulli,0.0,1991 - 2002
+1997,Belgian Grand Prix,verstappen,0.0,1991 - 2002
+1998,Monaco Grand Prix,hakkinen,10.0,1991 - 2002
+1998,Monaco Grand Prix,fisichella,6.0,1991 - 2002
+1998,Monaco Grand Prix,irvine,4.0,1991 - 2002
+1998,Monaco Grand Prix,salo,3.0,1991 - 2002
+1998,Monaco Grand Prix,villeneuve,2.0,1991 - 2002
+1998,Monaco Grand Prix,diniz,1.0,1991 - 2002
+1998,Monaco Grand Prix,alesi,0.0,1991 - 2002
+1998,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+1998,Monaco Grand Prix,coulthard,0.0,1991 - 2002
+1998,Monaco Grand Prix,damon_hill,0.0,1991 - 2002
+1998,Monaco Grand Prix,frentzen,0.0,1991 - 2002
+1998,Monaco Grand Prix,herbert,0.0,1991 - 2002
+1998,Monaco Grand Prix,magnussen,0.0,1991 - 2002
+1998,Monaco Grand Prix,michael_schumacher,0.0,1991 - 2002
+1998,Monaco Grand Prix,nakano,0.0,1991 - 2002
+1998,Monaco Grand Prix,panis,0.0,1991 - 2002
+1998,Monaco Grand Prix,ralf_schumacher,0.0,1991 - 2002
+1998,Monaco Grand Prix,rosset,0.0,1991 - 2002
+1998,Monaco Grand Prix,takagi,0.0,1991 - 2002
+1998,Monaco Grand Prix,trulli,0.0,1991 - 2002
+1998,Monaco Grand Prix,tuero,0.0,1991 - 2002
+1998,Monaco Grand Prix,wurz,0.0,1991 - 2002
+1998,Italian Grand Prix,michael_schumacher,10.0,1991 - 2002
+1998,Italian Grand Prix,irvine,6.0,1991 - 2002
+1998,Italian Grand Prix,ralf_schumacher,4.0,1991 - 2002
+1998,Italian Grand Prix,hakkinen,3.0,1991 - 2002
+1998,Italian Grand Prix,alesi,2.0,1991 - 2002
+1998,Italian Grand Prix,damon_hill,1.0,1991 - 2002
+1998,Italian Grand Prix,barrichello,0.0,1991 - 2002
+1998,Italian Grand Prix,coulthard,0.0,1991 - 2002
+1998,Italian Grand Prix,diniz,0.0,1991 - 2002
+1998,Italian Grand Prix,fisichella,0.0,1991 - 2002
+1998,Italian Grand Prix,frentzen,0.0,1991 - 2002
+1998,Italian Grand Prix,herbert,0.0,1991 - 2002
+1998,Italian Grand Prix,nakano,0.0,1991 - 2002
+1998,Italian Grand Prix,panis,0.0,1991 - 2002
+1998,Italian Grand Prix,rosset,0.0,1991 - 2002
+1998,Italian Grand Prix,salo,0.0,1991 - 2002
+1998,Italian Grand Prix,takagi,0.0,1991 - 2002
+1998,Italian Grand Prix,trulli,0.0,1991 - 2002
+1998,Italian Grand Prix,tuero,0.0,1991 - 2002
+1998,Italian Grand Prix,verstappen,0.0,1991 - 2002
+1998,Italian Grand Prix,villeneuve,0.0,1991 - 2002
+1998,Italian Grand Prix,wurz,0.0,1991 - 2002
+1998,British Grand Prix,michael_schumacher,10.0,1991 - 2002
+1998,British Grand Prix,hakkinen,6.0,1991 - 2002
+1998,British Grand Prix,irvine,4.0,1991 - 2002
+1998,British Grand Prix,wurz,3.0,1991 - 2002
+1998,British Grand Prix,fisichella,2.0,1991 - 2002
+1998,British Grand Prix,ralf_schumacher,1.0,1991 - 2002
+1998,British Grand Prix,alesi,0.0,1991 - 2002
+1998,British Grand Prix,barrichello,0.0,1991 - 2002
+1998,British Grand Prix,coulthard,0.0,1991 - 2002
+1998,British Grand Prix,damon_hill,0.0,1991 - 2002
+1998,British Grand Prix,diniz,0.0,1991 - 2002
+1998,British Grand Prix,frentzen,0.0,1991 - 2002
+1998,British Grand Prix,herbert,0.0,1991 - 2002
+1998,British Grand Prix,nakano,0.0,1991 - 2002
+1998,British Grand Prix,panis,0.0,1991 - 2002
+1998,British Grand Prix,rosset,0.0,1991 - 2002
+1998,British Grand Prix,salo,0.0,1991 - 2002
+1998,British Grand Prix,takagi,0.0,1991 - 2002
+1998,British Grand Prix,trulli,0.0,1991 - 2002
+1998,British Grand Prix,tuero,0.0,1991 - 2002
+1998,British Grand Prix,verstappen,0.0,1991 - 2002
+1998,British Grand Prix,villeneuve,0.0,1991 - 2002
+1998,Belgian Grand Prix,damon_hill,10.0,1991 - 2002
+1998,Belgian Grand Prix,ralf_schumacher,6.0,1991 - 2002
+1998,Belgian Grand Prix,alesi,4.0,1991 - 2002
+1998,Belgian Grand Prix,frentzen,3.0,1991 - 2002
+1998,Belgian Grand Prix,diniz,2.0,1991 - 2002
+1998,Belgian Grand Prix,trulli,1.0,1991 - 2002
+1998,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+1998,Belgian Grand Prix,coulthard,0.0,1991 - 2002
+1998,Belgian Grand Prix,fisichella,0.0,1991 - 2002
+1998,Belgian Grand Prix,hakkinen,0.0,1991 - 2002
+1998,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1998,Belgian Grand Prix,irvine,0.0,1991 - 2002
+1998,Belgian Grand Prix,michael_schumacher,0.0,1991 - 2002
+1998,Belgian Grand Prix,nakano,0.0,1991 - 2002
+1998,Belgian Grand Prix,panis,0.0,1991 - 2002
+1998,Belgian Grand Prix,rosset,0.0,1991 - 2002
+1998,Belgian Grand Prix,salo,0.0,1991 - 2002
+1998,Belgian Grand Prix,takagi,0.0,1991 - 2002
+1998,Belgian Grand Prix,tuero,0.0,1991 - 2002
+1998,Belgian Grand Prix,verstappen,0.0,1991 - 2002
+1998,Belgian Grand Prix,villeneuve,0.0,1991 - 2002
+1998,Belgian Grand Prix,wurz,0.0,1991 - 2002
+1999,Monaco Grand Prix,michael_schumacher,10.0,1991 - 2002
+1999,Monaco Grand Prix,irvine,6.0,1991 - 2002
+1999,Monaco Grand Prix,hakkinen,4.0,1991 - 2002
+1999,Monaco Grand Prix,frentzen,3.0,1991 - 2002
+1999,Monaco Grand Prix,fisichella,2.0,1991 - 2002
+1999,Monaco Grand Prix,wurz,1.0,1991 - 2002
+1999,Monaco Grand Prix,alesi,0.0,1991 - 2002
+1999,Monaco Grand Prix,badoer,0.0,1991 - 2002
+1999,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+1999,Monaco Grand Prix,coulthard,0.0,1991 - 2002
+1999,Monaco Grand Prix,damon_hill,0.0,1991 - 2002
+1999,Monaco Grand Prix,diniz,0.0,1991 - 2002
+1999,Monaco Grand Prix,gene,0.0,1991 - 2002
+1999,Monaco Grand Prix,herbert,0.0,1991 - 2002
+1999,Monaco Grand Prix,panis,0.0,1991 - 2002
+1999,Monaco Grand Prix,ralf_schumacher,0.0,1991 - 2002
+1999,Monaco Grand Prix,rosa,0.0,1991 - 2002
+1999,Monaco Grand Prix,salo,0.0,1991 - 2002
+1999,Monaco Grand Prix,takagi,0.0,1991 - 2002
+1999,Monaco Grand Prix,trulli,0.0,1991 - 2002
+1999,Monaco Grand Prix,villeneuve,0.0,1991 - 2002
+1999,Monaco Grand Prix,zanardi,0.0,1991 - 2002
+1999,Italian Grand Prix,frentzen,10.0,1991 - 2002
+1999,Italian Grand Prix,ralf_schumacher,6.0,1991 - 2002
+1999,Italian Grand Prix,salo,4.0,1991 - 2002
+1999,Italian Grand Prix,barrichello,3.0,1991 - 2002
+1999,Italian Grand Prix,coulthard,2.0,1991 - 2002
+1999,Italian Grand Prix,irvine,1.0,1991 - 2002
+1999,Italian Grand Prix,alesi,0.0,1991 - 2002
+1999,Italian Grand Prix,badoer,0.0,1991 - 2002
+1999,Italian Grand Prix,damon_hill,0.0,1991 - 2002
+1999,Italian Grand Prix,diniz,0.0,1991 - 2002
+1999,Italian Grand Prix,fisichella,0.0,1991 - 2002
+1999,Italian Grand Prix,gene,0.0,1991 - 2002
+1999,Italian Grand Prix,hakkinen,0.0,1991 - 2002
+1999,Italian Grand Prix,herbert,0.0,1991 - 2002
+1999,Italian Grand Prix,panis,0.0,1991 - 2002
+1999,Italian Grand Prix,rosa,0.0,1991 - 2002
+1999,Italian Grand Prix,takagi,0.0,1991 - 2002
+1999,Italian Grand Prix,trulli,0.0,1991 - 2002
+1999,Italian Grand Prix,villeneuve,0.0,1991 - 2002
+1999,Italian Grand Prix,wurz,0.0,1991 - 2002
+1999,Italian Grand Prix,zanardi,0.0,1991 - 2002
+1999,Italian Grand Prix,zonta,0.0,1991 - 2002
+1999,British Grand Prix,coulthard,10.0,1991 - 2002
+1999,British Grand Prix,irvine,6.0,1991 - 2002
+1999,British Grand Prix,ralf_schumacher,4.0,1991 - 2002
+1999,British Grand Prix,frentzen,3.0,1991 - 2002
+1999,British Grand Prix,damon_hill,2.0,1991 - 2002
+1999,British Grand Prix,diniz,1.0,1991 - 2002
+1999,British Grand Prix,alesi,0.0,1991 - 2002
+1999,British Grand Prix,badoer,0.0,1991 - 2002
+1999,British Grand Prix,barrichello,0.0,1991 - 2002
+1999,British Grand Prix,fisichella,0.0,1991 - 2002
+1999,British Grand Prix,gene,0.0,1991 - 2002
+1999,British Grand Prix,hakkinen,0.0,1991 - 2002
+1999,British Grand Prix,herbert,0.0,1991 - 2002
+1999,British Grand Prix,michael_schumacher,0.0,1991 - 2002
+1999,British Grand Prix,panis,0.0,1991 - 2002
+1999,British Grand Prix,rosa,0.0,1991 - 2002
+1999,British Grand Prix,takagi,0.0,1991 - 2002
+1999,British Grand Prix,trulli,0.0,1991 - 2002
+1999,British Grand Prix,villeneuve,0.0,1991 - 2002
+1999,British Grand Prix,wurz,0.0,1991 - 2002
+1999,British Grand Prix,zanardi,0.0,1991 - 2002
+1999,British Grand Prix,zonta,0.0,1991 - 2002
+1999,Belgian Grand Prix,coulthard,10.0,1991 - 2002
+1999,Belgian Grand Prix,hakkinen,6.0,1991 - 2002
+1999,Belgian Grand Prix,frentzen,4.0,1991 - 2002
+1999,Belgian Grand Prix,irvine,3.0,1991 - 2002
+1999,Belgian Grand Prix,ralf_schumacher,2.0,1991 - 2002
+1999,Belgian Grand Prix,damon_hill,1.0,1991 - 2002
+1999,Belgian Grand Prix,alesi,0.0,1991 - 2002
+1999,Belgian Grand Prix,badoer,0.0,1991 - 2002
+1999,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+1999,Belgian Grand Prix,diniz,0.0,1991 - 2002
+1999,Belgian Grand Prix,fisichella,0.0,1991 - 2002
+1999,Belgian Grand Prix,gene,0.0,1991 - 2002
+1999,Belgian Grand Prix,herbert,0.0,1991 - 2002
+1999,Belgian Grand Prix,panis,0.0,1991 - 2002
+1999,Belgian Grand Prix,rosa,0.0,1991 - 2002
+1999,Belgian Grand Prix,salo,0.0,1991 - 2002
+1999,Belgian Grand Prix,takagi,0.0,1991 - 2002
+1999,Belgian Grand Prix,trulli,0.0,1991 - 2002
+1999,Belgian Grand Prix,villeneuve,0.0,1991 - 2002
+1999,Belgian Grand Prix,wurz,0.0,1991 - 2002
+1999,Belgian Grand Prix,zanardi,0.0,1991 - 2002
+1999,Belgian Grand Prix,zonta,0.0,1991 - 2002
+2000,Monaco Grand Prix,coulthard,10.0,1991 - 2002
+2000,Monaco Grand Prix,barrichello,6.0,1991 - 2002
+2000,Monaco Grand Prix,fisichella,4.0,1991 - 2002
+2000,Monaco Grand Prix,irvine,3.0,1991 - 2002
+2000,Monaco Grand Prix,salo,2.0,1991 - 2002
+2000,Monaco Grand Prix,hakkinen,1.0,1991 - 2002
+2000,Monaco Grand Prix,alesi,0.0,1991 - 2002
+2000,Monaco Grand Prix,button,0.0,1991 - 2002
+2000,Monaco Grand Prix,diniz,0.0,1991 - 2002
+2000,Monaco Grand Prix,frentzen,0.0,1991 - 2002
+2000,Monaco Grand Prix,gene,0.0,1991 - 2002
+2000,Monaco Grand Prix,heidfeld,0.0,1991 - 2002
+2000,Monaco Grand Prix,herbert,0.0,1991 - 2002
+2000,Monaco Grand Prix,mazzacane,0.0,1991 - 2002
+2000,Monaco Grand Prix,michael_schumacher,0.0,1991 - 2002
+2000,Monaco Grand Prix,ralf_schumacher,0.0,1991 - 2002
+2000,Monaco Grand Prix,rosa,0.0,1991 - 2002
+2000,Monaco Grand Prix,trulli,0.0,1991 - 2002
+2000,Monaco Grand Prix,verstappen,0.0,1991 - 2002
+2000,Monaco Grand Prix,villeneuve,0.0,1991 - 2002
+2000,Monaco Grand Prix,wurz,0.0,1991 - 2002
+2000,Monaco Grand Prix,zonta,0.0,1991 - 2002
+2000,Italian Grand Prix,michael_schumacher,10.0,1991 - 2002
+2000,Italian Grand Prix,hakkinen,6.0,1991 - 2002
+2000,Italian Grand Prix,ralf_schumacher,4.0,1991 - 2002
+2000,Italian Grand Prix,verstappen,3.0,1991 - 2002
+2000,Italian Grand Prix,wurz,2.0,1991 - 2002
+2000,Italian Grand Prix,zonta,1.0,1991 - 2002
+2000,Italian Grand Prix,alesi,0.0,1991 - 2002
+2000,Italian Grand Prix,barrichello,0.0,1991 - 2002
+2000,Italian Grand Prix,button,0.0,1991 - 2002
+2000,Italian Grand Prix,coulthard,0.0,1991 - 2002
+2000,Italian Grand Prix,diniz,0.0,1991 - 2002
+2000,Italian Grand Prix,fisichella,0.0,1991 - 2002
+2000,Italian Grand Prix,frentzen,0.0,1991 - 2002
+2000,Italian Grand Prix,gene,0.0,1991 - 2002
+2000,Italian Grand Prix,heidfeld,0.0,1991 - 2002
+2000,Italian Grand Prix,herbert,0.0,1991 - 2002
+2000,Italian Grand Prix,irvine,0.0,1991 - 2002
+2000,Italian Grand Prix,mazzacane,0.0,1991 - 2002
+2000,Italian Grand Prix,rosa,0.0,1991 - 2002
+2000,Italian Grand Prix,salo,0.0,1991 - 2002
+2000,Italian Grand Prix,trulli,0.0,1991 - 2002
+2000,Italian Grand Prix,villeneuve,0.0,1991 - 2002
+2000,British Grand Prix,coulthard,10.0,1991 - 2002
+2000,British Grand Prix,hakkinen,6.0,1991 - 2002
+2000,British Grand Prix,michael_schumacher,4.0,1991 - 2002
+2000,British Grand Prix,ralf_schumacher,3.0,1991 - 2002
+2000,British Grand Prix,button,2.0,1991 - 2002
+2000,British Grand Prix,trulli,1.0,1991 - 2002
+2000,British Grand Prix,alesi,0.0,1991 - 2002
+2000,British Grand Prix,barrichello,0.0,1991 - 2002
+2000,British Grand Prix,diniz,0.0,1991 - 2002
+2000,British Grand Prix,fisichella,0.0,1991 - 2002
+2000,British Grand Prix,frentzen,0.0,1991 - 2002
+2000,British Grand Prix,gene,0.0,1991 - 2002
+2000,British Grand Prix,heidfeld,0.0,1991 - 2002
+2000,British Grand Prix,herbert,0.0,1991 - 2002
+2000,British Grand Prix,irvine,0.0,1991 - 2002
+2000,British Grand Prix,mazzacane,0.0,1991 - 2002
+2000,British Grand Prix,rosa,0.0,1991 - 2002
+2000,British Grand Prix,salo,0.0,1991 - 2002
+2000,British Grand Prix,verstappen,0.0,1991 - 2002
+2000,British Grand Prix,villeneuve,0.0,1991 - 2002
+2000,British Grand Prix,wurz,0.0,1991 - 2002
+2000,British Grand Prix,zonta,0.0,1991 - 2002
+2000,Belgian Grand Prix,hakkinen,10.0,1991 - 2002
+2000,Belgian Grand Prix,michael_schumacher,6.0,1991 - 2002
+2000,Belgian Grand Prix,ralf_schumacher,4.0,1991 - 2002
+2000,Belgian Grand Prix,coulthard,3.0,1991 - 2002
+2000,Belgian Grand Prix,button,2.0,1991 - 2002
+2000,Belgian Grand Prix,frentzen,1.0,1991 - 2002
+2000,Belgian Grand Prix,alesi,0.0,1991 - 2002
+2000,Belgian Grand Prix,barrichello,0.0,1991 - 2002
+2000,Belgian Grand Prix,diniz,0.0,1991 - 2002
+2000,Belgian Grand Prix,fisichella,0.0,1991 - 2002
+2000,Belgian Grand Prix,gene,0.0,1991 - 2002
+2000,Belgian Grand Prix,heidfeld,0.0,1991 - 2002
+2000,Belgian Grand Prix,herbert,0.0,1991 - 2002
+2000,Belgian Grand Prix,irvine,0.0,1991 - 2002
+2000,Belgian Grand Prix,mazzacane,0.0,1991 - 2002
+2000,Belgian Grand Prix,rosa,0.0,1991 - 2002
+2000,Belgian Grand Prix,salo,0.0,1991 - 2002
+2000,Belgian Grand Prix,trulli,0.0,1991 - 2002
+2000,Belgian Grand Prix,verstappen,0.0,1991 - 2002
+2000,Belgian Grand Prix,villeneuve,0.0,1991 - 2002
+2000,Belgian Grand Prix,wurz,0.0,1991 - 2002
+2000,Belgian Grand Prix,zonta,0.0,1991 - 2002
+2001,Monaco Grand Prix,michael_schumacher,10.0,1991 - 2002
+2001,Monaco Grand Prix,barrichello,6.0,1991 - 2002
+2001,Monaco Grand Prix,irvine,4.0,1991 - 2002
+2001,Monaco Grand Prix,villeneuve,3.0,1991 - 2002
+2001,Monaco Grand Prix,coulthard,2.0,1991 - 2002
+2001,Monaco Grand Prix,alesi,1.0,1991 - 2002
+2001,Monaco Grand Prix,alonso,0.0,1991 - 2002
+2001,Monaco Grand Prix,bernoldi,0.0,1991 - 2002
+2001,Monaco Grand Prix,burti,0.0,1991 - 2002
+2001,Monaco Grand Prix,button,0.0,1991 - 2002
+2001,Monaco Grand Prix,fisichella,0.0,1991 - 2002
+2001,Monaco Grand Prix,frentzen,0.0,1991 - 2002
+2001,Monaco Grand Prix,hakkinen,0.0,1991 - 2002
+2001,Monaco Grand Prix,heidfeld,0.0,1991 - 2002
+2001,Monaco Grand Prix,marques,0.0,1991 - 2002
+2001,Monaco Grand Prix,montoya,0.0,1991 - 2002
+2001,Monaco Grand Prix,panis,0.0,1991 - 2002
+2001,Monaco Grand Prix,raikkonen,0.0,1991 - 2002
+2001,Monaco Grand Prix,ralf_schumacher,0.0,1991 - 2002
+2001,Monaco Grand Prix,rosa,0.0,1991 - 2002
+2001,Monaco Grand Prix,trulli,0.0,1991 - 2002
+2001,Monaco Grand Prix,verstappen,0.0,1991 - 2002
+2001,Italian Grand Prix,montoya,10.0,1991 - 2002
+2001,Italian Grand Prix,barrichello,6.0,1991 - 2002
+2001,Italian Grand Prix,ralf_schumacher,4.0,1991 - 2002
+2001,Italian Grand Prix,michael_schumacher,3.0,1991 - 2002
+2001,Italian Grand Prix,rosa,2.0,1991 - 2002
+2001,Italian Grand Prix,villeneuve,1.0,1991 - 2002
+2001,Italian Grand Prix,alesi,0.0,1991 - 2002
+2001,Italian Grand Prix,alonso,0.0,1991 - 2002
+2001,Italian Grand Prix,bernoldi,0.0,1991 - 2002
+2001,Italian Grand Prix,button,0.0,1991 - 2002
+2001,Italian Grand Prix,coulthard,0.0,1991 - 2002
+2001,Italian Grand Prix,enge,0.0,1991 - 2002
+2001,Italian Grand Prix,fisichella,0.0,1991 - 2002
+2001,Italian Grand Prix,frentzen,0.0,1991 - 2002
+2001,Italian Grand Prix,hakkinen,0.0,1991 - 2002
+2001,Italian Grand Prix,heidfeld,0.0,1991 - 2002
+2001,Italian Grand Prix,irvine,0.0,1991 - 2002
+2001,Italian Grand Prix,panis,0.0,1991 - 2002
+2001,Italian Grand Prix,raikkonen,0.0,1991 - 2002
+2001,Italian Grand Prix,trulli,0.0,1991 - 2002
+2001,Italian Grand Prix,verstappen,0.0,1991 - 2002
+2001,Italian Grand Prix,yoong,0.0,1991 - 2002
+2001,British Grand Prix,hakkinen,10.0,1991 - 2002
+2001,British Grand Prix,michael_schumacher,6.0,1991 - 2002
+2001,British Grand Prix,barrichello,4.0,1991 - 2002
+2001,British Grand Prix,montoya,3.0,1991 - 2002
+2001,British Grand Prix,raikkonen,2.0,1991 - 2002
+2001,British Grand Prix,heidfeld,1.0,1991 - 2002
+2001,British Grand Prix,alesi,0.0,1991 - 2002
+2001,British Grand Prix,alonso,0.0,1991 - 2002
+2001,British Grand Prix,bernoldi,0.0,1991 - 2002
+2001,British Grand Prix,burti,0.0,1991 - 2002
+2001,British Grand Prix,button,0.0,1991 - 2002
+2001,British Grand Prix,coulthard,0.0,1991 - 2002
+2001,British Grand Prix,fisichella,0.0,1991 - 2002
+2001,British Grand Prix,frentzen,0.0,1991 - 2002
+2001,British Grand Prix,irvine,0.0,1991 - 2002
+2001,British Grand Prix,marques,0.0,1991 - 2002
+2001,British Grand Prix,panis,0.0,1991 - 2002
+2001,British Grand Prix,ralf_schumacher,0.0,1991 - 2002
+2001,British Grand Prix,rosa,0.0,1991 - 2002
+2001,British Grand Prix,trulli,0.0,1991 - 2002
+2001,British Grand Prix,verstappen,0.0,1991 - 2002
+2001,British Grand Prix,villeneuve,0.0,1991 - 2002
+2001,Belgian Grand Prix,michael_schumacher,10.0,1991 - 2002
+2001,Belgian Grand Prix,coulthard,6.0,1991 - 2002
+2001,Belgian Grand Prix,fisichella,4.0,1991 - 2002
+2001,Belgian Grand Prix,hakkinen,3.0,1991 - 2002
+2001,Belgian Grand Prix,barrichello,2.0,1991 - 2002
+2001,Belgian Grand Prix,alesi,1.0,1991 - 2002
+2001,Belgian Grand Prix,alonso,0.0,1991 - 2002
+2001,Belgian Grand Prix,bernoldi,0.0,1991 - 2002
+2001,Belgian Grand Prix,burti,0.0,1991 - 2002
+2001,Belgian Grand Prix,button,0.0,1991 - 2002
+2001,Belgian Grand Prix,frentzen,0.0,1991 - 2002
+2001,Belgian Grand Prix,heidfeld,0.0,1991 - 2002
+2001,Belgian Grand Prix,irvine,0.0,1991 - 2002
+2001,Belgian Grand Prix,marques,0.0,1991 - 2002
+2001,Belgian Grand Prix,montoya,0.0,1991 - 2002
+2001,Belgian Grand Prix,panis,0.0,1991 - 2002
+2001,Belgian Grand Prix,raikkonen,0.0,1991 - 2002
+2001,Belgian Grand Prix,ralf_schumacher,0.0,1991 - 2002
+2001,Belgian Grand Prix,rosa,0.0,1991 - 2002
+2001,Belgian Grand Prix,trulli,0.0,1991 - 2002
+2001,Belgian Grand Prix,verstappen,0.0,1991 - 2002
+2001,Belgian Grand Prix,villeneuve,0.0,1991 - 2002
+2002,Monaco Grand Prix,coulthard,10.0,1991 - 2002
+2002,Monaco Grand Prix,michael_schumacher,6.0,1991 - 2002
+2002,Monaco Grand Prix,ralf_schumacher,4.0,1991 - 2002
+2002,Monaco Grand Prix,trulli,3.0,1991 - 2002
+2002,Monaco Grand Prix,fisichella,2.0,1991 - 2002
+2002,Monaco Grand Prix,frentzen,1.0,1991 - 2002
+2002,Monaco Grand Prix,barrichello,0.0,1991 - 2002
+2002,Monaco Grand Prix,bernoldi,0.0,1991 - 2002
+2002,Monaco Grand Prix,button,0.0,1991 - 2002
+2002,Monaco Grand Prix,heidfeld,0.0,1991 - 2002
+2002,Monaco Grand Prix,irvine,0.0,1991 - 2002
+2002,Monaco Grand Prix,massa,0.0,1991 - 2002
+2002,Monaco Grand Prix,mcnish,0.0,1991 - 2002
+2002,Monaco Grand Prix,montoya,0.0,1991 - 2002
+2002,Monaco Grand Prix,panis,0.0,1991 - 2002
+2002,Monaco Grand Prix,raikkonen,0.0,1991 - 2002
+2002,Monaco Grand Prix,rosa,0.0,1991 - 2002
+2002,Monaco Grand Prix,salo,0.0,1991 - 2002
+2002,Monaco Grand Prix,sato,0.0,1991 - 2002
+2002,Monaco Grand Prix,villeneuve,0.0,1991 - 2002
+2002,Monaco Grand Prix,webber,0.0,1991 - 2002
+2002,Monaco Grand Prix,yoong,0.0,1991 - 2002
+2002,Italian Grand Prix,barrichello,10.0,1991 - 2002
+2002,Italian Grand Prix,michael_schumacher,6.0,1991 - 2002
+2002,Italian Grand Prix,irvine,4.0,1991 - 2002
+2002,Italian Grand Prix,trulli,3.0,1991 - 2002
+2002,Italian Grand Prix,button,2.0,1991 - 2002
+2002,Italian Grand Prix,panis,1.0,1991 - 2002
+2002,Italian Grand Prix,coulthard,0.0,1991 - 2002
+2002,Italian Grand Prix,fisichella,0.0,1991 - 2002
+2002,Italian Grand Prix,heidfeld,0.0,1991 - 2002
+2002,Italian Grand Prix,massa,0.0,1991 - 2002
+2002,Italian Grand Prix,mcnish,0.0,1991 - 2002
+2002,Italian Grand Prix,montoya,0.0,1991 - 2002
+2002,Italian Grand Prix,raikkonen,0.0,1991 - 2002
+2002,Italian Grand Prix,ralf_schumacher,0.0,1991 - 2002
+2002,Italian Grand Prix,rosa,0.0,1991 - 2002
+2002,Italian Grand Prix,salo,0.0,1991 - 2002
+2002,Italian Grand Prix,sato,0.0,1991 - 2002
+2002,Italian Grand Prix,villeneuve,0.0,1991 - 2002
+2002,Italian Grand Prix,webber,0.0,1991 - 2002
+2002,Italian Grand Prix,yoong,0.0,1991 - 2002
+2002,British Grand Prix,michael_schumacher,10.0,1991 - 2002
+2002,British Grand Prix,barrichello,6.0,1991 - 2002
+2002,British Grand Prix,montoya,4.0,1991 - 2002
+2002,British Grand Prix,villeneuve,3.0,1991 - 2002
+2002,British Grand Prix,panis,2.0,1991 - 2002
+2002,British Grand Prix,heidfeld,1.0,1991 - 2002
+2002,British Grand Prix,bernoldi,0.0,1991 - 2002
+2002,British Grand Prix,button,0.0,1991 - 2002
+2002,British Grand Prix,coulthard,0.0,1991 - 2002
+2002,British Grand Prix,fisichella,0.0,1991 - 2002
+2002,British Grand Prix,frentzen,0.0,1991 - 2002
+2002,British Grand Prix,irvine,0.0,1991 - 2002
+2002,British Grand Prix,massa,0.0,1991 - 2002
+2002,British Grand Prix,mcnish,0.0,1991 - 2002
+2002,British Grand Prix,raikkonen,0.0,1991 - 2002
+2002,British Grand Prix,ralf_schumacher,0.0,1991 - 2002
+2002,British Grand Prix,rosa,0.0,1991 - 2002
+2002,British Grand Prix,salo,0.0,1991 - 2002
+2002,British Grand Prix,sato,0.0,1991 - 2002
+2002,British Grand Prix,trulli,0.0,1991 - 2002
+2002,British Grand Prix,webber,0.0,1991 - 2002
+2002,Belgian Grand Prix,michael_schumacher,10.0,1991 - 2002
+2002,Belgian Grand Prix,barrichello,6.0,1991 - 2002
+2002,Belgian Grand Prix,montoya,4.0,1991 - 2002
+2002,Belgian Grand Prix,coulthard,3.0,1991 - 2002
+2002,Belgian Grand Prix,ralf_schumacher,2.0,1991 - 2002
+2002,Belgian Grand Prix,irvine,1.0,1991 - 2002
+2002,Belgian Grand Prix,button,0.0,1991 - 2002
+2002,Belgian Grand Prix,davidson,0.0,1991 - 2002
+2002,Belgian Grand Prix,fisichella,0.0,1991 - 2002
+2002,Belgian Grand Prix,heidfeld,0.0,1991 - 2002
+2002,Belgian Grand Prix,massa,0.0,1991 - 2002
+2002,Belgian Grand Prix,mcnish,0.0,1991 - 2002
+2002,Belgian Grand Prix,panis,0.0,1991 - 2002
+2002,Belgian Grand Prix,raikkonen,0.0,1991 - 2002
+2002,Belgian Grand Prix,rosa,0.0,1991 - 2002
+2002,Belgian Grand Prix,salo,0.0,1991 - 2002
+2002,Belgian Grand Prix,sato,0.0,1991 - 2002
+2002,Belgian Grand Prix,trulli,0.0,1991 - 2002
+2002,Belgian Grand Prix,villeneuve,0.0,1991 - 2002
+2002,Belgian Grand Prix,webber,0.0,1991 - 2002

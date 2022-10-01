@@ -1,101 +1,101 @@
-,year,name,driver_name,grid,race_finish_position,positions_gained_lost
-3218,2009,Belgian Grand Prix,kovalainen,15,6,9
-3223,2009,Belgian Grand Prix,badoer,20,14,6
-3209,2009,Belgian Grand Prix,raikkonen,6,1,5
-3211,2009,Belgian Grand Prix,vettel,8,3,5
-3221,2009,Belgian Grand Prix,nakajima,18,13,5
-3134,2009,British Grand Prix,massa,11,4,7
-3139,2009,British Grand Prix,fisichella,16,10,6
-3141,2009,British Grand Prix,sutil,20,17,3
-3130,2009,British Grand Prix,rosberg,7,5,2
-3137,2009,British Grand Prix,piquet_jr,14,12,2
-3238,2009,Italian Grand Prix,heidfeld,15,7,8
-3240,2009,Italian Grand Prix,nakajima,17,10,7
-3242,2009,Italian Grand Prix,buemi,19,13,6
-3237,2009,Italian Grand Prix,fisichella,14,9,5
-3239,2009,Italian Grand Prix,glock,16,11,5
-3103,2009,Monaco Grand Prix,glock,20,10,10
-3099,2009,Monaco Grand Prix,hamilton,19,12,7
-3097,2009,Monaco Grand Prix,bourdais,14,8,6
-3100,2009,Monaco Grand Prix,heidfeld,16,11,5
-3102,2009,Monaco Grand Prix,trulli,18,13,5
-3622,2010,Belgian Grand Prix,michael_schumacher,21,7,14
-3635,2010,Belgian Grand Prix,petrov,23,9,14
-3633,2010,Belgian Grand Prix,rosa,24,11,13
-3630,2010,Belgian Grand Prix,kobayashi,17,8,9
-3623,2010,Belgian Grand Prix,rosberg,14,6,8
-3553,2010,British Grand Prix,button,14,4,10
-3554,2010,British Grand Prix,liuzzi,20,11,9
-3551,2010,British Grand Prix,kobayashi,12,6,6
-3560,2010,British Grand Prix,trulli,21,16,5
-3556,2010,British Grand Prix,buemi,16,12,4
-3650,2010,Italian Grand Prix,petrov,20,13,7
-3655,2010,Italian Grand Prix,liuzzi,19,12,7
-3656,2010,Italian Grand Prix,glock,24,17,7
-3659,2010,Italian Grand Prix,yamamoto,23,19,4
-3647,2010,Italian Grand Prix,michael_schumacher,12,9,3
-3467,2010,Monaco Grand Prix,alonso,24,6,18
-3466,2010,Monaco Grand Prix,chandhok,23,14,9
-3460,2010,Monaco Grand Prix,alguersuari,17,11,6
-3455,2010,Monaco Grand Prix,sutil,12,8,4
-3462,2010,Monaco Grand Prix,trulli,19,15,4
-4812,2011,Belgian Grand Prix,maldonado,21,10,11
-4809,2011,Belgian Grand Prix,button,13,3,10
-4811,2011,Belgian Grand Prix,sutil,15,7,8
-4814,2011,Belgian Grand Prix,resta,17,11,6
-4804,2011,Belgian Grand Prix,alonso,8,4,4
-4740,2011,British Grand Prix,heidfeld,16,8,8
-4742,2011,British Grand Prix,alguersuari,18,10,8
-4734,2011,British Grand Prix,hamilton,10,4,6
-4736,2011,British Grand Prix,perez,12,7,5
-4746,2011,British Grand Prix,ambrosio,22,17,5
-5940,2011,Italian Grand Prix,alguersuari,18,7,11
-5942,2011,Italian Grand Prix,kovalainen,20,13,7
-5938,2011,Italian Grand Prix,buemi,16,10,6
-5943,2011,Italian Grand Prix,glock,21,15,6
-5941,2011,Italian Grand Prix,trulli,19,14,5
-4665,2011,Monaco Grand Prix,kobayashi,12,5,7
-4667,2011,Monaco Grand Prix,sutil,14,7,7
-4668,2011,Monaco Grand Prix,heidfeld,15,8,7
-4676,2011,Monaco Grand Prix,liuzzi,23,16,7
-4669,2011,Monaco Grand Prix,buemi,16,10,6
-5242,2012,Belgian Grand Prix,rosberg,23,11,12
-5238,2012,Belgian Grand Prix,massa,14,5,9
-5235,2012,Belgian Grand Prix,vettel,10,2,8
-5236,2012,Belgian Grand Prix,hulkenberg,11,4,7
-5239,2012,Belgian Grand Prix,vergne,15,8,7
-5168,2012,British Grand Prix,vergne,23,14,9
-5164,2012,British Grand Prix,kobayashi,17,11,6
-5170,2012,British Grand Prix,button,16,10,6
-5176,2012,British Grand Prix,pic,24,19,5
-5167,2012,British Grand Prix,bruno_senna,13,9,4
-5260,2012,Italian Grand Prix,maldonado,22,11,11
-5261,2012,Italian Grand Prix,perez,12,2,10
-5258,2012,Italian Grand Prix,alonso,10,3,7
-5271,2012,Italian Grand Prix,rosa,23,18,5
-5269,2012,Italian Grand Prix,pic,20,16,4
-5097,2012,Monaco Grand Prix,resta,14,7,7
-5105,2012,Monaco Grand Prix,karthikeyan,22,15,7
-5092,2012,Monaco Grand Prix,vettel,9,4,5
-5102,2012,Monaco Grand Prix,glock,19,14,5
-5099,2012,Monaco Grand Prix,vergne,16,12,4
-5677,2013,Belgian Grand Prix,ricciardo,19,10,9
-5667,2013,Belgian Grand Prix,alonso,9,2,7
-5679,2013,Belgian Grand Prix,gutierrez,21,14,7
-5676,2013,Belgian Grand Prix,vergne,18,12,6
-5678,2013,Belgian Grand Prix,bottas,20,15,5
-5597,2013,British Grand Prix,resta,21,9,12
-5602,2013,British Grand Prix,alonso,9,3,6
-5604,2013,British Grand Prix,massa,11,6,5
-5607,2013,British Grand Prix,hulkenberg,14,10,4
-5608,2013,British Grand Prix,maldonado,15,11,4
-5693,2013,Italian Grand Prix,grosjean,13,8,5
-5685,2013,Italian Grand Prix,alonso,5,2,3
-5692,2013,Italian Grand Prix,hamilton,12,9,3
-5697,2013,Italian Grand Prix,gutierrez,16,13,3
-5698,2013,Italian Grand Prix,bottas,18,15,3
-5565,2013,Monaco Grand Prix,resta,17,9,8
-5568,2013,Monaco Grand Prix,chilton,22,14,8
-5567,2013,Monaco Grand Prix,gutierrez,19,13,6
-5556,2013,Monaco Grand Prix,sutil,8,5,3
-5557,2013,Monaco Grand Prix,button,9,6,3
+,year,name,driver_name,grid,race_finish_position,positions_gained_lost,era
+3218,2009,Belgian Grand Prix,kovalainen,15,6,9,V8 Regulated
+3223,2009,Belgian Grand Prix,badoer,20,14,6,V8 Regulated
+3209,2009,Belgian Grand Prix,raikkonen,6,1,5,V8 Regulated
+3211,2009,Belgian Grand Prix,vettel,8,3,5,V8 Regulated
+3221,2009,Belgian Grand Prix,nakajima,18,13,5,V8 Regulated
+3134,2009,British Grand Prix,massa,11,4,7,V8 Regulated
+3139,2009,British Grand Prix,fisichella,16,10,6,V8 Regulated
+3141,2009,British Grand Prix,sutil,20,17,3,V8 Regulated
+3130,2009,British Grand Prix,rosberg,7,5,2,V8 Regulated
+3137,2009,British Grand Prix,piquet_jr,14,12,2,V8 Regulated
+3238,2009,Italian Grand Prix,heidfeld,15,7,8,V8 Regulated
+3240,2009,Italian Grand Prix,nakajima,17,10,7,V8 Regulated
+3242,2009,Italian Grand Prix,buemi,19,13,6,V8 Regulated
+3237,2009,Italian Grand Prix,fisichella,14,9,5,V8 Regulated
+3239,2009,Italian Grand Prix,glock,16,11,5,V8 Regulated
+3103,2009,Monaco Grand Prix,glock,20,10,10,V8 Regulated
+3099,2009,Monaco Grand Prix,hamilton,19,12,7,V8 Regulated
+3097,2009,Monaco Grand Prix,bourdais,14,8,6,V8 Regulated
+3100,2009,Monaco Grand Prix,heidfeld,16,11,5,V8 Regulated
+3102,2009,Monaco Grand Prix,trulli,18,13,5,V8 Regulated
+3622,2010,Belgian Grand Prix,michael_schumacher,21,7,14,V8 Regulated
+3635,2010,Belgian Grand Prix,petrov,23,9,14,V8 Regulated
+3633,2010,Belgian Grand Prix,rosa,24,11,13,V8 Regulated
+3630,2010,Belgian Grand Prix,kobayashi,17,8,9,V8 Regulated
+3623,2010,Belgian Grand Prix,rosberg,14,6,8,V8 Regulated
+3553,2010,British Grand Prix,button,14,4,10,V8 Regulated
+3554,2010,British Grand Prix,liuzzi,20,11,9,V8 Regulated
+3551,2010,British Grand Prix,kobayashi,12,6,6,V8 Regulated
+3560,2010,British Grand Prix,trulli,21,16,5,V8 Regulated
+3556,2010,British Grand Prix,buemi,16,12,4,V8 Regulated
+3650,2010,Italian Grand Prix,petrov,20,13,7,V8 Regulated
+3655,2010,Italian Grand Prix,liuzzi,19,12,7,V8 Regulated
+3656,2010,Italian Grand Prix,glock,24,17,7,V8 Regulated
+3659,2010,Italian Grand Prix,yamamoto,23,19,4,V8 Regulated
+3647,2010,Italian Grand Prix,michael_schumacher,12,9,3,V8 Regulated
+3467,2010,Monaco Grand Prix,alonso,24,6,18,V8 Regulated
+3466,2010,Monaco Grand Prix,chandhok,23,14,9,V8 Regulated
+3460,2010,Monaco Grand Prix,alguersuari,17,11,6,V8 Regulated
+3455,2010,Monaco Grand Prix,sutil,12,8,4,V8 Regulated
+3462,2010,Monaco Grand Prix,trulli,19,15,4,V8 Regulated
+4812,2011,Belgian Grand Prix,maldonado,21,10,11,V8 Regulated
+4809,2011,Belgian Grand Prix,button,13,3,10,V8 Regulated
+4811,2011,Belgian Grand Prix,sutil,15,7,8,V8 Regulated
+4814,2011,Belgian Grand Prix,resta,17,11,6,V8 Regulated
+4804,2011,Belgian Grand Prix,alonso,8,4,4,V8 Regulated
+4740,2011,British Grand Prix,heidfeld,16,8,8,V8 Regulated
+4742,2011,British Grand Prix,alguersuari,18,10,8,V8 Regulated
+4734,2011,British Grand Prix,hamilton,10,4,6,V8 Regulated
+4736,2011,British Grand Prix,perez,12,7,5,V8 Regulated
+4746,2011,British Grand Prix,ambrosio,22,17,5,V8 Regulated
+5940,2011,Italian Grand Prix,alguersuari,18,7,11,V8 Regulated
+5942,2011,Italian Grand Prix,kovalainen,20,13,7,V8 Regulated
+5938,2011,Italian Grand Prix,buemi,16,10,6,V8 Regulated
+5943,2011,Italian Grand Prix,glock,21,15,6,V8 Regulated
+5941,2011,Italian Grand Prix,trulli,19,14,5,V8 Regulated
+4665,2011,Monaco Grand Prix,kobayashi,12,5,7,V8 Regulated
+4667,2011,Monaco Grand Prix,sutil,14,7,7,V8 Regulated
+4668,2011,Monaco Grand Prix,heidfeld,15,8,7,V8 Regulated
+4676,2011,Monaco Grand Prix,liuzzi,23,16,7,V8 Regulated
+4669,2011,Monaco Grand Prix,buemi,16,10,6,V8 Regulated
+5242,2012,Belgian Grand Prix,rosberg,23,11,12,V8 Regulated
+5238,2012,Belgian Grand Prix,massa,14,5,9,V8 Regulated
+5235,2012,Belgian Grand Prix,vettel,10,2,8,V8 Regulated
+5236,2012,Belgian Grand Prix,hulkenberg,11,4,7,V8 Regulated
+5239,2012,Belgian Grand Prix,vergne,15,8,7,V8 Regulated
+5168,2012,British Grand Prix,vergne,23,14,9,V8 Regulated
+5164,2012,British Grand Prix,kobayashi,17,11,6,V8 Regulated
+5170,2012,British Grand Prix,button,16,10,6,V8 Regulated
+5176,2012,British Grand Prix,pic,24,19,5,V8 Regulated
+5167,2012,British Grand Prix,bruno_senna,13,9,4,V8 Regulated
+5260,2012,Italian Grand Prix,maldonado,22,11,11,V8 Regulated
+5261,2012,Italian Grand Prix,perez,12,2,10,V8 Regulated
+5258,2012,Italian Grand Prix,alonso,10,3,7,V8 Regulated
+5271,2012,Italian Grand Prix,rosa,23,18,5,V8 Regulated
+5269,2012,Italian Grand Prix,pic,20,16,4,V8 Regulated
+5097,2012,Monaco Grand Prix,resta,14,7,7,V8 Regulated
+5105,2012,Monaco Grand Prix,karthikeyan,22,15,7,V8 Regulated
+5092,2012,Monaco Grand Prix,vettel,9,4,5,V8 Regulated
+5102,2012,Monaco Grand Prix,glock,19,14,5,V8 Regulated
+5099,2012,Monaco Grand Prix,vergne,16,12,4,V8 Regulated
+5677,2013,Belgian Grand Prix,ricciardo,19,10,9,V8 Regulated
+5667,2013,Belgian Grand Prix,alonso,9,2,7,V8 Regulated
+5679,2013,Belgian Grand Prix,gutierrez,21,14,7,V8 Regulated
+5676,2013,Belgian Grand Prix,vergne,18,12,6,V8 Regulated
+5678,2013,Belgian Grand Prix,bottas,20,15,5,V8 Regulated
+5597,2013,British Grand Prix,resta,21,9,12,V8 Regulated
+5602,2013,British Grand Prix,alonso,9,3,6,V8 Regulated
+5604,2013,British Grand Prix,massa,11,6,5,V8 Regulated
+5607,2013,British Grand Prix,hulkenberg,14,10,4,V8 Regulated
+5608,2013,British Grand Prix,maldonado,15,11,4,V8 Regulated
+5693,2013,Italian Grand Prix,grosjean,13,8,5,V8 Regulated
+5685,2013,Italian Grand Prix,alonso,5,2,3,V8 Regulated
+5692,2013,Italian Grand Prix,hamilton,12,9,3,V8 Regulated
+5697,2013,Italian Grand Prix,gutierrez,16,13,3,V8 Regulated
+5698,2013,Italian Grand Prix,bottas,18,15,3,V8 Regulated
+5565,2013,Monaco Grand Prix,resta,17,9,8,V8 Regulated
+5568,2013,Monaco Grand Prix,chilton,22,14,8,V8 Regulated
+5567,2013,Monaco Grand Prix,gutierrez,19,13,6,V8 Regulated
+5556,2013,Monaco Grand Prix,sutil,8,5,3,V8 Regulated
+5557,2013,Monaco Grand Prix,button,9,6,3,V8 Regulated

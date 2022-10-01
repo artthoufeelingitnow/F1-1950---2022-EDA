@@ -1,61 +1,61 @@
-,year,name,driver_name,grid,race_finish_position,positions_gained_lost
-2852,1994,Belgian Grand Prix,gounon,25,11,14
-2844,1994,Belgian Grand Prix,panis,17,7,10
-2845,1994,Belgian Grand Prix,alboreto,18,9,9
-2841,1994,Belgian Grand Prix,morbidelli,14,6,8
-2847,1994,Belgian Grand Prix,herbert,20,12,8
-2769,1994,British Grand Prix,fittipaldi,20,9,11
-2770,1994,British Grand Prix,herbert,21,11,10
-2772,1994,British Grand Prix,bernard,23,13,10
-2773,1994,British Grand Prix,beretta,24,14,10
-2774,1994,British Grand Prix,brabham,25,15,10
-2877,1994,Italian Grand Prix,comas,24,8,16
-2869,1994,Italian Grand Prix,barrichello,16,4,12
-2873,1994,Italian Grand Prix,lehto,20,9,11
-2868,1994,Italian Grand Prix,brundle,15,5,10
-2865,1994,Italian Grand Prix,bernard,12,7,5
-2439,1995,Belgian Grand Prix,michael_schumacher,16,1,15
-2447,1995,Belgian Grand Prix,diniz,24,13,11
-2436,1995,Belgian Grand Prix,brundle,13,3,10
-2445,1995,Belgian Grand Prix,moreno,22,14,8
-2440,1995,Belgian Grand Prix,lamy,17,10,7
-2374,1995,British Grand Prix,salo,23,8,15
-2364,1995,British Grand Prix,panis,13,4,9
-2372,1995,British Grand Prix,gachot,21,12,9
-2366,1995,British Grand Prix,martini,15,7,8
-2369,1995,British Grand Prix,badoer,18,10,8
-2470,1995,Italian Grand Prix,diniz,23,9,14
-2467,1995,Italian Grand Prix,inoue,20,8,12
-2463,1995,Italian Grand Prix,salo,16,5,11
-2461,1995,Italian Grand Prix,boullion,14,6,8
-2462,1995,Italian Grand Prix,papis,15,7,8
-2299,1995,Monaco Grand Prix,diniz,22,10,12
-2295,1995,Monaco Grand Prix,martini,18,7,11
-2296,1995,Monaco Grand Prix,boullion,19,8,11
-2291,1995,Monaco Grand Prix,frentzen,14,6,8
-2287,1995,Monaco Grand Prix,blundell,10,5,5
-2145,1996,Monaco Grand Prix,panis,14,1,13
-2144,1996,Monaco Grand Prix,herbert,13,3,10
-2142,1996,Monaco Grand Prix,salo,11,5,6
-2140,1996,Monaco Grand Prix,frentzen,9,4,5
-2136,1996,Monaco Grand Prix,coulthard,5,2,3
-2003,1997,British Grand Prix,marques,21,10,11
-1994,1997,British Grand Prix,alesi,11,2,9
-1995,1997,British Grand Prix,damon_hill,12,6,6
-1991,1997,British Grand Prix,wurz,8,3,5
-1996,1997,British Grand Prix,trulli,13,8,5
-1917,1997,Monaco Grand Prix,verstappen,22,8,14
-1910,1997,Monaco Grand Prix,irvine,15,3,12
-1914,1997,Monaco Grand Prix,magnussen,19,7,12
-1915,1997,Monaco Grand Prix,katayama,20,10,10
-1909,1997,Monaco Grand Prix,salo,14,5,9
-1806,1998,Belgian Grand Prix,nakano,21,8,13
-1801,1998,Belgian Grand Prix,diniz,16,5,11
-1795,1998,Belgian Grand Prix,alesi,10,3,7
-1798,1998,Belgian Grand Prix,trulli,13,6,7
-1793,1998,Belgian Grand Prix,ralf_schumacher,8,2,6
-1741,1998,British Grand Prix,ralf_schumacher,21,6,15
-1739,1998,British Grand Prix,nakano,19,8,11
-1737,1998,British Grand Prix,takagi,17,9,8
-1731,1998,British Grand Prix,wurz,11,4,7
-1730,1998,British Grand Prix,fisichella,10,5,5
+,year,name,driver_name,grid,race_finish_position,positions_gained_lost,era
+2852,1994,Belgian Grand Prix,gounon,25,11,14,3-Litre Engines
+2844,1994,Belgian Grand Prix,panis,17,7,10,3-Litre Engines
+2845,1994,Belgian Grand Prix,alboreto,18,9,9,3-Litre Engines
+2841,1994,Belgian Grand Prix,morbidelli,14,6,8,3-Litre Engines
+2847,1994,Belgian Grand Prix,herbert,20,12,8,3-Litre Engines
+2769,1994,British Grand Prix,fittipaldi,20,9,11,3-Litre Engines
+2770,1994,British Grand Prix,herbert,21,11,10,3-Litre Engines
+2772,1994,British Grand Prix,bernard,23,13,10,3-Litre Engines
+2773,1994,British Grand Prix,beretta,24,14,10,3-Litre Engines
+2774,1994,British Grand Prix,brabham,25,15,10,3-Litre Engines
+2877,1994,Italian Grand Prix,comas,24,8,16,3-Litre Engines
+2869,1994,Italian Grand Prix,barrichello,16,4,12,3-Litre Engines
+2873,1994,Italian Grand Prix,lehto,20,9,11,3-Litre Engines
+2868,1994,Italian Grand Prix,brundle,15,5,10,3-Litre Engines
+2865,1994,Italian Grand Prix,bernard,12,7,5,3-Litre Engines
+2439,1995,Belgian Grand Prix,michael_schumacher,16,1,15,3-Litre Engines
+2447,1995,Belgian Grand Prix,diniz,24,13,11,3-Litre Engines
+2436,1995,Belgian Grand Prix,brundle,13,3,10,3-Litre Engines
+2445,1995,Belgian Grand Prix,moreno,22,14,8,3-Litre Engines
+2440,1995,Belgian Grand Prix,lamy,17,10,7,3-Litre Engines
+2374,1995,British Grand Prix,salo,23,8,15,3-Litre Engines
+2364,1995,British Grand Prix,panis,13,4,9,3-Litre Engines
+2372,1995,British Grand Prix,gachot,21,12,9,3-Litre Engines
+2366,1995,British Grand Prix,martini,15,7,8,3-Litre Engines
+2369,1995,British Grand Prix,badoer,18,10,8,3-Litre Engines
+2470,1995,Italian Grand Prix,diniz,23,9,14,3-Litre Engines
+2467,1995,Italian Grand Prix,inoue,20,8,12,3-Litre Engines
+2463,1995,Italian Grand Prix,salo,16,5,11,3-Litre Engines
+2461,1995,Italian Grand Prix,boullion,14,6,8,3-Litre Engines
+2462,1995,Italian Grand Prix,papis,15,7,8,3-Litre Engines
+2299,1995,Monaco Grand Prix,diniz,22,10,12,3-Litre Engines
+2295,1995,Monaco Grand Prix,martini,18,7,11,3-Litre Engines
+2296,1995,Monaco Grand Prix,boullion,19,8,11,3-Litre Engines
+2291,1995,Monaco Grand Prix,frentzen,14,6,8,3-Litre Engines
+2287,1995,Monaco Grand Prix,blundell,10,5,5,3-Litre Engines
+2145,1996,Monaco Grand Prix,panis,14,1,13,3-Litre Engines
+2144,1996,Monaco Grand Prix,herbert,13,3,10,3-Litre Engines
+2142,1996,Monaco Grand Prix,salo,11,5,6,3-Litre Engines
+2140,1996,Monaco Grand Prix,frentzen,9,4,5,3-Litre Engines
+2136,1996,Monaco Grand Prix,coulthard,5,2,3,3-Litre Engines
+2003,1997,British Grand Prix,marques,21,10,11,3-Litre Engines
+1994,1997,British Grand Prix,alesi,11,2,9,3-Litre Engines
+1995,1997,British Grand Prix,damon_hill,12,6,6,3-Litre Engines
+1991,1997,British Grand Prix,wurz,8,3,5,3-Litre Engines
+1996,1997,British Grand Prix,trulli,13,8,5,3-Litre Engines
+1917,1997,Monaco Grand Prix,verstappen,22,8,14,3-Litre Engines
+1910,1997,Monaco Grand Prix,irvine,15,3,12,3-Litre Engines
+1914,1997,Monaco Grand Prix,magnussen,19,7,12,3-Litre Engines
+1915,1997,Monaco Grand Prix,katayama,20,10,10,3-Litre Engines
+1909,1997,Monaco Grand Prix,salo,14,5,9,3-Litre Engines
+1806,1998,Belgian Grand Prix,nakano,21,8,13,3-Litre Engines
+1801,1998,Belgian Grand Prix,diniz,16,5,11,3-Litre Engines
+1795,1998,Belgian Grand Prix,alesi,10,3,7,3-Litre Engines
+1798,1998,Belgian Grand Prix,trulli,13,6,7,3-Litre Engines
+1793,1998,Belgian Grand Prix,ralf_schumacher,8,2,6,3-Litre Engines
+1741,1998,British Grand Prix,ralf_schumacher,21,6,15,3-Litre Engines
+1739,1998,British Grand Prix,nakano,19,8,11,3-Litre Engines
+1737,1998,British Grand Prix,takagi,17,9,8,3-Litre Engines
+1731,1998,British Grand Prix,wurz,11,4,7,3-Litre Engines
+1730,1998,British Grand Prix,fisichella,10,5,5,3-Litre Engines

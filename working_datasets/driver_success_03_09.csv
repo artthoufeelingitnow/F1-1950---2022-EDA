@@ -1,533 +1,533 @@
-year,name,driver_name,points
-2003,Monaco Grand Prix,montoya,10.0
-2003,Monaco Grand Prix,raikkonen,8.0
-2003,Monaco Grand Prix,michael_schumacher,6.0
-2003,Monaco Grand Prix,ralf_schumacher,5.0
-2003,Monaco Grand Prix,alonso,4.0
-2003,Monaco Grand Prix,trulli,3.0
-2003,Monaco Grand Prix,coulthard,2.0
-2003,Monaco Grand Prix,barrichello,1.0
-2003,Monaco Grand Prix,button,0.0
-2003,Monaco Grand Prix,firman,0.0
-2003,Monaco Grand Prix,fisichella,0.0
-2003,Monaco Grand Prix,frentzen,0.0
-2003,Monaco Grand Prix,heidfeld,0.0
-2003,Monaco Grand Prix,matta,0.0
-2003,Monaco Grand Prix,panis,0.0
-2003,Monaco Grand Prix,pizzonia,0.0
-2003,Monaco Grand Prix,verstappen,0.0
-2003,Monaco Grand Prix,villeneuve,0.0
-2003,Monaco Grand Prix,webber,0.0
-2003,Monaco Grand Prix,wilson,0.0
-2003,Italian Grand Prix,michael_schumacher,10.0
-2003,Italian Grand Prix,montoya,8.0
-2003,Italian Grand Prix,barrichello,6.0
-2003,Italian Grand Prix,raikkonen,5.0
-2003,Italian Grand Prix,gene,4.0
-2003,Italian Grand Prix,villeneuve,3.0
-2003,Italian Grand Prix,webber,2.0
-2003,Italian Grand Prix,alonso,1.0
-2003,Italian Grand Prix,baumgartner,0.0
-2003,Italian Grand Prix,button,0.0
-2003,Italian Grand Prix,coulthard,0.0
-2003,Italian Grand Prix,fisichella,0.0
-2003,Italian Grand Prix,frentzen,0.0
-2003,Italian Grand Prix,heidfeld,0.0
-2003,Italian Grand Prix,kiesa,0.0
-2003,Italian Grand Prix,matta,0.0
-2003,Italian Grand Prix,panis,0.0
-2003,Italian Grand Prix,trulli,0.0
-2003,Italian Grand Prix,verstappen,0.0
-2003,Italian Grand Prix,wilson,0.0
-2003,British Grand Prix,barrichello,10.0
-2003,British Grand Prix,montoya,8.0
-2003,British Grand Prix,raikkonen,6.0
-2003,British Grand Prix,michael_schumacher,5.0
-2003,British Grand Prix,coulthard,4.0
-2003,British Grand Prix,trulli,3.0
-2003,British Grand Prix,matta,2.0
-2003,British Grand Prix,button,1.0
-2003,British Grand Prix,alonso,0.0
-2003,British Grand Prix,firman,0.0
-2003,British Grand Prix,fisichella,0.0
-2003,British Grand Prix,frentzen,0.0
-2003,British Grand Prix,heidfeld,0.0
-2003,British Grand Prix,panis,0.0
-2003,British Grand Prix,pizzonia,0.0
-2003,British Grand Prix,ralf_schumacher,0.0
-2003,British Grand Prix,verstappen,0.0
-2003,British Grand Prix,villeneuve,0.0
-2003,British Grand Prix,webber,0.0
-2003,British Grand Prix,wilson,0.0
-2004,Monaco Grand Prix,trulli,10.0
-2004,Monaco Grand Prix,button,8.0
-2004,Monaco Grand Prix,barrichello,6.0
-2004,Monaco Grand Prix,montoya,5.0
-2004,Monaco Grand Prix,massa,4.0
-2004,Monaco Grand Prix,matta,3.0
-2004,Monaco Grand Prix,heidfeld,2.0
-2004,Monaco Grand Prix,panis,1.0
-2004,Monaco Grand Prix,alonso,0.0
-2004,Monaco Grand Prix,baumgartner,0.0
-2004,Monaco Grand Prix,bruni,0.0
-2004,Monaco Grand Prix,coulthard,0.0
-2004,Monaco Grand Prix,fisichella,0.0
-2004,Monaco Grand Prix,klien,0.0
-2004,Monaco Grand Prix,michael_schumacher,0.0
-2004,Monaco Grand Prix,pantano,0.0
-2004,Monaco Grand Prix,raikkonen,0.0
-2004,Monaco Grand Prix,ralf_schumacher,0.0
-2004,Monaco Grand Prix,sato,0.0
-2004,Monaco Grand Prix,webber,0.0
-2004,Italian Grand Prix,barrichello,10.0
-2004,Italian Grand Prix,michael_schumacher,8.0
-2004,Italian Grand Prix,button,6.0
-2004,Italian Grand Prix,sato,5.0
-2004,Italian Grand Prix,montoya,4.0
-2004,Italian Grand Prix,coulthard,3.0
-2004,Italian Grand Prix,pizzonia,2.0
-2004,Italian Grand Prix,fisichella,1.0
-2004,Italian Grand Prix,alonso,0.0
-2004,Italian Grand Prix,baumgartner,0.0
-2004,Italian Grand Prix,bruni,0.0
-2004,Italian Grand Prix,heidfeld,0.0
-2004,Italian Grand Prix,klien,0.0
-2004,Italian Grand Prix,massa,0.0
-2004,Italian Grand Prix,panis,0.0
-2004,Italian Grand Prix,pantano,0.0
-2004,Italian Grand Prix,raikkonen,0.0
-2004,Italian Grand Prix,trulli,0.0
-2004,Italian Grand Prix,webber,0.0
-2004,Italian Grand Prix,zonta,0.0
-2004,British Grand Prix,michael_schumacher,10.0
-2004,British Grand Prix,raikkonen,8.0
-2004,British Grand Prix,barrichello,6.0
-2004,British Grand Prix,button,5.0
-2004,British Grand Prix,montoya,4.0
-2004,British Grand Prix,fisichella,3.0
-2004,British Grand Prix,coulthard,2.0
-2004,British Grand Prix,webber,1.0
-2004,British Grand Prix,alonso,0.0
-2004,British Grand Prix,baumgartner,0.0
-2004,British Grand Prix,bruni,0.0
-2004,British Grand Prix,gene,0.0
-2004,British Grand Prix,heidfeld,0.0
-2004,British Grand Prix,klien,0.0
-2004,British Grand Prix,massa,0.0
-2004,British Grand Prix,matta,0.0
-2004,British Grand Prix,panis,0.0
-2004,British Grand Prix,pantano,0.0
-2004,British Grand Prix,sato,0.0
-2004,British Grand Prix,trulli,0.0
-2004,Belgian Grand Prix,raikkonen,10.0
-2004,Belgian Grand Prix,michael_schumacher,8.0
-2004,Belgian Grand Prix,barrichello,6.0
-2004,Belgian Grand Prix,massa,5.0
-2004,Belgian Grand Prix,fisichella,4.0
-2004,Belgian Grand Prix,klien,3.0
-2004,Belgian Grand Prix,coulthard,2.0
-2004,Belgian Grand Prix,panis,1.0
-2004,Belgian Grand Prix,alonso,0.0
-2004,Belgian Grand Prix,baumgartner,0.0
-2004,Belgian Grand Prix,bruni,0.0
-2004,Belgian Grand Prix,button,0.0
-2004,Belgian Grand Prix,heidfeld,0.0
-2004,Belgian Grand Prix,montoya,0.0
-2004,Belgian Grand Prix,pantano,0.0
-2004,Belgian Grand Prix,pizzonia,0.0
-2004,Belgian Grand Prix,sato,0.0
-2004,Belgian Grand Prix,trulli,0.0
-2004,Belgian Grand Prix,webber,0.0
-2004,Belgian Grand Prix,zonta,0.0
-2005,Monaco Grand Prix,raikkonen,10.0
-2005,Monaco Grand Prix,heidfeld,8.0
-2005,Monaco Grand Prix,webber,6.0
-2005,Monaco Grand Prix,alonso,5.0
-2005,Monaco Grand Prix,montoya,4.0
-2005,Monaco Grand Prix,ralf_schumacher,3.0
-2005,Monaco Grand Prix,michael_schumacher,2.0
-2005,Monaco Grand Prix,barrichello,1.0
-2005,Monaco Grand Prix,albers,0.0
-2005,Monaco Grand Prix,coulthard,0.0
-2005,Monaco Grand Prix,fisichella,0.0
-2005,Monaco Grand Prix,friesacher,0.0
-2005,Monaco Grand Prix,karthikeyan,0.0
-2005,Monaco Grand Prix,liuzzi,0.0
-2005,Monaco Grand Prix,massa,0.0
-2005,Monaco Grand Prix,monteiro,0.0
-2005,Monaco Grand Prix,trulli,0.0
-2005,Monaco Grand Prix,villeneuve,0.0
-2005,Italian Grand Prix,montoya,10.0
-2005,Italian Grand Prix,alonso,8.0
-2005,Italian Grand Prix,fisichella,6.0
-2005,Italian Grand Prix,raikkonen,5.0
-2005,Italian Grand Prix,trulli,4.0
-2005,Italian Grand Prix,ralf_schumacher,3.0
-2005,Italian Grand Prix,pizzonia,2.0
-2005,Italian Grand Prix,button,1.0
-2005,Italian Grand Prix,albers,0.0
-2005,Italian Grand Prix,barrichello,0.0
-2005,Italian Grand Prix,coulthard,0.0
-2005,Italian Grand Prix,doornbos,0.0
-2005,Italian Grand Prix,karthikeyan,0.0
-2005,Italian Grand Prix,klien,0.0
-2005,Italian Grand Prix,massa,0.0
-2005,Italian Grand Prix,michael_schumacher,0.0
-2005,Italian Grand Prix,monteiro,0.0
-2005,Italian Grand Prix,sato,0.0
-2005,Italian Grand Prix,villeneuve,0.0
-2005,Italian Grand Prix,webber,0.0
-2005,British Grand Prix,montoya,10.0
-2005,British Grand Prix,alonso,8.0
-2005,British Grand Prix,raikkonen,6.0
-2005,British Grand Prix,fisichella,5.0
-2005,British Grand Prix,button,4.0
-2005,British Grand Prix,michael_schumacher,3.0
-2005,British Grand Prix,barrichello,2.0
-2005,British Grand Prix,ralf_schumacher,1.0
-2005,British Grand Prix,albers,0.0
-2005,British Grand Prix,coulthard,0.0
-2005,British Grand Prix,friesacher,0.0
-2005,British Grand Prix,heidfeld,0.0
-2005,British Grand Prix,karthikeyan,0.0
-2005,British Grand Prix,klien,0.0
-2005,British Grand Prix,massa,0.0
-2005,British Grand Prix,monteiro,0.0
-2005,British Grand Prix,sato,0.0
-2005,British Grand Prix,trulli,0.0
-2005,British Grand Prix,villeneuve,0.0
-2005,British Grand Prix,webber,0.0
-2005,Belgian Grand Prix,raikkonen,10.0
-2005,Belgian Grand Prix,alonso,8.0
-2005,Belgian Grand Prix,button,6.0
-2005,Belgian Grand Prix,webber,5.0
-2005,Belgian Grand Prix,barrichello,4.0
-2005,Belgian Grand Prix,villeneuve,3.0
-2005,Belgian Grand Prix,ralf_schumacher,2.0
-2005,Belgian Grand Prix,monteiro,1.0
-2005,Belgian Grand Prix,albers,0.0
-2005,Belgian Grand Prix,coulthard,0.0
-2005,Belgian Grand Prix,doornbos,0.0
-2005,Belgian Grand Prix,fisichella,0.0
-2005,Belgian Grand Prix,karthikeyan,0.0
-2005,Belgian Grand Prix,klien,0.0
-2005,Belgian Grand Prix,massa,0.0
-2005,Belgian Grand Prix,michael_schumacher,0.0
-2005,Belgian Grand Prix,montoya,0.0
-2005,Belgian Grand Prix,pizzonia,0.0
-2005,Belgian Grand Prix,sato,0.0
-2005,Belgian Grand Prix,trulli,0.0
-2006,Monaco Grand Prix,alonso,10.0
-2006,Monaco Grand Prix,montoya,8.0
-2006,Monaco Grand Prix,coulthard,6.0
-2006,Monaco Grand Prix,barrichello,5.0
-2006,Monaco Grand Prix,michael_schumacher,4.0
-2006,Monaco Grand Prix,fisichella,3.0
-2006,Monaco Grand Prix,heidfeld,2.0
-2006,Monaco Grand Prix,ralf_schumacher,1.0
-2006,Monaco Grand Prix,albers,0.0
-2006,Monaco Grand Prix,button,0.0
-2006,Monaco Grand Prix,klien,0.0
-2006,Monaco Grand Prix,liuzzi,0.0
-2006,Monaco Grand Prix,massa,0.0
-2006,Monaco Grand Prix,montagny,0.0
-2006,Monaco Grand Prix,monteiro,0.0
-2006,Monaco Grand Prix,raikkonen,0.0
-2006,Monaco Grand Prix,rosberg,0.0
-2006,Monaco Grand Prix,sato,0.0
-2006,Monaco Grand Prix,speed,0.0
-2006,Monaco Grand Prix,trulli,0.0
-2006,Monaco Grand Prix,villeneuve,0.0
-2006,Monaco Grand Prix,webber,0.0
-2006,Italian Grand Prix,michael_schumacher,10.0
-2006,Italian Grand Prix,raikkonen,8.0
-2006,Italian Grand Prix,kubica,6.0
-2006,Italian Grand Prix,fisichella,5.0
-2006,Italian Grand Prix,button,4.0
-2006,Italian Grand Prix,barrichello,3.0
-2006,Italian Grand Prix,trulli,2.0
-2006,Italian Grand Prix,heidfeld,1.0
-2006,Italian Grand Prix,albers,0.0
-2006,Italian Grand Prix,alonso,0.0
-2006,Italian Grand Prix,coulthard,0.0
-2006,Italian Grand Prix,klien,0.0
-2006,Italian Grand Prix,liuzzi,0.0
-2006,Italian Grand Prix,massa,0.0
-2006,Italian Grand Prix,monteiro,0.0
-2006,Italian Grand Prix,ralf_schumacher,0.0
-2006,Italian Grand Prix,rosa,0.0
-2006,Italian Grand Prix,rosberg,0.0
-2006,Italian Grand Prix,sato,0.0
-2006,Italian Grand Prix,speed,0.0
-2006,Italian Grand Prix,webber,0.0
-2006,Italian Grand Prix,yamamoto,0.0
-2006,British Grand Prix,alonso,10.0
-2006,British Grand Prix,michael_schumacher,8.0
-2006,British Grand Prix,raikkonen,6.0
-2006,British Grand Prix,fisichella,5.0
-2006,British Grand Prix,massa,4.0
-2006,British Grand Prix,montoya,3.0
-2006,British Grand Prix,heidfeld,2.0
-2006,British Grand Prix,villeneuve,1.0
-2006,British Grand Prix,albers,0.0
-2006,British Grand Prix,barrichello,0.0
-2006,British Grand Prix,button,0.0
-2006,British Grand Prix,coulthard,0.0
-2006,British Grand Prix,klien,0.0
-2006,British Grand Prix,liuzzi,0.0
-2006,British Grand Prix,montagny,0.0
-2006,British Grand Prix,monteiro,0.0
-2006,British Grand Prix,ralf_schumacher,0.0
-2006,British Grand Prix,rosberg,0.0
-2006,British Grand Prix,sato,0.0
-2006,British Grand Prix,speed,0.0
-2006,British Grand Prix,trulli,0.0
-2006,British Grand Prix,webber,0.0
-2007,Monaco Grand Prix,alonso,10.0
-2007,Monaco Grand Prix,hamilton,8.0
-2007,Monaco Grand Prix,massa,6.0
-2007,Monaco Grand Prix,fisichella,5.0
-2007,Monaco Grand Prix,kubica,4.0
-2007,Monaco Grand Prix,heidfeld,3.0
-2007,Monaco Grand Prix,wurz,2.0
-2007,Monaco Grand Prix,raikkonen,1.0
-2007,Monaco Grand Prix,albers,0.0
-2007,Monaco Grand Prix,barrichello,0.0
-2007,Monaco Grand Prix,button,0.0
-2007,Monaco Grand Prix,coulthard,0.0
-2007,Monaco Grand Prix,davidson,0.0
-2007,Monaco Grand Prix,kovalainen,0.0
-2007,Monaco Grand Prix,liuzzi,0.0
-2007,Monaco Grand Prix,ralf_schumacher,0.0
-2007,Monaco Grand Prix,rosberg,0.0
-2007,Monaco Grand Prix,sato,0.0
-2007,Monaco Grand Prix,speed,0.0
-2007,Monaco Grand Prix,sutil,0.0
-2007,Monaco Grand Prix,trulli,0.0
-2007,Monaco Grand Prix,webber,0.0
-2007,Italian Grand Prix,alonso,10.0
-2007,Italian Grand Prix,hamilton,8.0
-2007,Italian Grand Prix,raikkonen,6.0
-2007,Italian Grand Prix,heidfeld,5.0
-2007,Italian Grand Prix,kubica,4.0
-2007,Italian Grand Prix,rosberg,3.0
-2007,Italian Grand Prix,kovalainen,2.0
-2007,Italian Grand Prix,button,1.0
-2007,Italian Grand Prix,barrichello,0.0
-2007,Italian Grand Prix,coulthard,0.0
-2007,Italian Grand Prix,davidson,0.0
-2007,Italian Grand Prix,fisichella,0.0
-2007,Italian Grand Prix,liuzzi,0.0
-2007,Italian Grand Prix,massa,0.0
-2007,Italian Grand Prix,ralf_schumacher,0.0
-2007,Italian Grand Prix,sato,0.0
-2007,Italian Grand Prix,sutil,0.0
-2007,Italian Grand Prix,trulli,0.0
-2007,Italian Grand Prix,vettel,0.0
-2007,Italian Grand Prix,webber,0.0
-2007,Italian Grand Prix,wurz,0.0
-2007,Italian Grand Prix,yamamoto,0.0
-2007,British Grand Prix,raikkonen,10.0
-2007,British Grand Prix,alonso,8.0
-2007,British Grand Prix,hamilton,6.0
-2007,British Grand Prix,kubica,5.0
-2007,British Grand Prix,massa,4.0
-2007,British Grand Prix,heidfeld,3.0
-2007,British Grand Prix,kovalainen,2.0
-2007,British Grand Prix,fisichella,1.0
-2007,British Grand Prix,albers,0.0
-2007,British Grand Prix,barrichello,0.0
-2007,British Grand Prix,button,0.0
-2007,British Grand Prix,coulthard,0.0
-2007,British Grand Prix,davidson,0.0
-2007,British Grand Prix,liuzzi,0.0
-2007,British Grand Prix,ralf_schumacher,0.0
-2007,British Grand Prix,rosberg,0.0
-2007,British Grand Prix,sato,0.0
-2007,British Grand Prix,speed,0.0
-2007,British Grand Prix,sutil,0.0
-2007,British Grand Prix,trulli,0.0
-2007,British Grand Prix,webber,0.0
-2007,British Grand Prix,wurz,0.0
-2007,Belgian Grand Prix,raikkonen,10.0
-2007,Belgian Grand Prix,massa,8.0
-2007,Belgian Grand Prix,alonso,6.0
-2007,Belgian Grand Prix,hamilton,5.0
-2007,Belgian Grand Prix,heidfeld,4.0
-2007,Belgian Grand Prix,rosberg,3.0
-2007,Belgian Grand Prix,webber,2.0
-2007,Belgian Grand Prix,kovalainen,1.0
-2007,Belgian Grand Prix,barrichello,0.0
-2007,Belgian Grand Prix,button,0.0
-2007,Belgian Grand Prix,coulthard,0.0
-2007,Belgian Grand Prix,davidson,0.0
-2007,Belgian Grand Prix,fisichella,0.0
-2007,Belgian Grand Prix,kubica,0.0
-2007,Belgian Grand Prix,liuzzi,0.0
-2007,Belgian Grand Prix,ralf_schumacher,0.0
-2007,Belgian Grand Prix,sato,0.0
-2007,Belgian Grand Prix,sutil,0.0
-2007,Belgian Grand Prix,trulli,0.0
-2007,Belgian Grand Prix,vettel,0.0
-2007,Belgian Grand Prix,wurz,0.0
-2007,Belgian Grand Prix,yamamoto,0.0
-2008,Monaco Grand Prix,hamilton,10.0
-2008,Monaco Grand Prix,kubica,8.0
-2008,Monaco Grand Prix,massa,6.0
-2008,Monaco Grand Prix,webber,5.0
-2008,Monaco Grand Prix,vettel,4.0
-2008,Monaco Grand Prix,barrichello,3.0
-2008,Monaco Grand Prix,nakajima,2.0
-2008,Monaco Grand Prix,kovalainen,1.0
-2008,Monaco Grand Prix,alonso,0.0
-2008,Monaco Grand Prix,bourdais,0.0
-2008,Monaco Grand Prix,button,0.0
-2008,Monaco Grand Prix,coulthard,0.0
-2008,Monaco Grand Prix,fisichella,0.0
-2008,Monaco Grand Prix,glock,0.0
-2008,Monaco Grand Prix,heidfeld,0.0
-2008,Monaco Grand Prix,piquet_jr,0.0
-2008,Monaco Grand Prix,raikkonen,0.0
-2008,Monaco Grand Prix,rosberg,0.0
-2008,Monaco Grand Prix,sutil,0.0
-2008,Monaco Grand Prix,trulli,0.0
-2008,Italian Grand Prix,vettel,10.0
-2008,Italian Grand Prix,kovalainen,8.0
-2008,Italian Grand Prix,kubica,6.0
-2008,Italian Grand Prix,alonso,5.0
-2008,Italian Grand Prix,heidfeld,4.0
-2008,Italian Grand Prix,massa,3.0
-2008,Italian Grand Prix,hamilton,2.0
-2008,Italian Grand Prix,webber,1.0
-2008,Italian Grand Prix,barrichello,0.0
-2008,Italian Grand Prix,bourdais,0.0
-2008,Italian Grand Prix,button,0.0
-2008,Italian Grand Prix,coulthard,0.0
-2008,Italian Grand Prix,fisichella,0.0
-2008,Italian Grand Prix,glock,0.0
-2008,Italian Grand Prix,nakajima,0.0
-2008,Italian Grand Prix,piquet_jr,0.0
-2008,Italian Grand Prix,raikkonen,0.0
-2008,Italian Grand Prix,rosberg,0.0
-2008,Italian Grand Prix,sutil,0.0
-2008,Italian Grand Prix,trulli,0.0
-2008,British Grand Prix,hamilton,10.0
-2008,British Grand Prix,heidfeld,8.0
-2008,British Grand Prix,barrichello,6.0
-2008,British Grand Prix,raikkonen,5.0
-2008,British Grand Prix,kovalainen,4.0
-2008,British Grand Prix,alonso,3.0
-2008,British Grand Prix,trulli,2.0
-2008,British Grand Prix,nakajima,1.0
-2008,British Grand Prix,bourdais,0.0
-2008,British Grand Prix,button,0.0
-2008,British Grand Prix,coulthard,0.0
-2008,British Grand Prix,fisichella,0.0
-2008,British Grand Prix,glock,0.0
-2008,British Grand Prix,kubica,0.0
-2008,British Grand Prix,massa,0.0
-2008,British Grand Prix,piquet_jr,0.0
-2008,British Grand Prix,rosberg,0.0
-2008,British Grand Prix,sutil,0.0
-2008,British Grand Prix,vettel,0.0
-2008,British Grand Prix,webber,0.0
-2008,Belgian Grand Prix,massa,10.0
-2008,Belgian Grand Prix,heidfeld,8.0
-2008,Belgian Grand Prix,hamilton,6.0
-2008,Belgian Grand Prix,alonso,5.0
-2008,Belgian Grand Prix,vettel,4.0
-2008,Belgian Grand Prix,kubica,3.0
-2008,Belgian Grand Prix,bourdais,2.0
-2008,Belgian Grand Prix,webber,1.0
-2008,Belgian Grand Prix,barrichello,0.0
-2008,Belgian Grand Prix,button,0.0
-2008,Belgian Grand Prix,coulthard,0.0
-2008,Belgian Grand Prix,fisichella,0.0
-2008,Belgian Grand Prix,glock,0.0
-2008,Belgian Grand Prix,kovalainen,0.0
-2008,Belgian Grand Prix,nakajima,0.0
-2008,Belgian Grand Prix,piquet_jr,0.0
-2008,Belgian Grand Prix,raikkonen,0.0
-2008,Belgian Grand Prix,rosberg,0.0
-2008,Belgian Grand Prix,sutil,0.0
-2008,Belgian Grand Prix,trulli,0.0
-2009,Monaco Grand Prix,button,10.0
-2009,Monaco Grand Prix,barrichello,8.0
-2009,Monaco Grand Prix,raikkonen,6.0
-2009,Monaco Grand Prix,massa,5.0
-2009,Monaco Grand Prix,webber,4.0
-2009,Monaco Grand Prix,rosberg,3.0
-2009,Monaco Grand Prix,alonso,2.0
-2009,Monaco Grand Prix,bourdais,1.0
-2009,Monaco Grand Prix,buemi,0.0
-2009,Monaco Grand Prix,fisichella,0.0
-2009,Monaco Grand Prix,glock,0.0
-2009,Monaco Grand Prix,hamilton,0.0
-2009,Monaco Grand Prix,heidfeld,0.0
-2009,Monaco Grand Prix,kovalainen,0.0
-2009,Monaco Grand Prix,kubica,0.0
-2009,Monaco Grand Prix,nakajima,0.0
-2009,Monaco Grand Prix,piquet_jr,0.0
-2009,Monaco Grand Prix,sutil,0.0
-2009,Monaco Grand Prix,trulli,0.0
-2009,Monaco Grand Prix,vettel,0.0
-2009,Italian Grand Prix,barrichello,10.0
-2009,Italian Grand Prix,button,8.0
-2009,Italian Grand Prix,raikkonen,6.0
-2009,Italian Grand Prix,sutil,5.0
-2009,Italian Grand Prix,alonso,4.0
-2009,Italian Grand Prix,kovalainen,3.0
-2009,Italian Grand Prix,heidfeld,2.0
-2009,Italian Grand Prix,vettel,1.0
-2009,Italian Grand Prix,alguersuari,0.0
-2009,Italian Grand Prix,buemi,0.0
-2009,Italian Grand Prix,fisichella,0.0
-2009,Italian Grand Prix,glock,0.0
-2009,Italian Grand Prix,grosjean,0.0
-2009,Italian Grand Prix,hamilton,0.0
-2009,Italian Grand Prix,kubica,0.0
-2009,Italian Grand Prix,liuzzi,0.0
-2009,Italian Grand Prix,nakajima,0.0
-2009,Italian Grand Prix,rosberg,0.0
-2009,Italian Grand Prix,trulli,0.0
-2009,Italian Grand Prix,webber,0.0
-2009,British Grand Prix,vettel,10.0
-2009,British Grand Prix,webber,8.0
-2009,British Grand Prix,barrichello,6.0
-2009,British Grand Prix,massa,5.0
-2009,British Grand Prix,rosberg,4.0
-2009,British Grand Prix,button,3.0
-2009,British Grand Prix,trulli,2.0
-2009,British Grand Prix,raikkonen,1.0
-2009,British Grand Prix,alonso,0.0
-2009,British Grand Prix,bourdais,0.0
-2009,British Grand Prix,buemi,0.0
-2009,British Grand Prix,fisichella,0.0
-2009,British Grand Prix,glock,0.0
-2009,British Grand Prix,hamilton,0.0
-2009,British Grand Prix,heidfeld,0.0
-2009,British Grand Prix,kovalainen,0.0
-2009,British Grand Prix,kubica,0.0
-2009,British Grand Prix,nakajima,0.0
-2009,British Grand Prix,piquet_jr,0.0
-2009,British Grand Prix,sutil,0.0
-2009,Belgian Grand Prix,raikkonen,10.0
-2009,Belgian Grand Prix,fisichella,8.0
-2009,Belgian Grand Prix,vettel,6.0
-2009,Belgian Grand Prix,kubica,5.0
-2009,Belgian Grand Prix,heidfeld,4.0
-2009,Belgian Grand Prix,kovalainen,3.0
-2009,Belgian Grand Prix,barrichello,2.0
-2009,Belgian Grand Prix,rosberg,1.0
-2009,Belgian Grand Prix,alguersuari,0.0
-2009,Belgian Grand Prix,alonso,0.0
-2009,Belgian Grand Prix,badoer,0.0
-2009,Belgian Grand Prix,buemi,0.0
-2009,Belgian Grand Prix,button,0.0
-2009,Belgian Grand Prix,glock,0.0
-2009,Belgian Grand Prix,grosjean,0.0
-2009,Belgian Grand Prix,hamilton,0.0
-2009,Belgian Grand Prix,nakajima,0.0
-2009,Belgian Grand Prix,sutil,0.0
-2009,Belgian Grand Prix,trulli,0.0
-2009,Belgian Grand Prix,webber,0.0
+year,name,driver_name,points,era
+2003,Monaco Grand Prix,montoya,10.0,2003 - 2009
+2003,Monaco Grand Prix,raikkonen,8.0,2003 - 2009
+2003,Monaco Grand Prix,michael_schumacher,6.0,2003 - 2009
+2003,Monaco Grand Prix,ralf_schumacher,5.0,2003 - 2009
+2003,Monaco Grand Prix,alonso,4.0,2003 - 2009
+2003,Monaco Grand Prix,trulli,3.0,2003 - 2009
+2003,Monaco Grand Prix,coulthard,2.0,2003 - 2009
+2003,Monaco Grand Prix,barrichello,1.0,2003 - 2009
+2003,Monaco Grand Prix,button,0.0,2003 - 2009
+2003,Monaco Grand Prix,firman,0.0,2003 - 2009
+2003,Monaco Grand Prix,fisichella,0.0,2003 - 2009
+2003,Monaco Grand Prix,frentzen,0.0,2003 - 2009
+2003,Monaco Grand Prix,heidfeld,0.0,2003 - 2009
+2003,Monaco Grand Prix,matta,0.0,2003 - 2009
+2003,Monaco Grand Prix,panis,0.0,2003 - 2009
+2003,Monaco Grand Prix,pizzonia,0.0,2003 - 2009
+2003,Monaco Grand Prix,verstappen,0.0,2003 - 2009
+2003,Monaco Grand Prix,villeneuve,0.0,2003 - 2009
+2003,Monaco Grand Prix,webber,0.0,2003 - 2009
+2003,Monaco Grand Prix,wilson,0.0,2003 - 2009
+2003,Italian Grand Prix,michael_schumacher,10.0,2003 - 2009
+2003,Italian Grand Prix,montoya,8.0,2003 - 2009
+2003,Italian Grand Prix,barrichello,6.0,2003 - 2009
+2003,Italian Grand Prix,raikkonen,5.0,2003 - 2009
+2003,Italian Grand Prix,gene,4.0,2003 - 2009
+2003,Italian Grand Prix,villeneuve,3.0,2003 - 2009
+2003,Italian Grand Prix,webber,2.0,2003 - 2009
+2003,Italian Grand Prix,alonso,1.0,2003 - 2009
+2003,Italian Grand Prix,baumgartner,0.0,2003 - 2009
+2003,Italian Grand Prix,button,0.0,2003 - 2009
+2003,Italian Grand Prix,coulthard,0.0,2003 - 2009
+2003,Italian Grand Prix,fisichella,0.0,2003 - 2009
+2003,Italian Grand Prix,frentzen,0.0,2003 - 2009
+2003,Italian Grand Prix,heidfeld,0.0,2003 - 2009
+2003,Italian Grand Prix,kiesa,0.0,2003 - 2009
+2003,Italian Grand Prix,matta,0.0,2003 - 2009
+2003,Italian Grand Prix,panis,0.0,2003 - 2009
+2003,Italian Grand Prix,trulli,0.0,2003 - 2009
+2003,Italian Grand Prix,verstappen,0.0,2003 - 2009
+2003,Italian Grand Prix,wilson,0.0,2003 - 2009
+2003,British Grand Prix,barrichello,10.0,2003 - 2009
+2003,British Grand Prix,montoya,8.0,2003 - 2009
+2003,British Grand Prix,raikkonen,6.0,2003 - 2009
+2003,British Grand Prix,michael_schumacher,5.0,2003 - 2009
+2003,British Grand Prix,coulthard,4.0,2003 - 2009
+2003,British Grand Prix,trulli,3.0,2003 - 2009
+2003,British Grand Prix,matta,2.0,2003 - 2009
+2003,British Grand Prix,button,1.0,2003 - 2009
+2003,British Grand Prix,alonso,0.0,2003 - 2009
+2003,British Grand Prix,firman,0.0,2003 - 2009
+2003,British Grand Prix,fisichella,0.0,2003 - 2009
+2003,British Grand Prix,frentzen,0.0,2003 - 2009
+2003,British Grand Prix,heidfeld,0.0,2003 - 2009
+2003,British Grand Prix,panis,0.0,2003 - 2009
+2003,British Grand Prix,pizzonia,0.0,2003 - 2009
+2003,British Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2003,British Grand Prix,verstappen,0.0,2003 - 2009
+2003,British Grand Prix,villeneuve,0.0,2003 - 2009
+2003,British Grand Prix,webber,0.0,2003 - 2009
+2003,British Grand Prix,wilson,0.0,2003 - 2009
+2004,Monaco Grand Prix,trulli,10.0,2003 - 2009
+2004,Monaco Grand Prix,button,8.0,2003 - 2009
+2004,Monaco Grand Prix,barrichello,6.0,2003 - 2009
+2004,Monaco Grand Prix,montoya,5.0,2003 - 2009
+2004,Monaco Grand Prix,massa,4.0,2003 - 2009
+2004,Monaco Grand Prix,matta,3.0,2003 - 2009
+2004,Monaco Grand Prix,heidfeld,2.0,2003 - 2009
+2004,Monaco Grand Prix,panis,1.0,2003 - 2009
+2004,Monaco Grand Prix,alonso,0.0,2003 - 2009
+2004,Monaco Grand Prix,baumgartner,0.0,2003 - 2009
+2004,Monaco Grand Prix,bruni,0.0,2003 - 2009
+2004,Monaco Grand Prix,coulthard,0.0,2003 - 2009
+2004,Monaco Grand Prix,fisichella,0.0,2003 - 2009
+2004,Monaco Grand Prix,klien,0.0,2003 - 2009
+2004,Monaco Grand Prix,michael_schumacher,0.0,2003 - 2009
+2004,Monaco Grand Prix,pantano,0.0,2003 - 2009
+2004,Monaco Grand Prix,raikkonen,0.0,2003 - 2009
+2004,Monaco Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2004,Monaco Grand Prix,sato,0.0,2003 - 2009
+2004,Monaco Grand Prix,webber,0.0,2003 - 2009
+2004,Italian Grand Prix,barrichello,10.0,2003 - 2009
+2004,Italian Grand Prix,michael_schumacher,8.0,2003 - 2009
+2004,Italian Grand Prix,button,6.0,2003 - 2009
+2004,Italian Grand Prix,sato,5.0,2003 - 2009
+2004,Italian Grand Prix,montoya,4.0,2003 - 2009
+2004,Italian Grand Prix,coulthard,3.0,2003 - 2009
+2004,Italian Grand Prix,pizzonia,2.0,2003 - 2009
+2004,Italian Grand Prix,fisichella,1.0,2003 - 2009
+2004,Italian Grand Prix,alonso,0.0,2003 - 2009
+2004,Italian Grand Prix,baumgartner,0.0,2003 - 2009
+2004,Italian Grand Prix,bruni,0.0,2003 - 2009
+2004,Italian Grand Prix,heidfeld,0.0,2003 - 2009
+2004,Italian Grand Prix,klien,0.0,2003 - 2009
+2004,Italian Grand Prix,massa,0.0,2003 - 2009
+2004,Italian Grand Prix,panis,0.0,2003 - 2009
+2004,Italian Grand Prix,pantano,0.0,2003 - 2009
+2004,Italian Grand Prix,raikkonen,0.0,2003 - 2009
+2004,Italian Grand Prix,trulli,0.0,2003 - 2009
+2004,Italian Grand Prix,webber,0.0,2003 - 2009
+2004,Italian Grand Prix,zonta,0.0,2003 - 2009
+2004,British Grand Prix,michael_schumacher,10.0,2003 - 2009
+2004,British Grand Prix,raikkonen,8.0,2003 - 2009
+2004,British Grand Prix,barrichello,6.0,2003 - 2009
+2004,British Grand Prix,button,5.0,2003 - 2009
+2004,British Grand Prix,montoya,4.0,2003 - 2009
+2004,British Grand Prix,fisichella,3.0,2003 - 2009
+2004,British Grand Prix,coulthard,2.0,2003 - 2009
+2004,British Grand Prix,webber,1.0,2003 - 2009
+2004,British Grand Prix,alonso,0.0,2003 - 2009
+2004,British Grand Prix,baumgartner,0.0,2003 - 2009
+2004,British Grand Prix,bruni,0.0,2003 - 2009
+2004,British Grand Prix,gene,0.0,2003 - 2009
+2004,British Grand Prix,heidfeld,0.0,2003 - 2009
+2004,British Grand Prix,klien,0.0,2003 - 2009
+2004,British Grand Prix,massa,0.0,2003 - 2009
+2004,British Grand Prix,matta,0.0,2003 - 2009
+2004,British Grand Prix,panis,0.0,2003 - 2009
+2004,British Grand Prix,pantano,0.0,2003 - 2009
+2004,British Grand Prix,sato,0.0,2003 - 2009
+2004,British Grand Prix,trulli,0.0,2003 - 2009
+2004,Belgian Grand Prix,raikkonen,10.0,2003 - 2009
+2004,Belgian Grand Prix,michael_schumacher,8.0,2003 - 2009
+2004,Belgian Grand Prix,barrichello,6.0,2003 - 2009
+2004,Belgian Grand Prix,massa,5.0,2003 - 2009
+2004,Belgian Grand Prix,fisichella,4.0,2003 - 2009
+2004,Belgian Grand Prix,klien,3.0,2003 - 2009
+2004,Belgian Grand Prix,coulthard,2.0,2003 - 2009
+2004,Belgian Grand Prix,panis,1.0,2003 - 2009
+2004,Belgian Grand Prix,alonso,0.0,2003 - 2009
+2004,Belgian Grand Prix,baumgartner,0.0,2003 - 2009
+2004,Belgian Grand Prix,bruni,0.0,2003 - 2009
+2004,Belgian Grand Prix,button,0.0,2003 - 2009
+2004,Belgian Grand Prix,heidfeld,0.0,2003 - 2009
+2004,Belgian Grand Prix,montoya,0.0,2003 - 2009
+2004,Belgian Grand Prix,pantano,0.0,2003 - 2009
+2004,Belgian Grand Prix,pizzonia,0.0,2003 - 2009
+2004,Belgian Grand Prix,sato,0.0,2003 - 2009
+2004,Belgian Grand Prix,trulli,0.0,2003 - 2009
+2004,Belgian Grand Prix,webber,0.0,2003 - 2009
+2004,Belgian Grand Prix,zonta,0.0,2003 - 2009
+2005,Monaco Grand Prix,raikkonen,10.0,2003 - 2009
+2005,Monaco Grand Prix,heidfeld,8.0,2003 - 2009
+2005,Monaco Grand Prix,webber,6.0,2003 - 2009
+2005,Monaco Grand Prix,alonso,5.0,2003 - 2009
+2005,Monaco Grand Prix,montoya,4.0,2003 - 2009
+2005,Monaco Grand Prix,ralf_schumacher,3.0,2003 - 2009
+2005,Monaco Grand Prix,michael_schumacher,2.0,2003 - 2009
+2005,Monaco Grand Prix,barrichello,1.0,2003 - 2009
+2005,Monaco Grand Prix,albers,0.0,2003 - 2009
+2005,Monaco Grand Prix,coulthard,0.0,2003 - 2009
+2005,Monaco Grand Prix,fisichella,0.0,2003 - 2009
+2005,Monaco Grand Prix,friesacher,0.0,2003 - 2009
+2005,Monaco Grand Prix,karthikeyan,0.0,2003 - 2009
+2005,Monaco Grand Prix,liuzzi,0.0,2003 - 2009
+2005,Monaco Grand Prix,massa,0.0,2003 - 2009
+2005,Monaco Grand Prix,monteiro,0.0,2003 - 2009
+2005,Monaco Grand Prix,trulli,0.0,2003 - 2009
+2005,Monaco Grand Prix,villeneuve,0.0,2003 - 2009
+2005,Italian Grand Prix,montoya,10.0,2003 - 2009
+2005,Italian Grand Prix,alonso,8.0,2003 - 2009
+2005,Italian Grand Prix,fisichella,6.0,2003 - 2009
+2005,Italian Grand Prix,raikkonen,5.0,2003 - 2009
+2005,Italian Grand Prix,trulli,4.0,2003 - 2009
+2005,Italian Grand Prix,ralf_schumacher,3.0,2003 - 2009
+2005,Italian Grand Prix,pizzonia,2.0,2003 - 2009
+2005,Italian Grand Prix,button,1.0,2003 - 2009
+2005,Italian Grand Prix,albers,0.0,2003 - 2009
+2005,Italian Grand Prix,barrichello,0.0,2003 - 2009
+2005,Italian Grand Prix,coulthard,0.0,2003 - 2009
+2005,Italian Grand Prix,doornbos,0.0,2003 - 2009
+2005,Italian Grand Prix,karthikeyan,0.0,2003 - 2009
+2005,Italian Grand Prix,klien,0.0,2003 - 2009
+2005,Italian Grand Prix,massa,0.0,2003 - 2009
+2005,Italian Grand Prix,michael_schumacher,0.0,2003 - 2009
+2005,Italian Grand Prix,monteiro,0.0,2003 - 2009
+2005,Italian Grand Prix,sato,0.0,2003 - 2009
+2005,Italian Grand Prix,villeneuve,0.0,2003 - 2009
+2005,Italian Grand Prix,webber,0.0,2003 - 2009
+2005,British Grand Prix,montoya,10.0,2003 - 2009
+2005,British Grand Prix,alonso,8.0,2003 - 2009
+2005,British Grand Prix,raikkonen,6.0,2003 - 2009
+2005,British Grand Prix,fisichella,5.0,2003 - 2009
+2005,British Grand Prix,button,4.0,2003 - 2009
+2005,British Grand Prix,michael_schumacher,3.0,2003 - 2009
+2005,British Grand Prix,barrichello,2.0,2003 - 2009
+2005,British Grand Prix,ralf_schumacher,1.0,2003 - 2009
+2005,British Grand Prix,albers,0.0,2003 - 2009
+2005,British Grand Prix,coulthard,0.0,2003 - 2009
+2005,British Grand Prix,friesacher,0.0,2003 - 2009
+2005,British Grand Prix,heidfeld,0.0,2003 - 2009
+2005,British Grand Prix,karthikeyan,0.0,2003 - 2009
+2005,British Grand Prix,klien,0.0,2003 - 2009
+2005,British Grand Prix,massa,0.0,2003 - 2009
+2005,British Grand Prix,monteiro,0.0,2003 - 2009
+2005,British Grand Prix,sato,0.0,2003 - 2009
+2005,British Grand Prix,trulli,0.0,2003 - 2009
+2005,British Grand Prix,villeneuve,0.0,2003 - 2009
+2005,British Grand Prix,webber,0.0,2003 - 2009
+2005,Belgian Grand Prix,raikkonen,10.0,2003 - 2009
+2005,Belgian Grand Prix,alonso,8.0,2003 - 2009
+2005,Belgian Grand Prix,button,6.0,2003 - 2009
+2005,Belgian Grand Prix,webber,5.0,2003 - 2009
+2005,Belgian Grand Prix,barrichello,4.0,2003 - 2009
+2005,Belgian Grand Prix,villeneuve,3.0,2003 - 2009
+2005,Belgian Grand Prix,ralf_schumacher,2.0,2003 - 2009
+2005,Belgian Grand Prix,monteiro,1.0,2003 - 2009
+2005,Belgian Grand Prix,albers,0.0,2003 - 2009
+2005,Belgian Grand Prix,coulthard,0.0,2003 - 2009
+2005,Belgian Grand Prix,doornbos,0.0,2003 - 2009
+2005,Belgian Grand Prix,fisichella,0.0,2003 - 2009
+2005,Belgian Grand Prix,karthikeyan,0.0,2003 - 2009
+2005,Belgian Grand Prix,klien,0.0,2003 - 2009
+2005,Belgian Grand Prix,massa,0.0,2003 - 2009
+2005,Belgian Grand Prix,michael_schumacher,0.0,2003 - 2009
+2005,Belgian Grand Prix,montoya,0.0,2003 - 2009
+2005,Belgian Grand Prix,pizzonia,0.0,2003 - 2009
+2005,Belgian Grand Prix,sato,0.0,2003 - 2009
+2005,Belgian Grand Prix,trulli,0.0,2003 - 2009
+2006,Monaco Grand Prix,alonso,10.0,2003 - 2009
+2006,Monaco Grand Prix,montoya,8.0,2003 - 2009
+2006,Monaco Grand Prix,coulthard,6.0,2003 - 2009
+2006,Monaco Grand Prix,barrichello,5.0,2003 - 2009
+2006,Monaco Grand Prix,michael_schumacher,4.0,2003 - 2009
+2006,Monaco Grand Prix,fisichella,3.0,2003 - 2009
+2006,Monaco Grand Prix,heidfeld,2.0,2003 - 2009
+2006,Monaco Grand Prix,ralf_schumacher,1.0,2003 - 2009
+2006,Monaco Grand Prix,albers,0.0,2003 - 2009
+2006,Monaco Grand Prix,button,0.0,2003 - 2009
+2006,Monaco Grand Prix,klien,0.0,2003 - 2009
+2006,Monaco Grand Prix,liuzzi,0.0,2003 - 2009
+2006,Monaco Grand Prix,massa,0.0,2003 - 2009
+2006,Monaco Grand Prix,montagny,0.0,2003 - 2009
+2006,Monaco Grand Prix,monteiro,0.0,2003 - 2009
+2006,Monaco Grand Prix,raikkonen,0.0,2003 - 2009
+2006,Monaco Grand Prix,rosberg,0.0,2003 - 2009
+2006,Monaco Grand Prix,sato,0.0,2003 - 2009
+2006,Monaco Grand Prix,speed,0.0,2003 - 2009
+2006,Monaco Grand Prix,trulli,0.0,2003 - 2009
+2006,Monaco Grand Prix,villeneuve,0.0,2003 - 2009
+2006,Monaco Grand Prix,webber,0.0,2003 - 2009
+2006,Italian Grand Prix,michael_schumacher,10.0,2003 - 2009
+2006,Italian Grand Prix,raikkonen,8.0,2003 - 2009
+2006,Italian Grand Prix,kubica,6.0,2003 - 2009
+2006,Italian Grand Prix,fisichella,5.0,2003 - 2009
+2006,Italian Grand Prix,button,4.0,2003 - 2009
+2006,Italian Grand Prix,barrichello,3.0,2003 - 2009
+2006,Italian Grand Prix,trulli,2.0,2003 - 2009
+2006,Italian Grand Prix,heidfeld,1.0,2003 - 2009
+2006,Italian Grand Prix,albers,0.0,2003 - 2009
+2006,Italian Grand Prix,alonso,0.0,2003 - 2009
+2006,Italian Grand Prix,coulthard,0.0,2003 - 2009
+2006,Italian Grand Prix,klien,0.0,2003 - 2009
+2006,Italian Grand Prix,liuzzi,0.0,2003 - 2009
+2006,Italian Grand Prix,massa,0.0,2003 - 2009
+2006,Italian Grand Prix,monteiro,0.0,2003 - 2009
+2006,Italian Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2006,Italian Grand Prix,rosa,0.0,2003 - 2009
+2006,Italian Grand Prix,rosberg,0.0,2003 - 2009
+2006,Italian Grand Prix,sato,0.0,2003 - 2009
+2006,Italian Grand Prix,speed,0.0,2003 - 2009
+2006,Italian Grand Prix,webber,0.0,2003 - 2009
+2006,Italian Grand Prix,yamamoto,0.0,2003 - 2009
+2006,British Grand Prix,alonso,10.0,2003 - 2009
+2006,British Grand Prix,michael_schumacher,8.0,2003 - 2009
+2006,British Grand Prix,raikkonen,6.0,2003 - 2009
+2006,British Grand Prix,fisichella,5.0,2003 - 2009
+2006,British Grand Prix,massa,4.0,2003 - 2009
+2006,British Grand Prix,montoya,3.0,2003 - 2009
+2006,British Grand Prix,heidfeld,2.0,2003 - 2009
+2006,British Grand Prix,villeneuve,1.0,2003 - 2009
+2006,British Grand Prix,albers,0.0,2003 - 2009
+2006,British Grand Prix,barrichello,0.0,2003 - 2009
+2006,British Grand Prix,button,0.0,2003 - 2009
+2006,British Grand Prix,coulthard,0.0,2003 - 2009
+2006,British Grand Prix,klien,0.0,2003 - 2009
+2006,British Grand Prix,liuzzi,0.0,2003 - 2009
+2006,British Grand Prix,montagny,0.0,2003 - 2009
+2006,British Grand Prix,monteiro,0.0,2003 - 2009
+2006,British Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2006,British Grand Prix,rosberg,0.0,2003 - 2009
+2006,British Grand Prix,sato,0.0,2003 - 2009
+2006,British Grand Prix,speed,0.0,2003 - 2009
+2006,British Grand Prix,trulli,0.0,2003 - 2009
+2006,British Grand Prix,webber,0.0,2003 - 2009
+2007,Monaco Grand Prix,alonso,10.0,2003 - 2009
+2007,Monaco Grand Prix,hamilton,8.0,2003 - 2009
+2007,Monaco Grand Prix,massa,6.0,2003 - 2009
+2007,Monaco Grand Prix,fisichella,5.0,2003 - 2009
+2007,Monaco Grand Prix,kubica,4.0,2003 - 2009
+2007,Monaco Grand Prix,heidfeld,3.0,2003 - 2009
+2007,Monaco Grand Prix,wurz,2.0,2003 - 2009
+2007,Monaco Grand Prix,raikkonen,1.0,2003 - 2009
+2007,Monaco Grand Prix,albers,0.0,2003 - 2009
+2007,Monaco Grand Prix,barrichello,0.0,2003 - 2009
+2007,Monaco Grand Prix,button,0.0,2003 - 2009
+2007,Monaco Grand Prix,coulthard,0.0,2003 - 2009
+2007,Monaco Grand Prix,davidson,0.0,2003 - 2009
+2007,Monaco Grand Prix,kovalainen,0.0,2003 - 2009
+2007,Monaco Grand Prix,liuzzi,0.0,2003 - 2009
+2007,Monaco Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2007,Monaco Grand Prix,rosberg,0.0,2003 - 2009
+2007,Monaco Grand Prix,sato,0.0,2003 - 2009
+2007,Monaco Grand Prix,speed,0.0,2003 - 2009
+2007,Monaco Grand Prix,sutil,0.0,2003 - 2009
+2007,Monaco Grand Prix,trulli,0.0,2003 - 2009
+2007,Monaco Grand Prix,webber,0.0,2003 - 2009
+2007,Italian Grand Prix,alonso,10.0,2003 - 2009
+2007,Italian Grand Prix,hamilton,8.0,2003 - 2009
+2007,Italian Grand Prix,raikkonen,6.0,2003 - 2009
+2007,Italian Grand Prix,heidfeld,5.0,2003 - 2009
+2007,Italian Grand Prix,kubica,4.0,2003 - 2009
+2007,Italian Grand Prix,rosberg,3.0,2003 - 2009
+2007,Italian Grand Prix,kovalainen,2.0,2003 - 2009
+2007,Italian Grand Prix,button,1.0,2003 - 2009
+2007,Italian Grand Prix,barrichello,0.0,2003 - 2009
+2007,Italian Grand Prix,coulthard,0.0,2003 - 2009
+2007,Italian Grand Prix,davidson,0.0,2003 - 2009
+2007,Italian Grand Prix,fisichella,0.0,2003 - 2009
+2007,Italian Grand Prix,liuzzi,0.0,2003 - 2009
+2007,Italian Grand Prix,massa,0.0,2003 - 2009
+2007,Italian Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2007,Italian Grand Prix,sato,0.0,2003 - 2009
+2007,Italian Grand Prix,sutil,0.0,2003 - 2009
+2007,Italian Grand Prix,trulli,0.0,2003 - 2009
+2007,Italian Grand Prix,vettel,0.0,2003 - 2009
+2007,Italian Grand Prix,webber,0.0,2003 - 2009
+2007,Italian Grand Prix,wurz,0.0,2003 - 2009
+2007,Italian Grand Prix,yamamoto,0.0,2003 - 2009
+2007,British Grand Prix,raikkonen,10.0,2003 - 2009
+2007,British Grand Prix,alonso,8.0,2003 - 2009
+2007,British Grand Prix,hamilton,6.0,2003 - 2009
+2007,British Grand Prix,kubica,5.0,2003 - 2009
+2007,British Grand Prix,massa,4.0,2003 - 2009
+2007,British Grand Prix,heidfeld,3.0,2003 - 2009
+2007,British Grand Prix,kovalainen,2.0,2003 - 2009
+2007,British Grand Prix,fisichella,1.0,2003 - 2009
+2007,British Grand Prix,albers,0.0,2003 - 2009
+2007,British Grand Prix,barrichello,0.0,2003 - 2009
+2007,British Grand Prix,button,0.0,2003 - 2009
+2007,British Grand Prix,coulthard,0.0,2003 - 2009
+2007,British Grand Prix,davidson,0.0,2003 - 2009
+2007,British Grand Prix,liuzzi,0.0,2003 - 2009
+2007,British Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2007,British Grand Prix,rosberg,0.0,2003 - 2009
+2007,British Grand Prix,sato,0.0,2003 - 2009
+2007,British Grand Prix,speed,0.0,2003 - 2009
+2007,British Grand Prix,sutil,0.0,2003 - 2009
+2007,British Grand Prix,trulli,0.0,2003 - 2009
+2007,British Grand Prix,webber,0.0,2003 - 2009
+2007,British Grand Prix,wurz,0.0,2003 - 2009
+2007,Belgian Grand Prix,raikkonen,10.0,2003 - 2009
+2007,Belgian Grand Prix,massa,8.0,2003 - 2009
+2007,Belgian Grand Prix,alonso,6.0,2003 - 2009
+2007,Belgian Grand Prix,hamilton,5.0,2003 - 2009
+2007,Belgian Grand Prix,heidfeld,4.0,2003 - 2009
+2007,Belgian Grand Prix,rosberg,3.0,2003 - 2009
+2007,Belgian Grand Prix,webber,2.0,2003 - 2009
+2007,Belgian Grand Prix,kovalainen,1.0,2003 - 2009
+2007,Belgian Grand Prix,barrichello,0.0,2003 - 2009
+2007,Belgian Grand Prix,button,0.0,2003 - 2009
+2007,Belgian Grand Prix,coulthard,0.0,2003 - 2009
+2007,Belgian Grand Prix,davidson,0.0,2003 - 2009
+2007,Belgian Grand Prix,fisichella,0.0,2003 - 2009
+2007,Belgian Grand Prix,kubica,0.0,2003 - 2009
+2007,Belgian Grand Prix,liuzzi,0.0,2003 - 2009
+2007,Belgian Grand Prix,ralf_schumacher,0.0,2003 - 2009
+2007,Belgian Grand Prix,sato,0.0,2003 - 2009
+2007,Belgian Grand Prix,sutil,0.0,2003 - 2009
+2007,Belgian Grand Prix,trulli,0.0,2003 - 2009
+2007,Belgian Grand Prix,vettel,0.0,2003 - 2009
+2007,Belgian Grand Prix,wurz,0.0,2003 - 2009
+2007,Belgian Grand Prix,yamamoto,0.0,2003 - 2009
+2008,Monaco Grand Prix,hamilton,10.0,2003 - 2009
+2008,Monaco Grand Prix,kubica,8.0,2003 - 2009
+2008,Monaco Grand Prix,massa,6.0,2003 - 2009
+2008,Monaco Grand Prix,webber,5.0,2003 - 2009
+2008,Monaco Grand Prix,vettel,4.0,2003 - 2009
+2008,Monaco Grand Prix,barrichello,3.0,2003 - 2009
+2008,Monaco Grand Prix,nakajima,2.0,2003 - 2009
+2008,Monaco Grand Prix,kovalainen,1.0,2003 - 2009
+2008,Monaco Grand Prix,alonso,0.0,2003 - 2009
+2008,Monaco Grand Prix,bourdais,0.0,2003 - 2009
+2008,Monaco Grand Prix,button,0.0,2003 - 2009
+2008,Monaco Grand Prix,coulthard,0.0,2003 - 2009
+2008,Monaco Grand Prix,fisichella,0.0,2003 - 2009
+2008,Monaco Grand Prix,glock,0.0,2003 - 2009
+2008,Monaco Grand Prix,heidfeld,0.0,2003 - 2009
+2008,Monaco Grand Prix,piquet_jr,0.0,2003 - 2009
+2008,Monaco Grand Prix,raikkonen,0.0,2003 - 2009
+2008,Monaco Grand Prix,rosberg,0.0,2003 - 2009
+2008,Monaco Grand Prix,sutil,0.0,2003 - 2009
+2008,Monaco Grand Prix,trulli,0.0,2003 - 2009
+2008,Italian Grand Prix,vettel,10.0,2003 - 2009
+2008,Italian Grand Prix,kovalainen,8.0,2003 - 2009
+2008,Italian Grand Prix,kubica,6.0,2003 - 2009
+2008,Italian Grand Prix,alonso,5.0,2003 - 2009
+2008,Italian Grand Prix,heidfeld,4.0,2003 - 2009
+2008,Italian Grand Prix,massa,3.0,2003 - 2009
+2008,Italian Grand Prix,hamilton,2.0,2003 - 2009
+2008,Italian Grand Prix,webber,1.0,2003 - 2009
+2008,Italian Grand Prix,barrichello,0.0,2003 - 2009
+2008,Italian Grand Prix,bourdais,0.0,2003 - 2009
+2008,Italian Grand Prix,button,0.0,2003 - 2009
+2008,Italian Grand Prix,coulthard,0.0,2003 - 2009
+2008,Italian Grand Prix,fisichella,0.0,2003 - 2009
+2008,Italian Grand Prix,glock,0.0,2003 - 2009
+2008,Italian Grand Prix,nakajima,0.0,2003 - 2009
+2008,Italian Grand Prix,piquet_jr,0.0,2003 - 2009
+2008,Italian Grand Prix,raikkonen,0.0,2003 - 2009
+2008,Italian Grand Prix,rosberg,0.0,2003 - 2009
+2008,Italian Grand Prix,sutil,0.0,2003 - 2009
+2008,Italian Grand Prix,trulli,0.0,2003 - 2009
+2008,British Grand Prix,hamilton,10.0,2003 - 2009
+2008,British Grand Prix,heidfeld,8.0,2003 - 2009
+2008,British Grand Prix,barrichello,6.0,2003 - 2009
+2008,British Grand Prix,raikkonen,5.0,2003 - 2009
+2008,British Grand Prix,kovalainen,4.0,2003 - 2009
+2008,British Grand Prix,alonso,3.0,2003 - 2009
+2008,British Grand Prix,trulli,2.0,2003 - 2009
+2008,British Grand Prix,nakajima,1.0,2003 - 2009
+2008,British Grand Prix,bourdais,0.0,2003 - 2009
+2008,British Grand Prix,button,0.0,2003 - 2009
+2008,British Grand Prix,coulthard,0.0,2003 - 2009
+2008,British Grand Prix,fisichella,0.0,2003 - 2009
+2008,British Grand Prix,glock,0.0,2003 - 2009
+2008,British Grand Prix,kubica,0.0,2003 - 2009
+2008,British Grand Prix,massa,0.0,2003 - 2009
+2008,British Grand Prix,piquet_jr,0.0,2003 - 2009
+2008,British Grand Prix,rosberg,0.0,2003 - 2009
+2008,British Grand Prix,sutil,0.0,2003 - 2009
+2008,British Grand Prix,vettel,0.0,2003 - 2009
+2008,British Grand Prix,webber,0.0,2003 - 2009
+2008,Belgian Grand Prix,massa,10.0,2003 - 2009
+2008,Belgian Grand Prix,heidfeld,8.0,2003 - 2009
+2008,Belgian Grand Prix,hamilton,6.0,2003 - 2009
+2008,Belgian Grand Prix,alonso,5.0,2003 - 2009
+2008,Belgian Grand Prix,vettel,4.0,2003 - 2009
+2008,Belgian Grand Prix,kubica,3.0,2003 - 2009
+2008,Belgian Grand Prix,bourdais,2.0,2003 - 2009
+2008,Belgian Grand Prix,webber,1.0,2003 - 2009
+2008,Belgian Grand Prix,barrichello,0.0,2003 - 2009
+2008,Belgian Grand Prix,button,0.0,2003 - 2009
+2008,Belgian Grand Prix,coulthard,0.0,2003 - 2009
+2008,Belgian Grand Prix,fisichella,0.0,2003 - 2009
+2008,Belgian Grand Prix,glock,0.0,2003 - 2009
+2008,Belgian Grand Prix,kovalainen,0.0,2003 - 2009
+2008,Belgian Grand Prix,nakajima,0.0,2003 - 2009
+2008,Belgian Grand Prix,piquet_jr,0.0,2003 - 2009
+2008,Belgian Grand Prix,raikkonen,0.0,2003 - 2009
+2008,Belgian Grand Prix,rosberg,0.0,2003 - 2009
+2008,Belgian Grand Prix,sutil,0.0,2003 - 2009
+2008,Belgian Grand Prix,trulli,0.0,2003 - 2009
+2009,Monaco Grand Prix,button,10.0,2003 - 2009
+2009,Monaco Grand Prix,barrichello,8.0,2003 - 2009
+2009,Monaco Grand Prix,raikkonen,6.0,2003 - 2009
+2009,Monaco Grand Prix,massa,5.0,2003 - 2009
+2009,Monaco Grand Prix,webber,4.0,2003 - 2009
+2009,Monaco Grand Prix,rosberg,3.0,2003 - 2009
+2009,Monaco Grand Prix,alonso,2.0,2003 - 2009
+2009,Monaco Grand Prix,bourdais,1.0,2003 - 2009
+2009,Monaco Grand Prix,buemi,0.0,2003 - 2009
+2009,Monaco Grand Prix,fisichella,0.0,2003 - 2009
+2009,Monaco Grand Prix,glock,0.0,2003 - 2009
+2009,Monaco Grand Prix,hamilton,0.0,2003 - 2009
+2009,Monaco Grand Prix,heidfeld,0.0,2003 - 2009
+2009,Monaco Grand Prix,kovalainen,0.0,2003 - 2009
+2009,Monaco Grand Prix,kubica,0.0,2003 - 2009
+2009,Monaco Grand Prix,nakajima,0.0,2003 - 2009
+2009,Monaco Grand Prix,piquet_jr,0.0,2003 - 2009
+2009,Monaco Grand Prix,sutil,0.0,2003 - 2009
+2009,Monaco Grand Prix,trulli,0.0,2003 - 2009
+2009,Monaco Grand Prix,vettel,0.0,2003 - 2009
+2009,Italian Grand Prix,barrichello,10.0,2003 - 2009
+2009,Italian Grand Prix,button,8.0,2003 - 2009
+2009,Italian Grand Prix,raikkonen,6.0,2003 - 2009
+2009,Italian Grand Prix,sutil,5.0,2003 - 2009
+2009,Italian Grand Prix,alonso,4.0,2003 - 2009
+2009,Italian Grand Prix,kovalainen,3.0,2003 - 2009
+2009,Italian Grand Prix,heidfeld,2.0,2003 - 2009
+2009,Italian Grand Prix,vettel,1.0,2003 - 2009
+2009,Italian Grand Prix,alguersuari,0.0,2003 - 2009
+2009,Italian Grand Prix,buemi,0.0,2003 - 2009
+2009,Italian Grand Prix,fisichella,0.0,2003 - 2009
+2009,Italian Grand Prix,glock,0.0,2003 - 2009
+2009,Italian Grand Prix,grosjean,0.0,2003 - 2009
+2009,Italian Grand Prix,hamilton,0.0,2003 - 2009
+2009,Italian Grand Prix,kubica,0.0,2003 - 2009
+2009,Italian Grand Prix,liuzzi,0.0,2003 - 2009
+2009,Italian Grand Prix,nakajima,0.0,2003 - 2009
+2009,Italian Grand Prix,rosberg,0.0,2003 - 2009
+2009,Italian Grand Prix,trulli,0.0,2003 - 2009
+2009,Italian Grand Prix,webber,0.0,2003 - 2009
+2009,British Grand Prix,vettel,10.0,2003 - 2009
+2009,British Grand Prix,webber,8.0,2003 - 2009
+2009,British Grand Prix,barrichello,6.0,2003 - 2009
+2009,British Grand Prix,massa,5.0,2003 - 2009
+2009,British Grand Prix,rosberg,4.0,2003 - 2009
+2009,British Grand Prix,button,3.0,2003 - 2009
+2009,British Grand Prix,trulli,2.0,2003 - 2009
+2009,British Grand Prix,raikkonen,1.0,2003 - 2009
+2009,British Grand Prix,alonso,0.0,2003 - 2009
+2009,British Grand Prix,bourdais,0.0,2003 - 2009
+2009,British Grand Prix,buemi,0.0,2003 - 2009
+2009,British Grand Prix,fisichella,0.0,2003 - 2009
+2009,British Grand Prix,glock,0.0,2003 - 2009
+2009,British Grand Prix,hamilton,0.0,2003 - 2009
+2009,British Grand Prix,heidfeld,0.0,2003 - 2009
+2009,British Grand Prix,kovalainen,0.0,2003 - 2009
+2009,British Grand Prix,kubica,0.0,2003 - 2009
+2009,British Grand Prix,nakajima,0.0,2003 - 2009
+2009,British Grand Prix,piquet_jr,0.0,2003 - 2009
+2009,British Grand Prix,sutil,0.0,2003 - 2009
+2009,Belgian Grand Prix,raikkonen,10.0,2003 - 2009
+2009,Belgian Grand Prix,fisichella,8.0,2003 - 2009
+2009,Belgian Grand Prix,vettel,6.0,2003 - 2009
+2009,Belgian Grand Prix,kubica,5.0,2003 - 2009
+2009,Belgian Grand Prix,heidfeld,4.0,2003 - 2009
+2009,Belgian Grand Prix,kovalainen,3.0,2003 - 2009
+2009,Belgian Grand Prix,barrichello,2.0,2003 - 2009
+2009,Belgian Grand Prix,rosberg,1.0,2003 - 2009
+2009,Belgian Grand Prix,alguersuari,0.0,2003 - 2009
+2009,Belgian Grand Prix,alonso,0.0,2003 - 2009
+2009,Belgian Grand Prix,badoer,0.0,2003 - 2009
+2009,Belgian Grand Prix,buemi,0.0,2003 - 2009
+2009,Belgian Grand Prix,button,0.0,2003 - 2009
+2009,Belgian Grand Prix,glock,0.0,2003 - 2009
+2009,Belgian Grand Prix,grosjean,0.0,2003 - 2009
+2009,Belgian Grand Prix,hamilton,0.0,2003 - 2009
+2009,Belgian Grand Prix,nakajima,0.0,2003 - 2009
+2009,Belgian Grand Prix,sutil,0.0,2003 - 2009
+2009,Belgian Grand Prix,trulli,0.0,2003 - 2009
+2009,Belgian Grand Prix,webber,0.0,2003 - 2009

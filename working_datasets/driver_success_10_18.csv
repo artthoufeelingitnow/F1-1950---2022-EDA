@@ -1,793 +1,793 @@
-year,name,driver_name,points
-2010,Monaco Grand Prix,webber,25.0
-2010,Monaco Grand Prix,vettel,18.0
-2010,Monaco Grand Prix,kubica,15.0
-2010,Monaco Grand Prix,massa,12.0
-2010,Monaco Grand Prix,hamilton,10.0
-2010,Monaco Grand Prix,alonso,8.0
-2010,Monaco Grand Prix,rosberg,6.0
-2010,Monaco Grand Prix,sutil,4.0
-2010,Monaco Grand Prix,liuzzi,2.0
-2010,Monaco Grand Prix,buemi,1.0
-2010,Monaco Grand Prix,alguersuari,0.0
-2010,Monaco Grand Prix,barrichello,0.0
-2010,Monaco Grand Prix,bruno_senna,0.0
-2010,Monaco Grand Prix,button,0.0
-2010,Monaco Grand Prix,chandhok,0.0
-2010,Monaco Grand Prix,glock,0.0
-2010,Monaco Grand Prix,grassi,0.0
-2010,Monaco Grand Prix,hulkenberg,0.0
-2010,Monaco Grand Prix,kobayashi,0.0
-2010,Monaco Grand Prix,kovalainen,0.0
-2010,Monaco Grand Prix,michael_schumacher,0.0
-2010,Monaco Grand Prix,petrov,0.0
-2010,Monaco Grand Prix,rosa,0.0
-2010,Monaco Grand Prix,trulli,0.0
-2010,Italian Grand Prix,alonso,25.0
-2010,Italian Grand Prix,button,18.0
-2010,Italian Grand Prix,massa,15.0
-2010,Italian Grand Prix,vettel,12.0
-2010,Italian Grand Prix,rosberg,10.0
-2010,Italian Grand Prix,webber,8.0
-2010,Italian Grand Prix,hulkenberg,6.0
-2010,Italian Grand Prix,kubica,4.0
-2010,Italian Grand Prix,michael_schumacher,2.0
-2010,Italian Grand Prix,barrichello,1.0
-2010,Italian Grand Prix,alguersuari,0.0
-2010,Italian Grand Prix,bruno_senna,0.0
-2010,Italian Grand Prix,buemi,0.0
-2010,Italian Grand Prix,glock,0.0
-2010,Italian Grand Prix,grassi,0.0
-2010,Italian Grand Prix,hamilton,0.0
-2010,Italian Grand Prix,kobayashi,0.0
-2010,Italian Grand Prix,kovalainen,0.0
-2010,Italian Grand Prix,liuzzi,0.0
-2010,Italian Grand Prix,petrov,0.0
-2010,Italian Grand Prix,rosa,0.0
-2010,Italian Grand Prix,sutil,0.0
-2010,Italian Grand Prix,trulli,0.0
-2010,Italian Grand Prix,yamamoto,0.0
-2010,British Grand Prix,webber,25.0
-2010,British Grand Prix,hamilton,18.0
-2010,British Grand Prix,rosberg,15.0
-2010,British Grand Prix,button,12.0
-2010,British Grand Prix,barrichello,10.0
-2010,British Grand Prix,kobayashi,8.0
-2010,British Grand Prix,vettel,6.0
-2010,British Grand Prix,sutil,4.0
-2010,British Grand Prix,michael_schumacher,2.0
-2010,British Grand Prix,hulkenberg,1.0
-2010,British Grand Prix,alguersuari,0.0
-2010,British Grand Prix,alonso,0.0
-2010,British Grand Prix,buemi,0.0
-2010,British Grand Prix,chandhok,0.0
-2010,British Grand Prix,glock,0.0
-2010,British Grand Prix,grassi,0.0
-2010,British Grand Prix,kovalainen,0.0
-2010,British Grand Prix,kubica,0.0
-2010,British Grand Prix,liuzzi,0.0
-2010,British Grand Prix,massa,0.0
-2010,British Grand Prix,petrov,0.0
-2010,British Grand Prix,rosa,0.0
-2010,British Grand Prix,trulli,0.0
-2010,British Grand Prix,yamamoto,0.0
-2010,Belgian Grand Prix,hamilton,25.0
-2010,Belgian Grand Prix,webber,18.0
-2010,Belgian Grand Prix,kubica,15.0
-2010,Belgian Grand Prix,massa,12.0
-2010,Belgian Grand Prix,sutil,10.0
-2010,Belgian Grand Prix,rosberg,8.0
-2010,Belgian Grand Prix,michael_schumacher,6.0
-2010,Belgian Grand Prix,kobayashi,4.0
-2010,Belgian Grand Prix,petrov,2.0
-2010,Belgian Grand Prix,liuzzi,1.0
-2010,Belgian Grand Prix,alguersuari,0.0
-2010,Belgian Grand Prix,alonso,0.0
-2010,Belgian Grand Prix,barrichello,0.0
-2010,Belgian Grand Prix,bruno_senna,0.0
-2010,Belgian Grand Prix,buemi,0.0
-2010,Belgian Grand Prix,button,0.0
-2010,Belgian Grand Prix,glock,0.0
-2010,Belgian Grand Prix,grassi,0.0
-2010,Belgian Grand Prix,hulkenberg,0.0
-2010,Belgian Grand Prix,kovalainen,0.0
-2010,Belgian Grand Prix,rosa,0.0
-2010,Belgian Grand Prix,trulli,0.0
-2010,Belgian Grand Prix,vettel,0.0
-2010,Belgian Grand Prix,yamamoto,0.0
-2011,Monaco Grand Prix,vettel,25.0
-2011,Monaco Grand Prix,alonso,18.0
-2011,Monaco Grand Prix,button,15.0
-2011,Monaco Grand Prix,webber,12.0
-2011,Monaco Grand Prix,kobayashi,10.0
-2011,Monaco Grand Prix,hamilton,8.0
-2011,Monaco Grand Prix,sutil,6.0
-2011,Monaco Grand Prix,heidfeld,4.0
-2011,Monaco Grand Prix,barrichello,2.0
-2011,Monaco Grand Prix,buemi,1.0
-2011,Monaco Grand Prix,alguersuari,0.0
-2011,Monaco Grand Prix,ambrosio,0.0
-2011,Monaco Grand Prix,glock,0.0
-2011,Monaco Grand Prix,karthikeyan,0.0
-2011,Monaco Grand Prix,kovalainen,0.0
-2011,Monaco Grand Prix,liuzzi,0.0
-2011,Monaco Grand Prix,maldonado,0.0
-2011,Monaco Grand Prix,massa,0.0
-2011,Monaco Grand Prix,michael_schumacher,0.0
-2011,Monaco Grand Prix,perez,0.0
-2011,Monaco Grand Prix,petrov,0.0
-2011,Monaco Grand Prix,resta,0.0
-2011,Monaco Grand Prix,rosberg,0.0
-2011,Monaco Grand Prix,trulli,0.0
-2011,Italian Grand Prix,vettel,25.0
-2011,Italian Grand Prix,button,18.0
-2011,Italian Grand Prix,alonso,15.0
-2011,Italian Grand Prix,hamilton,12.0
-2011,Italian Grand Prix,michael_schumacher,10.0
-2011,Italian Grand Prix,massa,8.0
-2011,Italian Grand Prix,alguersuari,6.0
-2011,Italian Grand Prix,resta,4.0
-2011,Italian Grand Prix,bruno_senna,2.0
-2011,Italian Grand Prix,buemi,1.0
-2011,Italian Grand Prix,ambrosio,0.0
-2011,Italian Grand Prix,barrichello,0.0
-2011,Italian Grand Prix,glock,0.0
-2011,Italian Grand Prix,kobayashi,0.0
-2011,Italian Grand Prix,kovalainen,0.0
-2011,Italian Grand Prix,liuzzi,0.0
-2011,Italian Grand Prix,maldonado,0.0
-2011,Italian Grand Prix,perez,0.0
-2011,Italian Grand Prix,petrov,0.0
-2011,Italian Grand Prix,ricciardo,0.0
-2011,Italian Grand Prix,rosberg,0.0
-2011,Italian Grand Prix,sutil,0.0
-2011,Italian Grand Prix,trulli,0.0
-2011,Italian Grand Prix,webber,0.0
-2011,British Grand Prix,alonso,25.0
-2011,British Grand Prix,vettel,18.0
-2011,British Grand Prix,webber,15.0
-2011,British Grand Prix,hamilton,12.0
-2011,British Grand Prix,massa,10.0
-2011,British Grand Prix,rosberg,8.0
-2011,British Grand Prix,perez,6.0
-2011,British Grand Prix,heidfeld,4.0
-2011,British Grand Prix,michael_schumacher,2.0
-2011,British Grand Prix,alguersuari,1.0
-2011,British Grand Prix,ambrosio,0.0
-2011,British Grand Prix,barrichello,0.0
-2011,British Grand Prix,buemi,0.0
-2011,British Grand Prix,button,0.0
-2011,British Grand Prix,glock,0.0
-2011,British Grand Prix,kobayashi,0.0
-2011,British Grand Prix,kovalainen,0.0
-2011,British Grand Prix,liuzzi,0.0
-2011,British Grand Prix,maldonado,0.0
-2011,British Grand Prix,petrov,0.0
-2011,British Grand Prix,resta,0.0
-2011,British Grand Prix,ricciardo,0.0
-2011,British Grand Prix,sutil,0.0
-2011,British Grand Prix,trulli,0.0
-2011,Belgian Grand Prix,vettel,25.0
-2011,Belgian Grand Prix,webber,18.0
-2011,Belgian Grand Prix,button,15.0
-2011,Belgian Grand Prix,alonso,12.0
-2011,Belgian Grand Prix,michael_schumacher,10.0
-2011,Belgian Grand Prix,rosberg,8.0
-2011,Belgian Grand Prix,sutil,6.0
-2011,Belgian Grand Prix,massa,4.0
-2011,Belgian Grand Prix,petrov,2.0
-2011,Belgian Grand Prix,maldonado,1.0
-2011,Belgian Grand Prix,alguersuari,0.0
-2011,Belgian Grand Prix,ambrosio,0.0
-2011,Belgian Grand Prix,barrichello,0.0
-2011,Belgian Grand Prix,bruno_senna,0.0
-2011,Belgian Grand Prix,buemi,0.0
-2011,Belgian Grand Prix,glock,0.0
-2011,Belgian Grand Prix,hamilton,0.0
-2011,Belgian Grand Prix,kobayashi,0.0
-2011,Belgian Grand Prix,kovalainen,0.0
-2011,Belgian Grand Prix,liuzzi,0.0
-2011,Belgian Grand Prix,perez,0.0
-2011,Belgian Grand Prix,resta,0.0
-2011,Belgian Grand Prix,ricciardo,0.0
-2011,Belgian Grand Prix,trulli,0.0
-2012,Monaco Grand Prix,webber,25.0
-2012,Monaco Grand Prix,rosberg,18.0
-2012,Monaco Grand Prix,alonso,15.0
-2012,Monaco Grand Prix,vettel,12.0
-2012,Monaco Grand Prix,hamilton,10.0
-2012,Monaco Grand Prix,massa,8.0
-2012,Monaco Grand Prix,resta,6.0
-2012,Monaco Grand Prix,hulkenberg,4.0
-2012,Monaco Grand Prix,raikkonen,2.0
-2012,Monaco Grand Prix,bruno_senna,1.0
-2012,Monaco Grand Prix,button,0.0
-2012,Monaco Grand Prix,glock,0.0
-2012,Monaco Grand Prix,grosjean,0.0
-2012,Monaco Grand Prix,karthikeyan,0.0
-2012,Monaco Grand Prix,kobayashi,0.0
-2012,Monaco Grand Prix,kovalainen,0.0
-2012,Monaco Grand Prix,maldonado,0.0
-2012,Monaco Grand Prix,michael_schumacher,0.0
-2012,Monaco Grand Prix,perez,0.0
-2012,Monaco Grand Prix,petrov,0.0
-2012,Monaco Grand Prix,pic,0.0
-2012,Monaco Grand Prix,ricciardo,0.0
-2012,Monaco Grand Prix,rosa,0.0
-2012,Monaco Grand Prix,vergne,0.0
-2012,Italian Grand Prix,hamilton,25.0
-2012,Italian Grand Prix,perez,18.0
-2012,Italian Grand Prix,alonso,15.0
-2012,Italian Grand Prix,massa,12.0
-2012,Italian Grand Prix,raikkonen,10.0
-2012,Italian Grand Prix,michael_schumacher,8.0
-2012,Italian Grand Prix,rosberg,6.0
-2012,Italian Grand Prix,resta,4.0
-2012,Italian Grand Prix,kobayashi,2.0
-2012,Italian Grand Prix,bruno_senna,1.0
-2012,Italian Grand Prix,ambrosio,0.0
-2012,Italian Grand Prix,button,0.0
-2012,Italian Grand Prix,glock,0.0
-2012,Italian Grand Prix,hulkenberg,0.0
-2012,Italian Grand Prix,karthikeyan,0.0
-2012,Italian Grand Prix,kovalainen,0.0
-2012,Italian Grand Prix,maldonado,0.0
-2012,Italian Grand Prix,petrov,0.0
-2012,Italian Grand Prix,pic,0.0
-2012,Italian Grand Prix,ricciardo,0.0
-2012,Italian Grand Prix,rosa,0.0
-2012,Italian Grand Prix,vergne,0.0
-2012,Italian Grand Prix,vettel,0.0
-2012,Italian Grand Prix,webber,0.0
-2012,British Grand Prix,webber,25.0
-2012,British Grand Prix,alonso,18.0
-2012,British Grand Prix,vettel,15.0
-2012,British Grand Prix,massa,12.0
-2012,British Grand Prix,raikkonen,10.0
-2012,British Grand Prix,grosjean,8.0
-2012,British Grand Prix,michael_schumacher,6.0
-2012,British Grand Prix,hamilton,4.0
-2012,British Grand Prix,bruno_senna,2.0
-2012,British Grand Prix,button,1.0
-2012,British Grand Prix,glock,0.0
-2012,British Grand Prix,hulkenberg,0.0
-2012,British Grand Prix,karthikeyan,0.0
-2012,British Grand Prix,kobayashi,0.0
-2012,British Grand Prix,kovalainen,0.0
-2012,British Grand Prix,maldonado,0.0
-2012,British Grand Prix,perez,0.0
-2012,British Grand Prix,petrov,0.0
-2012,British Grand Prix,pic,0.0
-2012,British Grand Prix,resta,0.0
-2012,British Grand Prix,ricciardo,0.0
-2012,British Grand Prix,rosa,0.0
-2012,British Grand Prix,rosberg,0.0
-2012,British Grand Prix,vergne,0.0
-2012,Belgian Grand Prix,button,25.0
-2012,Belgian Grand Prix,vettel,18.0
-2012,Belgian Grand Prix,raikkonen,15.0
-2012,Belgian Grand Prix,hulkenberg,12.0
-2012,Belgian Grand Prix,massa,10.0
-2012,Belgian Grand Prix,webber,8.0
-2012,Belgian Grand Prix,michael_schumacher,6.0
-2012,Belgian Grand Prix,vergne,4.0
-2012,Belgian Grand Prix,ricciardo,2.0
-2012,Belgian Grand Prix,resta,1.0
-2012,Belgian Grand Prix,alonso,0.0
-2012,Belgian Grand Prix,bruno_senna,0.0
-2012,Belgian Grand Prix,glock,0.0
-2012,Belgian Grand Prix,grosjean,0.0
-2012,Belgian Grand Prix,hamilton,0.0
-2012,Belgian Grand Prix,karthikeyan,0.0
-2012,Belgian Grand Prix,kobayashi,0.0
-2012,Belgian Grand Prix,kovalainen,0.0
-2012,Belgian Grand Prix,maldonado,0.0
-2012,Belgian Grand Prix,perez,0.0
-2012,Belgian Grand Prix,petrov,0.0
-2012,Belgian Grand Prix,pic,0.0
-2012,Belgian Grand Prix,rosa,0.0
-2012,Belgian Grand Prix,rosberg,0.0
-2013,Monaco Grand Prix,rosberg,25.0
-2013,Monaco Grand Prix,vettel,18.0
-2013,Monaco Grand Prix,webber,15.0
-2013,Monaco Grand Prix,hamilton,12.0
-2013,Monaco Grand Prix,sutil,10.0
-2013,Monaco Grand Prix,button,8.0
-2013,Monaco Grand Prix,alonso,6.0
-2013,Monaco Grand Prix,vergne,4.0
-2013,Monaco Grand Prix,resta,2.0
-2013,Monaco Grand Prix,raikkonen,1.0
-2013,Monaco Grand Prix,bottas,0.0
-2013,Monaco Grand Prix,chilton,0.0
-2013,Monaco Grand Prix,garde,0.0
-2013,Monaco Grand Prix,grosjean,0.0
-2013,Monaco Grand Prix,gutierrez,0.0
-2013,Monaco Grand Prix,hulkenberg,0.0
-2013,Monaco Grand Prix,jules_bianchi,0.0
-2013,Monaco Grand Prix,maldonado,0.0
-2013,Monaco Grand Prix,massa,0.0
-2013,Monaco Grand Prix,perez,0.0
-2013,Monaco Grand Prix,pic,0.0
-2013,Monaco Grand Prix,ricciardo,0.0
-2013,Italian Grand Prix,vettel,25.0
-2013,Italian Grand Prix,alonso,18.0
-2013,Italian Grand Prix,webber,15.0
-2013,Italian Grand Prix,massa,12.0
-2013,Italian Grand Prix,hulkenberg,10.0
-2013,Italian Grand Prix,rosberg,8.0
-2013,Italian Grand Prix,ricciardo,6.0
-2013,Italian Grand Prix,grosjean,4.0
-2013,Italian Grand Prix,hamilton,2.0
-2013,Italian Grand Prix,button,1.0
-2013,Italian Grand Prix,bottas,0.0
-2013,Italian Grand Prix,chilton,0.0
-2013,Italian Grand Prix,garde,0.0
-2013,Italian Grand Prix,gutierrez,0.0
-2013,Italian Grand Prix,jules_bianchi,0.0
-2013,Italian Grand Prix,maldonado,0.0
-2013,Italian Grand Prix,perez,0.0
-2013,Italian Grand Prix,pic,0.0
-2013,Italian Grand Prix,raikkonen,0.0
-2013,Italian Grand Prix,resta,0.0
-2013,Italian Grand Prix,sutil,0.0
-2013,Italian Grand Prix,vergne,0.0
-2013,British Grand Prix,rosberg,25.0
-2013,British Grand Prix,webber,18.0
-2013,British Grand Prix,alonso,15.0
-2013,British Grand Prix,hamilton,12.0
-2013,British Grand Prix,raikkonen,10.0
-2013,British Grand Prix,massa,8.0
-2013,British Grand Prix,sutil,6.0
-2013,British Grand Prix,ricciardo,4.0
-2013,British Grand Prix,resta,2.0
-2013,British Grand Prix,hulkenberg,1.0
-2013,British Grand Prix,bottas,0.0
-2013,British Grand Prix,button,0.0
-2013,British Grand Prix,chilton,0.0
-2013,British Grand Prix,garde,0.0
-2013,British Grand Prix,grosjean,0.0
-2013,British Grand Prix,gutierrez,0.0
-2013,British Grand Prix,jules_bianchi,0.0
-2013,British Grand Prix,maldonado,0.0
-2013,British Grand Prix,perez,0.0
-2013,British Grand Prix,pic,0.0
-2013,British Grand Prix,vergne,0.0
-2013,British Grand Prix,vettel,0.0
-2013,Belgian Grand Prix,vettel,25.0
-2013,Belgian Grand Prix,alonso,18.0
-2013,Belgian Grand Prix,hamilton,15.0
-2013,Belgian Grand Prix,rosberg,12.0
-2013,Belgian Grand Prix,webber,10.0
-2013,Belgian Grand Prix,button,8.0
-2013,Belgian Grand Prix,massa,6.0
-2013,Belgian Grand Prix,grosjean,4.0
-2013,Belgian Grand Prix,sutil,2.0
-2013,Belgian Grand Prix,ricciardo,1.0
-2013,Belgian Grand Prix,bottas,0.0
-2013,Belgian Grand Prix,chilton,0.0
-2013,Belgian Grand Prix,garde,0.0
-2013,Belgian Grand Prix,gutierrez,0.0
-2013,Belgian Grand Prix,hulkenberg,0.0
-2013,Belgian Grand Prix,jules_bianchi,0.0
-2013,Belgian Grand Prix,maldonado,0.0
-2013,Belgian Grand Prix,perez,0.0
-2013,Belgian Grand Prix,pic,0.0
-2013,Belgian Grand Prix,raikkonen,0.0
-2013,Belgian Grand Prix,resta,0.0
-2013,Belgian Grand Prix,vergne,0.0
-2014,Monaco Grand Prix,rosberg,25.0
-2014,Monaco Grand Prix,hamilton,18.0
-2014,Monaco Grand Prix,ricciardo,15.0
-2014,Monaco Grand Prix,alonso,12.0
-2014,Monaco Grand Prix,hulkenberg,10.0
-2014,Monaco Grand Prix,button,8.0
-2014,Monaco Grand Prix,massa,6.0
-2014,Monaco Grand Prix,grosjean,4.0
-2014,Monaco Grand Prix,jules_bianchi,2.0
-2014,Monaco Grand Prix,kevin_magnussen,1.0
-2014,Monaco Grand Prix,bottas,0.0
-2014,Monaco Grand Prix,chilton,0.0
-2014,Monaco Grand Prix,ericsson,0.0
-2014,Monaco Grand Prix,gutierrez,0.0
-2014,Monaco Grand Prix,kobayashi,0.0
-2014,Monaco Grand Prix,kvyat,0.0
-2014,Monaco Grand Prix,maldonado,0.0
-2014,Monaco Grand Prix,perez,0.0
-2014,Monaco Grand Prix,raikkonen,0.0
-2014,Monaco Grand Prix,sutil,0.0
-2014,Monaco Grand Prix,vergne,0.0
-2014,Monaco Grand Prix,vettel,0.0
-2014,Italian Grand Prix,hamilton,25.0
-2014,Italian Grand Prix,rosberg,18.0
-2014,Italian Grand Prix,massa,15.0
-2014,Italian Grand Prix,bottas,12.0
-2014,Italian Grand Prix,ricciardo,10.0
-2014,Italian Grand Prix,vettel,8.0
-2014,Italian Grand Prix,perez,6.0
-2014,Italian Grand Prix,button,4.0
-2014,Italian Grand Prix,raikkonen,2.0
-2014,Italian Grand Prix,kevin_magnussen,1.0
-2014,Italian Grand Prix,alonso,0.0
-2014,Italian Grand Prix,chilton,0.0
-2014,Italian Grand Prix,ericsson,0.0
-2014,Italian Grand Prix,grosjean,0.0
-2014,Italian Grand Prix,gutierrez,0.0
-2014,Italian Grand Prix,hulkenberg,0.0
-2014,Italian Grand Prix,jules_bianchi,0.0
-2014,Italian Grand Prix,kobayashi,0.0
-2014,Italian Grand Prix,kvyat,0.0
-2014,Italian Grand Prix,maldonado,0.0
-2014,Italian Grand Prix,sutil,0.0
-2014,Italian Grand Prix,vergne,0.0
-2014,British Grand Prix,hamilton,25.0
-2014,British Grand Prix,bottas,18.0
-2014,British Grand Prix,ricciardo,15.0
-2014,British Grand Prix,button,12.0
-2014,British Grand Prix,vettel,10.0
-2014,British Grand Prix,alonso,8.0
-2014,British Grand Prix,kevin_magnussen,6.0
-2014,British Grand Prix,hulkenberg,4.0
-2014,British Grand Prix,kvyat,2.0
-2014,British Grand Prix,vergne,1.0
-2014,British Grand Prix,chilton,0.0
-2014,British Grand Prix,ericsson,0.0
-2014,British Grand Prix,grosjean,0.0
-2014,British Grand Prix,gutierrez,0.0
-2014,British Grand Prix,jules_bianchi,0.0
-2014,British Grand Prix,kobayashi,0.0
-2014,British Grand Prix,maldonado,0.0
-2014,British Grand Prix,massa,0.0
-2014,British Grand Prix,perez,0.0
-2014,British Grand Prix,raikkonen,0.0
-2014,British Grand Prix,rosberg,0.0
-2014,British Grand Prix,sutil,0.0
-2014,Belgian Grand Prix,ricciardo,25.0
-2014,Belgian Grand Prix,rosberg,18.0
-2014,Belgian Grand Prix,bottas,15.0
-2014,Belgian Grand Prix,raikkonen,12.0
-2014,Belgian Grand Prix,vettel,10.0
-2014,Belgian Grand Prix,button,8.0
-2014,Belgian Grand Prix,alonso,6.0
-2014,Belgian Grand Prix,perez,4.0
-2014,Belgian Grand Prix,kvyat,2.0
-2014,Belgian Grand Prix,hulkenberg,1.0
-2014,Belgian Grand Prix,chilton,0.0
-2014,Belgian Grand Prix,ericsson,0.0
-2014,Belgian Grand Prix,grosjean,0.0
-2014,Belgian Grand Prix,gutierrez,0.0
-2014,Belgian Grand Prix,hamilton,0.0
-2014,Belgian Grand Prix,jules_bianchi,0.0
-2014,Belgian Grand Prix,kevin_magnussen,0.0
-2014,Belgian Grand Prix,lotterer,0.0
-2014,Belgian Grand Prix,maldonado,0.0
-2014,Belgian Grand Prix,massa,0.0
-2014,Belgian Grand Prix,sutil,0.0
-2014,Belgian Grand Prix,vergne,0.0
-2015,Monaco Grand Prix,rosberg,25.0
-2015,Monaco Grand Prix,vettel,18.0
-2015,Monaco Grand Prix,hamilton,15.0
-2015,Monaco Grand Prix,kvyat,12.0
-2015,Monaco Grand Prix,ricciardo,10.0
-2015,Monaco Grand Prix,raikkonen,8.0
-2015,Monaco Grand Prix,perez,6.0
-2015,Monaco Grand Prix,button,4.0
-2015,Monaco Grand Prix,nasr,2.0
-2015,Monaco Grand Prix,sainz,1.0
-2015,Monaco Grand Prix,alonso,0.0
-2015,Monaco Grand Prix,bottas,0.0
-2015,Monaco Grand Prix,ericsson,0.0
-2015,Monaco Grand Prix,grosjean,0.0
-2015,Monaco Grand Prix,hulkenberg,0.0
-2015,Monaco Grand Prix,maldonado,0.0
-2015,Monaco Grand Prix,massa,0.0
-2015,Monaco Grand Prix,max_verstappen,0.0
-2015,Monaco Grand Prix,merhi,0.0
-2015,Monaco Grand Prix,stevens,0.0
-2015,Italian Grand Prix,hamilton,25.0
-2015,Italian Grand Prix,vettel,18.0
-2015,Italian Grand Prix,massa,15.0
-2015,Italian Grand Prix,bottas,12.0
-2015,Italian Grand Prix,raikkonen,10.0
-2015,Italian Grand Prix,perez,8.0
-2015,Italian Grand Prix,hulkenberg,6.0
-2015,Italian Grand Prix,ricciardo,4.0
-2015,Italian Grand Prix,ericsson,2.0
-2015,Italian Grand Prix,kvyat,1.0
-2015,Italian Grand Prix,alonso,0.0
-2015,Italian Grand Prix,button,0.0
-2015,Italian Grand Prix,grosjean,0.0
-2015,Italian Grand Prix,maldonado,0.0
-2015,Italian Grand Prix,max_verstappen,0.0
-2015,Italian Grand Prix,merhi,0.0
-2015,Italian Grand Prix,nasr,0.0
-2015,Italian Grand Prix,rosberg,0.0
-2015,Italian Grand Prix,sainz,0.0
-2015,Italian Grand Prix,stevens,0.0
-2015,British Grand Prix,hamilton,25.0
-2015,British Grand Prix,rosberg,18.0
-2015,British Grand Prix,vettel,15.0
-2015,British Grand Prix,massa,12.0
-2015,British Grand Prix,bottas,10.0
-2015,British Grand Prix,kvyat,8.0
-2015,British Grand Prix,hulkenberg,6.0
-2015,British Grand Prix,raikkonen,4.0
-2015,British Grand Prix,perez,2.0
-2015,British Grand Prix,alonso,1.0
-2015,British Grand Prix,button,0.0
-2015,British Grand Prix,ericsson,0.0
-2015,British Grand Prix,grosjean,0.0
-2015,British Grand Prix,maldonado,0.0
-2015,British Grand Prix,max_verstappen,0.0
-2015,British Grand Prix,merhi,0.0
-2015,British Grand Prix,nasr,0.0
-2015,British Grand Prix,ricciardo,0.0
-2015,British Grand Prix,sainz,0.0
-2015,British Grand Prix,stevens,0.0
-2015,Belgian Grand Prix,hamilton,25.0
-2015,Belgian Grand Prix,rosberg,18.0
-2015,Belgian Grand Prix,grosjean,15.0
-2015,Belgian Grand Prix,kvyat,12.0
-2015,Belgian Grand Prix,perez,10.0
-2015,Belgian Grand Prix,massa,8.0
-2015,Belgian Grand Prix,raikkonen,6.0
-2015,Belgian Grand Prix,max_verstappen,4.0
-2015,Belgian Grand Prix,bottas,2.0
-2015,Belgian Grand Prix,ericsson,1.0
-2015,Belgian Grand Prix,alonso,0.0
-2015,Belgian Grand Prix,button,0.0
-2015,Belgian Grand Prix,hulkenberg,0.0
-2015,Belgian Grand Prix,maldonado,0.0
-2015,Belgian Grand Prix,merhi,0.0
-2015,Belgian Grand Prix,nasr,0.0
-2015,Belgian Grand Prix,ricciardo,0.0
-2015,Belgian Grand Prix,sainz,0.0
-2015,Belgian Grand Prix,stevens,0.0
-2015,Belgian Grand Prix,vettel,0.0
-2016,Monaco Grand Prix,hamilton,25.0
-2016,Monaco Grand Prix,ricciardo,18.0
-2016,Monaco Grand Prix,perez,15.0
-2016,Monaco Grand Prix,vettel,12.0
-2016,Monaco Grand Prix,alonso,10.0
-2016,Monaco Grand Prix,hulkenberg,8.0
-2016,Monaco Grand Prix,rosberg,6.0
-2016,Monaco Grand Prix,sainz,4.0
-2016,Monaco Grand Prix,button,2.0
-2016,Monaco Grand Prix,massa,1.0
-2016,Monaco Grand Prix,bottas,0.0
-2016,Monaco Grand Prix,ericsson,0.0
-2016,Monaco Grand Prix,grosjean,0.0
-2016,Monaco Grand Prix,gutierrez,0.0
-2016,Monaco Grand Prix,haryanto,0.0
-2016,Monaco Grand Prix,jolyon_palmer,0.0
-2016,Monaco Grand Prix,kevin_magnussen,0.0
-2016,Monaco Grand Prix,kvyat,0.0
-2016,Monaco Grand Prix,max_verstappen,0.0
-2016,Monaco Grand Prix,nasr,0.0
-2016,Monaco Grand Prix,raikkonen,0.0
-2016,Monaco Grand Prix,wehrlein,0.0
-2016,Italian Grand Prix,rosberg,25.0
-2016,Italian Grand Prix,hamilton,18.0
-2016,Italian Grand Prix,vettel,15.0
-2016,Italian Grand Prix,raikkonen,12.0
-2016,Italian Grand Prix,ricciardo,10.0
-2016,Italian Grand Prix,bottas,8.0
-2016,Italian Grand Prix,max_verstappen,6.0
-2016,Italian Grand Prix,perez,4.0
-2016,Italian Grand Prix,massa,2.0
-2016,Italian Grand Prix,hulkenberg,1.0
-2016,Italian Grand Prix,alonso,0.0
-2016,Italian Grand Prix,button,0.0
-2016,Italian Grand Prix,ericsson,0.0
-2016,Italian Grand Prix,grosjean,0.0
-2016,Italian Grand Prix,gutierrez,0.0
-2016,Italian Grand Prix,jolyon_palmer,0.0
-2016,Italian Grand Prix,kevin_magnussen,0.0
-2016,Italian Grand Prix,kvyat,0.0
-2016,Italian Grand Prix,nasr,0.0
-2016,Italian Grand Prix,ocon,0.0
-2016,Italian Grand Prix,sainz,0.0
-2016,Italian Grand Prix,wehrlein,0.0
-2016,British Grand Prix,hamilton,25.0
-2016,British Grand Prix,max_verstappen,18.0
-2016,British Grand Prix,rosberg,15.0
-2016,British Grand Prix,ricciardo,12.0
-2016,British Grand Prix,raikkonen,10.0
-2016,British Grand Prix,perez,8.0
-2016,British Grand Prix,hulkenberg,6.0
-2016,British Grand Prix,sainz,4.0
-2016,British Grand Prix,vettel,2.0
-2016,British Grand Prix,kvyat,1.0
-2016,British Grand Prix,alonso,0.0
-2016,British Grand Prix,bottas,0.0
-2016,British Grand Prix,button,0.0
-2016,British Grand Prix,ericsson,0.0
-2016,British Grand Prix,grosjean,0.0
-2016,British Grand Prix,gutierrez,0.0
-2016,British Grand Prix,haryanto,0.0
-2016,British Grand Prix,jolyon_palmer,0.0
-2016,British Grand Prix,kevin_magnussen,0.0
-2016,British Grand Prix,massa,0.0
-2016,British Grand Prix,nasr,0.0
-2016,British Grand Prix,wehrlein,0.0
-2016,Belgian Grand Prix,rosberg,25.0
-2016,Belgian Grand Prix,ricciardo,18.0
-2016,Belgian Grand Prix,hamilton,15.0
-2016,Belgian Grand Prix,hulkenberg,12.0
-2016,Belgian Grand Prix,perez,10.0
-2016,Belgian Grand Prix,vettel,8.0
-2016,Belgian Grand Prix,alonso,6.0
-2016,Belgian Grand Prix,bottas,4.0
-2016,Belgian Grand Prix,raikkonen,2.0
-2016,Belgian Grand Prix,massa,1.0
-2016,Belgian Grand Prix,button,0.0
-2016,Belgian Grand Prix,ericsson,0.0
-2016,Belgian Grand Prix,grosjean,0.0
-2016,Belgian Grand Prix,gutierrez,0.0
-2016,Belgian Grand Prix,jolyon_palmer,0.0
-2016,Belgian Grand Prix,kevin_magnussen,0.0
-2016,Belgian Grand Prix,kvyat,0.0
-2016,Belgian Grand Prix,max_verstappen,0.0
-2016,Belgian Grand Prix,nasr,0.0
-2016,Belgian Grand Prix,ocon,0.0
-2016,Belgian Grand Prix,sainz,0.0
-2016,Belgian Grand Prix,wehrlein,0.0
-2017,Monaco Grand Prix,vettel,25.0
-2017,Monaco Grand Prix,raikkonen,18.0
-2017,Monaco Grand Prix,ricciardo,15.0
-2017,Monaco Grand Prix,bottas,12.0
-2017,Monaco Grand Prix,max_verstappen,10.0
-2017,Monaco Grand Prix,sainz,8.0
-2017,Monaco Grand Prix,hamilton,6.0
-2017,Monaco Grand Prix,grosjean,4.0
-2017,Monaco Grand Prix,massa,2.0
-2017,Monaco Grand Prix,kevin_magnussen,1.0
-2017,Monaco Grand Prix,button,0.0
-2017,Monaco Grand Prix,ericsson,0.0
-2017,Monaco Grand Prix,hulkenberg,0.0
-2017,Monaco Grand Prix,jolyon_palmer,0.0
-2017,Monaco Grand Prix,kvyat,0.0
-2017,Monaco Grand Prix,ocon,0.0
-2017,Monaco Grand Prix,perez,0.0
-2017,Monaco Grand Prix,stroll,0.0
-2017,Monaco Grand Prix,vandoorne,0.0
-2017,Monaco Grand Prix,wehrlein,0.0
-2017,Italian Grand Prix,hamilton,25.0
-2017,Italian Grand Prix,bottas,18.0
-2017,Italian Grand Prix,vettel,15.0
-2017,Italian Grand Prix,ricciardo,12.0
-2017,Italian Grand Prix,raikkonen,10.0
-2017,Italian Grand Prix,ocon,8.0
-2017,Italian Grand Prix,stroll,6.0
-2017,Italian Grand Prix,massa,4.0
-2017,Italian Grand Prix,perez,2.0
-2017,Italian Grand Prix,max_verstappen,1.0
-2017,Italian Grand Prix,alonso,0.0
-2017,Italian Grand Prix,ericsson,0.0
-2017,Italian Grand Prix,grosjean,0.0
-2017,Italian Grand Prix,hulkenberg,0.0
-2017,Italian Grand Prix,jolyon_palmer,0.0
-2017,Italian Grand Prix,kevin_magnussen,0.0
-2017,Italian Grand Prix,kvyat,0.0
-2017,Italian Grand Prix,sainz,0.0
-2017,Italian Grand Prix,vandoorne,0.0
-2017,Italian Grand Prix,wehrlein,0.0
-2017,British Grand Prix,hamilton,25.0
-2017,British Grand Prix,bottas,18.0
-2017,British Grand Prix,raikkonen,15.0
-2017,British Grand Prix,max_verstappen,12.0
-2017,British Grand Prix,ricciardo,10.0
-2017,British Grand Prix,hulkenberg,8.0
-2017,British Grand Prix,vettel,6.0
-2017,British Grand Prix,ocon,4.0
-2017,British Grand Prix,perez,2.0
-2017,British Grand Prix,massa,1.0
-2017,British Grand Prix,alonso,0.0
-2017,British Grand Prix,ericsson,0.0
-2017,British Grand Prix,grosjean,0.0
-2017,British Grand Prix,jolyon_palmer,0.0
-2017,British Grand Prix,kevin_magnussen,0.0
-2017,British Grand Prix,kvyat,0.0
-2017,British Grand Prix,sainz,0.0
-2017,British Grand Prix,stroll,0.0
-2017,British Grand Prix,vandoorne,0.0
-2017,British Grand Prix,wehrlein,0.0
-2017,Belgian Grand Prix,hamilton,25.0
-2017,Belgian Grand Prix,vettel,18.0
-2017,Belgian Grand Prix,ricciardo,15.0
-2017,Belgian Grand Prix,raikkonen,12.0
-2017,Belgian Grand Prix,bottas,10.0
-2017,Belgian Grand Prix,hulkenberg,8.0
-2017,Belgian Grand Prix,grosjean,6.0
-2017,Belgian Grand Prix,massa,4.0
-2017,Belgian Grand Prix,ocon,2.0
-2017,Belgian Grand Prix,sainz,1.0
-2017,Belgian Grand Prix,alonso,0.0
-2017,Belgian Grand Prix,ericsson,0.0
-2017,Belgian Grand Prix,jolyon_palmer,0.0
-2017,Belgian Grand Prix,kevin_magnussen,0.0
-2017,Belgian Grand Prix,kvyat,0.0
-2017,Belgian Grand Prix,max_verstappen,0.0
-2017,Belgian Grand Prix,perez,0.0
-2017,Belgian Grand Prix,stroll,0.0
-2017,Belgian Grand Prix,vandoorne,0.0
-2017,Belgian Grand Prix,wehrlein,0.0
-2018,Monaco Grand Prix,ricciardo,25.0
-2018,Monaco Grand Prix,vettel,18.0
-2018,Monaco Grand Prix,hamilton,15.0
-2018,Monaco Grand Prix,raikkonen,12.0
-2018,Monaco Grand Prix,bottas,10.0
-2018,Monaco Grand Prix,ocon,8.0
-2018,Monaco Grand Prix,gasly,6.0
-2018,Monaco Grand Prix,hulkenberg,4.0
-2018,Monaco Grand Prix,max_verstappen,2.0
-2018,Monaco Grand Prix,sainz,1.0
-2018,Monaco Grand Prix,alonso,0.0
-2018,Monaco Grand Prix,brendon_hartley,0.0
-2018,Monaco Grand Prix,ericsson,0.0
-2018,Monaco Grand Prix,grosjean,0.0
-2018,Monaco Grand Prix,kevin_magnussen,0.0
-2018,Monaco Grand Prix,leclerc,0.0
-2018,Monaco Grand Prix,perez,0.0
-2018,Monaco Grand Prix,sirotkin,0.0
-2018,Monaco Grand Prix,stroll,0.0
-2018,Monaco Grand Prix,vandoorne,0.0
-2018,Italian Grand Prix,hamilton,25.0
-2018,Italian Grand Prix,raikkonen,18.0
-2018,Italian Grand Prix,bottas,15.0
-2018,Italian Grand Prix,vettel,12.0
-2018,Italian Grand Prix,max_verstappen,10.0
-2018,Italian Grand Prix,ocon,8.0
-2018,Italian Grand Prix,perez,6.0
-2018,Italian Grand Prix,sainz,4.0
-2018,Italian Grand Prix,stroll,2.0
-2018,Italian Grand Prix,sirotkin,1.0
-2018,Italian Grand Prix,alonso,0.0
-2018,Italian Grand Prix,brendon_hartley,0.0
-2018,Italian Grand Prix,ericsson,0.0
-2018,Italian Grand Prix,gasly,0.0
-2018,Italian Grand Prix,grosjean,0.0
-2018,Italian Grand Prix,hulkenberg,0.0
-2018,Italian Grand Prix,kevin_magnussen,0.0
-2018,Italian Grand Prix,leclerc,0.0
-2018,Italian Grand Prix,ricciardo,0.0
-2018,Italian Grand Prix,vandoorne,0.0
-2018,British Grand Prix,vettel,25.0
-2018,British Grand Prix,hamilton,18.0
-2018,British Grand Prix,raikkonen,15.0
-2018,British Grand Prix,bottas,12.0
-2018,British Grand Prix,ricciardo,10.0
-2018,British Grand Prix,hulkenberg,8.0
-2018,British Grand Prix,ocon,6.0
-2018,British Grand Prix,alonso,4.0
-2018,British Grand Prix,kevin_magnussen,2.0
-2018,British Grand Prix,perez,1.0
-2018,British Grand Prix,brendon_hartley,0.0
-2018,British Grand Prix,ericsson,0.0
-2018,British Grand Prix,gasly,0.0
-2018,British Grand Prix,grosjean,0.0
-2018,British Grand Prix,leclerc,0.0
-2018,British Grand Prix,max_verstappen,0.0
-2018,British Grand Prix,sainz,0.0
-2018,British Grand Prix,sirotkin,0.0
-2018,British Grand Prix,stroll,0.0
-2018,British Grand Prix,vandoorne,0.0
-2018,Belgian Grand Prix,vettel,25.0
-2018,Belgian Grand Prix,hamilton,18.0
-2018,Belgian Grand Prix,max_verstappen,15.0
-2018,Belgian Grand Prix,bottas,12.0
-2018,Belgian Grand Prix,perez,10.0
-2018,Belgian Grand Prix,ocon,8.0
-2018,Belgian Grand Prix,grosjean,6.0
-2018,Belgian Grand Prix,kevin_magnussen,4.0
-2018,Belgian Grand Prix,gasly,2.0
-2018,Belgian Grand Prix,ericsson,1.0
-2018,Belgian Grand Prix,alonso,0.0
-2018,Belgian Grand Prix,brendon_hartley,0.0
-2018,Belgian Grand Prix,hulkenberg,0.0
-2018,Belgian Grand Prix,leclerc,0.0
-2018,Belgian Grand Prix,raikkonen,0.0
-2018,Belgian Grand Prix,ricciardo,0.0
-2018,Belgian Grand Prix,sainz,0.0
-2018,Belgian Grand Prix,sirotkin,0.0
-2018,Belgian Grand Prix,stroll,0.0
-2018,Belgian Grand Prix,vandoorne,0.0
+year,name,driver_name,points,era
+2010,Monaco Grand Prix,webber,25.0,2010 - 2018
+2010,Monaco Grand Prix,vettel,18.0,2010 - 2018
+2010,Monaco Grand Prix,kubica,15.0,2010 - 2018
+2010,Monaco Grand Prix,massa,12.0,2010 - 2018
+2010,Monaco Grand Prix,hamilton,10.0,2010 - 2018
+2010,Monaco Grand Prix,alonso,8.0,2010 - 2018
+2010,Monaco Grand Prix,rosberg,6.0,2010 - 2018
+2010,Monaco Grand Prix,sutil,4.0,2010 - 2018
+2010,Monaco Grand Prix,liuzzi,2.0,2010 - 2018
+2010,Monaco Grand Prix,buemi,1.0,2010 - 2018
+2010,Monaco Grand Prix,alguersuari,0.0,2010 - 2018
+2010,Monaco Grand Prix,barrichello,0.0,2010 - 2018
+2010,Monaco Grand Prix,bruno_senna,0.0,2010 - 2018
+2010,Monaco Grand Prix,button,0.0,2010 - 2018
+2010,Monaco Grand Prix,chandhok,0.0,2010 - 2018
+2010,Monaco Grand Prix,glock,0.0,2010 - 2018
+2010,Monaco Grand Prix,grassi,0.0,2010 - 2018
+2010,Monaco Grand Prix,hulkenberg,0.0,2010 - 2018
+2010,Monaco Grand Prix,kobayashi,0.0,2010 - 2018
+2010,Monaco Grand Prix,kovalainen,0.0,2010 - 2018
+2010,Monaco Grand Prix,michael_schumacher,0.0,2010 - 2018
+2010,Monaco Grand Prix,petrov,0.0,2010 - 2018
+2010,Monaco Grand Prix,rosa,0.0,2010 - 2018
+2010,Monaco Grand Prix,trulli,0.0,2010 - 2018
+2010,Italian Grand Prix,alonso,25.0,2010 - 2018
+2010,Italian Grand Prix,button,18.0,2010 - 2018
+2010,Italian Grand Prix,massa,15.0,2010 - 2018
+2010,Italian Grand Prix,vettel,12.0,2010 - 2018
+2010,Italian Grand Prix,rosberg,10.0,2010 - 2018
+2010,Italian Grand Prix,webber,8.0,2010 - 2018
+2010,Italian Grand Prix,hulkenberg,6.0,2010 - 2018
+2010,Italian Grand Prix,kubica,4.0,2010 - 2018
+2010,Italian Grand Prix,michael_schumacher,2.0,2010 - 2018
+2010,Italian Grand Prix,barrichello,1.0,2010 - 2018
+2010,Italian Grand Prix,alguersuari,0.0,2010 - 2018
+2010,Italian Grand Prix,bruno_senna,0.0,2010 - 2018
+2010,Italian Grand Prix,buemi,0.0,2010 - 2018
+2010,Italian Grand Prix,glock,0.0,2010 - 2018
+2010,Italian Grand Prix,grassi,0.0,2010 - 2018
+2010,Italian Grand Prix,hamilton,0.0,2010 - 2018
+2010,Italian Grand Prix,kobayashi,0.0,2010 - 2018
+2010,Italian Grand Prix,kovalainen,0.0,2010 - 2018
+2010,Italian Grand Prix,liuzzi,0.0,2010 - 2018
+2010,Italian Grand Prix,petrov,0.0,2010 - 2018
+2010,Italian Grand Prix,rosa,0.0,2010 - 2018
+2010,Italian Grand Prix,sutil,0.0,2010 - 2018
+2010,Italian Grand Prix,trulli,0.0,2010 - 2018
+2010,Italian Grand Prix,yamamoto,0.0,2010 - 2018
+2010,British Grand Prix,webber,25.0,2010 - 2018
+2010,British Grand Prix,hamilton,18.0,2010 - 2018
+2010,British Grand Prix,rosberg,15.0,2010 - 2018
+2010,British Grand Prix,button,12.0,2010 - 2018
+2010,British Grand Prix,barrichello,10.0,2010 - 2018
+2010,British Grand Prix,kobayashi,8.0,2010 - 2018
+2010,British Grand Prix,vettel,6.0,2010 - 2018
+2010,British Grand Prix,sutil,4.0,2010 - 2018
+2010,British Grand Prix,michael_schumacher,2.0,2010 - 2018
+2010,British Grand Prix,hulkenberg,1.0,2010 - 2018
+2010,British Grand Prix,alguersuari,0.0,2010 - 2018
+2010,British Grand Prix,alonso,0.0,2010 - 2018
+2010,British Grand Prix,buemi,0.0,2010 - 2018
+2010,British Grand Prix,chandhok,0.0,2010 - 2018
+2010,British Grand Prix,glock,0.0,2010 - 2018
+2010,British Grand Prix,grassi,0.0,2010 - 2018
+2010,British Grand Prix,kovalainen,0.0,2010 - 2018
+2010,British Grand Prix,kubica,0.0,2010 - 2018
+2010,British Grand Prix,liuzzi,0.0,2010 - 2018
+2010,British Grand Prix,massa,0.0,2010 - 2018
+2010,British Grand Prix,petrov,0.0,2010 - 2018
+2010,British Grand Prix,rosa,0.0,2010 - 2018
+2010,British Grand Prix,trulli,0.0,2010 - 2018
+2010,British Grand Prix,yamamoto,0.0,2010 - 2018
+2010,Belgian Grand Prix,hamilton,25.0,2010 - 2018
+2010,Belgian Grand Prix,webber,18.0,2010 - 2018
+2010,Belgian Grand Prix,kubica,15.0,2010 - 2018
+2010,Belgian Grand Prix,massa,12.0,2010 - 2018
+2010,Belgian Grand Prix,sutil,10.0,2010 - 2018
+2010,Belgian Grand Prix,rosberg,8.0,2010 - 2018
+2010,Belgian Grand Prix,michael_schumacher,6.0,2010 - 2018
+2010,Belgian Grand Prix,kobayashi,4.0,2010 - 2018
+2010,Belgian Grand Prix,petrov,2.0,2010 - 2018
+2010,Belgian Grand Prix,liuzzi,1.0,2010 - 2018
+2010,Belgian Grand Prix,alguersuari,0.0,2010 - 2018
+2010,Belgian Grand Prix,alonso,0.0,2010 - 2018
+2010,Belgian Grand Prix,barrichello,0.0,2010 - 2018
+2010,Belgian Grand Prix,bruno_senna,0.0,2010 - 2018
+2010,Belgian Grand Prix,buemi,0.0,2010 - 2018
+2010,Belgian Grand Prix,button,0.0,2010 - 2018
+2010,Belgian Grand Prix,glock,0.0,2010 - 2018
+2010,Belgian Grand Prix,grassi,0.0,2010 - 2018
+2010,Belgian Grand Prix,hulkenberg,0.0,2010 - 2018
+2010,Belgian Grand Prix,kovalainen,0.0,2010 - 2018
+2010,Belgian Grand Prix,rosa,0.0,2010 - 2018
+2010,Belgian Grand Prix,trulli,0.0,2010 - 2018
+2010,Belgian Grand Prix,vettel,0.0,2010 - 2018
+2010,Belgian Grand Prix,yamamoto,0.0,2010 - 2018
+2011,Monaco Grand Prix,vettel,25.0,2010 - 2018
+2011,Monaco Grand Prix,alonso,18.0,2010 - 2018
+2011,Monaco Grand Prix,button,15.0,2010 - 2018
+2011,Monaco Grand Prix,webber,12.0,2010 - 2018
+2011,Monaco Grand Prix,kobayashi,10.0,2010 - 2018
+2011,Monaco Grand Prix,hamilton,8.0,2010 - 2018
+2011,Monaco Grand Prix,sutil,6.0,2010 - 2018
+2011,Monaco Grand Prix,heidfeld,4.0,2010 - 2018
+2011,Monaco Grand Prix,barrichello,2.0,2010 - 2018
+2011,Monaco Grand Prix,buemi,1.0,2010 - 2018
+2011,Monaco Grand Prix,alguersuari,0.0,2010 - 2018
+2011,Monaco Grand Prix,ambrosio,0.0,2010 - 2018
+2011,Monaco Grand Prix,glock,0.0,2010 - 2018
+2011,Monaco Grand Prix,karthikeyan,0.0,2010 - 2018
+2011,Monaco Grand Prix,kovalainen,0.0,2010 - 2018
+2011,Monaco Grand Prix,liuzzi,0.0,2010 - 2018
+2011,Monaco Grand Prix,maldonado,0.0,2010 - 2018
+2011,Monaco Grand Prix,massa,0.0,2010 - 2018
+2011,Monaco Grand Prix,michael_schumacher,0.0,2010 - 2018
+2011,Monaco Grand Prix,perez,0.0,2010 - 2018
+2011,Monaco Grand Prix,petrov,0.0,2010 - 2018
+2011,Monaco Grand Prix,resta,0.0,2010 - 2018
+2011,Monaco Grand Prix,rosberg,0.0,2010 - 2018
+2011,Monaco Grand Prix,trulli,0.0,2010 - 2018
+2011,Italian Grand Prix,vettel,25.0,2010 - 2018
+2011,Italian Grand Prix,button,18.0,2010 - 2018
+2011,Italian Grand Prix,alonso,15.0,2010 - 2018
+2011,Italian Grand Prix,hamilton,12.0,2010 - 2018
+2011,Italian Grand Prix,michael_schumacher,10.0,2010 - 2018
+2011,Italian Grand Prix,massa,8.0,2010 - 2018
+2011,Italian Grand Prix,alguersuari,6.0,2010 - 2018
+2011,Italian Grand Prix,resta,4.0,2010 - 2018
+2011,Italian Grand Prix,bruno_senna,2.0,2010 - 2018
+2011,Italian Grand Prix,buemi,1.0,2010 - 2018
+2011,Italian Grand Prix,ambrosio,0.0,2010 - 2018
+2011,Italian Grand Prix,barrichello,0.0,2010 - 2018
+2011,Italian Grand Prix,glock,0.0,2010 - 2018
+2011,Italian Grand Prix,kobayashi,0.0,2010 - 2018
+2011,Italian Grand Prix,kovalainen,0.0,2010 - 2018
+2011,Italian Grand Prix,liuzzi,0.0,2010 - 2018
+2011,Italian Grand Prix,maldonado,0.0,2010 - 2018
+2011,Italian Grand Prix,perez,0.0,2010 - 2018
+2011,Italian Grand Prix,petrov,0.0,2010 - 2018
+2011,Italian Grand Prix,ricciardo,0.0,2010 - 2018
+2011,Italian Grand Prix,rosberg,0.0,2010 - 2018
+2011,Italian Grand Prix,sutil,0.0,2010 - 2018
+2011,Italian Grand Prix,trulli,0.0,2010 - 2018
+2011,Italian Grand Prix,webber,0.0,2010 - 2018
+2011,British Grand Prix,alonso,25.0,2010 - 2018
+2011,British Grand Prix,vettel,18.0,2010 - 2018
+2011,British Grand Prix,webber,15.0,2010 - 2018
+2011,British Grand Prix,hamilton,12.0,2010 - 2018
+2011,British Grand Prix,massa,10.0,2010 - 2018
+2011,British Grand Prix,rosberg,8.0,2010 - 2018
+2011,British Grand Prix,perez,6.0,2010 - 2018
+2011,British Grand Prix,heidfeld,4.0,2010 - 2018
+2011,British Grand Prix,michael_schumacher,2.0,2010 - 2018
+2011,British Grand Prix,alguersuari,1.0,2010 - 2018
+2011,British Grand Prix,ambrosio,0.0,2010 - 2018
+2011,British Grand Prix,barrichello,0.0,2010 - 2018
+2011,British Grand Prix,buemi,0.0,2010 - 2018
+2011,British Grand Prix,button,0.0,2010 - 2018
+2011,British Grand Prix,glock,0.0,2010 - 2018
+2011,British Grand Prix,kobayashi,0.0,2010 - 2018
+2011,British Grand Prix,kovalainen,0.0,2010 - 2018
+2011,British Grand Prix,liuzzi,0.0,2010 - 2018
+2011,British Grand Prix,maldonado,0.0,2010 - 2018
+2011,British Grand Prix,petrov,0.0,2010 - 2018
+2011,British Grand Prix,resta,0.0,2010 - 2018
+2011,British Grand Prix,ricciardo,0.0,2010 - 2018
+2011,British Grand Prix,sutil,0.0,2010 - 2018
+2011,British Grand Prix,trulli,0.0,2010 - 2018
+2011,Belgian Grand Prix,vettel,25.0,2010 - 2018
+2011,Belgian Grand Prix,webber,18.0,2010 - 2018
+2011,Belgian Grand Prix,button,15.0,2010 - 2018
+2011,Belgian Grand Prix,alonso,12.0,2010 - 2018
+2011,Belgian Grand Prix,michael_schumacher,10.0,2010 - 2018
+2011,Belgian Grand Prix,rosberg,8.0,2010 - 2018
+2011,Belgian Grand Prix,sutil,6.0,2010 - 2018
+2011,Belgian Grand Prix,massa,4.0,2010 - 2018
+2011,Belgian Grand Prix,petrov,2.0,2010 - 2018
+2011,Belgian Grand Prix,maldonado,1.0,2010 - 2018
+2011,Belgian Grand Prix,alguersuari,0.0,2010 - 2018
+2011,Belgian Grand Prix,ambrosio,0.0,2010 - 2018
+2011,Belgian Grand Prix,barrichello,0.0,2010 - 2018
+2011,Belgian Grand Prix,bruno_senna,0.0,2010 - 2018
+2011,Belgian Grand Prix,buemi,0.0,2010 - 2018
+2011,Belgian Grand Prix,glock,0.0,2010 - 2018
+2011,Belgian Grand Prix,hamilton,0.0,2010 - 2018
+2011,Belgian Grand Prix,kobayashi,0.0,2010 - 2018
+2011,Belgian Grand Prix,kovalainen,0.0,2010 - 2018
+2011,Belgian Grand Prix,liuzzi,0.0,2010 - 2018
+2011,Belgian Grand Prix,perez,0.0,2010 - 2018
+2011,Belgian Grand Prix,resta,0.0,2010 - 2018
+2011,Belgian Grand Prix,ricciardo,0.0,2010 - 2018
+2011,Belgian Grand Prix,trulli,0.0,2010 - 2018
+2012,Monaco Grand Prix,webber,25.0,2010 - 2018
+2012,Monaco Grand Prix,rosberg,18.0,2010 - 2018
+2012,Monaco Grand Prix,alonso,15.0,2010 - 2018
+2012,Monaco Grand Prix,vettel,12.0,2010 - 2018
+2012,Monaco Grand Prix,hamilton,10.0,2010 - 2018
+2012,Monaco Grand Prix,massa,8.0,2010 - 2018
+2012,Monaco Grand Prix,resta,6.0,2010 - 2018
+2012,Monaco Grand Prix,hulkenberg,4.0,2010 - 2018
+2012,Monaco Grand Prix,raikkonen,2.0,2010 - 2018
+2012,Monaco Grand Prix,bruno_senna,1.0,2010 - 2018
+2012,Monaco Grand Prix,button,0.0,2010 - 2018
+2012,Monaco Grand Prix,glock,0.0,2010 - 2018
+2012,Monaco Grand Prix,grosjean,0.0,2010 - 2018
+2012,Monaco Grand Prix,karthikeyan,0.0,2010 - 2018
+2012,Monaco Grand Prix,kobayashi,0.0,2010 - 2018
+2012,Monaco Grand Prix,kovalainen,0.0,2010 - 2018
+2012,Monaco Grand Prix,maldonado,0.0,2010 - 2018
+2012,Monaco Grand Prix,michael_schumacher,0.0,2010 - 2018
+2012,Monaco Grand Prix,perez,0.0,2010 - 2018
+2012,Monaco Grand Prix,petrov,0.0,2010 - 2018
+2012,Monaco Grand Prix,pic,0.0,2010 - 2018
+2012,Monaco Grand Prix,ricciardo,0.0,2010 - 2018
+2012,Monaco Grand Prix,rosa,0.0,2010 - 2018
+2012,Monaco Grand Prix,vergne,0.0,2010 - 2018
+2012,Italian Grand Prix,hamilton,25.0,2010 - 2018
+2012,Italian Grand Prix,perez,18.0,2010 - 2018
+2012,Italian Grand Prix,alonso,15.0,2010 - 2018
+2012,Italian Grand Prix,massa,12.0,2010 - 2018
+2012,Italian Grand Prix,raikkonen,10.0,2010 - 2018
+2012,Italian Grand Prix,michael_schumacher,8.0,2010 - 2018
+2012,Italian Grand Prix,rosberg,6.0,2010 - 2018
+2012,Italian Grand Prix,resta,4.0,2010 - 2018
+2012,Italian Grand Prix,kobayashi,2.0,2010 - 2018
+2012,Italian Grand Prix,bruno_senna,1.0,2010 - 2018
+2012,Italian Grand Prix,ambrosio,0.0,2010 - 2018
+2012,Italian Grand Prix,button,0.0,2010 - 2018
+2012,Italian Grand Prix,glock,0.0,2010 - 2018
+2012,Italian Grand Prix,hulkenberg,0.0,2010 - 2018
+2012,Italian Grand Prix,karthikeyan,0.0,2010 - 2018
+2012,Italian Grand Prix,kovalainen,0.0,2010 - 2018
+2012,Italian Grand Prix,maldonado,0.0,2010 - 2018
+2012,Italian Grand Prix,petrov,0.0,2010 - 2018
+2012,Italian Grand Prix,pic,0.0,2010 - 2018
+2012,Italian Grand Prix,ricciardo,0.0,2010 - 2018
+2012,Italian Grand Prix,rosa,0.0,2010 - 2018
+2012,Italian Grand Prix,vergne,0.0,2010 - 2018
+2012,Italian Grand Prix,vettel,0.0,2010 - 2018
+2012,Italian Grand Prix,webber,0.0,2010 - 2018
+2012,British Grand Prix,webber,25.0,2010 - 2018
+2012,British Grand Prix,alonso,18.0,2010 - 2018
+2012,British Grand Prix,vettel,15.0,2010 - 2018
+2012,British Grand Prix,massa,12.0,2010 - 2018
+2012,British Grand Prix,raikkonen,10.0,2010 - 2018
+2012,British Grand Prix,grosjean,8.0,2010 - 2018
+2012,British Grand Prix,michael_schumacher,6.0,2010 - 2018
+2012,British Grand Prix,hamilton,4.0,2010 - 2018
+2012,British Grand Prix,bruno_senna,2.0,2010 - 2018
+2012,British Grand Prix,button,1.0,2010 - 2018
+2012,British Grand Prix,glock,0.0,2010 - 2018
+2012,British Grand Prix,hulkenberg,0.0,2010 - 2018
+2012,British Grand Prix,karthikeyan,0.0,2010 - 2018
+2012,British Grand Prix,kobayashi,0.0,2010 - 2018
+2012,British Grand Prix,kovalainen,0.0,2010 - 2018
+2012,British Grand Prix,maldonado,0.0,2010 - 2018
+2012,British Grand Prix,perez,0.0,2010 - 2018
+2012,British Grand Prix,petrov,0.0,2010 - 2018
+2012,British Grand Prix,pic,0.0,2010 - 2018
+2012,British Grand Prix,resta,0.0,2010 - 2018
+2012,British Grand Prix,ricciardo,0.0,2010 - 2018
+2012,British Grand Prix,rosa,0.0,2010 - 2018
+2012,British Grand Prix,rosberg,0.0,2010 - 2018
+2012,British Grand Prix,vergne,0.0,2010 - 2018
+2012,Belgian Grand Prix,button,25.0,2010 - 2018
+2012,Belgian Grand Prix,vettel,18.0,2010 - 2018
+2012,Belgian Grand Prix,raikkonen,15.0,2010 - 2018
+2012,Belgian Grand Prix,hulkenberg,12.0,2010 - 2018
+2012,Belgian Grand Prix,massa,10.0,2010 - 2018
+2012,Belgian Grand Prix,webber,8.0,2010 - 2018
+2012,Belgian Grand Prix,michael_schumacher,6.0,2010 - 2018
+2012,Belgian Grand Prix,vergne,4.0,2010 - 2018
+2012,Belgian Grand Prix,ricciardo,2.0,2010 - 2018
+2012,Belgian Grand Prix,resta,1.0,2010 - 2018
+2012,Belgian Grand Prix,alonso,0.0,2010 - 2018
+2012,Belgian Grand Prix,bruno_senna,0.0,2010 - 2018
+2012,Belgian Grand Prix,glock,0.0,2010 - 2018
+2012,Belgian Grand Prix,grosjean,0.0,2010 - 2018
+2012,Belgian Grand Prix,hamilton,0.0,2010 - 2018
+2012,Belgian Grand Prix,karthikeyan,0.0,2010 - 2018
+2012,Belgian Grand Prix,kobayashi,0.0,2010 - 2018
+2012,Belgian Grand Prix,kovalainen,0.0,2010 - 2018
+2012,Belgian Grand Prix,maldonado,0.0,2010 - 2018
+2012,Belgian Grand Prix,perez,0.0,2010 - 2018
+2012,Belgian Grand Prix,petrov,0.0,2010 - 2018
+2012,Belgian Grand Prix,pic,0.0,2010 - 2018
+2012,Belgian Grand Prix,rosa,0.0,2010 - 2018
+2012,Belgian Grand Prix,rosberg,0.0,2010 - 2018
+2013,Monaco Grand Prix,rosberg,25.0,2010 - 2018
+2013,Monaco Grand Prix,vettel,18.0,2010 - 2018
+2013,Monaco Grand Prix,webber,15.0,2010 - 2018
+2013,Monaco Grand Prix,hamilton,12.0,2010 - 2018
+2013,Monaco Grand Prix,sutil,10.0,2010 - 2018
+2013,Monaco Grand Prix,button,8.0,2010 - 2018
+2013,Monaco Grand Prix,alonso,6.0,2010 - 2018
+2013,Monaco Grand Prix,vergne,4.0,2010 - 2018
+2013,Monaco Grand Prix,resta,2.0,2010 - 2018
+2013,Monaco Grand Prix,raikkonen,1.0,2010 - 2018
+2013,Monaco Grand Prix,bottas,0.0,2010 - 2018
+2013,Monaco Grand Prix,chilton,0.0,2010 - 2018
+2013,Monaco Grand Prix,garde,0.0,2010 - 2018
+2013,Monaco Grand Prix,grosjean,0.0,2010 - 2018
+2013,Monaco Grand Prix,gutierrez,0.0,2010 - 2018
+2013,Monaco Grand Prix,hulkenberg,0.0,2010 - 2018
+2013,Monaco Grand Prix,jules_bianchi,0.0,2010 - 2018
+2013,Monaco Grand Prix,maldonado,0.0,2010 - 2018
+2013,Monaco Grand Prix,massa,0.0,2010 - 2018
+2013,Monaco Grand Prix,perez,0.0,2010 - 2018
+2013,Monaco Grand Prix,pic,0.0,2010 - 2018
+2013,Monaco Grand Prix,ricciardo,0.0,2010 - 2018
+2013,Italian Grand Prix,vettel,25.0,2010 - 2018
+2013,Italian Grand Prix,alonso,18.0,2010 - 2018
+2013,Italian Grand Prix,webber,15.0,2010 - 2018
+2013,Italian Grand Prix,massa,12.0,2010 - 2018
+2013,Italian Grand Prix,hulkenberg,10.0,2010 - 2018
+2013,Italian Grand Prix,rosberg,8.0,2010 - 2018
+2013,Italian Grand Prix,ricciardo,6.0,2010 - 2018
+2013,Italian Grand Prix,grosjean,4.0,2010 - 2018
+2013,Italian Grand Prix,hamilton,2.0,2010 - 2018
+2013,Italian Grand Prix,button,1.0,2010 - 2018
+2013,Italian Grand Prix,bottas,0.0,2010 - 2018
+2013,Italian Grand Prix,chilton,0.0,2010 - 2018
+2013,Italian Grand Prix,garde,0.0,2010 - 2018
+2013,Italian Grand Prix,gutierrez,0.0,2010 - 2018
+2013,Italian Grand Prix,jules_bianchi,0.0,2010 - 2018
+2013,Italian Grand Prix,maldonado,0.0,2010 - 2018
+2013,Italian Grand Prix,perez,0.0,2010 - 2018
+2013,Italian Grand Prix,pic,0.0,2010 - 2018
+2013,Italian Grand Prix,raikkonen,0.0,2010 - 2018
+2013,Italian Grand Prix,resta,0.0,2010 - 2018
+2013,Italian Grand Prix,sutil,0.0,2010 - 2018
+2013,Italian Grand Prix,vergne,0.0,2010 - 2018
+2013,British Grand Prix,rosberg,25.0,2010 - 2018
+2013,British Grand Prix,webber,18.0,2010 - 2018
+2013,British Grand Prix,alonso,15.0,2010 - 2018
+2013,British Grand Prix,hamilton,12.0,2010 - 2018
+2013,British Grand Prix,raikkonen,10.0,2010 - 2018
+2013,British Grand Prix,massa,8.0,2010 - 2018
+2013,British Grand Prix,sutil,6.0,2010 - 2018
+2013,British Grand Prix,ricciardo,4.0,2010 - 2018
+2013,British Grand Prix,resta,2.0,2010 - 2018
+2013,British Grand Prix,hulkenberg,1.0,2010 - 2018
+2013,British Grand Prix,bottas,0.0,2010 - 2018
+2013,British Grand Prix,button,0.0,2010 - 2018
+2013,British Grand Prix,chilton,0.0,2010 - 2018
+2013,British Grand Prix,garde,0.0,2010 - 2018
+2013,British Grand Prix,grosjean,0.0,2010 - 2018
+2013,British Grand Prix,gutierrez,0.0,2010 - 2018
+2013,British Grand Prix,jules_bianchi,0.0,2010 - 2018
+2013,British Grand Prix,maldonado,0.0,2010 - 2018
+2013,British Grand Prix,perez,0.0,2010 - 2018
+2013,British Grand Prix,pic,0.0,2010 - 2018
+2013,British Grand Prix,vergne,0.0,2010 - 2018
+2013,British Grand Prix,vettel,0.0,2010 - 2018
+2013,Belgian Grand Prix,vettel,25.0,2010 - 2018
+2013,Belgian Grand Prix,alonso,18.0,2010 - 2018
+2013,Belgian Grand Prix,hamilton,15.0,2010 - 2018
+2013,Belgian Grand Prix,rosberg,12.0,2010 - 2018
+2013,Belgian Grand Prix,webber,10.0,2010 - 2018
+2013,Belgian Grand Prix,button,8.0,2010 - 2018
+2013,Belgian Grand Prix,massa,6.0,2010 - 2018
+2013,Belgian Grand Prix,grosjean,4.0,2010 - 2018
+2013,Belgian Grand Prix,sutil,2.0,2010 - 2018
+2013,Belgian Grand Prix,ricciardo,1.0,2010 - 2018
+2013,Belgian Grand Prix,bottas,0.0,2010 - 2018
+2013,Belgian Grand Prix,chilton,0.0,2010 - 2018
+2013,Belgian Grand Prix,garde,0.0,2010 - 2018
+2013,Belgian Grand Prix,gutierrez,0.0,2010 - 2018
+2013,Belgian Grand Prix,hulkenberg,0.0,2010 - 2018
+2013,Belgian Grand Prix,jules_bianchi,0.0,2010 - 2018
+2013,Belgian Grand Prix,maldonado,0.0,2010 - 2018
+2013,Belgian Grand Prix,perez,0.0,2010 - 2018
+2013,Belgian Grand Prix,pic,0.0,2010 - 2018
+2013,Belgian Grand Prix,raikkonen,0.0,2010 - 2018
+2013,Belgian Grand Prix,resta,0.0,2010 - 2018
+2013,Belgian Grand Prix,vergne,0.0,2010 - 2018
+2014,Monaco Grand Prix,rosberg,25.0,2010 - 2018
+2014,Monaco Grand Prix,hamilton,18.0,2010 - 2018
+2014,Monaco Grand Prix,ricciardo,15.0,2010 - 2018
+2014,Monaco Grand Prix,alonso,12.0,2010 - 2018
+2014,Monaco Grand Prix,hulkenberg,10.0,2010 - 2018
+2014,Monaco Grand Prix,button,8.0,2010 - 2018
+2014,Monaco Grand Prix,massa,6.0,2010 - 2018
+2014,Monaco Grand Prix,grosjean,4.0,2010 - 2018
+2014,Monaco Grand Prix,jules_bianchi,2.0,2010 - 2018
+2014,Monaco Grand Prix,kevin_magnussen,1.0,2010 - 2018
+2014,Monaco Grand Prix,bottas,0.0,2010 - 2018
+2014,Monaco Grand Prix,chilton,0.0,2010 - 2018
+2014,Monaco Grand Prix,ericsson,0.0,2010 - 2018
+2014,Monaco Grand Prix,gutierrez,0.0,2010 - 2018
+2014,Monaco Grand Prix,kobayashi,0.0,2010 - 2018
+2014,Monaco Grand Prix,kvyat,0.0,2010 - 2018
+2014,Monaco Grand Prix,maldonado,0.0,2010 - 2018
+2014,Monaco Grand Prix,perez,0.0,2010 - 2018
+2014,Monaco Grand Prix,raikkonen,0.0,2010 - 2018
+2014,Monaco Grand Prix,sutil,0.0,2010 - 2018
+2014,Monaco Grand Prix,vergne,0.0,2010 - 2018
+2014,Monaco Grand Prix,vettel,0.0,2010 - 2018
+2014,Italian Grand Prix,hamilton,25.0,2010 - 2018
+2014,Italian Grand Prix,rosberg,18.0,2010 - 2018
+2014,Italian Grand Prix,massa,15.0,2010 - 2018
+2014,Italian Grand Prix,bottas,12.0,2010 - 2018
+2014,Italian Grand Prix,ricciardo,10.0,2010 - 2018
+2014,Italian Grand Prix,vettel,8.0,2010 - 2018
+2014,Italian Grand Prix,perez,6.0,2010 - 2018
+2014,Italian Grand Prix,button,4.0,2010 - 2018
+2014,Italian Grand Prix,raikkonen,2.0,2010 - 2018
+2014,Italian Grand Prix,kevin_magnussen,1.0,2010 - 2018
+2014,Italian Grand Prix,alonso,0.0,2010 - 2018
+2014,Italian Grand Prix,chilton,0.0,2010 - 2018
+2014,Italian Grand Prix,ericsson,0.0,2010 - 2018
+2014,Italian Grand Prix,grosjean,0.0,2010 - 2018
+2014,Italian Grand Prix,gutierrez,0.0,2010 - 2018
+2014,Italian Grand Prix,hulkenberg,0.0,2010 - 2018
+2014,Italian Grand Prix,jules_bianchi,0.0,2010 - 2018
+2014,Italian Grand Prix,kobayashi,0.0,2010 - 2018
+2014,Italian Grand Prix,kvyat,0.0,2010 - 2018
+2014,Italian Grand Prix,maldonado,0.0,2010 - 2018
+2014,Italian Grand Prix,sutil,0.0,2010 - 2018
+2014,Italian Grand Prix,vergne,0.0,2010 - 2018
+2014,British Grand Prix,hamilton,25.0,2010 - 2018
+2014,British Grand Prix,bottas,18.0,2010 - 2018
+2014,British Grand Prix,ricciardo,15.0,2010 - 2018
+2014,British Grand Prix,button,12.0,2010 - 2018
+2014,British Grand Prix,vettel,10.0,2010 - 2018
+2014,British Grand Prix,alonso,8.0,2010 - 2018
+2014,British Grand Prix,kevin_magnussen,6.0,2010 - 2018
+2014,British Grand Prix,hulkenberg,4.0,2010 - 2018
+2014,British Grand Prix,kvyat,2.0,2010 - 2018
+2014,British Grand Prix,vergne,1.0,2010 - 2018
+2014,British Grand Prix,chilton,0.0,2010 - 2018
+2014,British Grand Prix,ericsson,0.0,2010 - 2018
+2014,British Grand Prix,grosjean,0.0,2010 - 2018
+2014,British Grand Prix,gutierrez,0.0,2010 - 2018
+2014,British Grand Prix,jules_bianchi,0.0,2010 - 2018
+2014,British Grand Prix,kobayashi,0.0,2010 - 2018
+2014,British Grand Prix,maldonado,0.0,2010 - 2018
+2014,British Grand Prix,massa,0.0,2010 - 2018
+2014,British Grand Prix,perez,0.0,2010 - 2018
+2014,British Grand Prix,raikkonen,0.0,2010 - 2018
+2014,British Grand Prix,rosberg,0.0,2010 - 2018
+2014,British Grand Prix,sutil,0.0,2010 - 2018
+2014,Belgian Grand Prix,ricciardo,25.0,2010 - 2018
+2014,Belgian Grand Prix,rosberg,18.0,2010 - 2018
+2014,Belgian Grand Prix,bottas,15.0,2010 - 2018
+2014,Belgian Grand Prix,raikkonen,12.0,2010 - 2018
+2014,Belgian Grand Prix,vettel,10.0,2010 - 2018
+2014,Belgian Grand Prix,button,8.0,2010 - 2018
+2014,Belgian Grand Prix,alonso,6.0,2010 - 2018
+2014,Belgian Grand Prix,perez,4.0,2010 - 2018
+2014,Belgian Grand Prix,kvyat,2.0,2010 - 2018
+2014,Belgian Grand Prix,hulkenberg,1.0,2010 - 2018
+2014,Belgian Grand Prix,chilton,0.0,2010 - 2018
+2014,Belgian Grand Prix,ericsson,0.0,2010 - 2018
+2014,Belgian Grand Prix,grosjean,0.0,2010 - 2018
+2014,Belgian Grand Prix,gutierrez,0.0,2010 - 2018
+2014,Belgian Grand Prix,hamilton,0.0,2010 - 2018
+2014,Belgian Grand Prix,jules_bianchi,0.0,2010 - 2018
+2014,Belgian Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2014,Belgian Grand Prix,lotterer,0.0,2010 - 2018
+2014,Belgian Grand Prix,maldonado,0.0,2010 - 2018
+2014,Belgian Grand Prix,massa,0.0,2010 - 2018
+2014,Belgian Grand Prix,sutil,0.0,2010 - 2018
+2014,Belgian Grand Prix,vergne,0.0,2010 - 2018
+2015,Monaco Grand Prix,rosberg,25.0,2010 - 2018
+2015,Monaco Grand Prix,vettel,18.0,2010 - 2018
+2015,Monaco Grand Prix,hamilton,15.0,2010 - 2018
+2015,Monaco Grand Prix,kvyat,12.0,2010 - 2018
+2015,Monaco Grand Prix,ricciardo,10.0,2010 - 2018
+2015,Monaco Grand Prix,raikkonen,8.0,2010 - 2018
+2015,Monaco Grand Prix,perez,6.0,2010 - 2018
+2015,Monaco Grand Prix,button,4.0,2010 - 2018
+2015,Monaco Grand Prix,nasr,2.0,2010 - 2018
+2015,Monaco Grand Prix,sainz,1.0,2010 - 2018
+2015,Monaco Grand Prix,alonso,0.0,2010 - 2018
+2015,Monaco Grand Prix,bottas,0.0,2010 - 2018
+2015,Monaco Grand Prix,ericsson,0.0,2010 - 2018
+2015,Monaco Grand Prix,grosjean,0.0,2010 - 2018
+2015,Monaco Grand Prix,hulkenberg,0.0,2010 - 2018
+2015,Monaco Grand Prix,maldonado,0.0,2010 - 2018
+2015,Monaco Grand Prix,massa,0.0,2010 - 2018
+2015,Monaco Grand Prix,max_verstappen,0.0,2010 - 2018
+2015,Monaco Grand Prix,merhi,0.0,2010 - 2018
+2015,Monaco Grand Prix,stevens,0.0,2010 - 2018
+2015,Italian Grand Prix,hamilton,25.0,2010 - 2018
+2015,Italian Grand Prix,vettel,18.0,2010 - 2018
+2015,Italian Grand Prix,massa,15.0,2010 - 2018
+2015,Italian Grand Prix,bottas,12.0,2010 - 2018
+2015,Italian Grand Prix,raikkonen,10.0,2010 - 2018
+2015,Italian Grand Prix,perez,8.0,2010 - 2018
+2015,Italian Grand Prix,hulkenberg,6.0,2010 - 2018
+2015,Italian Grand Prix,ricciardo,4.0,2010 - 2018
+2015,Italian Grand Prix,ericsson,2.0,2010 - 2018
+2015,Italian Grand Prix,kvyat,1.0,2010 - 2018
+2015,Italian Grand Prix,alonso,0.0,2010 - 2018
+2015,Italian Grand Prix,button,0.0,2010 - 2018
+2015,Italian Grand Prix,grosjean,0.0,2010 - 2018
+2015,Italian Grand Prix,maldonado,0.0,2010 - 2018
+2015,Italian Grand Prix,max_verstappen,0.0,2010 - 2018
+2015,Italian Grand Prix,merhi,0.0,2010 - 2018
+2015,Italian Grand Prix,nasr,0.0,2010 - 2018
+2015,Italian Grand Prix,rosberg,0.0,2010 - 2018
+2015,Italian Grand Prix,sainz,0.0,2010 - 2018
+2015,Italian Grand Prix,stevens,0.0,2010 - 2018
+2015,British Grand Prix,hamilton,25.0,2010 - 2018
+2015,British Grand Prix,rosberg,18.0,2010 - 2018
+2015,British Grand Prix,vettel,15.0,2010 - 2018
+2015,British Grand Prix,massa,12.0,2010 - 2018
+2015,British Grand Prix,bottas,10.0,2010 - 2018
+2015,British Grand Prix,kvyat,8.0,2010 - 2018
+2015,British Grand Prix,hulkenberg,6.0,2010 - 2018
+2015,British Grand Prix,raikkonen,4.0,2010 - 2018
+2015,British Grand Prix,perez,2.0,2010 - 2018
+2015,British Grand Prix,alonso,1.0,2010 - 2018
+2015,British Grand Prix,button,0.0,2010 - 2018
+2015,British Grand Prix,ericsson,0.0,2010 - 2018
+2015,British Grand Prix,grosjean,0.0,2010 - 2018
+2015,British Grand Prix,maldonado,0.0,2010 - 2018
+2015,British Grand Prix,max_verstappen,0.0,2010 - 2018
+2015,British Grand Prix,merhi,0.0,2010 - 2018
+2015,British Grand Prix,nasr,0.0,2010 - 2018
+2015,British Grand Prix,ricciardo,0.0,2010 - 2018
+2015,British Grand Prix,sainz,0.0,2010 - 2018
+2015,British Grand Prix,stevens,0.0,2010 - 2018
+2015,Belgian Grand Prix,hamilton,25.0,2010 - 2018
+2015,Belgian Grand Prix,rosberg,18.0,2010 - 2018
+2015,Belgian Grand Prix,grosjean,15.0,2010 - 2018
+2015,Belgian Grand Prix,kvyat,12.0,2010 - 2018
+2015,Belgian Grand Prix,perez,10.0,2010 - 2018
+2015,Belgian Grand Prix,massa,8.0,2010 - 2018
+2015,Belgian Grand Prix,raikkonen,6.0,2010 - 2018
+2015,Belgian Grand Prix,max_verstappen,4.0,2010 - 2018
+2015,Belgian Grand Prix,bottas,2.0,2010 - 2018
+2015,Belgian Grand Prix,ericsson,1.0,2010 - 2018
+2015,Belgian Grand Prix,alonso,0.0,2010 - 2018
+2015,Belgian Grand Prix,button,0.0,2010 - 2018
+2015,Belgian Grand Prix,hulkenberg,0.0,2010 - 2018
+2015,Belgian Grand Prix,maldonado,0.0,2010 - 2018
+2015,Belgian Grand Prix,merhi,0.0,2010 - 2018
+2015,Belgian Grand Prix,nasr,0.0,2010 - 2018
+2015,Belgian Grand Prix,ricciardo,0.0,2010 - 2018
+2015,Belgian Grand Prix,sainz,0.0,2010 - 2018
+2015,Belgian Grand Prix,stevens,0.0,2010 - 2018
+2015,Belgian Grand Prix,vettel,0.0,2010 - 2018
+2016,Monaco Grand Prix,hamilton,25.0,2010 - 2018
+2016,Monaco Grand Prix,ricciardo,18.0,2010 - 2018
+2016,Monaco Grand Prix,perez,15.0,2010 - 2018
+2016,Monaco Grand Prix,vettel,12.0,2010 - 2018
+2016,Monaco Grand Prix,alonso,10.0,2010 - 2018
+2016,Monaco Grand Prix,hulkenberg,8.0,2010 - 2018
+2016,Monaco Grand Prix,rosberg,6.0,2010 - 2018
+2016,Monaco Grand Prix,sainz,4.0,2010 - 2018
+2016,Monaco Grand Prix,button,2.0,2010 - 2018
+2016,Monaco Grand Prix,massa,1.0,2010 - 2018
+2016,Monaco Grand Prix,bottas,0.0,2010 - 2018
+2016,Monaco Grand Prix,ericsson,0.0,2010 - 2018
+2016,Monaco Grand Prix,grosjean,0.0,2010 - 2018
+2016,Monaco Grand Prix,gutierrez,0.0,2010 - 2018
+2016,Monaco Grand Prix,haryanto,0.0,2010 - 2018
+2016,Monaco Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2016,Monaco Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2016,Monaco Grand Prix,kvyat,0.0,2010 - 2018
+2016,Monaco Grand Prix,max_verstappen,0.0,2010 - 2018
+2016,Monaco Grand Prix,nasr,0.0,2010 - 2018
+2016,Monaco Grand Prix,raikkonen,0.0,2010 - 2018
+2016,Monaco Grand Prix,wehrlein,0.0,2010 - 2018
+2016,Italian Grand Prix,rosberg,25.0,2010 - 2018
+2016,Italian Grand Prix,hamilton,18.0,2010 - 2018
+2016,Italian Grand Prix,vettel,15.0,2010 - 2018
+2016,Italian Grand Prix,raikkonen,12.0,2010 - 2018
+2016,Italian Grand Prix,ricciardo,10.0,2010 - 2018
+2016,Italian Grand Prix,bottas,8.0,2010 - 2018
+2016,Italian Grand Prix,max_verstappen,6.0,2010 - 2018
+2016,Italian Grand Prix,perez,4.0,2010 - 2018
+2016,Italian Grand Prix,massa,2.0,2010 - 2018
+2016,Italian Grand Prix,hulkenberg,1.0,2010 - 2018
+2016,Italian Grand Prix,alonso,0.0,2010 - 2018
+2016,Italian Grand Prix,button,0.0,2010 - 2018
+2016,Italian Grand Prix,ericsson,0.0,2010 - 2018
+2016,Italian Grand Prix,grosjean,0.0,2010 - 2018
+2016,Italian Grand Prix,gutierrez,0.0,2010 - 2018
+2016,Italian Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2016,Italian Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2016,Italian Grand Prix,kvyat,0.0,2010 - 2018
+2016,Italian Grand Prix,nasr,0.0,2010 - 2018
+2016,Italian Grand Prix,ocon,0.0,2010 - 2018
+2016,Italian Grand Prix,sainz,0.0,2010 - 2018
+2016,Italian Grand Prix,wehrlein,0.0,2010 - 2018
+2016,British Grand Prix,hamilton,25.0,2010 - 2018
+2016,British Grand Prix,max_verstappen,18.0,2010 - 2018
+2016,British Grand Prix,rosberg,15.0,2010 - 2018
+2016,British Grand Prix,ricciardo,12.0,2010 - 2018
+2016,British Grand Prix,raikkonen,10.0,2010 - 2018
+2016,British Grand Prix,perez,8.0,2010 - 2018
+2016,British Grand Prix,hulkenberg,6.0,2010 - 2018
+2016,British Grand Prix,sainz,4.0,2010 - 2018
+2016,British Grand Prix,vettel,2.0,2010 - 2018
+2016,British Grand Prix,kvyat,1.0,2010 - 2018
+2016,British Grand Prix,alonso,0.0,2010 - 2018
+2016,British Grand Prix,bottas,0.0,2010 - 2018
+2016,British Grand Prix,button,0.0,2010 - 2018
+2016,British Grand Prix,ericsson,0.0,2010 - 2018
+2016,British Grand Prix,grosjean,0.0,2010 - 2018
+2016,British Grand Prix,gutierrez,0.0,2010 - 2018
+2016,British Grand Prix,haryanto,0.0,2010 - 2018
+2016,British Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2016,British Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2016,British Grand Prix,massa,0.0,2010 - 2018
+2016,British Grand Prix,nasr,0.0,2010 - 2018
+2016,British Grand Prix,wehrlein,0.0,2010 - 2018
+2016,Belgian Grand Prix,rosberg,25.0,2010 - 2018
+2016,Belgian Grand Prix,ricciardo,18.0,2010 - 2018
+2016,Belgian Grand Prix,hamilton,15.0,2010 - 2018
+2016,Belgian Grand Prix,hulkenberg,12.0,2010 - 2018
+2016,Belgian Grand Prix,perez,10.0,2010 - 2018
+2016,Belgian Grand Prix,vettel,8.0,2010 - 2018
+2016,Belgian Grand Prix,alonso,6.0,2010 - 2018
+2016,Belgian Grand Prix,bottas,4.0,2010 - 2018
+2016,Belgian Grand Prix,raikkonen,2.0,2010 - 2018
+2016,Belgian Grand Prix,massa,1.0,2010 - 2018
+2016,Belgian Grand Prix,button,0.0,2010 - 2018
+2016,Belgian Grand Prix,ericsson,0.0,2010 - 2018
+2016,Belgian Grand Prix,grosjean,0.0,2010 - 2018
+2016,Belgian Grand Prix,gutierrez,0.0,2010 - 2018
+2016,Belgian Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2016,Belgian Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2016,Belgian Grand Prix,kvyat,0.0,2010 - 2018
+2016,Belgian Grand Prix,max_verstappen,0.0,2010 - 2018
+2016,Belgian Grand Prix,nasr,0.0,2010 - 2018
+2016,Belgian Grand Prix,ocon,0.0,2010 - 2018
+2016,Belgian Grand Prix,sainz,0.0,2010 - 2018
+2016,Belgian Grand Prix,wehrlein,0.0,2010 - 2018
+2017,Monaco Grand Prix,vettel,25.0,2010 - 2018
+2017,Monaco Grand Prix,raikkonen,18.0,2010 - 2018
+2017,Monaco Grand Prix,ricciardo,15.0,2010 - 2018
+2017,Monaco Grand Prix,bottas,12.0,2010 - 2018
+2017,Monaco Grand Prix,max_verstappen,10.0,2010 - 2018
+2017,Monaco Grand Prix,sainz,8.0,2010 - 2018
+2017,Monaco Grand Prix,hamilton,6.0,2010 - 2018
+2017,Monaco Grand Prix,grosjean,4.0,2010 - 2018
+2017,Monaco Grand Prix,massa,2.0,2010 - 2018
+2017,Monaco Grand Prix,kevin_magnussen,1.0,2010 - 2018
+2017,Monaco Grand Prix,button,0.0,2010 - 2018
+2017,Monaco Grand Prix,ericsson,0.0,2010 - 2018
+2017,Monaco Grand Prix,hulkenberg,0.0,2010 - 2018
+2017,Monaco Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2017,Monaco Grand Prix,kvyat,0.0,2010 - 2018
+2017,Monaco Grand Prix,ocon,0.0,2010 - 2018
+2017,Monaco Grand Prix,perez,0.0,2010 - 2018
+2017,Monaco Grand Prix,stroll,0.0,2010 - 2018
+2017,Monaco Grand Prix,vandoorne,0.0,2010 - 2018
+2017,Monaco Grand Prix,wehrlein,0.0,2010 - 2018
+2017,Italian Grand Prix,hamilton,25.0,2010 - 2018
+2017,Italian Grand Prix,bottas,18.0,2010 - 2018
+2017,Italian Grand Prix,vettel,15.0,2010 - 2018
+2017,Italian Grand Prix,ricciardo,12.0,2010 - 2018
+2017,Italian Grand Prix,raikkonen,10.0,2010 - 2018
+2017,Italian Grand Prix,ocon,8.0,2010 - 2018
+2017,Italian Grand Prix,stroll,6.0,2010 - 2018
+2017,Italian Grand Prix,massa,4.0,2010 - 2018
+2017,Italian Grand Prix,perez,2.0,2010 - 2018
+2017,Italian Grand Prix,max_verstappen,1.0,2010 - 2018
+2017,Italian Grand Prix,alonso,0.0,2010 - 2018
+2017,Italian Grand Prix,ericsson,0.0,2010 - 2018
+2017,Italian Grand Prix,grosjean,0.0,2010 - 2018
+2017,Italian Grand Prix,hulkenberg,0.0,2010 - 2018
+2017,Italian Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2017,Italian Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2017,Italian Grand Prix,kvyat,0.0,2010 - 2018
+2017,Italian Grand Prix,sainz,0.0,2010 - 2018
+2017,Italian Grand Prix,vandoorne,0.0,2010 - 2018
+2017,Italian Grand Prix,wehrlein,0.0,2010 - 2018
+2017,British Grand Prix,hamilton,25.0,2010 - 2018
+2017,British Grand Prix,bottas,18.0,2010 - 2018
+2017,British Grand Prix,raikkonen,15.0,2010 - 2018
+2017,British Grand Prix,max_verstappen,12.0,2010 - 2018
+2017,British Grand Prix,ricciardo,10.0,2010 - 2018
+2017,British Grand Prix,hulkenberg,8.0,2010 - 2018
+2017,British Grand Prix,vettel,6.0,2010 - 2018
+2017,British Grand Prix,ocon,4.0,2010 - 2018
+2017,British Grand Prix,perez,2.0,2010 - 2018
+2017,British Grand Prix,massa,1.0,2010 - 2018
+2017,British Grand Prix,alonso,0.0,2010 - 2018
+2017,British Grand Prix,ericsson,0.0,2010 - 2018
+2017,British Grand Prix,grosjean,0.0,2010 - 2018
+2017,British Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2017,British Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2017,British Grand Prix,kvyat,0.0,2010 - 2018
+2017,British Grand Prix,sainz,0.0,2010 - 2018
+2017,British Grand Prix,stroll,0.0,2010 - 2018
+2017,British Grand Prix,vandoorne,0.0,2010 - 2018
+2017,British Grand Prix,wehrlein,0.0,2010 - 2018
+2017,Belgian Grand Prix,hamilton,25.0,2010 - 2018
+2017,Belgian Grand Prix,vettel,18.0,2010 - 2018
+2017,Belgian Grand Prix,ricciardo,15.0,2010 - 2018
+2017,Belgian Grand Prix,raikkonen,12.0,2010 - 2018
+2017,Belgian Grand Prix,bottas,10.0,2010 - 2018
+2017,Belgian Grand Prix,hulkenberg,8.0,2010 - 2018
+2017,Belgian Grand Prix,grosjean,6.0,2010 - 2018
+2017,Belgian Grand Prix,massa,4.0,2010 - 2018
+2017,Belgian Grand Prix,ocon,2.0,2010 - 2018
+2017,Belgian Grand Prix,sainz,1.0,2010 - 2018
+2017,Belgian Grand Prix,alonso,0.0,2010 - 2018
+2017,Belgian Grand Prix,ericsson,0.0,2010 - 2018
+2017,Belgian Grand Prix,jolyon_palmer,0.0,2010 - 2018
+2017,Belgian Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2017,Belgian Grand Prix,kvyat,0.0,2010 - 2018
+2017,Belgian Grand Prix,max_verstappen,0.0,2010 - 2018
+2017,Belgian Grand Prix,perez,0.0,2010 - 2018
+2017,Belgian Grand Prix,stroll,0.0,2010 - 2018
+2017,Belgian Grand Prix,vandoorne,0.0,2010 - 2018
+2017,Belgian Grand Prix,wehrlein,0.0,2010 - 2018
+2018,Monaco Grand Prix,ricciardo,25.0,2010 - 2018
+2018,Monaco Grand Prix,vettel,18.0,2010 - 2018
+2018,Monaco Grand Prix,hamilton,15.0,2010 - 2018
+2018,Monaco Grand Prix,raikkonen,12.0,2010 - 2018
+2018,Monaco Grand Prix,bottas,10.0,2010 - 2018
+2018,Monaco Grand Prix,ocon,8.0,2010 - 2018
+2018,Monaco Grand Prix,gasly,6.0,2010 - 2018
+2018,Monaco Grand Prix,hulkenberg,4.0,2010 - 2018
+2018,Monaco Grand Prix,max_verstappen,2.0,2010 - 2018
+2018,Monaco Grand Prix,sainz,1.0,2010 - 2018
+2018,Monaco Grand Prix,alonso,0.0,2010 - 2018
+2018,Monaco Grand Prix,brendon_hartley,0.0,2010 - 2018
+2018,Monaco Grand Prix,ericsson,0.0,2010 - 2018
+2018,Monaco Grand Prix,grosjean,0.0,2010 - 2018
+2018,Monaco Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2018,Monaco Grand Prix,leclerc,0.0,2010 - 2018
+2018,Monaco Grand Prix,perez,0.0,2010 - 2018
+2018,Monaco Grand Prix,sirotkin,0.0,2010 - 2018
+2018,Monaco Grand Prix,stroll,0.0,2010 - 2018
+2018,Monaco Grand Prix,vandoorne,0.0,2010 - 2018
+2018,Italian Grand Prix,hamilton,25.0,2010 - 2018
+2018,Italian Grand Prix,raikkonen,18.0,2010 - 2018
+2018,Italian Grand Prix,bottas,15.0,2010 - 2018
+2018,Italian Grand Prix,vettel,12.0,2010 - 2018
+2018,Italian Grand Prix,max_verstappen,10.0,2010 - 2018
+2018,Italian Grand Prix,ocon,8.0,2010 - 2018
+2018,Italian Grand Prix,perez,6.0,2010 - 2018
+2018,Italian Grand Prix,sainz,4.0,2010 - 2018
+2018,Italian Grand Prix,stroll,2.0,2010 - 2018
+2018,Italian Grand Prix,sirotkin,1.0,2010 - 2018
+2018,Italian Grand Prix,alonso,0.0,2010 - 2018
+2018,Italian Grand Prix,brendon_hartley,0.0,2010 - 2018
+2018,Italian Grand Prix,ericsson,0.0,2010 - 2018
+2018,Italian Grand Prix,gasly,0.0,2010 - 2018
+2018,Italian Grand Prix,grosjean,0.0,2010 - 2018
+2018,Italian Grand Prix,hulkenberg,0.0,2010 - 2018
+2018,Italian Grand Prix,kevin_magnussen,0.0,2010 - 2018
+2018,Italian Grand Prix,leclerc,0.0,2010 - 2018
+2018,Italian Grand Prix,ricciardo,0.0,2010 - 2018
+2018,Italian Grand Prix,vandoorne,0.0,2010 - 2018
+2018,British Grand Prix,vettel,25.0,2010 - 2018
+2018,British Grand Prix,hamilton,18.0,2010 - 2018
+2018,British Grand Prix,raikkonen,15.0,2010 - 2018
+2018,British Grand Prix,bottas,12.0,2010 - 2018
+2018,British Grand Prix,ricciardo,10.0,2010 - 2018
+2018,British Grand Prix,hulkenberg,8.0,2010 - 2018
+2018,British Grand Prix,ocon,6.0,2010 - 2018
+2018,British Grand Prix,alonso,4.0,2010 - 2018
+2018,British Grand Prix,kevin_magnussen,2.0,2010 - 2018
+2018,British Grand Prix,perez,1.0,2010 - 2018
+2018,British Grand Prix,brendon_hartley,0.0,2010 - 2018
+2018,British Grand Prix,ericsson,0.0,2010 - 2018
+2018,British Grand Prix,gasly,0.0,2010 - 2018
+2018,British Grand Prix,grosjean,0.0,2010 - 2018
+2018,British Grand Prix,leclerc,0.0,2010 - 2018
+2018,British Grand Prix,max_verstappen,0.0,2010 - 2018
+2018,British Grand Prix,sainz,0.0,2010 - 2018
+2018,British Grand Prix,sirotkin,0.0,2010 - 2018
+2018,British Grand Prix,stroll,0.0,2010 - 2018
+2018,British Grand Prix,vandoorne,0.0,2010 - 2018
+2018,Belgian Grand Prix,vettel,25.0,2010 - 2018
+2018,Belgian Grand Prix,hamilton,18.0,2010 - 2018
+2018,Belgian Grand Prix,max_verstappen,15.0,2010 - 2018
+2018,Belgian Grand Prix,bottas,12.0,2010 - 2018
+2018,Belgian Grand Prix,perez,10.0,2010 - 2018
+2018,Belgian Grand Prix,ocon,8.0,2010 - 2018
+2018,Belgian Grand Prix,grosjean,6.0,2010 - 2018
+2018,Belgian Grand Prix,kevin_magnussen,4.0,2010 - 2018
+2018,Belgian Grand Prix,gasly,2.0,2010 - 2018
+2018,Belgian Grand Prix,ericsson,1.0,2010 - 2018
+2018,Belgian Grand Prix,alonso,0.0,2010 - 2018
+2018,Belgian Grand Prix,brendon_hartley,0.0,2010 - 2018
+2018,Belgian Grand Prix,hulkenberg,0.0,2010 - 2018
+2018,Belgian Grand Prix,leclerc,0.0,2010 - 2018
+2018,Belgian Grand Prix,raikkonen,0.0,2010 - 2018
+2018,Belgian Grand Prix,ricciardo,0.0,2010 - 2018
+2018,Belgian Grand Prix,sainz,0.0,2010 - 2018
+2018,Belgian Grand Prix,sirotkin,0.0,2010 - 2018
+2018,Belgian Grand Prix,stroll,0.0,2010 - 2018
+2018,Belgian Grand Prix,vandoorne,0.0,2010 - 2018

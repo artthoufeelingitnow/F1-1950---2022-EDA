@@ -1,261 +1,261 @@
-year,name,driver_name,points
-2019,Monaco Grand Prix,hamilton,25.0
-2019,Monaco Grand Prix,vettel,18.0
-2019,Monaco Grand Prix,bottas,15.0
-2019,Monaco Grand Prix,max_verstappen,12.0
-2019,Monaco Grand Prix,gasly,11.0
-2019,Monaco Grand Prix,sainz,8.0
-2019,Monaco Grand Prix,kvyat,6.0
-2019,Monaco Grand Prix,albon,4.0
-2019,Monaco Grand Prix,ricciardo,2.0
-2019,Monaco Grand Prix,grosjean,1.0
-2019,Monaco Grand Prix,giovinazzi,0.0
-2019,Monaco Grand Prix,hulkenberg,0.0
-2019,Monaco Grand Prix,kevin_magnussen,0.0
-2019,Monaco Grand Prix,kubica,0.0
-2019,Monaco Grand Prix,leclerc,0.0
-2019,Monaco Grand Prix,norris,0.0
-2019,Monaco Grand Prix,perez,0.0
-2019,Monaco Grand Prix,raikkonen,0.0
-2019,Monaco Grand Prix,russell,0.0
-2019,Monaco Grand Prix,stroll,0.0
-2019,Italian Grand Prix,leclerc,25.0
-2019,Italian Grand Prix,bottas,18.0
-2019,Italian Grand Prix,hamilton,16.0
-2019,Italian Grand Prix,ricciardo,12.0
-2019,Italian Grand Prix,hulkenberg,10.0
-2019,Italian Grand Prix,albon,8.0
-2019,Italian Grand Prix,perez,6.0
-2019,Italian Grand Prix,max_verstappen,4.0
-2019,Italian Grand Prix,giovinazzi,2.0
-2019,Italian Grand Prix,norris,1.0
-2019,Italian Grand Prix,gasly,0.0
-2019,Italian Grand Prix,grosjean,0.0
-2019,Italian Grand Prix,kevin_magnussen,0.0
-2019,Italian Grand Prix,kubica,0.0
-2019,Italian Grand Prix,kvyat,0.0
-2019,Italian Grand Prix,raikkonen,0.0
-2019,Italian Grand Prix,russell,0.0
-2019,Italian Grand Prix,sainz,0.0
-2019,Italian Grand Prix,stroll,0.0
-2019,Italian Grand Prix,vettel,0.0
-2019,British Grand Prix,hamilton,26.0
-2019,British Grand Prix,bottas,18.0
-2019,British Grand Prix,leclerc,15.0
-2019,British Grand Prix,gasly,12.0
-2019,British Grand Prix,max_verstappen,10.0
-2019,British Grand Prix,sainz,8.0
-2019,British Grand Prix,ricciardo,6.0
-2019,British Grand Prix,raikkonen,4.0
-2019,British Grand Prix,kvyat,2.0
-2019,British Grand Prix,hulkenberg,1.0
-2019,British Grand Prix,albon,0.0
-2019,British Grand Prix,giovinazzi,0.0
-2019,British Grand Prix,grosjean,0.0
-2019,British Grand Prix,kevin_magnussen,0.0
-2019,British Grand Prix,kubica,0.0
-2019,British Grand Prix,norris,0.0
-2019,British Grand Prix,perez,0.0
-2019,British Grand Prix,russell,0.0
-2019,British Grand Prix,stroll,0.0
-2019,British Grand Prix,vettel,0.0
-2019,Belgian Grand Prix,leclerc,25.0
-2019,Belgian Grand Prix,hamilton,18.0
-2019,Belgian Grand Prix,bottas,15.0
-2019,Belgian Grand Prix,vettel,13.0
-2019,Belgian Grand Prix,albon,10.0
-2019,Belgian Grand Prix,perez,8.0
-2019,Belgian Grand Prix,kvyat,6.0
-2019,Belgian Grand Prix,hulkenberg,4.0
-2019,Belgian Grand Prix,gasly,2.0
-2019,Belgian Grand Prix,stroll,1.0
-2019,Belgian Grand Prix,giovinazzi,0.0
-2019,Belgian Grand Prix,grosjean,0.0
-2019,Belgian Grand Prix,kevin_magnussen,0.0
-2019,Belgian Grand Prix,kubica,0.0
-2019,Belgian Grand Prix,max_verstappen,0.0
-2019,Belgian Grand Prix,norris,0.0
-2019,Belgian Grand Prix,raikkonen,0.0
-2019,Belgian Grand Prix,ricciardo,0.0
-2019,Belgian Grand Prix,russell,0.0
-2019,Belgian Grand Prix,sainz,0.0
-2020,Italian Grand Prix,gasly,25.0
-2020,Italian Grand Prix,sainz,18.0
-2020,Italian Grand Prix,stroll,15.0
-2020,Italian Grand Prix,norris,12.0
-2020,Italian Grand Prix,bottas,10.0
-2020,Italian Grand Prix,ricciardo,8.0
-2020,Italian Grand Prix,hamilton,7.0
-2020,Italian Grand Prix,ocon,4.0
-2020,Italian Grand Prix,kvyat,2.0
-2020,Italian Grand Prix,perez,1.0
-2020,Italian Grand Prix,albon,0.0
-2020,Italian Grand Prix,giovinazzi,0.0
-2020,Italian Grand Prix,grosjean,0.0
-2020,Italian Grand Prix,kevin_magnussen,0.0
-2020,Italian Grand Prix,latifi,0.0
-2020,Italian Grand Prix,leclerc,0.0
-2020,Italian Grand Prix,max_verstappen,0.0
-2020,Italian Grand Prix,raikkonen,0.0
-2020,Italian Grand Prix,russell,0.0
-2020,Italian Grand Prix,vettel,0.0
-2020,British Grand Prix,hamilton,25.0
-2020,British Grand Prix,max_verstappen,19.0
-2020,British Grand Prix,leclerc,15.0
-2020,British Grand Prix,ricciardo,12.0
-2020,British Grand Prix,norris,10.0
-2020,British Grand Prix,ocon,8.0
-2020,British Grand Prix,gasly,6.0
-2020,British Grand Prix,albon,4.0
-2020,British Grand Prix,stroll,2.0
-2020,British Grand Prix,vettel,1.0
-2020,British Grand Prix,bottas,0.0
-2020,British Grand Prix,giovinazzi,0.0
-2020,British Grand Prix,grosjean,0.0
-2020,British Grand Prix,hulkenberg,0.0
-2020,British Grand Prix,kevin_magnussen,0.0
-2020,British Grand Prix,kvyat,0.0
-2020,British Grand Prix,latifi,0.0
-2020,British Grand Prix,raikkonen,0.0
-2020,British Grand Prix,russell,0.0
-2020,British Grand Prix,sainz,0.0
-2020,Belgian Grand Prix,hamilton,25.0
-2020,Belgian Grand Prix,bottas,18.0
-2020,Belgian Grand Prix,max_verstappen,15.0
-2020,Belgian Grand Prix,ricciardo,13.0
-2020,Belgian Grand Prix,ocon,10.0
-2020,Belgian Grand Prix,albon,8.0
-2020,Belgian Grand Prix,norris,6.0
-2020,Belgian Grand Prix,gasly,4.0
-2020,Belgian Grand Prix,stroll,2.0
-2020,Belgian Grand Prix,perez,1.0
-2020,Belgian Grand Prix,giovinazzi,0.0
-2020,Belgian Grand Prix,grosjean,0.0
-2020,Belgian Grand Prix,kevin_magnussen,0.0
-2020,Belgian Grand Prix,kvyat,0.0
-2020,Belgian Grand Prix,latifi,0.0
-2020,Belgian Grand Prix,leclerc,0.0
-2020,Belgian Grand Prix,raikkonen,0.0
-2020,Belgian Grand Prix,russell,0.0
-2020,Belgian Grand Prix,sainz,0.0
-2020,Belgian Grand Prix,vettel,0.0
-2021,Monaco Grand Prix,max_verstappen,25.0
-2021,Monaco Grand Prix,sainz,18.0
-2021,Monaco Grand Prix,norris,15.0
-2021,Monaco Grand Prix,perez,12.0
-2021,Monaco Grand Prix,vettel,10.0
-2021,Monaco Grand Prix,gasly,8.0
-2021,Monaco Grand Prix,hamilton,7.0
-2021,Monaco Grand Prix,stroll,4.0
-2021,Monaco Grand Prix,ocon,2.0
-2021,Monaco Grand Prix,giovinazzi,1.0
-2021,Monaco Grand Prix,alonso,0.0
-2021,Monaco Grand Prix,bottas,0.0
-2021,Monaco Grand Prix,latifi,0.0
-2021,Monaco Grand Prix,leclerc,0.0
-2021,Monaco Grand Prix,mazepin,0.0
-2021,Monaco Grand Prix,mick_schumacher,0.0
-2021,Monaco Grand Prix,raikkonen,0.0
-2021,Monaco Grand Prix,ricciardo,0.0
-2021,Monaco Grand Prix,russell,0.0
-2021,Monaco Grand Prix,tsunoda,0.0
-2021,Italian Grand Prix,ricciardo,26.0
-2021,Italian Grand Prix,norris,18.0
-2021,Italian Grand Prix,bottas,15.0
-2021,Italian Grand Prix,leclerc,12.0
-2021,Italian Grand Prix,perez,10.0
-2021,Italian Grand Prix,sainz,8.0
-2021,Italian Grand Prix,stroll,6.0
-2021,Italian Grand Prix,alonso,4.0
-2021,Italian Grand Prix,russell,2.0
-2021,Italian Grand Prix,ocon,1.0
-2021,Italian Grand Prix,gasly,0.0
-2021,Italian Grand Prix,giovinazzi,0.0
-2021,Italian Grand Prix,hamilton,0.0
-2021,Italian Grand Prix,kubica,0.0
-2021,Italian Grand Prix,latifi,0.0
-2021,Italian Grand Prix,max_verstappen,0.0
-2021,Italian Grand Prix,mazepin,0.0
-2021,Italian Grand Prix,mick_schumacher,0.0
-2021,Italian Grand Prix,tsunoda,0.0
-2021,Italian Grand Prix,vettel,0.0
-2021,British Grand Prix,hamilton,25.0
-2021,British Grand Prix,leclerc,18.0
-2021,British Grand Prix,bottas,15.0
-2021,British Grand Prix,norris,12.0
-2021,British Grand Prix,ricciardo,10.0
-2021,British Grand Prix,sainz,8.0
-2021,British Grand Prix,alonso,6.0
-2021,British Grand Prix,stroll,4.0
-2021,British Grand Prix,ocon,2.0
-2021,British Grand Prix,tsunoda,1.0
-2021,British Grand Prix,gasly,0.0
-2021,British Grand Prix,giovinazzi,0.0
-2021,British Grand Prix,latifi,0.0
-2021,British Grand Prix,max_verstappen,0.0
-2021,British Grand Prix,mazepin,0.0
-2021,British Grand Prix,mick_schumacher,0.0
-2021,British Grand Prix,perez,0.0
-2021,British Grand Prix,raikkonen,0.0
-2021,British Grand Prix,russell,0.0
-2021,British Grand Prix,vettel,0.0
-2021,Belgian Grand Prix,max_verstappen,12.5
-2021,Belgian Grand Prix,russell,9.0
-2021,Belgian Grand Prix,hamilton,7.5
-2021,Belgian Grand Prix,ricciardo,6.0
-2021,Belgian Grand Prix,vettel,5.0
-2021,Belgian Grand Prix,gasly,4.0
-2021,Belgian Grand Prix,ocon,3.0
-2021,Belgian Grand Prix,leclerc,2.0
-2021,Belgian Grand Prix,latifi,1.0
-2021,Belgian Grand Prix,sainz,0.5
-2021,Belgian Grand Prix,alonso,0.0
-2021,Belgian Grand Prix,bottas,0.0
-2021,Belgian Grand Prix,giovinazzi,0.0
-2021,Belgian Grand Prix,mazepin,0.0
-2021,Belgian Grand Prix,mick_schumacher,0.0
-2021,Belgian Grand Prix,norris,0.0
-2021,Belgian Grand Prix,perez,0.0
-2021,Belgian Grand Prix,raikkonen,0.0
-2021,Belgian Grand Prix,stroll,0.0
-2021,Belgian Grand Prix,tsunoda,0.0
-2022,Monaco Grand Prix,perez,25.0
-2022,Monaco Grand Prix,sainz,18.0
-2022,Monaco Grand Prix,max_verstappen,15.0
-2022,Monaco Grand Prix,leclerc,12.0
-2022,Monaco Grand Prix,russell,10.0
-2022,Monaco Grand Prix,norris,9.0
-2022,Monaco Grand Prix,alonso,6.0
-2022,Monaco Grand Prix,hamilton,4.0
-2022,Monaco Grand Prix,bottas,2.0
-2022,Monaco Grand Prix,vettel,1.0
-2022,Monaco Grand Prix,albon,0.0
-2022,Monaco Grand Prix,gasly,0.0
-2022,Monaco Grand Prix,kevin_magnussen,0.0
-2022,Monaco Grand Prix,latifi,0.0
-2022,Monaco Grand Prix,mick_schumacher,0.0
-2022,Monaco Grand Prix,ocon,0.0
-2022,Monaco Grand Prix,ricciardo,0.0
-2022,Monaco Grand Prix,stroll,0.0
-2022,Monaco Grand Prix,tsunoda,0.0
-2022,Monaco Grand Prix,zhou,0.0
-2022,British Grand Prix,sainz,25.0
-2022,British Grand Prix,perez,18.0
-2022,British Grand Prix,hamilton,16.0
-2022,British Grand Prix,leclerc,12.0
-2022,British Grand Prix,alonso,10.0
-2022,British Grand Prix,norris,8.0
-2022,British Grand Prix,max_verstappen,6.0
-2022,British Grand Prix,mick_schumacher,4.0
-2022,British Grand Prix,vettel,2.0
-2022,British Grand Prix,kevin_magnussen,1.0
-2022,British Grand Prix,albon,0.0
-2022,British Grand Prix,bottas,0.0
-2022,British Grand Prix,gasly,0.0
-2022,British Grand Prix,latifi,0.0
-2022,British Grand Prix,ocon,0.0
-2022,British Grand Prix,ricciardo,0.0
-2022,British Grand Prix,russell,0.0
-2022,British Grand Prix,stroll,0.0
-2022,British Grand Prix,tsunoda,0.0
-2022,British Grand Prix,zhou,0.0
+year,name,driver_name,points,era
+2019,Monaco Grand Prix,hamilton,25.0,2019 - 2022
+2019,Monaco Grand Prix,vettel,18.0,2019 - 2022
+2019,Monaco Grand Prix,bottas,15.0,2019 - 2022
+2019,Monaco Grand Prix,max_verstappen,12.0,2019 - 2022
+2019,Monaco Grand Prix,gasly,11.0,2019 - 2022
+2019,Monaco Grand Prix,sainz,8.0,2019 - 2022
+2019,Monaco Grand Prix,kvyat,6.0,2019 - 2022
+2019,Monaco Grand Prix,albon,4.0,2019 - 2022
+2019,Monaco Grand Prix,ricciardo,2.0,2019 - 2022
+2019,Monaco Grand Prix,grosjean,1.0,2019 - 2022
+2019,Monaco Grand Prix,giovinazzi,0.0,2019 - 2022
+2019,Monaco Grand Prix,hulkenberg,0.0,2019 - 2022
+2019,Monaco Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2019,Monaco Grand Prix,kubica,0.0,2019 - 2022
+2019,Monaco Grand Prix,leclerc,0.0,2019 - 2022
+2019,Monaco Grand Prix,norris,0.0,2019 - 2022
+2019,Monaco Grand Prix,perez,0.0,2019 - 2022
+2019,Monaco Grand Prix,raikkonen,0.0,2019 - 2022
+2019,Monaco Grand Prix,russell,0.0,2019 - 2022
+2019,Monaco Grand Prix,stroll,0.0,2019 - 2022
+2019,Italian Grand Prix,leclerc,25.0,2019 - 2022
+2019,Italian Grand Prix,bottas,18.0,2019 - 2022
+2019,Italian Grand Prix,hamilton,16.0,2019 - 2022
+2019,Italian Grand Prix,ricciardo,12.0,2019 - 2022
+2019,Italian Grand Prix,hulkenberg,10.0,2019 - 2022
+2019,Italian Grand Prix,albon,8.0,2019 - 2022
+2019,Italian Grand Prix,perez,6.0,2019 - 2022
+2019,Italian Grand Prix,max_verstappen,4.0,2019 - 2022
+2019,Italian Grand Prix,giovinazzi,2.0,2019 - 2022
+2019,Italian Grand Prix,norris,1.0,2019 - 2022
+2019,Italian Grand Prix,gasly,0.0,2019 - 2022
+2019,Italian Grand Prix,grosjean,0.0,2019 - 2022
+2019,Italian Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2019,Italian Grand Prix,kubica,0.0,2019 - 2022
+2019,Italian Grand Prix,kvyat,0.0,2019 - 2022
+2019,Italian Grand Prix,raikkonen,0.0,2019 - 2022
+2019,Italian Grand Prix,russell,0.0,2019 - 2022
+2019,Italian Grand Prix,sainz,0.0,2019 - 2022
+2019,Italian Grand Prix,stroll,0.0,2019 - 2022
+2019,Italian Grand Prix,vettel,0.0,2019 - 2022
+2019,British Grand Prix,hamilton,26.0,2019 - 2022
+2019,British Grand Prix,bottas,18.0,2019 - 2022
+2019,British Grand Prix,leclerc,15.0,2019 - 2022
+2019,British Grand Prix,gasly,12.0,2019 - 2022
+2019,British Grand Prix,max_verstappen,10.0,2019 - 2022
+2019,British Grand Prix,sainz,8.0,2019 - 2022
+2019,British Grand Prix,ricciardo,6.0,2019 - 2022
+2019,British Grand Prix,raikkonen,4.0,2019 - 2022
+2019,British Grand Prix,kvyat,2.0,2019 - 2022
+2019,British Grand Prix,hulkenberg,1.0,2019 - 2022
+2019,British Grand Prix,albon,0.0,2019 - 2022
+2019,British Grand Prix,giovinazzi,0.0,2019 - 2022
+2019,British Grand Prix,grosjean,0.0,2019 - 2022
+2019,British Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2019,British Grand Prix,kubica,0.0,2019 - 2022
+2019,British Grand Prix,norris,0.0,2019 - 2022
+2019,British Grand Prix,perez,0.0,2019 - 2022
+2019,British Grand Prix,russell,0.0,2019 - 2022
+2019,British Grand Prix,stroll,0.0,2019 - 2022
+2019,British Grand Prix,vettel,0.0,2019 - 2022
+2019,Belgian Grand Prix,leclerc,25.0,2019 - 2022
+2019,Belgian Grand Prix,hamilton,18.0,2019 - 2022
+2019,Belgian Grand Prix,bottas,15.0,2019 - 2022
+2019,Belgian Grand Prix,vettel,13.0,2019 - 2022
+2019,Belgian Grand Prix,albon,10.0,2019 - 2022
+2019,Belgian Grand Prix,perez,8.0,2019 - 2022
+2019,Belgian Grand Prix,kvyat,6.0,2019 - 2022
+2019,Belgian Grand Prix,hulkenberg,4.0,2019 - 2022
+2019,Belgian Grand Prix,gasly,2.0,2019 - 2022
+2019,Belgian Grand Prix,stroll,1.0,2019 - 2022
+2019,Belgian Grand Prix,giovinazzi,0.0,2019 - 2022
+2019,Belgian Grand Prix,grosjean,0.0,2019 - 2022
+2019,Belgian Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2019,Belgian Grand Prix,kubica,0.0,2019 - 2022
+2019,Belgian Grand Prix,max_verstappen,0.0,2019 - 2022
+2019,Belgian Grand Prix,norris,0.0,2019 - 2022
+2019,Belgian Grand Prix,raikkonen,0.0,2019 - 2022
+2019,Belgian Grand Prix,ricciardo,0.0,2019 - 2022
+2019,Belgian Grand Prix,russell,0.0,2019 - 2022
+2019,Belgian Grand Prix,sainz,0.0,2019 - 2022
+2020,Italian Grand Prix,gasly,25.0,2019 - 2022
+2020,Italian Grand Prix,sainz,18.0,2019 - 2022
+2020,Italian Grand Prix,stroll,15.0,2019 - 2022
+2020,Italian Grand Prix,norris,12.0,2019 - 2022
+2020,Italian Grand Prix,bottas,10.0,2019 - 2022
+2020,Italian Grand Prix,ricciardo,8.0,2019 - 2022
+2020,Italian Grand Prix,hamilton,7.0,2019 - 2022
+2020,Italian Grand Prix,ocon,4.0,2019 - 2022
+2020,Italian Grand Prix,kvyat,2.0,2019 - 2022
+2020,Italian Grand Prix,perez,1.0,2019 - 2022
+2020,Italian Grand Prix,albon,0.0,2019 - 2022
+2020,Italian Grand Prix,giovinazzi,0.0,2019 - 2022
+2020,Italian Grand Prix,grosjean,0.0,2019 - 2022
+2020,Italian Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2020,Italian Grand Prix,latifi,0.0,2019 - 2022
+2020,Italian Grand Prix,leclerc,0.0,2019 - 2022
+2020,Italian Grand Prix,max_verstappen,0.0,2019 - 2022
+2020,Italian Grand Prix,raikkonen,0.0,2019 - 2022
+2020,Italian Grand Prix,russell,0.0,2019 - 2022
+2020,Italian Grand Prix,vettel,0.0,2019 - 2022
+2020,British Grand Prix,hamilton,25.0,2019 - 2022
+2020,British Grand Prix,max_verstappen,19.0,2019 - 2022
+2020,British Grand Prix,leclerc,15.0,2019 - 2022
+2020,British Grand Prix,ricciardo,12.0,2019 - 2022
+2020,British Grand Prix,norris,10.0,2019 - 2022
+2020,British Grand Prix,ocon,8.0,2019 - 2022
+2020,British Grand Prix,gasly,6.0,2019 - 2022
+2020,British Grand Prix,albon,4.0,2019 - 2022
+2020,British Grand Prix,stroll,2.0,2019 - 2022
+2020,British Grand Prix,vettel,1.0,2019 - 2022
+2020,British Grand Prix,bottas,0.0,2019 - 2022
+2020,British Grand Prix,giovinazzi,0.0,2019 - 2022
+2020,British Grand Prix,grosjean,0.0,2019 - 2022
+2020,British Grand Prix,hulkenberg,0.0,2019 - 2022
+2020,British Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2020,British Grand Prix,kvyat,0.0,2019 - 2022
+2020,British Grand Prix,latifi,0.0,2019 - 2022
+2020,British Grand Prix,raikkonen,0.0,2019 - 2022
+2020,British Grand Prix,russell,0.0,2019 - 2022
+2020,British Grand Prix,sainz,0.0,2019 - 2022
+2020,Belgian Grand Prix,hamilton,25.0,2019 - 2022
+2020,Belgian Grand Prix,bottas,18.0,2019 - 2022
+2020,Belgian Grand Prix,max_verstappen,15.0,2019 - 2022
+2020,Belgian Grand Prix,ricciardo,13.0,2019 - 2022
+2020,Belgian Grand Prix,ocon,10.0,2019 - 2022
+2020,Belgian Grand Prix,albon,8.0,2019 - 2022
+2020,Belgian Grand Prix,norris,6.0,2019 - 2022
+2020,Belgian Grand Prix,gasly,4.0,2019 - 2022
+2020,Belgian Grand Prix,stroll,2.0,2019 - 2022
+2020,Belgian Grand Prix,perez,1.0,2019 - 2022
+2020,Belgian Grand Prix,giovinazzi,0.0,2019 - 2022
+2020,Belgian Grand Prix,grosjean,0.0,2019 - 2022
+2020,Belgian Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2020,Belgian Grand Prix,kvyat,0.0,2019 - 2022
+2020,Belgian Grand Prix,latifi,0.0,2019 - 2022
+2020,Belgian Grand Prix,leclerc,0.0,2019 - 2022
+2020,Belgian Grand Prix,raikkonen,0.0,2019 - 2022
+2020,Belgian Grand Prix,russell,0.0,2019 - 2022
+2020,Belgian Grand Prix,sainz,0.0,2019 - 2022
+2020,Belgian Grand Prix,vettel,0.0,2019 - 2022
+2021,Monaco Grand Prix,max_verstappen,25.0,2019 - 2022
+2021,Monaco Grand Prix,sainz,18.0,2019 - 2022
+2021,Monaco Grand Prix,norris,15.0,2019 - 2022
+2021,Monaco Grand Prix,perez,12.0,2019 - 2022
+2021,Monaco Grand Prix,vettel,10.0,2019 - 2022
+2021,Monaco Grand Prix,gasly,8.0,2019 - 2022
+2021,Monaco Grand Prix,hamilton,7.0,2019 - 2022
+2021,Monaco Grand Prix,stroll,4.0,2019 - 2022
+2021,Monaco Grand Prix,ocon,2.0,2019 - 2022
+2021,Monaco Grand Prix,giovinazzi,1.0,2019 - 2022
+2021,Monaco Grand Prix,alonso,0.0,2019 - 2022
+2021,Monaco Grand Prix,bottas,0.0,2019 - 2022
+2021,Monaco Grand Prix,latifi,0.0,2019 - 2022
+2021,Monaco Grand Prix,leclerc,0.0,2019 - 2022
+2021,Monaco Grand Prix,mazepin,0.0,2019 - 2022
+2021,Monaco Grand Prix,mick_schumacher,0.0,2019 - 2022
+2021,Monaco Grand Prix,raikkonen,0.0,2019 - 2022
+2021,Monaco Grand Prix,ricciardo,0.0,2019 - 2022
+2021,Monaco Grand Prix,russell,0.0,2019 - 2022
+2021,Monaco Grand Prix,tsunoda,0.0,2019 - 2022
+2021,Italian Grand Prix,ricciardo,26.0,2019 - 2022
+2021,Italian Grand Prix,norris,18.0,2019 - 2022
+2021,Italian Grand Prix,bottas,15.0,2019 - 2022
+2021,Italian Grand Prix,leclerc,12.0,2019 - 2022
+2021,Italian Grand Prix,perez,10.0,2019 - 2022
+2021,Italian Grand Prix,sainz,8.0,2019 - 2022
+2021,Italian Grand Prix,stroll,6.0,2019 - 2022
+2021,Italian Grand Prix,alonso,4.0,2019 - 2022
+2021,Italian Grand Prix,russell,2.0,2019 - 2022
+2021,Italian Grand Prix,ocon,1.0,2019 - 2022
+2021,Italian Grand Prix,gasly,0.0,2019 - 2022
+2021,Italian Grand Prix,giovinazzi,0.0,2019 - 2022
+2021,Italian Grand Prix,hamilton,0.0,2019 - 2022
+2021,Italian Grand Prix,kubica,0.0,2019 - 2022
+2021,Italian Grand Prix,latifi,0.0,2019 - 2022
+2021,Italian Grand Prix,max_verstappen,0.0,2019 - 2022
+2021,Italian Grand Prix,mazepin,0.0,2019 - 2022
+2021,Italian Grand Prix,mick_schumacher,0.0,2019 - 2022
+2021,Italian Grand Prix,tsunoda,0.0,2019 - 2022
+2021,Italian Grand Prix,vettel,0.0,2019 - 2022
+2021,British Grand Prix,hamilton,25.0,2019 - 2022
+2021,British Grand Prix,leclerc,18.0,2019 - 2022
+2021,British Grand Prix,bottas,15.0,2019 - 2022
+2021,British Grand Prix,norris,12.0,2019 - 2022
+2021,British Grand Prix,ricciardo,10.0,2019 - 2022
+2021,British Grand Prix,sainz,8.0,2019 - 2022
+2021,British Grand Prix,alonso,6.0,2019 - 2022
+2021,British Grand Prix,stroll,4.0,2019 - 2022
+2021,British Grand Prix,ocon,2.0,2019 - 2022
+2021,British Grand Prix,tsunoda,1.0,2019 - 2022
+2021,British Grand Prix,gasly,0.0,2019 - 2022
+2021,British Grand Prix,giovinazzi,0.0,2019 - 2022
+2021,British Grand Prix,latifi,0.0,2019 - 2022
+2021,British Grand Prix,max_verstappen,0.0,2019 - 2022
+2021,British Grand Prix,mazepin,0.0,2019 - 2022
+2021,British Grand Prix,mick_schumacher,0.0,2019 - 2022
+2021,British Grand Prix,perez,0.0,2019 - 2022
+2021,British Grand Prix,raikkonen,0.0,2019 - 2022
+2021,British Grand Prix,russell,0.0,2019 - 2022
+2021,British Grand Prix,vettel,0.0,2019 - 2022
+2021,Belgian Grand Prix,max_verstappen,12.5,2019 - 2022
+2021,Belgian Grand Prix,russell,9.0,2019 - 2022
+2021,Belgian Grand Prix,hamilton,7.5,2019 - 2022
+2021,Belgian Grand Prix,ricciardo,6.0,2019 - 2022
+2021,Belgian Grand Prix,vettel,5.0,2019 - 2022
+2021,Belgian Grand Prix,gasly,4.0,2019 - 2022
+2021,Belgian Grand Prix,ocon,3.0,2019 - 2022
+2021,Belgian Grand Prix,leclerc,2.0,2019 - 2022
+2021,Belgian Grand Prix,latifi,1.0,2019 - 2022
+2021,Belgian Grand Prix,sainz,0.5,2019 - 2022
+2021,Belgian Grand Prix,alonso,0.0,2019 - 2022
+2021,Belgian Grand Prix,bottas,0.0,2019 - 2022
+2021,Belgian Grand Prix,giovinazzi,0.0,2019 - 2022
+2021,Belgian Grand Prix,mazepin,0.0,2019 - 2022
+2021,Belgian Grand Prix,mick_schumacher,0.0,2019 - 2022
+2021,Belgian Grand Prix,norris,0.0,2019 - 2022
+2021,Belgian Grand Prix,perez,0.0,2019 - 2022
+2021,Belgian Grand Prix,raikkonen,0.0,2019 - 2022
+2021,Belgian Grand Prix,stroll,0.0,2019 - 2022
+2021,Belgian Grand Prix,tsunoda,0.0,2019 - 2022
+2022,Monaco Grand Prix,perez,25.0,2019 - 2022
+2022,Monaco Grand Prix,sainz,18.0,2019 - 2022
+2022,Monaco Grand Prix,max_verstappen,15.0,2019 - 2022
+2022,Monaco Grand Prix,leclerc,12.0,2019 - 2022
+2022,Monaco Grand Prix,russell,10.0,2019 - 2022
+2022,Monaco Grand Prix,norris,9.0,2019 - 2022
+2022,Monaco Grand Prix,alonso,6.0,2019 - 2022
+2022,Monaco Grand Prix,hamilton,4.0,2019 - 2022
+2022,Monaco Grand Prix,bottas,2.0,2019 - 2022
+2022,Monaco Grand Prix,vettel,1.0,2019 - 2022
+2022,Monaco Grand Prix,albon,0.0,2019 - 2022
+2022,Monaco Grand Prix,gasly,0.0,2019 - 2022
+2022,Monaco Grand Prix,kevin_magnussen,0.0,2019 - 2022
+2022,Monaco Grand Prix,latifi,0.0,2019 - 2022
+2022,Monaco Grand Prix,mick_schumacher,0.0,2019 - 2022
+2022,Monaco Grand Prix,ocon,0.0,2019 - 2022
+2022,Monaco Grand Prix,ricciardo,0.0,2019 - 2022
+2022,Monaco Grand Prix,stroll,0.0,2019 - 2022
+2022,Monaco Grand Prix,tsunoda,0.0,2019 - 2022
+2022,Monaco Grand Prix,zhou,0.0,2019 - 2022
+2022,British Grand Prix,sainz,25.0,2019 - 2022
+2022,British Grand Prix,perez,18.0,2019 - 2022
+2022,British Grand Prix,hamilton,16.0,2019 - 2022
+2022,British Grand Prix,leclerc,12.0,2019 - 2022
+2022,British Grand Prix,alonso,10.0,2019 - 2022
+2022,British Grand Prix,norris,8.0,2019 - 2022
+2022,British Grand Prix,max_verstappen,6.0,2019 - 2022
+2022,British Grand Prix,mick_schumacher,4.0,2019 - 2022
+2022,British Grand Prix,vettel,2.0,2019 - 2022
+2022,British Grand Prix,kevin_magnussen,1.0,2019 - 2022
+2022,British Grand Prix,albon,0.0,2019 - 2022
+2022,British Grand Prix,bottas,0.0,2019 - 2022
+2022,British Grand Prix,gasly,0.0,2019 - 2022
+2022,British Grand Prix,latifi,0.0,2019 - 2022
+2022,British Grand Prix,ocon,0.0,2019 - 2022
+2022,British Grand Prix,ricciardo,0.0,2019 - 2022
+2022,British Grand Prix,russell,0.0,2019 - 2022
+2022,British Grand Prix,stroll,0.0,2019 - 2022
+2022,British Grand Prix,tsunoda,0.0,2019 - 2022
+2022,British Grand Prix,zhou,0.0,2019 - 2022
